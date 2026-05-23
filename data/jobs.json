@@ -1,0 +1,566 @@
+{
+  "last_updated": "2026-05-23T15:14:08.266448+00:00",
+  "total_fetched": 130,
+  "sources": {
+    "Remotive": 18,
+    "WorkingNomads": 38,
+    "GetOnBoard": 50,
+    "Himalayas": 20,
+    "Jobicy": 4
+  },
+  "new_count": 14,
+  "jobs": [
+    {
+      "title": "Senior Quality Assurance Engineer",
+      "company": "",
+      "location": "fully_remote",
+      "description": "  You have a bachelor’s degree in Computer Science, Computer Engineering, Information Technology, or equivalent  You have 6+ years of experience in Automation roles.   You have a deep understanding of software QA methodologies, best practices, tools, and processes  You have 3+ years of experience with Javascript, Typescript or a similar scripting language  You have 3+ years of experience creating and maintaining test automation scripts (preferably with Cypress, Playwright, and Appium using Javascript)  You strongly understand CI/CD platforms and incorporate QA best practices.  You have a deep understanding of Agile/Scrum development principles.  You have experience providing mentorship to other team members on QA best practices and methodologies.  You possess strong analytical and problem-",
+      "date": 1778597318,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/senior-quality-assurance-engineer-apply-digital-latam-remote-9d3b",
+      "source": "GetOnBoard",
+      "id": "17a89e129fd3",
+      "score": 95,
+      "matches": [
+        "Rol QA ✓",
+        "playwright",
+        "automation",
+        "agile",
+        "scrum",
+        "javascript",
+        "typescript",
+        "cypress"
+      ],
+      "warnings": [],
+      "verdict": "excelente"
+    },
+    {
+      "title": "QA Automation Engineer Java",
+      "company": "",
+      "location": "remote_local",
+      "description": "  Bachelor’s degree in Computer Systems, Computer Science, Software Engineering, or related field.   Strong experience with Java for test automation.   UI automation using Selenium WebDriver and TestNG.   API testing using Postman and Java (RestAssured preferred).   Experience integrating automated tests into CI/CD pipelines (Bamboo, GitLab Pipelines).   Experience working with AWS services.   Exposure to Kubernetes environments.   Experience with TestRail or similar test management tools.   Basic experience with JavaScript   Professional level of English (written and spoken).   ",
+      "date": 1779231662,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/qa-automation-engineer-java-cbqa-solutions-remote",
+      "source": "GetOnBoard",
+      "id": "073c3d1c0651",
+      "score": 85,
+      "matches": [
+        "Rol QA ✓",
+        "postman",
+        "api testing",
+        "automation",
+        "selenium",
+        "javascript",
+        "ci/cd",
+        "testrail"
+      ],
+      "warnings": [],
+      "verdict": "excelente"
+    },
+    {
+      "title": "Analista QA Sr",
+      "company": "",
+      "location": "hybrid",
+      "description": " -Conocimiento y experiencia en metodologías ágiles (Scrum, Kanban) -Capacidad para colaborar efectivamente con equipos de desarrollo y otros stakeholders -Experiencia en la elaboración y ejecución de planes de prueba -Conocimientos sólidos en el ciclo de vida del desarrollo de software (SDLC) -Habilidad para documentar claramente los casos de prueba, resultados y defectos -Conocimiento de herramientas de gestión de pruebas (JIRA, Zephyr). -Experiencia con pruebas de API (Postman, SoapUI) -Experiencia con pruebas Mobile (Android, iOS) -Habilidad para identificar problemas y proponer soluciones efectivas -Atención al detalle y capacidad para trabajar en un entorno dinámico y cambiante. ",
+      "date": 1779476470,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/analista-qa-sr-coderslab-io-santiago-5768",
+      "source": "GetOnBoard",
+      "id": "7406f9ed8c65",
+      "score": 65,
+      "matches": [
+        "Rol QA ✓",
+        "postman",
+        "jira",
+        "scrum",
+        "defect",
+        "zephyr"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    },
+    {
+      "title": "QA Automation Engineer (Python)",
+      "company": "",
+      "location": "remote_local",
+      "description": "  Strong hands-on experience with Python for test automation   Working knowledge of C#   Experience with automation frameworks and testing tools   Familiarity with CI/CD pipelines and automated testing workflows   Conversational English level   Strong communication skills and ability to work effectively in a team   Proactive attitude and willingness to learn and grow   Integrate automated tests into CI/CD pipelines using Jenkins   Execute and analyze automated and manual test cases   ",
+      "date": 1779231680,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/qa-automation-engineer-python-cbqa-solutions-remote",
+      "source": "GetOnBoard",
+      "id": "f5624c7dff2c",
+      "score": 65,
+      "matches": [
+        "Rol QA ✓",
+        "automation",
+        "test case",
+        "ci/cd",
+        "Remoto 🌐"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    },
+    {
+      "title": "AI Automation QA Engineer",
+      "company": "",
+      "location": "hybrid",
+      "description": "  Experiencia sólida en automatización de pruebas (funcional, regresión, integración).  Conocimiento de metodologías  BDD / TDD  y escritura de casos en lenguaje estructurado.  Capacidad de integrar herramientas de testing con pipelines  CI/CD .  Experiencia aplicando o trabajando con herramientas de  IA  para generación o mantenimiento de pruebas.    Compromisos de trabajo    Orientación a calidad y mejora continua para elevar cobertura de regresión automatizada.  Comunicación clara para documentar y transferir conocimiento (incluida la transición del rol a partir del mes 13).  Colaboración con equipos de desarrollo y QA para alinear pruebas, ambientes y datos con las necesidades del producto.  ",
+      "date": 1779198224,
+      "salary": "1300–2100",
+      "url": "https://www.getonbrd.com/jobs/ai-qa-engineer-tcit-santiago",
+      "source": "GetOnBoard",
+      "id": "8a56a3d384e3",
+      "score": 55,
+      "matches": [
+        "Rol QA ✓",
+        "automation",
+        "ci/cd",
+        "Salario 💰"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    },
+    {
+      "title": "Data Test Engineer",
+      "company": "",
+      "location": "['United States']",
+      "description": " RegASK is an AI-driven solution enabling end-to-end intelligent regulatory workflow orchestration. As a Data Test Engineer, you will be responsible for ensuring the quality, accuracy, and reliability of our data infrastructure.  Requirements   Design and execute test cases for ETL pipelines  Validate data accuracy, completeness, and transformation logic  Build and maintain automated test frameworks for UI, API, and data layer testing  Test Power BI reports and dashboards for data correctness  Validate Azure Data Factory pipelines, Azure Functions, and related data workflows  Integrate automated tests into CI/CD pipelines  Collaborate with data engineers, BI developers, and product teams on test strategy  Identify, document, and track defects through resolution   Benefits   Generous Paid T",
+      "date": "",
+      "salary": null,
+      "url": "https://himalayas.app/companies/regask/jobs/data-test-engineer",
+      "source": "Himalayas",
+      "id": "56af74a46706",
+      "score": 55,
+      "matches": [
+        "Rol QA ✓",
+        "test case",
+        "defect",
+        "ci/cd"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    },
+    {
+      "title": "Senior QA Automation Engineer (Playwright)",
+      "company": "Proxify",
+      "location": "Time zone: CET (+/- 3 hours)",
+      "description": "  About us:  \n   \n Talent has no borders. Proxify's mission is to connect top developers around the world with opportunities they deserve. So, it doesn't matter where you are; we are here to help you fast-track your independent career in the right direction. 🙂 \n Since our launch, Proxify's developers have successfully worked with 1200+ happy clients to build their products and growth features. 5000+ talented developers trust Proxify and its network to fulfill their dreams and objectives. \n Proxify is shaped by a global network of supportive, talented developers interested in remote full-time jobs. Our Glassdoor (4.5/5) and Trustpilot (4.8/5) ratings reflect the trust developers place in us and our commitment to our members' success. \n   \n  The Role:  \n   \n We are looking for a Senior QA En",
+      "date": "2026-04-27T08:49:15-04:00",
+      "salary": null,
+      "url": "https://www.workingnomads.com/job/go/1566690/",
+      "source": "WorkingNomads",
+      "id": "93aa9891d24e",
+      "score": 50,
+      "matches": [
+        "Rol QA ✓",
+        "playwright",
+        "automation"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    },
+    {
+      "title": "QA Funcional",
+      "company": "",
+      "location": "hybrid",
+      "description": "  Estudios en Ciencias de la Computación, Ingeniería de Software o campo relacionado  Experiencia en diseño y ejecución de casos de prueba  Experiencia en desarrollo y pruebas de software  Experiencia en pruebas end-to-end  Fuertes habilidades analíticas y de liderazgo que puedan asegurar la calidad de nuestro trabajo  Habilidades de comunicación orales y escritas, y la capacidad de colaborar con partes internas y externas, incluyendo control de calidad, soporte a ingenieros de desarrollo, y clientes  Comprensión de las mejores prácticas con respecto a las medidas de seguridad del sistema  Conocimiento llevando a cabo Queries con SQL  Conocimiento en el funcionamiento de API Rest y cómo probarlos  ",
+      "date": 1779301139,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/qa-funcional-dynamic-devs-santiago-a44e",
+      "source": "GetOnBoard",
+      "id": "337fd09f12f5",
+      "score": 50,
+      "matches": [
+        "Rol QA ✓",
+        "api rest",
+        "sql"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    },
+    {
+      "title": "Test Lead",
+      "company": "",
+      "location": "['United States']",
+      "description": " Position Summary  At  OpenSymmetry , the Test Lead plays a critical role in ensuring the success of testing activities across incentive compensation implementation projects. This role is responsible for leading and coordinating all aspects of the testing lifecycle, including conducting status meetings, preparing documentation, tracking progress, directing internal and external testing resources, creating test cases, documenting results, and managing defect tracking. The Test Lead will also be expected to create comprehensive test strategies for new implementations, review design specifications, and translate customer requirements into effective testing approaches.  Beyond execution, this position emphasizes leadership and strategic oversight, guiding and coaching team members through the ",
+      "date": "",
+      "salary": null,
+      "url": "https://himalayas.app/companies/opensymmetry/jobs/test-lead",
+      "source": "Himalayas",
+      "id": "5f73ee1e004d",
+      "score": 50,
+      "matches": [
+        "Rol QA ✓",
+        "test case",
+        "defect"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    },
+    {
+      "title": "Senior QA Engineer (Frontend/App)",
+      "company": "",
+      "location": "['Australia', 'Hong Kong', 'Japan', 'South Korea', 'Taiwan', 'Thailand', 'Vietnam']",
+      "description": "  Binance  is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. We are trusted by 300+ million people in 100+ countries for our industry-leading security, user fund transparency, trading engine speed, deep liquidity, and an unmatched portfolio of digital-asset products.  Binance  offerings range from trading and finance to education, research, payments, institutional services, Web3 features, and more. We leverage the power of digital assets and blockchain to build an inclusive financial ecosystem to advance the freedom of money and improve financial access for people around the world.  About the Role  We are seeking a highly skilled  QA Automation Engineer  to join our Futures team. In this role, you will play a",
+      "date": "",
+      "salary": null,
+      "url": "https://himalayas.app/companies/binance/jobs/senior-qa-engineer-frontend-app",
+      "source": "Himalayas",
+      "id": "94fd0905a693",
+      "score": 45,
+      "matches": [
+        "Rol QA ✓",
+        "automation"
+      ],
+      "warnings": [],
+      "verdict": "regular"
+    },
+    {
+      "title": "Senior Quality Assurance Automation Engineer",
+      "company": "Experian",
+      "location": "Costa Rica",
+      "description": " Company Description \n Experian is a global data and technology company, powering opportunities for people and businesses around the world. We operate across a range of markets, from financial services to healthcare, automotive, agribusiness, insurance, and many more. Experian invests in people and new advanced technologies to unlock the power of data. We have an amazing team of 25,200 people in 32 countries.  \n Job Description \n Experian is looking for a Senior QA Automation Engineer to test and maintain core enterprise systems while providing technical leadership across distributed teams in the United States and India. You will blend manual and automated test creation with operational ownership, helping engineering teams deliver secure, reliable, and scalable software. You will report to",
+      "date": "2026-05-22T01:53:22+00:00",
+      "salary": null,
+      "url": "https://jobicy.com/jobs/144474-senior-quality-assurance-automation-engineer",
+      "source": "Jobicy",
+      "id": "5fdbe8c3ab94",
+      "score": 45,
+      "matches": [
+        "Rol QA ✓",
+        "automation"
+      ],
+      "warnings": [],
+      "verdict": "regular"
+    },
+    {
+      "title": "Staff Design Quality Assurance Engineer",
+      "company": "Otis Elevator Co.",
+      "location": "China",
+      "description": "  Date Posted:  \n 2026-04-24 \n  Country:   \n China \n  Location:   \n LOC3344: 7-8/F, Building N1, Fusion New Bund, No. 8, Lane 131, New Bund Avenue, Pudong, Shanghai, China说明/指引： 替换各节标题下的所有斜体文本 请勿在 \"职位描述 \"框中填写公司介绍或 \"平等机会雇主声明\"，因为这两部分都会自动嵌入在招聘广告中发布在招聘网站上。 职位名称 职位名称应易于识别、简单明了，并易于被公司以外的人理解，以便应聘者在搜索引擎或其他平台上轻松找到招聘信息。避免使用缩写、首字母缩略词或公司内部术语。 职位概述： 这一段不超过 3-4 句话，应说明该职位的目标、向谁报告以及在组织架构中的位置。其目标是吸引候选人，并作为该职位的 \"职位亮点\"。您应该清楚地描述岗位的职责，以便那些对奥的斯不熟悉的人可以很容易地理解这个职位的重要性或具有挑战性的职责、发展机会以及他们将与谁一起合作。 \n职位概述样例：销售专员将现场与客户密切合作，为老客户和新客户提供服务和支持。这个 职位将为您提供结识新客户、独立处理工作和获得额外奖金收入的机会。您将向分公司销售经理汇报工作，销售经理将为您提供指导培训和发展机会，帮助您在我们引领行业创新的业务中取得成功。 通常情况下，您需要 这一部分应描述职位的核心职能，并吸引读者。 \n精心制作的职位描述应该每次只涉及一项职责，并且通常只有一句话。 \n尽量以动词开头，例如：管理、开发、组织、参与，避免使用行业术语和缩略语，即使这些术语和缩略语与该职位直接相关--这种做法有助于吸引多样化的人才。 \n说明如何展示出影响力：他们将如何为组织做出贡献；帮助公司/社区变得更好，或者对客户/终端用户产生影响。 \n描述该",
+      "date": "2026-05-11T17:16:01+00:00",
+      "salary": null,
+      "url": "https://jobicy.com/jobs/143616-staff-design-quality-assurance-engineer",
+      "source": "Jobicy",
+      "id": "b2cdcbf4fc09",
+      "score": 40,
+      "matches": [
+        "Rol QA ✓"
+      ],
+      "warnings": [],
+      "verdict": "regular"
+    },
+    {
+      "title": "LQA Game Tester (European Spanish) – Freelance Remote",
+      "company": "Side",
+      "location": "Portugal",
+      "description": "  About the company  \n Side (formerly PTW) is a global video game development and services provider, offering technical and creative solutions to many of the largest developers and studios around the world. Founded in 2009 and drawing on 30+ years' experience from our parent company in Japan, Side has since grown to become a global force with 20 studios in 14 countries across North America, Europe, South America, and Asia.  \n Our industry-leading services include game development, art production, audio production, quality assurance, localization, localization QA, player support, community management, and datasets.  \n Help us bring stories to the world! Join a global team of passionate gamers and contribute to delivering unforgettable game experiences.  \n Experience our side of life. For mo",
+      "date": "2026-05-21T10:42:35+00:00",
+      "salary": null,
+      "url": "https://jobicy.com/jobs/144408-lqa-game-tester-european-spanish-freelance-remote",
+      "source": "Jobicy",
+      "id": "d7b331c6468d",
+      "score": 40,
+      "matches": [
+        "Rol QA ✓"
+      ],
+      "warnings": [],
+      "verdict": "regular"
+    },
+    {
+      "title": "LQA Game Tester (English) – Freelance Remote",
+      "company": "Side",
+      "location": "Portugal",
+      "description": "  About the company  \n Side is a global video game development and services provider, offering technical and creative solutions to many of the largest developers and studios around the world.  Founded in 2009 and drawing on 30+ years' experience  from our parent company in Japan, Side has since grown to become a global force with  15+ studios  in  over a dozen countries  across North America, Europe, South America, and Asia.  \n Our industry-leading services include game development, art production, audio production, quality assurance, localization, localization QA, player support, community management, and datasets.  \n Help us bring stories to the world! Join a global team of passionate gamers and contribute to delivering unforgettable game experiences.  \n For more information, visit  www.",
+      "date": "2026-05-21T10:42:30+00:00",
+      "salary": null,
+      "url": "https://jobicy.com/jobs/144405-lqa-game-tester-english-freelance-remote",
+      "source": "Jobicy",
+      "id": "77b246c75a5b",
+      "score": 40,
+      "matches": [
+        "Rol QA ✓"
+      ],
+      "warnings": [],
+      "verdict": "regular"
+    }
+  ],
+  "new_jobs": [
+    {
+      "title": "Senior Quality Assurance Engineer",
+      "company": "",
+      "location": "fully_remote",
+      "description": "  You have a bachelor’s degree in Computer Science, Computer Engineering, Information Technology, or equivalent  You have 6+ years of experience in Automation roles.   You have a deep understanding of software QA methodologies, best practices, tools, and processes  You have 3+ years of experience with Javascript, Typescript or a similar scripting language  You have 3+ years of experience creating and maintaining test automation scripts (preferably with Cypress, Playwright, and Appium using Javascript)  You strongly understand CI/CD platforms and incorporate QA best practices.  You have a deep understanding of Agile/Scrum development principles.  You have experience providing mentorship to other team members on QA best practices and methodologies.  You possess strong analytical and problem-",
+      "date": 1778597318,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/senior-quality-assurance-engineer-apply-digital-latam-remote-9d3b",
+      "source": "GetOnBoard",
+      "id": "17a89e129fd3",
+      "score": 95,
+      "matches": [
+        "Rol QA ✓",
+        "playwright",
+        "automation",
+        "agile",
+        "scrum",
+        "javascript",
+        "typescript",
+        "cypress"
+      ],
+      "warnings": [],
+      "verdict": "excelente"
+    },
+    {
+      "title": "QA Automation Engineer Java",
+      "company": "",
+      "location": "remote_local",
+      "description": "  Bachelor’s degree in Computer Systems, Computer Science, Software Engineering, or related field.   Strong experience with Java for test automation.   UI automation using Selenium WebDriver and TestNG.   API testing using Postman and Java (RestAssured preferred).   Experience integrating automated tests into CI/CD pipelines (Bamboo, GitLab Pipelines).   Experience working with AWS services.   Exposure to Kubernetes environments.   Experience with TestRail or similar test management tools.   Basic experience with JavaScript   Professional level of English (written and spoken).   ",
+      "date": 1779231662,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/qa-automation-engineer-java-cbqa-solutions-remote",
+      "source": "GetOnBoard",
+      "id": "073c3d1c0651",
+      "score": 85,
+      "matches": [
+        "Rol QA ✓",
+        "postman",
+        "api testing",
+        "automation",
+        "selenium",
+        "javascript",
+        "ci/cd",
+        "testrail"
+      ],
+      "warnings": [],
+      "verdict": "excelente"
+    },
+    {
+      "title": "Analista QA Sr",
+      "company": "",
+      "location": "hybrid",
+      "description": " -Conocimiento y experiencia en metodologías ágiles (Scrum, Kanban) -Capacidad para colaborar efectivamente con equipos de desarrollo y otros stakeholders -Experiencia en la elaboración y ejecución de planes de prueba -Conocimientos sólidos en el ciclo de vida del desarrollo de software (SDLC) -Habilidad para documentar claramente los casos de prueba, resultados y defectos -Conocimiento de herramientas de gestión de pruebas (JIRA, Zephyr). -Experiencia con pruebas de API (Postman, SoapUI) -Experiencia con pruebas Mobile (Android, iOS) -Habilidad para identificar problemas y proponer soluciones efectivas -Atención al detalle y capacidad para trabajar en un entorno dinámico y cambiante. ",
+      "date": 1779476470,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/analista-qa-sr-coderslab-io-santiago-5768",
+      "source": "GetOnBoard",
+      "id": "7406f9ed8c65",
+      "score": 65,
+      "matches": [
+        "Rol QA ✓",
+        "postman",
+        "jira",
+        "scrum",
+        "defect",
+        "zephyr"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    },
+    {
+      "title": "QA Automation Engineer (Python)",
+      "company": "",
+      "location": "remote_local",
+      "description": "  Strong hands-on experience with Python for test automation   Working knowledge of C#   Experience with automation frameworks and testing tools   Familiarity with CI/CD pipelines and automated testing workflows   Conversational English level   Strong communication skills and ability to work effectively in a team   Proactive attitude and willingness to learn and grow   Integrate automated tests into CI/CD pipelines using Jenkins   Execute and analyze automated and manual test cases   ",
+      "date": 1779231680,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/qa-automation-engineer-python-cbqa-solutions-remote",
+      "source": "GetOnBoard",
+      "id": "f5624c7dff2c",
+      "score": 65,
+      "matches": [
+        "Rol QA ✓",
+        "automation",
+        "test case",
+        "ci/cd",
+        "Remoto 🌐"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    },
+    {
+      "title": "AI Automation QA Engineer",
+      "company": "",
+      "location": "hybrid",
+      "description": "  Experiencia sólida en automatización de pruebas (funcional, regresión, integración).  Conocimiento de metodologías  BDD / TDD  y escritura de casos en lenguaje estructurado.  Capacidad de integrar herramientas de testing con pipelines  CI/CD .  Experiencia aplicando o trabajando con herramientas de  IA  para generación o mantenimiento de pruebas.    Compromisos de trabajo    Orientación a calidad y mejora continua para elevar cobertura de regresión automatizada.  Comunicación clara para documentar y transferir conocimiento (incluida la transición del rol a partir del mes 13).  Colaboración con equipos de desarrollo y QA para alinear pruebas, ambientes y datos con las necesidades del producto.  ",
+      "date": 1779198224,
+      "salary": "1300–2100",
+      "url": "https://www.getonbrd.com/jobs/ai-qa-engineer-tcit-santiago",
+      "source": "GetOnBoard",
+      "id": "8a56a3d384e3",
+      "score": 55,
+      "matches": [
+        "Rol QA ✓",
+        "automation",
+        "ci/cd",
+        "Salario 💰"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    },
+    {
+      "title": "Data Test Engineer",
+      "company": "",
+      "location": "['United States']",
+      "description": " RegASK is an AI-driven solution enabling end-to-end intelligent regulatory workflow orchestration. As a Data Test Engineer, you will be responsible for ensuring the quality, accuracy, and reliability of our data infrastructure.  Requirements   Design and execute test cases for ETL pipelines  Validate data accuracy, completeness, and transformation logic  Build and maintain automated test frameworks for UI, API, and data layer testing  Test Power BI reports and dashboards for data correctness  Validate Azure Data Factory pipelines, Azure Functions, and related data workflows  Integrate automated tests into CI/CD pipelines  Collaborate with data engineers, BI developers, and product teams on test strategy  Identify, document, and track defects through resolution   Benefits   Generous Paid T",
+      "date": "",
+      "salary": null,
+      "url": "https://himalayas.app/companies/regask/jobs/data-test-engineer",
+      "source": "Himalayas",
+      "id": "56af74a46706",
+      "score": 55,
+      "matches": [
+        "Rol QA ✓",
+        "test case",
+        "defect",
+        "ci/cd"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    },
+    {
+      "title": "Senior QA Automation Engineer (Playwright)",
+      "company": "Proxify",
+      "location": "Time zone: CET (+/- 3 hours)",
+      "description": "  About us:  \n   \n Talent has no borders. Proxify's mission is to connect top developers around the world with opportunities they deserve. So, it doesn't matter where you are; we are here to help you fast-track your independent career in the right direction. 🙂 \n Since our launch, Proxify's developers have successfully worked with 1200+ happy clients to build their products and growth features. 5000+ talented developers trust Proxify and its network to fulfill their dreams and objectives. \n Proxify is shaped by a global network of supportive, talented developers interested in remote full-time jobs. Our Glassdoor (4.5/5) and Trustpilot (4.8/5) ratings reflect the trust developers place in us and our commitment to our members' success. \n   \n  The Role:  \n   \n We are looking for a Senior QA En",
+      "date": "2026-04-27T08:49:15-04:00",
+      "salary": null,
+      "url": "https://www.workingnomads.com/job/go/1566690/",
+      "source": "WorkingNomads",
+      "id": "93aa9891d24e",
+      "score": 50,
+      "matches": [
+        "Rol QA ✓",
+        "playwright",
+        "automation"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    },
+    {
+      "title": "QA Funcional",
+      "company": "",
+      "location": "hybrid",
+      "description": "  Estudios en Ciencias de la Computación, Ingeniería de Software o campo relacionado  Experiencia en diseño y ejecución de casos de prueba  Experiencia en desarrollo y pruebas de software  Experiencia en pruebas end-to-end  Fuertes habilidades analíticas y de liderazgo que puedan asegurar la calidad de nuestro trabajo  Habilidades de comunicación orales y escritas, y la capacidad de colaborar con partes internas y externas, incluyendo control de calidad, soporte a ingenieros de desarrollo, y clientes  Comprensión de las mejores prácticas con respecto a las medidas de seguridad del sistema  Conocimiento llevando a cabo Queries con SQL  Conocimiento en el funcionamiento de API Rest y cómo probarlos  ",
+      "date": 1779301139,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/qa-funcional-dynamic-devs-santiago-a44e",
+      "source": "GetOnBoard",
+      "id": "337fd09f12f5",
+      "score": 50,
+      "matches": [
+        "Rol QA ✓",
+        "api rest",
+        "sql"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    },
+    {
+      "title": "Test Lead",
+      "company": "",
+      "location": "['United States']",
+      "description": " Position Summary  At  OpenSymmetry , the Test Lead plays a critical role in ensuring the success of testing activities across incentive compensation implementation projects. This role is responsible for leading and coordinating all aspects of the testing lifecycle, including conducting status meetings, preparing documentation, tracking progress, directing internal and external testing resources, creating test cases, documenting results, and managing defect tracking. The Test Lead will also be expected to create comprehensive test strategies for new implementations, review design specifications, and translate customer requirements into effective testing approaches.  Beyond execution, this position emphasizes leadership and strategic oversight, guiding and coaching team members through the ",
+      "date": "",
+      "salary": null,
+      "url": "https://himalayas.app/companies/opensymmetry/jobs/test-lead",
+      "source": "Himalayas",
+      "id": "5f73ee1e004d",
+      "score": 50,
+      "matches": [
+        "Rol QA ✓",
+        "test case",
+        "defect"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    },
+    {
+      "title": "Senior QA Engineer (Frontend/App)",
+      "company": "",
+      "location": "['Australia', 'Hong Kong', 'Japan', 'South Korea', 'Taiwan', 'Thailand', 'Vietnam']",
+      "description": "  Binance  is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. We are trusted by 300+ million people in 100+ countries for our industry-leading security, user fund transparency, trading engine speed, deep liquidity, and an unmatched portfolio of digital-asset products.  Binance  offerings range from trading and finance to education, research, payments, institutional services, Web3 features, and more. We leverage the power of digital assets and blockchain to build an inclusive financial ecosystem to advance the freedom of money and improve financial access for people around the world.  About the Role  We are seeking a highly skilled  QA Automation Engineer  to join our Futures team. In this role, you will play a",
+      "date": "",
+      "salary": null,
+      "url": "https://himalayas.app/companies/binance/jobs/senior-qa-engineer-frontend-app",
+      "source": "Himalayas",
+      "id": "94fd0905a693",
+      "score": 45,
+      "matches": [
+        "Rol QA ✓",
+        "automation"
+      ],
+      "warnings": [],
+      "verdict": "regular"
+    },
+    {
+      "title": "Senior Quality Assurance Automation Engineer",
+      "company": "Experian",
+      "location": "Costa Rica",
+      "description": " Company Description \n Experian is a global data and technology company, powering opportunities for people and businesses around the world. We operate across a range of markets, from financial services to healthcare, automotive, agribusiness, insurance, and many more. Experian invests in people and new advanced technologies to unlock the power of data. We have an amazing team of 25,200 people in 32 countries.  \n Job Description \n Experian is looking for a Senior QA Automation Engineer to test and maintain core enterprise systems while providing technical leadership across distributed teams in the United States and India. You will blend manual and automated test creation with operational ownership, helping engineering teams deliver secure, reliable, and scalable software. You will report to",
+      "date": "2026-05-22T01:53:22+00:00",
+      "salary": null,
+      "url": "https://jobicy.com/jobs/144474-senior-quality-assurance-automation-engineer",
+      "source": "Jobicy",
+      "id": "5fdbe8c3ab94",
+      "score": 45,
+      "matches": [
+        "Rol QA ✓",
+        "automation"
+      ],
+      "warnings": [],
+      "verdict": "regular"
+    },
+    {
+      "title": "Staff Design Quality Assurance Engineer",
+      "company": "Otis Elevator Co.",
+      "location": "China",
+      "description": "  Date Posted:  \n 2026-04-24 \n  Country:   \n China \n  Location:   \n LOC3344: 7-8/F, Building N1, Fusion New Bund, No. 8, Lane 131, New Bund Avenue, Pudong, Shanghai, China说明/指引： 替换各节标题下的所有斜体文本 请勿在 \"职位描述 \"框中填写公司介绍或 \"平等机会雇主声明\"，因为这两部分都会自动嵌入在招聘广告中发布在招聘网站上。 职位名称 职位名称应易于识别、简单明了，并易于被公司以外的人理解，以便应聘者在搜索引擎或其他平台上轻松找到招聘信息。避免使用缩写、首字母缩略词或公司内部术语。 职位概述： 这一段不超过 3-4 句话，应说明该职位的目标、向谁报告以及在组织架构中的位置。其目标是吸引候选人，并作为该职位的 \"职位亮点\"。您应该清楚地描述岗位的职责，以便那些对奥的斯不熟悉的人可以很容易地理解这个职位的重要性或具有挑战性的职责、发展机会以及他们将与谁一起合作。 \n职位概述样例：销售专员将现场与客户密切合作，为老客户和新客户提供服务和支持。这个 职位将为您提供结识新客户、独立处理工作和获得额外奖金收入的机会。您将向分公司销售经理汇报工作，销售经理将为您提供指导培训和发展机会，帮助您在我们引领行业创新的业务中取得成功。 通常情况下，您需要 这一部分应描述职位的核心职能，并吸引读者。 \n精心制作的职位描述应该每次只涉及一项职责，并且通常只有一句话。 \n尽量以动词开头，例如：管理、开发、组织、参与，避免使用行业术语和缩略语，即使这些术语和缩略语与该职位直接相关--这种做法有助于吸引多样化的人才。 \n说明如何展示出影响力：他们将如何为组织做出贡献；帮助公司/社区变得更好，或者对客户/终端用户产生影响。 \n描述该",
+      "date": "2026-05-11T17:16:01+00:00",
+      "salary": null,
+      "url": "https://jobicy.com/jobs/143616-staff-design-quality-assurance-engineer",
+      "source": "Jobicy",
+      "id": "b2cdcbf4fc09",
+      "score": 40,
+      "matches": [
+        "Rol QA ✓"
+      ],
+      "warnings": [],
+      "verdict": "regular"
+    },
+    {
+      "title": "LQA Game Tester (European Spanish) – Freelance Remote",
+      "company": "Side",
+      "location": "Portugal",
+      "description": "  About the company  \n Side (formerly PTW) is a global video game development and services provider, offering technical and creative solutions to many of the largest developers and studios around the world. Founded in 2009 and drawing on 30+ years' experience from our parent company in Japan, Side has since grown to become a global force with 20 studios in 14 countries across North America, Europe, South America, and Asia.  \n Our industry-leading services include game development, art production, audio production, quality assurance, localization, localization QA, player support, community management, and datasets.  \n Help us bring stories to the world! Join a global team of passionate gamers and contribute to delivering unforgettable game experiences.  \n Experience our side of life. For mo",
+      "date": "2026-05-21T10:42:35+00:00",
+      "salary": null,
+      "url": "https://jobicy.com/jobs/144408-lqa-game-tester-european-spanish-freelance-remote",
+      "source": "Jobicy",
+      "id": "d7b331c6468d",
+      "score": 40,
+      "matches": [
+        "Rol QA ✓"
+      ],
+      "warnings": [],
+      "verdict": "regular"
+    },
+    {
+      "title": "LQA Game Tester (English) – Freelance Remote",
+      "company": "Side",
+      "location": "Portugal",
+      "description": "  About the company  \n Side is a global video game development and services provider, offering technical and creative solutions to many of the largest developers and studios around the world.  Founded in 2009 and drawing on 30+ years' experience  from our parent company in Japan, Side has since grown to become a global force with  15+ studios  in  over a dozen countries  across North America, Europe, South America, and Asia.  \n Our industry-leading services include game development, art production, audio production, quality assurance, localization, localization QA, player support, community management, and datasets.  \n Help us bring stories to the world! Join a global team of passionate gamers and contribute to delivering unforgettable game experiences.  \n For more information, visit  www.",
+      "date": "2026-05-21T10:42:30+00:00",
+      "salary": null,
+      "url": "https://jobicy.com/jobs/144405-lqa-game-tester-english-freelance-remote",
+      "source": "Jobicy",
+      "id": "77b246c75a5b",
+      "score": 40,
+      "matches": [
+        "Rol QA ✓"
+      ],
+      "warnings": [],
+      "verdict": "regular"
+    }
+  ]
+}
