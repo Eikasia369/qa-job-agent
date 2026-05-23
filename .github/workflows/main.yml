@@ -29,7 +29,7 @@ jobs:
           EMAIL_SENDER:    ${{ secrets.EMAIL_SENDER }}
           EMAIL_PASSWORD:  ${{ secrets.EMAIL_PASSWORD }}
           EMAIL_RECIPIENT: ${{ secrets.EMAIL_RECIPIENT }}
-        run: python qa-job-agent/scraper.py
+        run: python scraper.py
 
       - name: Commit jobs.json al repo
         run: |
