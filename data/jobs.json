@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-23T18:03:14.730218+00:00",
+  "last_updated": "2026-05-24T00:01:02.156170+00:00",
   "total_fetched": 130,
   "sources": {
     "Remotive": 18,
@@ -122,26 +122,6 @@
       "verdict": "bueno"
     },
     {
-      "title": "Data Test Engineer",
-      "company": "",
-      "location": "['United States']",
-      "description": " RegASK is an AI-driven solution enabling end-to-end intelligent regulatory workflow orchestration. As a Data Test Engineer, you will be responsible for ensuring the quality, accuracy, and reliability of our data infrastructure.  Requirements   Design and execute test cases for ETL pipelines  Validate data accuracy, completeness, and transformation logic  Build and maintain automated test frameworks for UI, API, and data layer testing  Test Power BI reports and dashboards for data correctness  Validate Azure Data Factory pipelines, Azure Functions, and related data workflows  Integrate automated tests into CI/CD pipelines  Collaborate with data engineers, BI developers, and product teams on test strategy  Identify, document, and track defects through resolution   Benefits   Generous Paid T",
-      "date": "",
-      "salary": null,
-      "url": "https://himalayas.app/companies/regask/jobs/data-test-engineer",
-      "source": "Himalayas",
-      "id": "56af74a46706",
-      "score": 55,
-      "matches": [
-        "Rol QA ✓",
-        "test case",
-        "defect",
-        "ci/cd"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
-    },
-    {
       "title": "Senior QA Automation Engineer (Playwright)",
       "company": "Proxify",
       "location": "Time zone: CET (+/- 3 hours)",
@@ -178,43 +158,6 @@
       ],
       "warnings": [],
       "verdict": "bueno"
-    },
-    {
-      "title": "Test Lead",
-      "company": "",
-      "location": "['United States']",
-      "description": " Position Summary  At  OpenSymmetry , the Test Lead plays a critical role in ensuring the success of testing activities across incentive compensation implementation projects. This role is responsible for leading and coordinating all aspects of the testing lifecycle, including conducting status meetings, preparing documentation, tracking progress, directing internal and external testing resources, creating test cases, documenting results, and managing defect tracking. The Test Lead will also be expected to create comprehensive test strategies for new implementations, review design specifications, and translate customer requirements into effective testing approaches.  Beyond execution, this position emphasizes leadership and strategic oversight, guiding and coaching team members through the ",
-      "date": "",
-      "salary": null,
-      "url": "https://himalayas.app/companies/opensymmetry/jobs/test-lead",
-      "source": "Himalayas",
-      "id": "5f73ee1e004d",
-      "score": 50,
-      "matches": [
-        "Rol QA ✓",
-        "test case",
-        "defect"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
-    },
-    {
-      "title": "Senior QA Engineer (Frontend/App)",
-      "company": "",
-      "location": "['Australia', 'Hong Kong', 'Japan', 'South Korea', 'Taiwan', 'Thailand', 'Vietnam']",
-      "description": "  Binance  is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. We are trusted by 300+ million people in 100+ countries for our industry-leading security, user fund transparency, trading engine speed, deep liquidity, and an unmatched portfolio of digital-asset products.  Binance  offerings range from trading and finance to education, research, payments, institutional services, Web3 features, and more. We leverage the power of digital assets and blockchain to build an inclusive financial ecosystem to advance the freedom of money and improve financial access for people around the world.  About the Role  We are seeking a highly skilled  QA Automation Engineer  to join our Futures team. In this role, you will play a",
-      "date": "",
-      "salary": null,
-      "url": "https://himalayas.app/companies/binance/jobs/senior-qa-engineer-frontend-app",
-      "source": "Himalayas",
-      "id": "94fd0905a693",
-      "score": 45,
-      "matches": [
-        "Rol QA ✓",
-        "automation"
-      ],
-      "warnings": [],
-      "verdict": "regular"
     },
     {
       "title": "Senior Quality Assurance Automation Engineer",
