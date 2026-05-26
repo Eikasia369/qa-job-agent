@@ -1,39 +1,15 @@
 {
-  "last_updated": "2026-05-26T00:09:34.039866+00:00",
-  "total_fetched": 129,
+  "last_updated": "2026-05-26T13:56:22.349768+00:00",
+  "total_fetched": 128,
   "sources": {
-    "Remotive": 18,
-    "WorkingNomads": 37,
+    "Remotive": 16,
+    "WorkingNomads": 38,
     "GetOnBoard": 50,
     "Himalayas": 20,
     "Jobicy": 4
   },
-  "new_count": 0,
+  "new_count": 2,
   "jobs": [
-    {
-      "title": "Senior Quality Assurance Engineer",
-      "company": "",
-      "location": "fully_remote",
-      "description": "  You have a bachelor’s degree in Computer Science, Computer Engineering, Information Technology, or equivalent  You have 6+ years of experience in Automation roles.   You have a deep understanding of software QA methodologies, best practices, tools, and processes  You have 3+ years of experience with Javascript, Typescript or a similar scripting language  You have 3+ years of experience creating and maintaining test automation scripts (preferably with Cypress, Playwright, and Appium using Javascript)  You strongly understand CI/CD platforms and incorporate QA best practices.  You have a deep understanding of Agile/Scrum development principles.  You have experience providing mentorship to other team members on QA best practices and methodologies.  You possess strong analytical and problem-",
-      "date": 1778597318,
-      "salary": null,
-      "url": "https://www.getonbrd.com/jobs/senior-quality-assurance-engineer-apply-digital-latam-remote-9d3b",
-      "source": "GetOnBoard",
-      "id": "17a89e129fd3",
-      "score": 95,
-      "matches": [
-        "Rol QA ✓",
-        "playwright",
-        "automation",
-        "agile",
-        "scrum",
-        "javascript",
-        "typescript",
-        "cypress"
-      ],
-      "warnings": [],
-      "verdict": "excelente"
-    },
     {
       "title": "QA Automation Engineer Java",
       "company": "",
@@ -97,6 +73,26 @@
         "test case",
         "ci/cd",
         "Remoto 🌐"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    },
+    {
+      "title": "QA Automation Engineer",
+      "company": "",
+      "location": "hybrid",
+      "description": "  Experiencia sólida en automatización de pruebas mobile con con Java y Cucumber.  Conocimiento práctico en automatización de pruebas móviles, idealmente con Appium o soluciones equivalentes que permitan validar apps nativas y React Native.,  Experiencia validando servicios RESTful y pruebas de contratos (por ejemplo, usando RestAssured o herramientas similares).,  Capacidad de trabajar con equipos de producto y desarrollo para entender requerimientos funcionales y técnicos.,  Experiencia trabajando en entornos ágiles, colaborativos y orientados a la entrega continua de valor.,  Experiencia en consultas SQL para validación de datos.,  ",
+      "date": 1779803189,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/qa-automation-engineer-dynamic-devs-remote-5056",
+      "source": "GetOnBoard",
+      "id": "03b5db6651bd",
+      "score": 55,
+      "matches": [
+        "Rol QA ✓",
+        "automation",
+        "sql",
+        "appium"
       ],
       "warnings": [],
       "verdict": "bueno"
@@ -178,6 +174,23 @@
       "verdict": "regular"
     },
     {
+      "title": "Penetration Tester",
+      "company": "",
+      "location": "['Ireland']",
+      "description": "  Genesys  empowers organizations of all sizes to improve loyalty and business outcomes by creating the best experiences for their customers and employees. Through  Genesys  Cloud, the AI-powered Experience Orchestration platform, organizations can accelerate growth by delivering empathetic, personalized experiences at scale to drive customer loyalty, workforce engagement, efficiency and operational improvements.  We employ more than 6,000 people across the globe who embrace empathy and cultivate collaboration to succeed. And, while we offer great benefits and perks like larger tech companies, our employees have the independence to make a larger impact on the company and take ownership of their work. Join the team and create the future of customer experience together.   Job Title:  Penetra",
+      "date": "",
+      "salary": null,
+      "url": "https://himalayas.app/companies/genesys/jobs/penetration-tester",
+      "source": "Himalayas",
+      "id": "91b3470ec3f9",
+      "score": 40,
+      "matches": [
+        "Rol QA ✓"
+      ],
+      "warnings": [],
+      "verdict": "regular"
+    },
+    {
       "title": "Staff Design Quality Assurance Engineer",
       "company": "Otis Elevator Co.",
       "location": "China",
@@ -229,5 +242,43 @@
       "verdict": "regular"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "title": "QA Automation Engineer",
+      "company": "",
+      "location": "hybrid",
+      "description": "  Experiencia sólida en automatización de pruebas mobile con con Java y Cucumber.  Conocimiento práctico en automatización de pruebas móviles, idealmente con Appium o soluciones equivalentes que permitan validar apps nativas y React Native.,  Experiencia validando servicios RESTful y pruebas de contratos (por ejemplo, usando RestAssured o herramientas similares).,  Capacidad de trabajar con equipos de producto y desarrollo para entender requerimientos funcionales y técnicos.,  Experiencia trabajando en entornos ágiles, colaborativos y orientados a la entrega continua de valor.,  Experiencia en consultas SQL para validación de datos.,  ",
+      "date": 1779803189,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/qa-automation-engineer-dynamic-devs-remote-5056",
+      "source": "GetOnBoard",
+      "id": "03b5db6651bd",
+      "score": 55,
+      "matches": [
+        "Rol QA ✓",
+        "automation",
+        "sql",
+        "appium"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    },
+    {
+      "title": "Penetration Tester",
+      "company": "",
+      "location": "['Ireland']",
+      "description": "  Genesys  empowers organizations of all sizes to improve loyalty and business outcomes by creating the best experiences for their customers and employees. Through  Genesys  Cloud, the AI-powered Experience Orchestration platform, organizations can accelerate growth by delivering empathetic, personalized experiences at scale to drive customer loyalty, workforce engagement, efficiency and operational improvements.  We employ more than 6,000 people across the globe who embrace empathy and cultivate collaboration to succeed. And, while we offer great benefits and perks like larger tech companies, our employees have the independence to make a larger impact on the company and take ownership of their work. Join the team and create the future of customer experience together.   Job Title:  Penetra",
+      "date": "",
+      "salary": null,
+      "url": "https://himalayas.app/companies/genesys/jobs/penetration-tester",
+      "source": "Himalayas",
+      "id": "91b3470ec3f9",
+      "score": 40,
+      "matches": [
+        "Rol QA ✓"
+      ],
+      "warnings": [],
+      "verdict": "regular"
+    }
+  ]
 }
