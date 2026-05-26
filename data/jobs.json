@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-26T18:34:39.701908+00:00",
+  "last_updated": "2026-05-26T19:23:11.087406+00:00",
   "total_fetched": 128,
   "sources": {
     "Remotive": 16,
@@ -117,26 +117,6 @@
         "automation",
         "sql",
         "appium"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
-    },
-    {
-      "title": "AI Automation QA Engineer",
-      "company": "",
-      "location": "hybrid",
-      "description": "  Experiencia sólida en automatización de pruebas (funcional, regresión, integración).  Conocimiento de metodologías  BDD / TDD  y escritura de casos en lenguaje estructurado.  Capacidad de integrar herramientas de testing con pipelines  CI/CD .  Experiencia aplicando o trabajando con herramientas de  IA  para generación o mantenimiento de pruebas.    Compromisos de trabajo    Orientación a calidad y mejora continua para elevar cobertura de regresión automatizada.  Comunicación clara para documentar y transferir conocimiento (incluida la transición del rol a partir del mes 13).  Colaboración con equipos de desarrollo y QA para alinear pruebas, ambientes y datos con las necesidades del producto.  ",
-      "date": 1779198224,
-      "salary": "1300–2100",
-      "url": "https://www.getonbrd.com/jobs/ai-qa-engineer-tcit-santiago",
-      "source": "GetOnBoard",
-      "id": "8a56a3d384e3",
-      "score": 55,
-      "matches": [
-        "Rol QA ✓",
-        "automation",
-        "ci/cd",
-        "Salario 💰"
       ],
       "warnings": [],
       "verdict": "bueno"
