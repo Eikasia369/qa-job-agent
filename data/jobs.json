@@ -1,8 +1,203 @@
 {
-  "last_updated": null,
-  "total_fetched": 0,
-  "sources": {},
+  "last_updated": "2026-05-26T18:34:39.701908+00:00",
+  "total_fetched": 128,
+  "sources": {
+    "Remotive": 16,
+    "WorkingNomads": 38,
+    "GetOnBoard": 50,
+    "Himalayas": 20,
+    "Jobicy": 4
+  },
   "new_count": 0,
-  "jobs": [],
+  "jobs": [
+    {
+      "title": "Senior Quality Assurance Engineer",
+      "company": "",
+      "location": "fully_remote",
+      "description": "  You have a bachelor’s degree in Computer Science, Computer Engineering, Information Technology, or equivalent  You have 6+ years of experience in Automation roles.   You have a deep understanding of software QA methodologies, best practices, tools, and processes  You have 3+ years of experience with Javascript, Typescript or a similar scripting language  You have 3+ years of experience creating and maintaining test automation scripts (preferably with Cypress, Playwright, and Appium using Javascript)  You strongly understand CI/CD platforms and incorporate QA best practices.  You have a deep understanding of Agile/Scrum development principles.  You have experience providing mentorship to other team members on QA best practices and methodologies.  You possess strong analytical and problem-",
+      "date": 1778597318,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/senior-quality-assurance-engineer-apply-digital-latam-remote-9d3b",
+      "source": "GetOnBoard",
+      "id": "17a89e129fd3",
+      "score": 95,
+      "matches": [
+        "Rol QA ✓",
+        "playwright",
+        "automation",
+        "agile",
+        "scrum",
+        "javascript",
+        "typescript",
+        "cypress"
+      ],
+      "warnings": [],
+      "verdict": "excelente"
+    },
+    {
+      "title": "QA Automation Engineer Java",
+      "company": "",
+      "location": "remote_local",
+      "description": "  Bachelor’s degree in Computer Systems, Computer Science, Software Engineering, or related field.   Strong experience with Java for test automation.   UI automation using Selenium WebDriver and TestNG.   API testing using Postman and Java (RestAssured preferred).   Experience integrating automated tests into CI/CD pipelines (Bamboo, GitLab Pipelines).   Experience working with AWS services.   Exposure to Kubernetes environments.   Experience with TestRail or similar test management tools.   Basic experience with JavaScript   Professional level of English (written and spoken).   ",
+      "date": 1779231662,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/qa-automation-engineer-java-cbqa-solutions-remote",
+      "source": "GetOnBoard",
+      "id": "073c3d1c0651",
+      "score": 85,
+      "matches": [
+        "Rol QA ✓",
+        "postman",
+        "api testing",
+        "automation",
+        "selenium",
+        "javascript",
+        "ci/cd",
+        "testrail"
+      ],
+      "warnings": [],
+      "verdict": "excelente"
+    },
+    {
+      "title": "Analista QA Sr",
+      "company": "",
+      "location": "hybrid",
+      "description": " -Conocimiento y experiencia en metodologías ágiles (Scrum, Kanban) -Capacidad para colaborar efectivamente con equipos de desarrollo y otros stakeholders -Experiencia en la elaboración y ejecución de planes de prueba -Conocimientos sólidos en el ciclo de vida del desarrollo de software (SDLC) -Habilidad para documentar claramente los casos de prueba, resultados y defectos -Conocimiento de herramientas de gestión de pruebas (JIRA, Zephyr). -Experiencia con pruebas de API (Postman, SoapUI) -Experiencia con pruebas Mobile (Android, iOS) -Habilidad para identificar problemas y proponer soluciones efectivas -Atención al detalle y capacidad para trabajar en un entorno dinámico y cambiante. ",
+      "date": 1779806994,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/analista-qa-sr-coderslab-io-santiago-5768",
+      "source": "GetOnBoard",
+      "id": "7406f9ed8c65",
+      "score": 65,
+      "matches": [
+        "Rol QA ✓",
+        "postman",
+        "jira",
+        "scrum",
+        "defect",
+        "zephyr"
+      ],
+      "warnings": [],
+      "verdict": "excelente"
+    },
+    {
+      "title": "QA Automation Engineer (Python)",
+      "company": "",
+      "location": "remote_local",
+      "description": "  Strong hands-on experience with Python for test automation   Working knowledge of C#   Experience with automation frameworks and testing tools   Familiarity with CI/CD pipelines and automated testing workflows   Conversational English level   Strong communication skills and ability to work effectively in a team   Proactive attitude and willingness to learn and grow   Integrate automated tests into CI/CD pipelines using Jenkins   Execute and analyze automated and manual test cases   ",
+      "date": 1779231680,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/qa-automation-engineer-python-cbqa-solutions-remote",
+      "source": "GetOnBoard",
+      "id": "f5624c7dff2c",
+      "score": 65,
+      "matches": [
+        "Rol QA ✓",
+        "automation",
+        "test case",
+        "ci/cd",
+        "Remoto/Latam 🌐"
+      ],
+      "warnings": [],
+      "verdict": "excelente"
+    },
+    {
+      "title": "QA Automation Engineer",
+      "company": "",
+      "location": "hybrid",
+      "description": "  Experiencia sólida en automatización de pruebas mobile con con Java y Cucumber.  Conocimiento práctico en automatización de pruebas móviles, idealmente con Appium o soluciones equivalentes que permitan validar apps nativas y React Native.,  Experiencia validando servicios RESTful y pruebas de contratos (por ejemplo, usando RestAssured o herramientas similares).,  Capacidad de trabajar con equipos de producto y desarrollo para entender requerimientos funcionales y técnicos.,  Experiencia trabajando en entornos ágiles, colaborativos y orientados a la entrega continua de valor.,  Experiencia en consultas SQL para validación de datos.,  ",
+      "date": 1779803189,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/qa-automation-engineer-dynamic-devs-remote-5056",
+      "source": "GetOnBoard",
+      "id": "03b5db6651bd",
+      "score": 55,
+      "matches": [
+        "Rol QA ✓",
+        "automation",
+        "sql",
+        "appium"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    },
+    {
+      "title": "AI Automation QA Engineer",
+      "company": "",
+      "location": "hybrid",
+      "description": "  Experiencia sólida en automatización de pruebas (funcional, regresión, integración).  Conocimiento de metodologías  BDD / TDD  y escritura de casos en lenguaje estructurado.  Capacidad de integrar herramientas de testing con pipelines  CI/CD .  Experiencia aplicando o trabajando con herramientas de  IA  para generación o mantenimiento de pruebas.    Compromisos de trabajo    Orientación a calidad y mejora continua para elevar cobertura de regresión automatizada.  Comunicación clara para documentar y transferir conocimiento (incluida la transición del rol a partir del mes 13).  Colaboración con equipos de desarrollo y QA para alinear pruebas, ambientes y datos con las necesidades del producto.  ",
+      "date": 1779198224,
+      "salary": "1300–2100",
+      "url": "https://www.getonbrd.com/jobs/ai-qa-engineer-tcit-santiago",
+      "source": "GetOnBoard",
+      "id": "8a56a3d384e3",
+      "score": 55,
+      "matches": [
+        "Rol QA ✓",
+        "automation",
+        "ci/cd",
+        "Salario 💰"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    },
+    {
+      "title": "Senior Quality Assurance Automation Engineer",
+      "company": "Experian",
+      "location": "Costa Rica",
+      "description": " Company Description \n Experian is a global data and technology company, powering opportunities for people and businesses around the world. We operate across a range of markets, from financial services to healthcare, automotive, agribusiness, insurance, and many more. Experian invests in people and new advanced technologies to unlock the power of data. We have an amazing team of 25,200 people in 32 countries.  \n Job Description \n Experian is looking for a Senior QA Automation Engineer to test and maintain core enterprise systems while providing technical leadership across distributed teams in the United States and India. You will blend manual and automated test creation with operational ownership, helping engineering teams deliver secure, reliable, and scalable software. You will report to",
+      "date": "2026-05-22T01:53:22+00:00",
+      "salary": null,
+      "url": "https://jobicy.com/jobs/144474-senior-quality-assurance-automation-engineer",
+      "source": "Jobicy",
+      "id": "5fdbe8c3ab94",
+      "score": 55,
+      "matches": [
+        "Rol QA ✓",
+        "automation",
+        "Remoto/Latam 🌐"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    },
+    {
+      "title": "Senior QA Automation Engineer (Playwright)",
+      "company": "Proxify",
+      "location": "Time zone: CET (+/- 3 hours)",
+      "description": "  About us:  \n   \n Talent has no borders. Proxify's mission is to connect top developers around the world with opportunities they deserve. So, it doesn't matter where you are; we are here to help you fast-track your independent career in the right direction. 🙂 \n Since our launch, Proxify's developers have successfully worked with 1200+ happy clients to build their products and growth features. 5000+ talented developers trust Proxify and its network to fulfill their dreams and objectives. \n Proxify is shaped by a global network of supportive, talented developers interested in remote full-time jobs. Our Glassdoor (4.5/5) and Trustpilot (4.8/5) ratings reflect the trust developers place in us and our commitment to our members' success. \n   \n  The Role:  \n   \n We are looking for a Senior QA En",
+      "date": "2026-04-27T08:49:15-04:00",
+      "salary": null,
+      "url": "https://www.workingnomads.com/job/go/1566690/",
+      "source": "WorkingNomads",
+      "id": "93aa9891d24e",
+      "score": 50,
+      "matches": [
+        "Rol QA ✓",
+        "playwright",
+        "automation"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    },
+    {
+      "title": "QA Funcional",
+      "company": "",
+      "location": "hybrid",
+      "description": "  Estudios en Ciencias de la Computación, Ingeniería de Software o campo relacionado  Experiencia en diseño y ejecución de casos de prueba  Experiencia en desarrollo y pruebas de software  Experiencia en pruebas end-to-end  Fuertes habilidades analíticas y de liderazgo que puedan asegurar la calidad de nuestro trabajo  Habilidades de comunicación orales y escritas, y la capacidad de colaborar con partes internas y externas, incluyendo control de calidad, soporte a ingenieros de desarrollo, y clientes  Comprensión de las mejores prácticas con respecto a las medidas de seguridad del sistema  Conocimiento llevando a cabo Queries con SQL  Conocimiento en el funcionamiento de API Rest y cómo probarlos  ",
+      "date": 1779301139,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/qa-funcional-dynamic-devs-santiago-a44e",
+      "source": "GetOnBoard",
+      "id": "337fd09f12f5",
+      "score": 50,
+      "matches": [
+        "Rol QA ✓",
+        "api rest",
+        "sql"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    }
+  ],
   "new_jobs": []
 }
