@@ -21,7 +21,7 @@ PROFILE = {
         "qa", "quality assurance", "tester", "qa engineer", "qa analyst",
         "qa lead", "qa automation", "qa manual", "sdet", "test engineer",
         "test analyst", "test lead", "quality engineer", "quality control",
-        "software tester", "software testing",
+        "software tester", "software testing", "game tester", "game qa",
     ],
     "skills": [
         "playwright", "postman", "api testing", "api rest", "automation",
@@ -35,29 +35,84 @@ PROFILE = {
         "10+ years", "15+ years", "20+ years",
         "staff engineer", "principal engineer",
     ],
-    "location_bonus": [
-        "remote", "worldwide", "anywhere", "latam",
-        "argentina", "latin america", "work from home",
+    # Ubicaciones aceptadas — remoto sin restricción o Latam/Argentina
+    "location_accept": [
+        "remote", "worldwide", "anywhere", "work from home", "wfh",
+        "latam", "latin america", "latinoamerica", "latinoamérica",
+        "south america", "sudamerica", "sudamérica",
+        "argentina", "buenos aires",
+        # países Latam aceptados
+        "colombia", "mexico", "méxico", "chile", "peru", "perú",
+        "uruguay", "paraguay", "bolivia", "ecuador", "venezuela",
+        "brazil", "brasil", "costa rica", "panama", "panamá",
+    ],
+    # Ubicaciones bloqueadas — NO aplicar aunque sea "remoto"
+    "location_block": [
+        "ireland", "irlanda", "uk", "united kingdom", "reino unido",
+        "germany", "alemania", "france", "francia", "spain", "españa",
+        "italy", "italia", "netherlands", "holanda", "portugal",
+        "poland", "polonia", "sweden", "suecia", "norway", "noruega",
+        "denmark", "dinamarca", "finland", "finlandia", "austria",
+        "switzerland", "suiza", "belgium", "bélgica", "belgium",
+        "australia", "new zealand", "nueva zelanda",
+        "india", "china", "japan", "japón", "singapore", "singapur",
+        "europe", "europa", "asia", "oceania",
+        # USA/Canadá — solo si está explícito como requisito
+        "us only", "usa only", "united states only", "canada only",
+        "must be located in the us", "must reside in",
+        "authorized to work in the us", "us citizen",
     ],
 }
 
+
+# ─── Filtro de ubicación ──────────────────────────────────────────────────────
+def location_ok(job: dict) -> tuple[bool, str]:
+    """
+    Retorna (permitido, motivo).
+    Lógica:
+      - Si la ubicación contiene un término bloqueado → rechazar
+      - Si la ubicación está vacía o es genérica ("remote", "worldwide") → aceptar
+      - Si contiene un término aceptado → aceptar
+      - Si no matchea nada → aceptar (beneficio de la duda, el scraper filtra después por score)
+    """
+    loc = (job.get("location") or "").lower()
+    desc = (job.get("description") or "").lower()[:300]  # solo inicio de descripción
+    full = f"{loc} {desc}"
+
+    # Primero chequear bloqueos (tienen prioridad)
+    for blocked in PROFILE["location_block"]:
+        if blocked in full:
+            return False, f"ubicación bloqueada: {blocked}"
+
+    # Luego chequear aceptados
+    for accepted in PROFILE["location_accept"]:
+        if accepted in loc:
+            return True, "ubicación aceptada"
+
+    # Ubicación vacía o ambigua → aceptar con beneficio de la duda
+    if not loc or loc in ("", "-", "—", "global", "n/a"):
+        return True, "sin restricción"
+
+    return True, "ubicación no determinada"
+
 # ─── Scoring ──────────────────────────────────────────────────────────────────
 def score_job(job: dict) -> dict:
-    text = f" {job.get('title', '')} {job.get('description', '')} ".lower()
+    title = job.get("title", "").lower()
+    desc  = job.get("description", "").lower()
+    text  = f" {title} {desc} "
     score = 0
     matches = []
     warnings = []
 
-    role_match = any(f" {r} " in text or f"\n{r} " in text or f" {r}\n" in text
-                     for r in PROFILE["roles"])
-    # Also check title directly (more lenient)
-    title_match = any(r in job.get("title", "").lower() for r in PROFILE["roles"])
+    # Rol: más puntos si está en el título
+    role_in_title = any(r in title for r in PROFILE["roles"])
+    role_in_desc  = any(f" {r} " in text for r in PROFILE["roles"])
 
-    if not role_match and not title_match:
+    if not role_in_title and not role_in_desc:
         return {"score": 0, "matches": [], "warnings": [], "verdict": "irrelevante"}
 
-    score += 40
-    matches.append("Rol QA ✓")
+    score += 40 if role_in_title else 20
+    matches.append("Rol QA ✓" if role_in_title else "Rol QA (desc)")
 
     for skill in PROFILE["skills"]:
         if skill in text:
@@ -70,9 +125,9 @@ def score_job(job: dict) -> dict:
             warnings.append(flag)
 
     loc = job.get("location", "").lower()
-    if any(b in loc for b in PROFILE["location_bonus"]):
+    if any(a in loc for a in PROFILE["location_accept"]):
         score += 10
-        matches.append("Remoto 🌐")
+        matches.append("Remoto/Latam 🌐")
 
     if job.get("salary"):
         score += 5
@@ -80,9 +135,9 @@ def score_job(job: dict) -> dict:
 
     score = max(0, min(100, score))
     verdict = (
-        "excelente" if score >= 70 else
-        "bueno"     if score >= 50 else
-        "regular"   if score >= 25 else
+        "excelente" if score >= 65 else
+        "bueno"     if score >= 45 else
+        "regular"   if score >= 20 else
         "bajo"
     )
 
@@ -385,10 +440,18 @@ def main():
 
     # Scorear todos
     scored = []
+    blocked_count = 0
     for job in unique_jobs:
+        # Filtro de ubicación primero
+        ok, reason = location_ok(job)
+        if not ok:
+            blocked_count += 1
+            print(f"  Bloqueado ({reason}): {job.get('title')} @ {job.get('location')}")
+            continue
         s = score_job(job)
         if s["verdict"] != "irrelevante":
             scored.append({**job, **s})
+    print(f"Bloqueadas por ubicación: {blocked_count}")
 
     scored.sort(key=lambda x: x["score"], reverse=True)
     print(f"Relevant jobs: {len(scored)}")
