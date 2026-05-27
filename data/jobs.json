@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-26T19:23:11.087406+00:00",
+  "last_updated": "2026-05-27T00:12:34.768758+00:00",
   "total_fetched": 128,
   "sources": {
     "Remotive": 16,
@@ -8,32 +8,8 @@
     "Himalayas": 20,
     "Jobicy": 4
   },
-  "new_count": 0,
+  "new_count": 3,
   "jobs": [
-    {
-      "title": "Senior Quality Assurance Engineer",
-      "company": "",
-      "location": "fully_remote",
-      "description": "  You have a bachelor’s degree in Computer Science, Computer Engineering, Information Technology, or equivalent  You have 6+ years of experience in Automation roles.   You have a deep understanding of software QA methodologies, best practices, tools, and processes  You have 3+ years of experience with Javascript, Typescript or a similar scripting language  You have 3+ years of experience creating and maintaining test automation scripts (preferably with Cypress, Playwright, and Appium using Javascript)  You strongly understand CI/CD platforms and incorporate QA best practices.  You have a deep understanding of Agile/Scrum development principles.  You have experience providing mentorship to other team members on QA best practices and methodologies.  You possess strong analytical and problem-",
-      "date": 1778597318,
-      "salary": null,
-      "url": "https://www.getonbrd.com/jobs/senior-quality-assurance-engineer-apply-digital-latam-remote-9d3b",
-      "source": "GetOnBoard",
-      "id": "17a89e129fd3",
-      "score": 95,
-      "matches": [
-        "Rol QA ✓",
-        "playwright",
-        "automation",
-        "agile",
-        "scrum",
-        "javascript",
-        "typescript",
-        "cypress"
-      ],
-      "warnings": [],
-      "verdict": "excelente"
-    },
     {
       "title": "QA Automation Engineer Java",
       "company": "",
@@ -59,15 +35,15 @@
       "verdict": "excelente"
     },
     {
-      "title": "Analista QA Sr",
+      "title": "Analista QA",
       "company": "",
       "location": "hybrid",
       "description": " -Conocimiento y experiencia en metodologías ágiles (Scrum, Kanban) -Capacidad para colaborar efectivamente con equipos de desarrollo y otros stakeholders -Experiencia en la elaboración y ejecución de planes de prueba -Conocimientos sólidos en el ciclo de vida del desarrollo de software (SDLC) -Habilidad para documentar claramente los casos de prueba, resultados y defectos -Conocimiento de herramientas de gestión de pruebas (JIRA, Zephyr). -Experiencia con pruebas de API (Postman, SoapUI) -Experiencia con pruebas Mobile (Android, iOS) -Habilidad para identificar problemas y proponer soluciones efectivas -Atención al detalle y capacidad para trabajar en un entorno dinámico y cambiante. ",
-      "date": 1779806994,
+      "date": 1779829419,
       "salary": null,
-      "url": "https://www.getonbrd.com/jobs/analista-qa-sr-coderslab-io-santiago-5768",
+      "url": "https://www.getonbrd.com/jobs/analista-qa-coderslab-io-santiago-d1d1",
       "source": "GetOnBoard",
-      "id": "7406f9ed8c65",
+      "id": "03cb9d7b9df5",
       "score": 65,
       "matches": [
         "Rol QA ✓",
@@ -100,6 +76,26 @@
       ],
       "warnings": [],
       "verdict": "excelente"
+    },
+    {
+      "title": "AI Automation QA Engineer",
+      "company": "",
+      "location": "hybrid",
+      "description": "  Experiencia sólida en automatización de pruebas (funcional, regresión, integración).  Conocimiento de metodologías  BDD / TDD  y escritura de casos en lenguaje estructurado.  Capacidad de integrar herramientas de testing con pipelines  CI/CD .  Experiencia aplicando o trabajando con herramientas de  IA  para generación o mantenimiento de pruebas (Debe estar mencionado en el CV)     Compromisos de trabajo    Orientación a calidad y mejora continua para elevar cobertura de regresión automatizada.  Comunicación clara para documentar y transferir conocimiento (incluida la transición del rol a partir del mes 13).  Colaboración con equipos de desarrollo y QA para alinear pruebas, ambientes y datos con las necesidades del producto.  ",
+      "date": 1779826349,
+      "salary": "1300–2100",
+      "url": "https://www.getonbrd.com/jobs/ai-automation-qa-engineer-tcit-santiago",
+      "source": "GetOnBoard",
+      "id": "8a56a3d384e3",
+      "score": 55,
+      "matches": [
+        "Rol QA ✓",
+        "automation",
+        "ci/cd",
+        "Salario 💰"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
     },
     {
       "title": "QA Automation Engineer",
@@ -177,7 +173,100 @@
       ],
       "warnings": [],
       "verdict": "bueno"
+    },
+    {
+      "title": "QA Junior",
+      "company": "",
+      "location": "hybrid",
+      "description": " Nos encontramos en búsqueda de un(a) QA Junior con alta motivación por el aprendizaje, orientación a la calidad y ganas de desarrollarse en entornos tecnológicos modernos.  El objetivo principal del cargo será garantizar la calidad de las soluciones tecnológicas desarrolladas dentro de los distintos proyectos, ejecutando tareas de validación, control y mejora continua.   Requisitos Técnicos    Mandatorios    Conocimientos básicos o afinidad para comprender flujos backend en: Java con Spring Boot.  Node.js con NestJS.  Manejo básico de PostgreSQL.  Conocimiento o experiencia con frameworks frontend modernos: React, Angular o Vue.    Deseables    Conocimientos básicos de automatización de pruebas.  Experiencia o conocimientos en APIs REST.  Manejo básico de herramientas de gestión QA.  Cono",
+      "date": 1779835488,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/qa-junior-bc-tecnologia-santiago",
+      "source": "GetOnBoard",
+      "id": "1fb491860359",
+      "score": 45,
+      "matches": [
+        "Rol QA ✓",
+        "sql"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    },
+    {
+      "title": "Specialist II, Instructional Technologist",
+      "company": "",
+      "location": "['United States']",
+      "description": "  Position Summary:   The Instructional Technologist II provides advanced frontline and instructional technology support for faculty, staff, and students across institutional learning platforms. This role independently manages course-level LMS configuration, instructional tool support, and quality assurance activities while collaborating with faculty to enhance course delivery and learner engagement.  The Instructional Technologist II is expected to resolve the majority of course-level and user-related issues prior to escalation and to operate with minimal supervision within established institutional standards.   Role and Responsibilities:   LMS &amp; Course-Level Support   Provide Tier II support for the Learning Management System and integrated instructional technologies.  Configure cour",
+      "date": "",
+      "salary": null,
+      "url": "https://himalayas.app/companies/nightingale-college/jobs/specialist-ii-instructional-technologist",
+      "source": "Himalayas",
+      "id": "588a4dfa3991",
+      "score": 20,
+      "matches": [
+        "Rol QA (desc)"
+      ],
+      "warnings": [],
+      "verdict": "regular"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "title": "Analista QA",
+      "company": "",
+      "location": "hybrid",
+      "description": " -Conocimiento y experiencia en metodologías ágiles (Scrum, Kanban) -Capacidad para colaborar efectivamente con equipos de desarrollo y otros stakeholders -Experiencia en la elaboración y ejecución de planes de prueba -Conocimientos sólidos en el ciclo de vida del desarrollo de software (SDLC) -Habilidad para documentar claramente los casos de prueba, resultados y defectos -Conocimiento de herramientas de gestión de pruebas (JIRA, Zephyr). -Experiencia con pruebas de API (Postman, SoapUI) -Experiencia con pruebas Mobile (Android, iOS) -Habilidad para identificar problemas y proponer soluciones efectivas -Atención al detalle y capacidad para trabajar en un entorno dinámico y cambiante. ",
+      "date": 1779829419,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/analista-qa-coderslab-io-santiago-d1d1",
+      "source": "GetOnBoard",
+      "id": "03cb9d7b9df5",
+      "score": 65,
+      "matches": [
+        "Rol QA ✓",
+        "postman",
+        "jira",
+        "scrum",
+        "defect",
+        "zephyr"
+      ],
+      "warnings": [],
+      "verdict": "excelente"
+    },
+    {
+      "title": "QA Junior",
+      "company": "",
+      "location": "hybrid",
+      "description": " Nos encontramos en búsqueda de un(a) QA Junior con alta motivación por el aprendizaje, orientación a la calidad y ganas de desarrollarse en entornos tecnológicos modernos.  El objetivo principal del cargo será garantizar la calidad de las soluciones tecnológicas desarrolladas dentro de los distintos proyectos, ejecutando tareas de validación, control y mejora continua.   Requisitos Técnicos    Mandatorios    Conocimientos básicos o afinidad para comprender flujos backend en: Java con Spring Boot.  Node.js con NestJS.  Manejo básico de PostgreSQL.  Conocimiento o experiencia con frameworks frontend modernos: React, Angular o Vue.    Deseables    Conocimientos básicos de automatización de pruebas.  Experiencia o conocimientos en APIs REST.  Manejo básico de herramientas de gestión QA.  Cono",
+      "date": 1779835488,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/qa-junior-bc-tecnologia-santiago",
+      "source": "GetOnBoard",
+      "id": "1fb491860359",
+      "score": 45,
+      "matches": [
+        "Rol QA ✓",
+        "sql"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    },
+    {
+      "title": "Specialist II, Instructional Technologist",
+      "company": "",
+      "location": "['United States']",
+      "description": "  Position Summary:   The Instructional Technologist II provides advanced frontline and instructional technology support for faculty, staff, and students across institutional learning platforms. This role independently manages course-level LMS configuration, instructional tool support, and quality assurance activities while collaborating with faculty to enhance course delivery and learner engagement.  The Instructional Technologist II is expected to resolve the majority of course-level and user-related issues prior to escalation and to operate with minimal supervision within established institutional standards.   Role and Responsibilities:   LMS &amp; Course-Level Support   Provide Tier II support for the Learning Management System and integrated instructional technologies.  Configure cour",
+      "date": "",
+      "salary": null,
+      "url": "https://himalayas.app/companies/nightingale-college/jobs/specialist-ii-instructional-technologist",
+      "source": "Himalayas",
+      "id": "588a4dfa3991",
+      "score": 20,
+      "matches": [
+        "Rol QA (desc)"
+      ],
+      "warnings": [],
+      "verdict": "regular"
+    }
+  ]
 }
