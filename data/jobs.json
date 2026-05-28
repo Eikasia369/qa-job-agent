@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-05-28T00:03:49.958560+00:00",
-  "total_fetched": 113,
+  "last_updated": "2026-05-28T14:40:50.710365+00:00",
+  "total_fetched": 112,
   "sources": {
-    "Remotive": 15,
-    "WorkingNomads": 23,
+    "Remotive": 17,
+    "WorkingNomads": 21,
     "GetOnBoard": 50,
     "Himalayas": 20,
-    "Jobicy": 5
+    "Jobicy": 4
   },
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "title": "Senior Quality Assurance Engineer",
@@ -243,28 +243,5 @@
       "verdict": "bueno"
     }
   ],
-  "new_jobs": [
-    {
-      "title": "QA Tester Automation (Banca)",
-      "company": "",
-      "location": "no_remote",
-      "description": "  🎓 Formación Académica    Título en Ingeniería de Sistemas, Ingeniería en Software o carreras afines.    💼 Experiencia    2 a 3 años de experiencia en testing de aplicaciones web y móviles.  Experiencia en proyectos del sector bancario (excluyente).    💎 Conocimientos Técnicos    Manejo de GIT.  Conocimiento en la gestión del ciclo de vida de pruebas.  Herramientas de automatización de pruebas: Katalon Studio, Appium, Postman.  Ejecución de pruebas: pruebas automatizadas, pruebas funcionales y no funcionales, pruebas de rendimiento.  Deseable: Uso de herramientas de gestión de pruebas como Azure DevOps.    🎯 Competencias    Alta orientación al detalle.  Comunicación asertiva.  Capacidad de búsqueda y análisis de información.  Alta capacidad de autoaprendizaje y mejora continua.  ",
-      "date": 1779902107,
-      "salary": "1100–1700",
-      "url": "https://www.getonbrd.com/jobs/qa-tester-automation-banca-bayteq-cia-ltda-quito",
-      "source": "GetOnBoard",
-      "id": "fab7b9d68fd5",
-      "score": 70,
-      "matches": [
-        "Rol QA ✓",
-        "postman",
-        "automation",
-        "appium",
-        "Remoto/Latam 🌐",
-        "Salario 💰"
-      ],
-      "warnings": [],
-      "verdict": "excelente"
-    }
-  ]
+  "new_jobs": []
 }
