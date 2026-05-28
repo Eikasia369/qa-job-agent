@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-27T19:28:10.877534+00:00",
+  "last_updated": "2026-05-28T00:03:49.958560+00:00",
   "total_fetched": 113,
   "sources": {
     "Remotive": 15,
@@ -8,7 +8,7 @@
     "Himalayas": 20,
     "Jobicy": 5
   },
-  "new_count": 0,
+  "new_count": 1,
   "jobs": [
     {
       "title": "Senior Quality Assurance Engineer",
@@ -59,11 +59,56 @@
       "verdict": "excelente"
     },
     {
+      "title": "QA Tester Automation (Banca)",
+      "company": "",
+      "location": "no_remote",
+      "description": "  🎓 Formación Académica    Título en Ingeniería de Sistemas, Ingeniería en Software o carreras afines.    💼 Experiencia    2 a 3 años de experiencia en testing de aplicaciones web y móviles.  Experiencia en proyectos del sector bancario (excluyente).    💎 Conocimientos Técnicos    Manejo de GIT.  Conocimiento en la gestión del ciclo de vida de pruebas.  Herramientas de automatización de pruebas: Katalon Studio, Appium, Postman.  Ejecución de pruebas: pruebas automatizadas, pruebas funcionales y no funcionales, pruebas de rendimiento.  Deseable: Uso de herramientas de gestión de pruebas como Azure DevOps.    🎯 Competencias    Alta orientación al detalle.  Comunicación asertiva.  Capacidad de búsqueda y análisis de información.  Alta capacidad de autoaprendizaje y mejora continua.  ",
+      "date": 1779902107,
+      "salary": "1100–1700",
+      "url": "https://www.getonbrd.com/jobs/qa-tester-automation-banca-bayteq-cia-ltda-quito",
+      "source": "GetOnBoard",
+      "id": "fab7b9d68fd5",
+      "score": 70,
+      "matches": [
+        "Rol QA ✓",
+        "postman",
+        "automation",
+        "appium",
+        "Remoto/Latam 🌐",
+        "Salario 💰"
+      ],
+      "warnings": [],
+      "verdict": "excelente"
+    },
+    {
+      "title": "QA Automation",
+      "company": "",
+      "location": "hybrid",
+      "description": "  Experiencia comprobable en automatización de pruebas de software.   Dominio de TypeScript  para el desarrollo de frameworks y scripts de automatización de pruebas.  Experiencia desarrollando o manteniendo frameworks de testing automatizado (preferentemente con  TypeScript  + Playwright, Cypress o Jest).  Experiencia realizando testing de APIs (REST o GraphQL).  Experiencia trabajando con herramientas de testing automatizado y suites de pruebas escritas en  TypeScript .  Experiencia integrando pruebas automatizadas en pipelines de CI/CD.  Conocimiento de estrategias de testing (unit, integration, end-to-end).  Experiencia colaborando con equipos de desarrollo en entornos ágiles (Scrum o Kanban).  ",
+      "date": 1779886956,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/qa-automation-witi-santiago-87b6",
+      "source": "GetOnBoard",
+      "id": "9c624aadee1d",
+      "score": 70,
+      "matches": [
+        "Rol QA ✓",
+        "playwright",
+        "automation",
+        "scrum",
+        "typescript",
+        "cypress",
+        "ci/cd"
+      ],
+      "warnings": [],
+      "verdict": "excelente"
+    },
+    {
       "title": "Analista QA",
       "company": "",
       "location": "hybrid",
       "description": " -Conocimiento y experiencia en metodologías ágiles (Scrum, Kanban) -Capacidad para colaborar efectivamente con equipos de desarrollo y otros stakeholders -Experiencia en la elaboración y ejecución de planes de prueba -Conocimientos sólidos en el ciclo de vida del desarrollo de software (SDLC) -Habilidad para documentar claramente los casos de prueba, resultados y defectos -Conocimiento de herramientas de gestión de pruebas (JIRA, Zephyr). -Experiencia con pruebas de API (Postman, SoapUI) -Experiencia con pruebas Mobile (Android, iOS) -Habilidad para identificar problemas y proponer soluciones efectivas -Atención al detalle y capacidad para trabajar en un entorno dinámico y cambiante. ",
-      "date": 1779903866,
+      "date": 1779914299,
       "salary": null,
       "url": "https://www.getonbrd.com/jobs/analista-qa-coderslab-io-santiago-d1d1",
       "source": "GetOnBoard",
@@ -178,7 +223,48 @@
       ],
       "warnings": [],
       "verdict": "bueno"
+    },
+    {
+      "title": "QA Junior",
+      "company": "",
+      "location": "hybrid",
+      "description": " Nos encontramos en búsqueda de un(a) QA Junior con alta motivación por el aprendizaje, orientación a la calidad y ganas de desarrollarse en entornos tecnológicos modernos.  El objetivo principal del cargo será garantizar la calidad de las soluciones tecnológicas desarrolladas dentro de los distintos proyectos, ejecutando tareas de validación, control y mejora continua.   Requisitos Técnicos    Mandatorios    Conocimientos básicos o afinidad para comprender flujos backend en: Java con Spring Boot.  Node.js con NestJS.  Manejo básico de PostgreSQL.  Conocimiento o experiencia con frameworks frontend modernos: React, Angular o Vue.    Deseables    Conocimientos básicos de automatización de pruebas.  Experiencia o conocimientos en APIs REST.  Manejo básico de herramientas de gestión QA.  Cono",
+      "date": 1779835488,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/qa-junior-bc-tecnologia-santiago",
+      "source": "GetOnBoard",
+      "id": "1fb491860359",
+      "score": 45,
+      "matches": [
+        "Rol QA ✓",
+        "sql"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "title": "QA Tester Automation (Banca)",
+      "company": "",
+      "location": "no_remote",
+      "description": "  🎓 Formación Académica    Título en Ingeniería de Sistemas, Ingeniería en Software o carreras afines.    💼 Experiencia    2 a 3 años de experiencia en testing de aplicaciones web y móviles.  Experiencia en proyectos del sector bancario (excluyente).    💎 Conocimientos Técnicos    Manejo de GIT.  Conocimiento en la gestión del ciclo de vida de pruebas.  Herramientas de automatización de pruebas: Katalon Studio, Appium, Postman.  Ejecución de pruebas: pruebas automatizadas, pruebas funcionales y no funcionales, pruebas de rendimiento.  Deseable: Uso de herramientas de gestión de pruebas como Azure DevOps.    🎯 Competencias    Alta orientación al detalle.  Comunicación asertiva.  Capacidad de búsqueda y análisis de información.  Alta capacidad de autoaprendizaje y mejora continua.  ",
+      "date": 1779902107,
+      "salary": "1100–1700",
+      "url": "https://www.getonbrd.com/jobs/qa-tester-automation-banca-bayteq-cia-ltda-quito",
+      "source": "GetOnBoard",
+      "id": "fab7b9d68fd5",
+      "score": 70,
+      "matches": [
+        "Rol QA ✓",
+        "postman",
+        "automation",
+        "appium",
+        "Remoto/Latam 🌐",
+        "Salario 💰"
+      ],
+      "warnings": [],
+      "verdict": "excelente"
+    }
+  ]
 }
