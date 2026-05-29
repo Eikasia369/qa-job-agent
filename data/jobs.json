@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-05-29T14:11:14.079018+00:00",
-  "total_fetched": 116,
+  "last_updated": "2026-05-29T19:33:41.694296+00:00",
+  "total_fetched": 117,
   "sources": {
     "Remotive": 20,
-    "WorkingNomads": 22,
+    "WorkingNomads": 23,
     "GetOnBoard": 50,
     "Himalayas": 20,
     "Jobicy": 4
   },
-  "new_count": 0,
+  "new_count": 2,
   "jobs": [
     {
       "title": "Senior Quality Assurance Engineer",
@@ -84,7 +84,7 @@
       "company": "",
       "location": "hybrid",
       "description": " -Conocimiento y experiencia en metodologías ágiles (Scrum, Kanban) -Capacidad para colaborar efectivamente con equipos de desarrollo y otros stakeholders -Experiencia en la elaboración y ejecución de planes de prueba -Conocimientos sólidos en el ciclo de vida del desarrollo de software (SDLC) -Habilidad para documentar claramente los casos de prueba, resultados y defectos -Conocimiento de herramientas de gestión de pruebas (JIRA, Zephyr). -Experiencia con pruebas de API (Postman, SoapUI) -Experiencia con pruebas Mobile (Android, iOS) -Habilidad para identificar problemas y proponer soluciones efectivas -Atención al detalle y capacidad para trabajar en un entorno dinámico y cambiante. ",
-      "date": 1780059988,
+      "date": 1780082568,
       "salary": null,
       "url": "https://www.getonbrd.com/jobs/analista-qa-coderslab-io-santiago-d1d1",
       "source": "GetOnBoard",
@@ -100,6 +100,45 @@
       ],
       "warnings": [],
       "verdict": "excelente"
+    },
+    {
+      "title": "QA Analyst",
+      "company": "",
+      "location": "fully_remote",
+      "description": "  Experiencia comprobable como Analista QA Senior o en roles similares.  Sólidos conocimientos en pruebas manuales y automatizadas.  Experiencia en diseño y ejecución de casos de prueba funcionales y no funcionales.  Conocimiento de herramientas de gestión de incidencias y seguimiento, como Jira.  Experiencia en pruebas de APIs.  Conocimiento de metodologías ágiles (Scrum, Kanban o similares).  Capacidad analítica, orientación al detalle y enfoque en la mejora continua.  Excelentes habilidades de comunicación y trabajo en equipo.  ",
+      "date": 1780077489,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/analista-qa-senior-factor-it-remote",
+      "source": "GetOnBoard",
+      "id": "56d0d70c1a9f",
+      "score": 60,
+      "matches": [
+        "Rol QA ✓",
+        "jira",
+        "scrum",
+        "Remoto/Latam 🌐"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    },
+    {
+      "title": "Sr QA Analyst E-commerce (Inglés)",
+      "company": "",
+      "location": "fully_remote",
+      "description": "  Conocimientos y experiencias sólidas en elaboración de casos de prueba.  Conocimientos transversales en desarrollo de software  Conocimiento en gestión de proyectos  Experiencia trabajando con metodologías ágiles  Inglés intermedio.  Experiencia liderando equipos de trabajo  ",
+      "date": 1780072053,
+      "salary": "2000–3000",
+      "url": "https://www.getonbrd.com/jobs/sr-qa-analyst-e-commerce-ingles-intermedio-smith-remote",
+      "source": "GetOnBoard",
+      "id": "484b8e314429",
+      "score": 55,
+      "matches": [
+        "Rol QA ✓",
+        "Remoto/Latam 🌐",
+        "Salario 💰"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
     },
     {
       "title": "AI Automation QA Engineer",
@@ -177,5 +216,45 @@
       "verdict": "bueno"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "title": "QA Analyst",
+      "company": "",
+      "location": "fully_remote",
+      "description": "  Experiencia comprobable como Analista QA Senior o en roles similares.  Sólidos conocimientos en pruebas manuales y automatizadas.  Experiencia en diseño y ejecución de casos de prueba funcionales y no funcionales.  Conocimiento de herramientas de gestión de incidencias y seguimiento, como Jira.  Experiencia en pruebas de APIs.  Conocimiento de metodologías ágiles (Scrum, Kanban o similares).  Capacidad analítica, orientación al detalle y enfoque en la mejora continua.  Excelentes habilidades de comunicación y trabajo en equipo.  ",
+      "date": 1780077489,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/analista-qa-senior-factor-it-remote",
+      "source": "GetOnBoard",
+      "id": "56d0d70c1a9f",
+      "score": 60,
+      "matches": [
+        "Rol QA ✓",
+        "jira",
+        "scrum",
+        "Remoto/Latam 🌐"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    },
+    {
+      "title": "Sr QA Analyst E-commerce (Inglés)",
+      "company": "",
+      "location": "fully_remote",
+      "description": "  Conocimientos y experiencias sólidas en elaboración de casos de prueba.  Conocimientos transversales en desarrollo de software  Conocimiento en gestión de proyectos  Experiencia trabajando con metodologías ágiles  Inglés intermedio.  Experiencia liderando equipos de trabajo  ",
+      "date": 1780072053,
+      "salary": "2000–3000",
+      "url": "https://www.getonbrd.com/jobs/sr-qa-analyst-e-commerce-ingles-intermedio-smith-remote",
+      "source": "GetOnBoard",
+      "id": "484b8e314429",
+      "score": 55,
+      "matches": [
+        "Rol QA ✓",
+        "Remoto/Latam 🌐",
+        "Salario 💰"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    }
+  ]
 }
