@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-28T19:38:21.112122+00:00",
+  "last_updated": "2026-05-29T00:14:47.586563+00:00",
   "total_fetched": 112,
   "sources": {
     "Remotive": 17,
@@ -30,30 +30,6 @@
         "javascript",
         "typescript",
         "cypress"
-      ],
-      "warnings": [],
-      "verdict": "excelente"
-    },
-    {
-      "title": "QA Automation Engineer Java",
-      "company": "",
-      "location": "remote_local",
-      "description": "  Bachelor’s degree in Computer Systems, Computer Science, Software Engineering, or related field.   Strong experience with Java for test automation.   UI automation using Selenium WebDriver and TestNG.   API testing using Postman and Java (RestAssured preferred).   Experience integrating automated tests into CI/CD pipelines (Bamboo, GitLab Pipelines).   Experience working with AWS services.   Exposure to Kubernetes environments.   Experience with TestRail or similar test management tools.   Basic experience with JavaScript   Professional level of English (written and spoken).   ",
-      "date": 1779231662,
-      "salary": null,
-      "url": "https://www.getonbrd.com/jobs/qa-automation-engineer-java-cbqa-solutions-remote",
-      "source": "GetOnBoard",
-      "id": "073c3d1c0651",
-      "score": 85,
-      "matches": [
-        "Rol QA ✓",
-        "postman",
-        "api testing",
-        "automation",
-        "selenium",
-        "javascript",
-        "ci/cd",
-        "testrail"
       ],
       "warnings": [],
       "verdict": "excelente"
@@ -126,27 +102,6 @@
       "verdict": "excelente"
     },
     {
-      "title": "QA Automation Engineer (Python)",
-      "company": "",
-      "location": "remote_local",
-      "description": "  Strong hands-on experience with Python for test automation   Working knowledge of C#   Experience with automation frameworks and testing tools   Familiarity with CI/CD pipelines and automated testing workflows   Conversational English level   Strong communication skills and ability to work effectively in a team   Proactive attitude and willingness to learn and grow   Integrate automated tests into CI/CD pipelines using Jenkins   Execute and analyze automated and manual test cases   ",
-      "date": 1779231680,
-      "salary": null,
-      "url": "https://www.getonbrd.com/jobs/qa-automation-engineer-python-cbqa-solutions-remote",
-      "source": "GetOnBoard",
-      "id": "f5624c7dff2c",
-      "score": 65,
-      "matches": [
-        "Rol QA ✓",
-        "automation",
-        "test case",
-        "ci/cd",
-        "Remoto/Latam 🌐"
-      ],
-      "warnings": [],
-      "verdict": "excelente"
-    },
-    {
       "title": "AI Automation QA Engineer",
       "company": "",
       "location": "hybrid",
@@ -162,26 +117,6 @@
         "automation",
         "ci/cd",
         "Salario 💰"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
-    },
-    {
-      "title": "QA Automation Engineer",
-      "company": "",
-      "location": "hybrid",
-      "description": "  Experiencia sólida en automatización de pruebas mobile con con Java y Cucumber.  Conocimiento práctico en automatización de pruebas móviles, idealmente con Appium o soluciones equivalentes que permitan validar apps nativas y React Native.,  Experiencia validando servicios RESTful y pruebas de contratos (por ejemplo, usando RestAssured o herramientas similares).,  Capacidad de trabajar con equipos de producto y desarrollo para entender requerimientos funcionales y técnicos.,  Experiencia trabajando en entornos ágiles, colaborativos y orientados a la entrega continua de valor.,  Experiencia en consultas SQL para validación de datos.,  ",
-      "date": 1779803189,
-      "salary": null,
-      "url": "https://www.getonbrd.com/jobs/qa-automation-engineer-dynamic-devs-remote-5056",
-      "source": "GetOnBoard",
-      "id": "03b5db6651bd",
-      "score": 55,
-      "matches": [
-        "Rol QA ✓",
-        "automation",
-        "sql",
-        "appium"
       ],
       "warnings": [],
       "verdict": "bueno"
@@ -209,17 +144,16 @@
       "title": "QA Funcional",
       "company": "",
       "location": "hybrid",
-      "description": "  Estudios en Ciencias de la Computación, Ingeniería de Software o campo relacionado  Experiencia en diseño y ejecución de casos de prueba  Experiencia en desarrollo y pruebas de software  Experiencia en pruebas end-to-end  Fuertes habilidades analíticas y de liderazgo que puedan asegurar la calidad de nuestro trabajo  Habilidades de comunicación orales y escritas, y la capacidad de colaborar con partes internas y externas, incluyendo control de calidad, soporte a ingenieros de desarrollo, y clientes  Comprensión de las mejores prácticas con respecto a las medidas de seguridad del sistema  Conocimiento llevando a cabo Queries con SQL  Conocimiento en el funcionamiento de API Rest y cómo probarlos  ",
-      "date": 1779301139,
-      "salary": null,
-      "url": "https://www.getonbrd.com/jobs/qa-funcional-dynamic-devs-santiago-a44e",
+      "description": "  Gherkin  Cucumber  Integración continua con Jenkins y Bamboo  Herramientas de Pruebas de stress como Jmeter  Control y seguimiento de Pruebas Funcionales  Conocimiento y experiencia en Testing de Software   Contar con al menos 3 años de experiencia en estas tecnologías    Tener experiencia en banca o rubro financiero     📍 ¿Dónde y cómo trabajarás?    Ubicación oficina: Santiago  Modalidad: Hibrida  ",
+      "date": 1779981652,
+      "salary": "1800–2000",
+      "url": "https://www.getonbrd.com/jobs/qa-funcional-3it-santiago-a188",
       "source": "GetOnBoard",
       "id": "337fd09f12f5",
-      "score": 50,
+      "score": 45,
       "matches": [
         "Rol QA ✓",
-        "api rest",
-        "sql"
+        "Salario 💰"
       ],
       "warnings": [],
       "verdict": "bueno"
