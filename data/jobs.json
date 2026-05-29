@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-29T00:14:47.586563+00:00",
-  "total_fetched": 112,
+  "last_updated": "2026-05-29T14:11:14.079018+00:00",
+  "total_fetched": 116,
   "sources": {
-    "Remotive": 17,
-    "WorkingNomads": 21,
+    "Remotive": 20,
+    "WorkingNomads": 22,
     "GetOnBoard": 50,
     "Himalayas": 20,
     "Jobicy": 4
@@ -84,7 +84,7 @@
       "company": "",
       "location": "hybrid",
       "description": " -Conocimiento y experiencia en metodologías ágiles (Scrum, Kanban) -Capacidad para colaborar efectivamente con equipos de desarrollo y otros stakeholders -Experiencia en la elaboración y ejecución de planes de prueba -Conocimientos sólidos en el ciclo de vida del desarrollo de software (SDLC) -Habilidad para documentar claramente los casos de prueba, resultados y defectos -Conocimiento de herramientas de gestión de pruebas (JIRA, Zephyr). -Experiencia con pruebas de API (Postman, SoapUI) -Experiencia con pruebas Mobile (Android, iOS) -Habilidad para identificar problemas y proponer soluciones efectivas -Atención al detalle y capacidad para trabajar en un entorno dinámico y cambiante. ",
-      "date": 1779983786,
+      "date": 1780059988,
       "salary": null,
       "url": "https://www.getonbrd.com/jobs/analista-qa-coderslab-io-santiago-d1d1",
       "source": "GetOnBoard",
