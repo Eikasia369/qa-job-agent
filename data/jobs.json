@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-29T19:33:41.694296+00:00",
+  "last_updated": "2026-05-30T00:12:20.187395+00:00",
   "total_fetched": 117,
   "sources": {
     "Remotive": 20,
@@ -8,7 +8,7 @@
     "Himalayas": 20,
     "Jobicy": 4
   },
-  "new_count": 2,
+  "new_count": 0,
   "jobs": [
     {
       "title": "Senior Quality Assurance Engineer",
@@ -216,45 +216,5 @@
       "verdict": "bueno"
     }
   ],
-  "new_jobs": [
-    {
-      "title": "QA Analyst",
-      "company": "",
-      "location": "fully_remote",
-      "description": "  Experiencia comprobable como Analista QA Senior o en roles similares.  Sólidos conocimientos en pruebas manuales y automatizadas.  Experiencia en diseño y ejecución de casos de prueba funcionales y no funcionales.  Conocimiento de herramientas de gestión de incidencias y seguimiento, como Jira.  Experiencia en pruebas de APIs.  Conocimiento de metodologías ágiles (Scrum, Kanban o similares).  Capacidad analítica, orientación al detalle y enfoque en la mejora continua.  Excelentes habilidades de comunicación y trabajo en equipo.  ",
-      "date": 1780077489,
-      "salary": null,
-      "url": "https://www.getonbrd.com/jobs/analista-qa-senior-factor-it-remote",
-      "source": "GetOnBoard",
-      "id": "56d0d70c1a9f",
-      "score": 60,
-      "matches": [
-        "Rol QA ✓",
-        "jira",
-        "scrum",
-        "Remoto/Latam 🌐"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
-    },
-    {
-      "title": "Sr QA Analyst E-commerce (Inglés)",
-      "company": "",
-      "location": "fully_remote",
-      "description": "  Conocimientos y experiencias sólidas en elaboración de casos de prueba.  Conocimientos transversales en desarrollo de software  Conocimiento en gestión de proyectos  Experiencia trabajando con metodologías ágiles  Inglés intermedio.  Experiencia liderando equipos de trabajo  ",
-      "date": 1780072053,
-      "salary": "2000–3000",
-      "url": "https://www.getonbrd.com/jobs/sr-qa-analyst-e-commerce-ingles-intermedio-smith-remote",
-      "source": "GetOnBoard",
-      "id": "484b8e314429",
-      "score": 55,
-      "matches": [
-        "Rol QA ✓",
-        "Remoto/Latam 🌐",
-        "Salario 💰"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
-    }
-  ]
+  "new_jobs": []
 }
