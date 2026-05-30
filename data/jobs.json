@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-30T12:05:52.032764+00:00",
+  "last_updated": "2026-05-30T18:04:08.787098+00:00",
   "total_fetched": 115,
   "sources": {
     "Remotive": 19,
@@ -8,7 +8,7 @@
     "Himalayas": 20,
     "Jobicy": 4
   },
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "title": "Senior Quality Assurance Engineer",
@@ -234,24 +234,5 @@
       "verdict": "regular"
     }
   ],
-  "new_jobs": [
-    {
-      "title": "Semi Sr Salesforce Developer - Intermediate English (Mexico Only, No LATAM)",
-      "company": "",
-      "location": "['Mexico']",
-      "description": " Descripción  ¡Trabaja en  DaCodes !   Somos una firma de expertos en software y transformación digital de alto impacto.  Durante 10 años hemos creado soluciones enfocadas en la tecnología e innovación gracias a nuestro equipo de casi 300 talentosos #DaCoders, incluyendo desarrolladores, arquitectos, diseñadores UX/UI, PMs, QA testers y más. Nuestro equipo colabora en proyectos con clientes en LATAM y Estados Unidos, logrando resultados sobresalientes.  En  DaCodes , tendrás la oportunidad de impulsar tu desarrollo profesional, trabajar en diversos proyectos dentro de distintas industrias, y contribuir al diseño, implementación y optimización de infraestructuras en la nube.  Nuestros DaCoders tienen un gran impacto en el éxito de nuestro negocio y el de nuestros clientes. Serás el experto ",
-      "date": "",
-      "salary": null,
-      "url": "https://himalayas.app/companies/dacodes/jobs/semi-sr-salesforce-developer-intermediate-english-mexico-only-no-latam",
-      "source": "Himalayas",
-      "id": "cf5a2af28738",
-      "score": 30,
-      "matches": [
-        "Rol QA (desc)",
-        "Remoto/Latam 🌐"
-      ],
-      "warnings": [],
-      "verdict": "regular"
-    }
-  ]
+  "new_jobs": []
 }
