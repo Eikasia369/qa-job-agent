@@ -1,165 +1,15 @@
 {
-  "last_updated": "2026-05-31T18:06:24.519684+00:00",
-  "total_fetched": 114,
+  "last_updated": "2026-06-01T00:09:59.843695+00:00",
+  "total_fetched": 64,
   "sources": {
     "Remotive": 19,
     "WorkingNomads": 21,
-    "GetOnBoard": 50,
+    "GetOnBoard": 0,
     "Himalayas": 20,
     "Jobicy": 4
   },
-  "new_count": 0,
+  "new_count": 1,
   "jobs": [
-    {
-      "title": "Senior Quality Assurance Engineer",
-      "company": "",
-      "location": "fully_remote",
-      "description": "  You have a bachelor’s degree in Computer Science, Computer Engineering, Information Technology, or equivalent  You have 6+ years of experience in Automation roles.   You have a deep understanding of software QA methodologies, best practices, tools, and processes  You have 3+ years of experience with Javascript, Typescript or a similar scripting language  You have 3+ years of experience creating and maintaining test automation scripts (preferably with Cypress, Playwright, and Appium using Javascript)  You strongly understand CI/CD platforms and incorporate QA best practices.  You have a deep understanding of Agile/Scrum development principles.  You have experience providing mentorship to other team members on QA best practices and methodologies.  You possess strong analytical and problem-",
-      "date": 1779899046,
-      "salary": null,
-      "url": "https://www.getonbrd.com/jobs/senior-quality-assurance-engineer-apply-digital-latam-remote-9d3b",
-      "source": "GetOnBoard",
-      "id": "17a89e129fd3",
-      "score": 95,
-      "matches": [
-        "Rol QA ✓",
-        "playwright",
-        "automation",
-        "agile",
-        "scrum",
-        "javascript",
-        "typescript",
-        "cypress"
-      ],
-      "warnings": [],
-      "verdict": "excelente"
-    },
-    {
-      "title": "QA Tester Automation (Banca)",
-      "company": "",
-      "location": "no_remote",
-      "description": "  🎓 Formación Académica    Título en Ingeniería de Sistemas, Ingeniería en Software o carreras afines.    💼 Experiencia    2 a 3 años de experiencia en testing de aplicaciones web y móviles.  Experiencia en proyectos del sector bancario (excluyente).    💎 Conocimientos Técnicos    Manejo de GIT.  Conocimiento en la gestión del ciclo de vida de pruebas.  Herramientas de automatización de pruebas: Katalon Studio, Appium, Postman.  Ejecución de pruebas: pruebas automatizadas, pruebas funcionales y no funcionales, pruebas de rendimiento.  Deseable: Uso de herramientas de gestión de pruebas como Azure DevOps.    🎯 Competencias    Alta orientación al detalle.  Comunicación asertiva.  Capacidad de búsqueda y análisis de información.  Alta capacidad de autoaprendizaje y mejora continua.  ",
-      "date": 1779902107,
-      "salary": "1100–1700",
-      "url": "https://www.getonbrd.com/jobs/qa-tester-automation-banca-bayteq-cia-ltda-quito",
-      "source": "GetOnBoard",
-      "id": "fab7b9d68fd5",
-      "score": 70,
-      "matches": [
-        "Rol QA ✓",
-        "postman",
-        "automation",
-        "appium",
-        "Remoto/Latam 🌐",
-        "Salario 💰"
-      ],
-      "warnings": [],
-      "verdict": "excelente"
-    },
-    {
-      "title": "QA Automation",
-      "company": "",
-      "location": "hybrid",
-      "description": "  Experiencia comprobable en automatización de pruebas de software.   Dominio de TypeScript  para el desarrollo de frameworks y scripts de automatización de pruebas.  Experiencia desarrollando o manteniendo frameworks de testing automatizado (preferentemente con  TypeScript  + Playwright, Cypress o Jest).  Experiencia realizando testing de APIs (REST o GraphQL).  Experiencia trabajando con herramientas de testing automatizado y suites de pruebas escritas en  TypeScript .  Experiencia integrando pruebas automatizadas en pipelines de CI/CD.  Conocimiento de estrategias de testing (unit, integration, end-to-end).  Experiencia colaborando con equipos de desarrollo en entornos ágiles (Scrum o Kanban).  ",
-      "date": 1779886956,
-      "salary": null,
-      "url": "https://www.getonbrd.com/jobs/qa-automation-witi-santiago-87b6",
-      "source": "GetOnBoard",
-      "id": "9c624aadee1d",
-      "score": 70,
-      "matches": [
-        "Rol QA ✓",
-        "playwright",
-        "automation",
-        "scrum",
-        "typescript",
-        "cypress",
-        "ci/cd"
-      ],
-      "warnings": [],
-      "verdict": "excelente"
-    },
-    {
-      "title": "Analista QA",
-      "company": "",
-      "location": "hybrid",
-      "description": " -Conocimiento y experiencia en metodologías ágiles (Scrum, Kanban) -Capacidad para colaborar efectivamente con equipos de desarrollo y otros stakeholders -Experiencia en la elaboración y ejecución de planes de prueba -Conocimientos sólidos en el ciclo de vida del desarrollo de software (SDLC) -Habilidad para documentar claramente los casos de prueba, resultados y defectos -Conocimiento de herramientas de gestión de pruebas (JIRA, Zephyr). -Experiencia con pruebas de API (Postman, SoapUI) -Experiencia con pruebas Mobile (Android, iOS) -Habilidad para identificar problemas y proponer soluciones efectivas -Atención al detalle y capacidad para trabajar en un entorno dinámico y cambiante. ",
-      "date": 1780082568,
-      "salary": null,
-      "url": "https://www.getonbrd.com/jobs/analista-qa-coderslab-io-santiago-d1d1",
-      "source": "GetOnBoard",
-      "id": "03cb9d7b9df5",
-      "score": 65,
-      "matches": [
-        "Rol QA ✓",
-        "postman",
-        "jira",
-        "scrum",
-        "defect",
-        "zephyr"
-      ],
-      "warnings": [],
-      "verdict": "excelente"
-    },
-    {
-      "title": "QA Analyst",
-      "company": "",
-      "location": "fully_remote",
-      "description": "  Experiencia comprobable como Analista QA Senior o en roles similares.  Sólidos conocimientos en pruebas manuales y automatizadas.  Experiencia en diseño y ejecución de casos de prueba funcionales y no funcionales.  Conocimiento de herramientas de gestión de incidencias y seguimiento, como Jira.  Experiencia en pruebas de APIs.  Conocimiento de metodologías ágiles (Scrum, Kanban o similares).  Capacidad analítica, orientación al detalle y enfoque en la mejora continua.  Excelentes habilidades de comunicación y trabajo en equipo.  ",
-      "date": 1780077489,
-      "salary": null,
-      "url": "https://www.getonbrd.com/jobs/analista-qa-senior-factor-it-remote",
-      "source": "GetOnBoard",
-      "id": "56d0d70c1a9f",
-      "score": 60,
-      "matches": [
-        "Rol QA ✓",
-        "jira",
-        "scrum",
-        "Remoto/Latam 🌐"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
-    },
-    {
-      "title": "Sr QA Analyst E-commerce (Inglés)",
-      "company": "",
-      "location": "fully_remote",
-      "description": "  Conocimientos y experiencias sólidas en elaboración de casos de prueba.  Conocimientos transversales en desarrollo de software  Conocimiento en gestión de proyectos  Experiencia trabajando con metodologías ágiles  Inglés intermedio.  Experiencia liderando equipos de trabajo  ",
-      "date": 1780072053,
-      "salary": "2000–3000",
-      "url": "https://www.getonbrd.com/jobs/sr-qa-analyst-e-commerce-ingles-intermedio-smith-remote",
-      "source": "GetOnBoard",
-      "id": "484b8e314429",
-      "score": 55,
-      "matches": [
-        "Rol QA ✓",
-        "Remoto/Latam 🌐",
-        "Salario 💰"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
-    },
-    {
-      "title": "AI Automation QA Engineer",
-      "company": "",
-      "location": "hybrid",
-      "description": "  Experiencia sólida en automatización de pruebas (funcional, regresión, integración).  Conocimiento de metodologías  BDD / TDD  y escritura de casos en lenguaje estructurado.  Capacidad de integrar herramientas de testing con pipelines  CI/CD .  Experiencia aplicando o trabajando con herramientas de  IA  para generación o mantenimiento de pruebas (Debe estar mencionado en el CV)     Compromisos de trabajo    Orientación a calidad y mejora continua para elevar cobertura de regresión automatizada.  Comunicación clara para documentar y transferir conocimiento (incluida la transición del rol a partir del mes 13).  Colaboración con equipos de desarrollo y QA para alinear pruebas, ambientes y datos con las necesidades del producto.  ",
-      "date": 1779826349,
-      "salary": "1300–2100",
-      "url": "https://www.getonbrd.com/jobs/ai-automation-qa-engineer-tcit-santiago",
-      "source": "GetOnBoard",
-      "id": "8a56a3d384e3",
-      "score": 55,
-      "matches": [
-        "Rol QA ✓",
-        "automation",
-        "ci/cd",
-        "Salario 💰"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
-    },
     {
       "title": "Senior Quality Assurance Automation Engineer",
       "company": "Experian",
@@ -180,41 +30,40 @@
       "verdict": "bueno"
     },
     {
-      "title": "QA Funcional",
+      "title": "Peer Review QA Supervisor",
       "company": "",
-      "location": "hybrid",
-      "description": "  Gherkin  Cucumber  Integración continua con Jenkins y Bamboo  Herramientas de Pruebas de stress como Jmeter  Control y seguimiento de Pruebas Funcionales  Conocimiento y experiencia en Testing de Software   Contar con al menos 3 años de experiencia en estas tecnologías    Tener experiencia en banca o rubro financiero     📍 ¿Dónde y cómo trabajarás?    Ubicación oficina: Santiago  Modalidad: Hibrida  ",
-      "date": 1779981652,
-      "salary": "1800–2000",
-      "url": "https://www.getonbrd.com/jobs/qa-funcional-3it-santiago-a188",
-      "source": "GetOnBoard",
-      "id": "337fd09f12f5",
-      "score": 45,
-      "matches": [
-        "Rol QA ✓",
-        "Salario 💰"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
-    },
-    {
-      "title": "QA Junior",
-      "company": "",
-      "location": "hybrid",
-      "description": " Nos encontramos en búsqueda de un(a) QA Junior con alta motivación por el aprendizaje, orientación a la calidad y ganas de desarrollarse en entornos tecnológicos modernos.  El objetivo principal del cargo será garantizar la calidad de las soluciones tecnológicas desarrolladas dentro de los distintos proyectos, ejecutando tareas de validación, control y mejora continua.   Requisitos Técnicos    Mandatorios    Conocimientos básicos o afinidad para comprender flujos backend en: Java con Spring Boot.  Node.js con NestJS.  Manejo básico de PostgreSQL.  Conocimiento o experiencia con frameworks frontend modernos: React, Angular o Vue.    Deseables    Conocimientos básicos de automatización de pruebas.  Experiencia o conocimientos en APIs REST.  Manejo básico de herramientas de gestión QA.  Cono",
-      "date": 1779835488,
+      "location": "['United States']",
+      "description": " JOB SUMMARY  The QA Supervisor is responsible for the oversight of the review of Physician reports and accompanying medical records to ensure that the report is complete, accurate, and consistent with medical evidence.   Dane Street ’s success relies on individual and team contributions every day. We care for our customers, each other and  Dane Street . It is the responsibility for all of us to maintain a positive working environment that promotes client satisfaction and results.  MAJOR DUTIES &amp; RESPONSIBILITIES   Oversight of QA staff     Ensure appropriate QA staff are assigned to each file to designate file handling responsibilities amongst the team.  Supervise the assigned staff and manage the File Review Board to ensure a timely and accurate process of each file.   Provide detail",
+      "date": "",
       "salary": null,
-      "url": "https://www.getonbrd.com/jobs/qa-junior-bc-tecnologia-santiago",
-      "source": "GetOnBoard",
-      "id": "1fb491860359",
-      "score": 45,
+      "url": "https://himalayas.app/companies/danestreet/jobs/peer-review-qa-supervisor",
+      "source": "Himalayas",
+      "id": "7e0cd7b13d03",
+      "score": 40,
       "matches": [
-        "Rol QA ✓",
-        "sql"
+        "Rol QA ✓"
       ],
       "warnings": [],
-      "verdict": "bueno"
+      "verdict": "regular"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "title": "Peer Review QA Supervisor",
+      "company": "",
+      "location": "['United States']",
+      "description": " JOB SUMMARY  The QA Supervisor is responsible for the oversight of the review of Physician reports and accompanying medical records to ensure that the report is complete, accurate, and consistent with medical evidence.   Dane Street ’s success relies on individual and team contributions every day. We care for our customers, each other and  Dane Street . It is the responsibility for all of us to maintain a positive working environment that promotes client satisfaction and results.  MAJOR DUTIES &amp; RESPONSIBILITIES   Oversight of QA staff     Ensure appropriate QA staff are assigned to each file to designate file handling responsibilities amongst the team.  Supervise the assigned staff and manage the File Review Board to ensure a timely and accurate process of each file.   Provide detail",
+      "date": "",
+      "salary": null,
+      "url": "https://himalayas.app/companies/danestreet/jobs/peer-review-qa-supervisor",
+      "source": "Himalayas",
+      "id": "7e0cd7b13d03",
+      "score": 40,
+      "matches": [
+        "Rol QA ✓"
+      ],
+      "warnings": [],
+      "verdict": "regular"
+    }
+  ]
 }
