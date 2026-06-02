@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-06-02T00:17:23.758644+00:00",
-  "total_fetched": 117,
+  "last_updated": "2026-06-02T14:58:17.430944+00:00",
+  "total_fetched": 133,
   "sources": {
     "Remotive": 18,
-    "WorkingNomads": 24,
+    "WorkingNomads": 40,
     "GetOnBoard": 50,
     "Himalayas": 20,
     "Jobicy": 5
   },
-  "new_count": 0,
+  "new_count": 1,
   "jobs": [
     {
       "title": "Senior Quality Assurance Engineer",
@@ -30,51 +30,6 @@
         "javascript",
         "typescript",
         "cypress"
-      ],
-      "warnings": [],
-      "verdict": "excelente"
-    },
-    {
-      "title": "QA Tester Automation (Banca)",
-      "company": "",
-      "location": "no_remote",
-      "description": "  🎓 Formación Académica    Título en Ingeniería de Sistemas, Ingeniería en Software o carreras afines.    💼 Experiencia    2 a 3 años de experiencia en testing de aplicaciones web y móviles.  Experiencia en proyectos del sector bancario (excluyente).    💎 Conocimientos Técnicos    Manejo de GIT.  Conocimiento en la gestión del ciclo de vida de pruebas.  Herramientas de automatización de pruebas: Katalon Studio, Appium, Postman.  Ejecución de pruebas: pruebas automatizadas, pruebas funcionales y no funcionales, pruebas de rendimiento.  Deseable: Uso de herramientas de gestión de pruebas como Azure DevOps.    🎯 Competencias    Alta orientación al detalle.  Comunicación asertiva.  Capacidad de búsqueda y análisis de información.  Alta capacidad de autoaprendizaje y mejora continua.  ",
-      "date": 1779902107,
-      "salary": "1100–1700",
-      "url": "https://www.getonbrd.com/jobs/qa-tester-automation-banca-bayteq-cia-ltda-quito",
-      "source": "GetOnBoard",
-      "id": "fab7b9d68fd5",
-      "score": 70,
-      "matches": [
-        "Rol QA ✓",
-        "postman",
-        "automation",
-        "appium",
-        "Remoto/Latam 🌐",
-        "Salario 💰"
-      ],
-      "warnings": [],
-      "verdict": "excelente"
-    },
-    {
-      "title": "QA Automation",
-      "company": "",
-      "location": "hybrid",
-      "description": "  Experiencia comprobable en automatización de pruebas de software.   Dominio de TypeScript  para el desarrollo de frameworks y scripts de automatización de pruebas.  Experiencia desarrollando o manteniendo frameworks de testing automatizado (preferentemente con  TypeScript  + Playwright, Cypress o Jest).  Experiencia realizando testing de APIs (REST o GraphQL).  Experiencia trabajando con herramientas de testing automatizado y suites de pruebas escritas en  TypeScript .  Experiencia integrando pruebas automatizadas en pipelines de CI/CD.  Conocimiento de estrategias de testing (unit, integration, end-to-end).  Experiencia colaborando con equipos de desarrollo en entornos ágiles (Scrum o Kanban).  ",
-      "date": 1779886956,
-      "salary": null,
-      "url": "https://www.getonbrd.com/jobs/qa-automation-witi-santiago-87b6",
-      "source": "GetOnBoard",
-      "id": "9c624aadee1d",
-      "score": 70,
-      "matches": [
-        "Rol QA ✓",
-        "playwright",
-        "automation",
-        "scrum",
-        "typescript",
-        "cypress",
-        "ci/cd"
       ],
       "warnings": [],
       "verdict": "excelente"
@@ -161,6 +116,26 @@
       "verdict": "bueno"
     },
     {
+      "title": "QA Automation",
+      "company": "",
+      "location": "hybrid",
+      "description": "  Entre 2 y 4 años de experiencia en QA combinando roles de Manual y Automation.  Dominio de Playwright con TypeScript para automatización de pruebas funcionales.  Experiencia con herramientas de performance testing, específicamente k6.io.  Conocimientos de IA agéntica aplicada a la generación de casos de prueba y scripts.  ",
+      "date": 1780411518,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/qa-automation-witi-santiago-1761",
+      "source": "GetOnBoard",
+      "id": "9c624aadee1d",
+      "score": 55,
+      "matches": [
+        "Rol QA ✓",
+        "playwright",
+        "automation",
+        "typescript"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    },
+    {
       "title": "Senior Quality Assurance Automation Engineer",
       "company": "Experian",
       "location": "Costa Rica",
@@ -202,6 +177,24 @@
       "verdict": "bueno"
     },
     {
+      "title": "Senior QA Automation Engineer",
+      "company": "Proxify",
+      "location": "Time zone: CET (+/- 3 hours)",
+      "description": "  About us:  \n   \n Talent has no borders. Proxify's mission is to connect top developers around the world with opportunities they deserve. So, it doesn't matter where you are; we are here to help you fast-track your independent career in the right direction. 🙂 \n Since our launch, Proxify's developers have successfully worked with 1200+ happy clients to build their products and growth features. 5000+ talented developers trust Proxify and its network to fulfill their dreams and objectives. \n Proxify is shaped by a global network of supportive, talented developers interested in remote full-time jobs. Our Glassdoor (4.5/5) and Trustpilot (4.8/5) ratings reflect the trust developers place in us and our commitment to our members' success. \n   \n  The Role:  \n   \n We are looking for a Senior QA Au",
+      "date": "2026-06-02T06:56:32-04:00",
+      "salary": null,
+      "url": "https://www.workingnomads.com/job/go/1641396/",
+      "source": "WorkingNomads",
+      "id": "6161bc6831f6",
+      "score": 45,
+      "matches": [
+        "Rol QA ✓",
+        "automation"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    },
+    {
       "title": "QA Funcional",
       "company": "",
       "location": "hybrid",
@@ -218,25 +211,26 @@
       ],
       "warnings": [],
       "verdict": "bueno"
-    },
+    }
+  ],
+  "new_jobs": [
     {
-      "title": "QA Junior",
-      "company": "",
-      "location": "hybrid",
-      "description": " Nos encontramos en búsqueda de un(a) QA Junior con alta motivación por el aprendizaje, orientación a la calidad y ganas de desarrollarse en entornos tecnológicos modernos.  El objetivo principal del cargo será garantizar la calidad de las soluciones tecnológicas desarrolladas dentro de los distintos proyectos, ejecutando tareas de validación, control y mejora continua.   Requisitos Técnicos    Mandatorios    Conocimientos básicos o afinidad para comprender flujos backend en: Java con Spring Boot.  Node.js con NestJS.  Manejo básico de PostgreSQL.  Conocimiento o experiencia con frameworks frontend modernos: React, Angular o Vue.    Deseables    Conocimientos básicos de automatización de pruebas.  Experiencia o conocimientos en APIs REST.  Manejo básico de herramientas de gestión QA.  Cono",
-      "date": 1779835488,
+      "title": "Senior QA Automation Engineer",
+      "company": "Proxify",
+      "location": "Time zone: CET (+/- 3 hours)",
+      "description": "  About us:  \n   \n Talent has no borders. Proxify's mission is to connect top developers around the world with opportunities they deserve. So, it doesn't matter where you are; we are here to help you fast-track your independent career in the right direction. 🙂 \n Since our launch, Proxify's developers have successfully worked with 1200+ happy clients to build their products and growth features. 5000+ talented developers trust Proxify and its network to fulfill their dreams and objectives. \n Proxify is shaped by a global network of supportive, talented developers interested in remote full-time jobs. Our Glassdoor (4.5/5) and Trustpilot (4.8/5) ratings reflect the trust developers place in us and our commitment to our members' success. \n   \n  The Role:  \n   \n We are looking for a Senior QA Au",
+      "date": "2026-06-02T06:56:32-04:00",
       "salary": null,
-      "url": "https://www.getonbrd.com/jobs/qa-junior-bc-tecnologia-santiago",
-      "source": "GetOnBoard",
-      "id": "1fb491860359",
+      "url": "https://www.workingnomads.com/job/go/1641396/",
+      "source": "WorkingNomads",
+      "id": "6161bc6831f6",
       "score": 45,
       "matches": [
         "Rol QA ✓",
-        "sql"
+        "automation"
       ],
       "warnings": [],
       "verdict": "bueno"
     }
-  ],
-  "new_jobs": []
+  ]
 }
