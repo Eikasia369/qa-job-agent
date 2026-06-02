@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-01T20:57:46.424144+00:00",
+  "last_updated": "2026-06-02T00:17:23.758644+00:00",
   "total_fetched": 117,
   "sources": {
     "Remotive": 18,
@@ -8,7 +8,7 @@
     "Himalayas": 20,
     "Jobicy": 5
   },
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "title": "Senior Quality Assurance Engineer",
@@ -52,6 +52,29 @@
         "appium",
         "Remoto/Latam 🌐",
         "Salario 💰"
+      ],
+      "warnings": [],
+      "verdict": "excelente"
+    },
+    {
+      "title": "QA Automation",
+      "company": "",
+      "location": "hybrid",
+      "description": "  Experiencia comprobable en automatización de pruebas de software.   Dominio de TypeScript  para el desarrollo de frameworks y scripts de automatización de pruebas.  Experiencia desarrollando o manteniendo frameworks de testing automatizado (preferentemente con  TypeScript  + Playwright, Cypress o Jest).  Experiencia realizando testing de APIs (REST o GraphQL).  Experiencia trabajando con herramientas de testing automatizado y suites de pruebas escritas en  TypeScript .  Experiencia integrando pruebas automatizadas en pipelines de CI/CD.  Conocimiento de estrategias de testing (unit, integration, end-to-end).  Experiencia colaborando con equipos de desarrollo en entornos ágiles (Scrum o Kanban).  ",
+      "date": 1779886956,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/qa-automation-witi-santiago-87b6",
+      "source": "GetOnBoard",
+      "id": "9c624aadee1d",
+      "score": 70,
+      "matches": [
+        "Rol QA ✓",
+        "playwright",
+        "automation",
+        "scrum",
+        "typescript",
+        "cypress",
+        "ci/cd"
       ],
       "warnings": [],
       "verdict": "excelente"
@@ -195,30 +218,25 @@
       ],
       "warnings": [],
       "verdict": "bueno"
-    }
-  ],
-  "new_jobs": [
+    },
     {
-      "title": "Project Manager (Software Programs & Platform)",
+      "title": "QA Junior",
       "company": "",
-      "location": "remote_local",
-      "description": "  Senior professional with 3-5+ years of project management experience in software or regulatory-driven environments  PMP Certification (Project Management Professional)  Proven track record managing cross-functional teams through full SDLC  Deep expertise in Agile/Scrum methodologies and sprint planning  Advanced proficiency with Jira, Confluence, and modern project management tooling  Hands-on experience with release management and QA process oversight  C1 English level or higher for seamless international collaboration   Skills   Project Management  Agile Methodologies  Scrum  Jira  Confluence  SDLC (Software Development Life Cycle)  Cross-Functional Team Coordination  QA Process Overview  Release Management  Conversational English  Sprint Planning.  SDLC  Sprint Planning  PMP Certifica",
-      "date": 1780346528,
-      "salary": "2000–3000",
-      "url": "https://www.getonbrd.com/jobs/project-manager-software-programs-platform-niuro-remote",
+      "location": "hybrid",
+      "description": " Nos encontramos en búsqueda de un(a) QA Junior con alta motivación por el aprendizaje, orientación a la calidad y ganas de desarrollarse en entornos tecnológicos modernos.  El objetivo principal del cargo será garantizar la calidad de las soluciones tecnológicas desarrolladas dentro de los distintos proyectos, ejecutando tareas de validación, control y mejora continua.   Requisitos Técnicos    Mandatorios    Conocimientos básicos o afinidad para comprender flujos backend en: Java con Spring Boot.  Node.js con NestJS.  Manejo básico de PostgreSQL.  Conocimiento o experiencia con frameworks frontend modernos: React, Angular o Vue.    Deseables    Conocimientos básicos de automatización de pruebas.  Experiencia o conocimientos en APIs REST.  Manejo básico de herramientas de gestión QA.  Cono",
+      "date": 1779835488,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/qa-junior-bc-tecnologia-santiago",
       "source": "GetOnBoard",
-      "id": "a9710448c66e",
-      "score": 50,
+      "id": "1fb491860359",
+      "score": 45,
       "matches": [
-        "Rol QA (desc)",
-        "jira",
-        "agile",
-        "scrum",
-        "Remoto/Latam 🌐",
-        "Salario 💰"
+        "Rol QA ✓",
+        "sql"
       ],
       "warnings": [],
       "verdict": "bueno"
     }
-  ]
+  ],
+  "new_jobs": []
 }
