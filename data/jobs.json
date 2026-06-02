@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-02T14:58:17.430944+00:00",
+  "last_updated": "2026-06-02T20:08:33.582419+00:00",
   "total_fetched": 133,
   "sources": {
     "Remotive": 18,
@@ -8,7 +8,7 @@
     "Himalayas": 20,
     "Jobicy": 5
   },
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "title": "Senior Quality Assurance Engineer",
@@ -39,7 +39,7 @@
       "company": "",
       "location": "hybrid",
       "description": " -Conocimiento y experiencia en metodologías ágiles (Scrum, Kanban) -Capacidad para colaborar efectivamente con equipos de desarrollo y otros stakeholders -Experiencia en la elaboración y ejecución de planes de prueba -Conocimientos sólidos en el ciclo de vida del desarrollo de software (SDLC) -Habilidad para documentar claramente los casos de prueba, resultados y defectos -Conocimiento de herramientas de gestión de pruebas (JIRA, Zephyr). -Experiencia con pruebas de API (Postman, SoapUI) -Experiencia con pruebas Mobile (Android, iOS) -Habilidad para identificar problemas y proponer soluciones efectivas -Atención al detalle y capacidad para trabajar en un entorno dinámico y cambiante. ",
-      "date": 1780345666,
+      "date": 1780430255,
       "salary": null,
       "url": "https://www.getonbrd.com/jobs/analista-qa-coderslab-io-santiago-d1d1",
       "source": "GetOnBoard",
@@ -213,24 +213,5 @@
       "verdict": "bueno"
     }
   ],
-  "new_jobs": [
-    {
-      "title": "Senior QA Automation Engineer",
-      "company": "Proxify",
-      "location": "Time zone: CET (+/- 3 hours)",
-      "description": "  About us:  \n   \n Talent has no borders. Proxify's mission is to connect top developers around the world with opportunities they deserve. So, it doesn't matter where you are; we are here to help you fast-track your independent career in the right direction. 🙂 \n Since our launch, Proxify's developers have successfully worked with 1200+ happy clients to build their products and growth features. 5000+ talented developers trust Proxify and its network to fulfill their dreams and objectives. \n Proxify is shaped by a global network of supportive, talented developers interested in remote full-time jobs. Our Glassdoor (4.5/5) and Trustpilot (4.8/5) ratings reflect the trust developers place in us and our commitment to our members' success. \n   \n  The Role:  \n   \n We are looking for a Senior QA Au",
-      "date": "2026-06-02T06:56:32-04:00",
-      "salary": null,
-      "url": "https://www.workingnomads.com/job/go/1641396/",
-      "source": "WorkingNomads",
-      "id": "6161bc6831f6",
-      "score": 45,
-      "matches": [
-        "Rol QA ✓",
-        "automation"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
-    }
-  ]
+  "new_jobs": []
 }
