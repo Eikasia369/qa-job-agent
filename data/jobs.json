@@ -1,140 +1,15 @@
 {
-  "last_updated": "2026-06-03T01:42:00.152666+00:00",
-  "total_fetched": 133,
+  "last_updated": "2026-06-03T15:49:11.827984+00:00",
+  "total_fetched": 90,
   "sources": {
-    "Remotive": 18,
-    "WorkingNomads": 40,
-    "GetOnBoard": 50,
+    "Remotive": 23,
+    "WorkingNomads": 42,
+    "GetOnBoard": 0,
     "Himalayas": 20,
     "Jobicy": 5
   },
   "new_count": 0,
   "jobs": [
-    {
-      "title": "Senior Quality Assurance Engineer",
-      "company": "",
-      "location": "fully_remote",
-      "description": "  You have a bachelor’s degree in Computer Science, Computer Engineering, Information Technology, or equivalent  You have 6+ years of experience in Automation roles.   You have a deep understanding of software QA methodologies, best practices, tools, and processes  You have 3+ years of experience with Javascript, Typescript or a similar scripting language  You have 3+ years of experience creating and maintaining test automation scripts (preferably with Cypress, Playwright, and Appium using Javascript)  You strongly understand CI/CD platforms and incorporate QA best practices.  You have a deep understanding of Agile/Scrum development principles.  You have experience providing mentorship to other team members on QA best practices and methodologies.  You possess strong analytical and problem-",
-      "date": 1779899046,
-      "salary": null,
-      "url": "https://www.getonbrd.com/jobs/senior-quality-assurance-engineer-apply-digital-latam-remote-9d3b",
-      "source": "GetOnBoard",
-      "id": "17a89e129fd3",
-      "score": 95,
-      "matches": [
-        "Rol QA ✓",
-        "playwright",
-        "automation",
-        "agile",
-        "scrum",
-        "javascript",
-        "typescript",
-        "cypress"
-      ],
-      "warnings": [],
-      "verdict": "excelente"
-    },
-    {
-      "title": "Analista QA",
-      "company": "",
-      "location": "hybrid",
-      "description": " -Conocimiento y experiencia en metodologías ágiles (Scrum, Kanban) -Capacidad para colaborar efectivamente con equipos de desarrollo y otros stakeholders -Experiencia en la elaboración y ejecución de planes de prueba -Conocimientos sólidos en el ciclo de vida del desarrollo de software (SDLC) -Habilidad para documentar claramente los casos de prueba, resultados y defectos -Conocimiento de herramientas de gestión de pruebas (JIRA, Zephyr). -Experiencia con pruebas de API (Postman, SoapUI) -Experiencia con pruebas Mobile (Android, iOS) -Habilidad para identificar problemas y proponer soluciones efectivas -Atención al detalle y capacidad para trabajar en un entorno dinámico y cambiante. ",
-      "date": 1780430255,
-      "salary": null,
-      "url": "https://www.getonbrd.com/jobs/analista-qa-coderslab-io-santiago-d1d1",
-      "source": "GetOnBoard",
-      "id": "03cb9d7b9df5",
-      "score": 65,
-      "matches": [
-        "Rol QA ✓",
-        "postman",
-        "jira",
-        "scrum",
-        "defect",
-        "zephyr"
-      ],
-      "warnings": [],
-      "verdict": "excelente"
-    },
-    {
-      "title": "QA Analyst",
-      "company": "",
-      "location": "fully_remote",
-      "description": "  Experiencia comprobable como Analista QA Senior o en roles similares.  Sólidos conocimientos en pruebas manuales y automatizadas.  Experiencia en diseño y ejecución de casos de prueba funcionales y no funcionales.  Conocimiento de herramientas de gestión de incidencias y seguimiento, como Jira.  Experiencia en pruebas de APIs.  Conocimiento de metodologías ágiles (Scrum, Kanban o similares).  Capacidad analítica, orientación al detalle y enfoque en la mejora continua.  Excelentes habilidades de comunicación y trabajo en equipo.  ",
-      "date": 1780077489,
-      "salary": null,
-      "url": "https://www.getonbrd.com/jobs/analista-qa-senior-factor-it-remote",
-      "source": "GetOnBoard",
-      "id": "56d0d70c1a9f",
-      "score": 60,
-      "matches": [
-        "Rol QA ✓",
-        "jira",
-        "scrum",
-        "Remoto/Latam 🌐"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
-    },
-    {
-      "title": "Sr QA Analyst E-commerce (Inglés)",
-      "company": "",
-      "location": "fully_remote",
-      "description": "  Conocimientos y experiencias sólidas en elaboración de casos de prueba.  Conocimientos transversales en desarrollo de software  Conocimiento en gestión de proyectos  Experiencia trabajando con metodologías ágiles  Inglés intermedio.  Experiencia liderando equipos de trabajo  ",
-      "date": 1780072053,
-      "salary": "2000–3000",
-      "url": "https://www.getonbrd.com/jobs/sr-qa-analyst-e-commerce-ingles-intermedio-smith-remote",
-      "source": "GetOnBoard",
-      "id": "484b8e314429",
-      "score": 55,
-      "matches": [
-        "Rol QA ✓",
-        "Remoto/Latam 🌐",
-        "Salario 💰"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
-    },
-    {
-      "title": "AI Automation QA Engineer",
-      "company": "",
-      "location": "hybrid",
-      "description": "  Experiencia sólida en automatización de pruebas (funcional, regresión, integración).  Conocimiento de metodologías  BDD / TDD  y escritura de casos en lenguaje estructurado.  Capacidad de integrar herramientas de testing con pipelines  CI/CD .  Experiencia aplicando o trabajando con herramientas de  IA  para generación o mantenimiento de pruebas (Debe estar mencionado en el CV)     Compromisos de trabajo    Orientación a calidad y mejora continua para elevar cobertura de regresión automatizada.  Comunicación clara para documentar y transferir conocimiento (incluida la transición del rol a partir del mes 13).  Colaboración con equipos de desarrollo y QA para alinear pruebas, ambientes y datos con las necesidades del producto.  ",
-      "date": 1779826349,
-      "salary": "1300–2100",
-      "url": "https://www.getonbrd.com/jobs/ai-automation-qa-engineer-tcit-santiago",
-      "source": "GetOnBoard",
-      "id": "8a56a3d384e3",
-      "score": 55,
-      "matches": [
-        "Rol QA ✓",
-        "automation",
-        "ci/cd",
-        "Salario 💰"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
-    },
-    {
-      "title": "QA Automation",
-      "company": "",
-      "location": "hybrid",
-      "description": "  Entre 2 y 4 años de experiencia en QA combinando roles de Manual y Automation.  Dominio de Playwright con TypeScript para automatización de pruebas funcionales.  Experiencia con herramientas de performance testing, específicamente k6.io.  Conocimientos de IA agéntica aplicada a la generación de casos de prueba y scripts.  ",
-      "date": 1780411518,
-      "salary": null,
-      "url": "https://www.getonbrd.com/jobs/qa-automation-witi-santiago-1761",
-      "source": "GetOnBoard",
-      "id": "9c624aadee1d",
-      "score": 55,
-      "matches": [
-        "Rol QA ✓",
-        "playwright",
-        "automation",
-        "typescript"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
-    },
     {
       "title": "Senior Quality Assurance Automation Engineer",
       "company": "Experian",
@@ -150,28 +25,6 @@
         "Rol QA ✓",
         "automation",
         "Remoto/Latam 🌐"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
-    },
-    {
-      "title": "Project Manager (Software Programs & Platform)",
-      "company": "",
-      "location": "remote_local",
-      "description": "  Senior professional with 3-5+ years of project management experience in software or regulatory-driven environments  PMP Certification (Project Management Professional)  Proven track record managing cross-functional teams through full SDLC  Deep expertise in Agile/Scrum methodologies and sprint planning  Advanced proficiency with Jira, Confluence, and modern project management tooling  Hands-on experience with release management and QA process oversight  C1 English level or higher for seamless international collaboration   Skills   Project Management  Agile Methodologies  Scrum  Jira  Confluence  SDLC (Software Development Life Cycle)  Cross-Functional Team Coordination  QA Process Overview  Release Management  Conversational English  Sprint Planning.  SDLC  Sprint Planning  PMP Certifica",
-      "date": 1780346528,
-      "salary": "2000–3000",
-      "url": "https://www.getonbrd.com/jobs/project-manager-software-programs-platform-niuro-remote",
-      "source": "GetOnBoard",
-      "id": "a9710448c66e",
-      "score": 50,
-      "matches": [
-        "Rol QA (desc)",
-        "jira",
-        "agile",
-        "scrum",
-        "Remoto/Latam 🌐",
-        "Salario 💰"
       ],
       "warnings": [],
       "verdict": "bueno"
