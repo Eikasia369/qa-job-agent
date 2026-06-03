@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-06-03T15:49:11.827984+00:00",
-  "total_fetched": 90,
+  "last_updated": "2026-06-03T20:19:32.538729+00:00",
+  "total_fetched": 89,
   "sources": {
     "Remotive": 23,
-    "WorkingNomads": 42,
+    "WorkingNomads": 41,
     "GetOnBoard": 0,
     "Himalayas": 20,
     "Jobicy": 5
   },
-  "new_count": 0,
+  "new_count": 1,
   "jobs": [
     {
       "title": "Senior Quality Assurance Automation Engineer",
@@ -46,7 +46,42 @@
       ],
       "warnings": [],
       "verdict": "bueno"
+    },
+    {
+      "title": "Senior Manual QA Engineer, Native Mobile",
+      "company": "",
+      "location": "['Canada']",
+      "description": " At DraftKings, AI is becoming an integral part of both our present and future, powering how work gets done today, guiding smarter decisions, and sparking bold ideas. It’s transforming how we enhance customer experiences, streamline operations, and unlock new possibilities. Our teams are energized by innovation and readily embrace emerging technology. We’re not waiting for the future to arrive. We’re shaping it, one bold step at a time. To those who see AI as a driver of progress, come build the future together.  The Crown Is Yours  As a Senior QA Engineer, you will play a pivotal role in ensuring the highest quality standards across multiple projects. Integrated into our Mobile Native teams, you will lead testing efforts, shape quality processes, and make a significant impact from product",
+      "date": "",
+      "salary": null,
+      "url": "https://himalayas.app/companies/draftkings-inc/jobs/senior-manual-qa-engineer-native-mobile",
+      "source": "Himalayas",
+      "id": "d539730bb7db",
+      "score": 40,
+      "matches": [
+        "Rol QA ✓"
+      ],
+      "warnings": [],
+      "verdict": "regular"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "title": "Senior Manual QA Engineer, Native Mobile",
+      "company": "",
+      "location": "['Canada']",
+      "description": " At DraftKings, AI is becoming an integral part of both our present and future, powering how work gets done today, guiding smarter decisions, and sparking bold ideas. It’s transforming how we enhance customer experiences, streamline operations, and unlock new possibilities. Our teams are energized by innovation and readily embrace emerging technology. We’re not waiting for the future to arrive. We’re shaping it, one bold step at a time. To those who see AI as a driver of progress, come build the future together.  The Crown Is Yours  As a Senior QA Engineer, you will play a pivotal role in ensuring the highest quality standards across multiple projects. Integrated into our Mobile Native teams, you will lead testing efforts, shape quality processes, and make a significant impact from product",
+      "date": "",
+      "salary": null,
+      "url": "https://himalayas.app/companies/draftkings-inc/jobs/senior-manual-qa-engineer-native-mobile",
+      "source": "Himalayas",
+      "id": "d539730bb7db",
+      "score": 40,
+      "matches": [
+        "Rol QA ✓"
+      ],
+      "warnings": [],
+      "verdict": "regular"
+    }
+  ]
 }
