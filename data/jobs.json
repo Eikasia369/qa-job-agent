@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-02T20:08:33.582419+00:00",
+  "last_updated": "2026-06-03T01:42:00.152666+00:00",
   "total_fetched": 133,
   "sources": {
     "Remotive": 18,
@@ -190,24 +190,6 @@
       "matches": [
         "Rol QA ✓",
         "automation"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
-    },
-    {
-      "title": "QA Funcional",
-      "company": "",
-      "location": "hybrid",
-      "description": "  Gherkin  Cucumber  Integración continua con Jenkins y Bamboo  Herramientas de Pruebas de stress como Jmeter  Control y seguimiento de Pruebas Funcionales  Conocimiento y experiencia en Testing de Software   Contar con al menos 3 años de experiencia en estas tecnologías    Tener experiencia en banca o rubro financiero     📍 ¿Dónde y cómo trabajarás?    Ubicación oficina: Santiago  Modalidad: Hibrida  ",
-      "date": 1779981652,
-      "salary": "1800–2000",
-      "url": "https://www.getonbrd.com/jobs/qa-funcional-3it-santiago-a188",
-      "source": "GetOnBoard",
-      "id": "337fd09f12f5",
-      "score": 45,
-      "matches": [
-        "Rol QA ✓",
-        "Salario 💰"
       ],
       "warnings": [],
       "verdict": "bueno"
