@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-05T13:53:52.248443+00:00",
+  "last_updated": "2026-06-05T18:59:11.786876+00:00",
   "total_fetched": 93,
   "sources": {
     "Remotive": 24,
@@ -8,7 +8,7 @@
     "Himalayas": 20,
     "Jobicy": 5
   },
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "title": "Senior Quality Assurance Automation Engineer",
@@ -66,24 +66,5 @@
       "verdict": "regular"
     }
   ],
-  "new_jobs": [
-    {
-      "title": "Senior Salesforce Functional Consultant - Only CDMX México - English Required",
-      "company": "",
-      "location": "['Mexico']",
-      "description": "  Work at  DaCodes !  We are a firm of experts in high-impact software and digital transformation. For 10 years, we have been building technology and innovation-driven solutions thanks to our team of nearly 300 talented #DaCoders, including developers, architects, UX/UI designers, PMs, QA testers, and more. Our team collaborates on projects with clients across LATAM and the United States, delivering outstanding results. At  DaCodes , you will have the opportunity to boost your professional development, work on diverse projects across multiple industries, and contribute to the design, implementation, and optimization of cloud infrastructures. Our DaCoders have a significant impact on the success of both our business and our clients. You will be the expert participating in our projects, gain",
-      "date": "",
-      "salary": null,
-      "url": "https://himalayas.app/companies/dacodes/jobs/senior-salesforce-functional-consultant-only-cdmx-mexico-english-required",
-      "source": "Himalayas",
-      "id": "d5020c7e912f",
-      "score": 30,
-      "matches": [
-        "Rol QA (desc)",
-        "Remoto/Latam 🌐"
-      ],
-      "warnings": [],
-      "verdict": "regular"
-    }
-  ]
+  "new_jobs": []
 }
