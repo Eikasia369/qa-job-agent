@@ -1,15 +1,142 @@
 {
-  "last_updated": "2026-06-06T12:08:25.678754+00:00",
-  "total_fetched": 96,
+  "last_updated": "2026-06-06T18:10:43.108762+00:00",
+  "total_fetched": 146,
   "sources": {
     "Remotive": 28,
     "WorkingNomads": 43,
-    "GetOnBoard": 0,
+    "GetOnBoard": 50,
     "Himalayas": 20,
     "Jobicy": 5
   },
   "new_count": 0,
   "jobs": [
+    {
+      "title": "Senior Quality Assurance Engineer",
+      "company": "",
+      "location": "fully_remote",
+      "description": "  You have a bachelor’s degree in Computer Science, Computer Engineering, Information Technology, or equivalent  You have 6+ years of experience in Automation roles.   You have a deep understanding of software QA methodologies, best practices, tools, and processes  You have 3+ years of experience with Javascript, Typescript or a similar scripting language  You have 3+ years of experience creating and maintaining test automation scripts (preferably with Cypress, Playwright, and Appium using Javascript)  You strongly understand CI/CD platforms and incorporate QA best practices.  You have a deep understanding of Agile/Scrum development principles.  You have experience providing mentorship to other team members on QA best practices and methodologies.  You possess strong analytical and problem-",
+      "date": 1779899046,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/senior-quality-assurance-engineer-apply-digital-latam-remote-9d3b",
+      "source": "GetOnBoard",
+      "id": "17a89e129fd3",
+      "score": 95,
+      "matches": [
+        "Rol QA ✓",
+        "playwright",
+        "automation",
+        "agile",
+        "scrum",
+        "javascript",
+        "typescript",
+        "cypress"
+      ],
+      "warnings": [],
+      "verdict": "excelente"
+    },
+    {
+      "title": "Analista QA",
+      "company": "",
+      "location": "hybrid",
+      "description": " -Conocimiento y experiencia en metodologías ágiles (Scrum, Kanban) -Capacidad para colaborar efectivamente con equipos de desarrollo y otros stakeholders -Experiencia en la elaboración y ejecución de planes de prueba -Conocimientos sólidos en el ciclo de vida del desarrollo de software (SDLC) -Habilidad para documentar claramente los casos de prueba, resultados y defectos -Conocimiento de herramientas de gestión de pruebas (JIRA, Zephyr). -Experiencia con pruebas de API (Postman, SoapUI) -Experiencia con pruebas Mobile (Android, iOS) -Habilidad para identificar problemas y proponer soluciones efectivas -Atención al detalle y capacidad para trabajar en un entorno dinámico y cambiante. ",
+      "date": 1780592183,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/analista-qa-coderslab-io-santiago-d1d1",
+      "source": "GetOnBoard",
+      "id": "03cb9d7b9df5",
+      "score": 65,
+      "matches": [
+        "Rol QA ✓",
+        "postman",
+        "jira",
+        "scrum",
+        "defect",
+        "zephyr"
+      ],
+      "warnings": [],
+      "verdict": "excelente"
+    },
+    {
+      "title": "QA Automation",
+      "company": "",
+      "location": "hybrid",
+      "description": " Buscamos un(a) profesional con base sólida en ingeniería de software y experiencia práctica en aseguramiento de calidad, que disfrute construir automatización y trabajar con mentalidad de mejora continua.    Formación:  Ingeniería de Sistemas, Electrónica o carreras afines.   Experiencia:  mínimo  2 años  en pruebas de calidad de software.   Automatización:  experiencia con herramientas como  Selenium, Cypress, Playwright, Robot Framework  o similares.   Metodologías ágiles:  conocimiento y práctica trabajando en entornos ágiles.   APIs y datos:  experiencia en pruebas de  APIs  y  bases de datos  (validación de integridad, consistencia y comportamiento).   Colaboración y comunicación:  habilidad para trabajar con equipos multidisciplinarios, comunicar riesgos y resultados con claridad y ",
+      "date": 1780680827,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/qa-automation-factor-it-medellin",
+      "source": "GetOnBoard",
+      "id": "9c624aadee1d",
+      "score": 60,
+      "matches": [
+        "Rol QA ✓",
+        "playwright",
+        "automation",
+        "selenium",
+        "cypress"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    },
+    {
+      "title": "Analista QA Funcional | E-commerce y Medios de Pago",
+      "company": "",
+      "location": "hybrid",
+      "description": " Buscamos un/a Analista QA Funcional que asegure la calidad de las plataformas de ecommerce, POS y medios de pago mediante pruebas sistemáticas y una validación rigurosa de los flujos críticos. Nos importa que tengas experiencia en testing funcional, regresión y smoke testing, y que puedas traducir necesidades del negocio en casos de prueba claros, ejecutables y trazables.  Requerimos:   Experiencia en testing funcional, pruebas de regresión y smoke testing.  Capacidad para diseñar y ejecutar casos de prueba y planes de QA.  Manejo de herramientas de gestión como Jira, TestRail o similares.  Conocimiento de flujos de ecommerce: checkout, pagos y promociones.  Experiencia trabajando con metodologías ágiles (Scrum/Kanban).  Conocimientos básicos de SQL para validación de datos.  Experiencia ",
+      "date": 1780620073,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/analista-qa-funcional-junior-ecommerce-y-medios-de-pago-bc-tecnologia-santiago",
+      "source": "GetOnBoard",
+      "id": "dc7ebf711246",
+      "score": 60,
+      "matches": [
+        "Rol QA ✓",
+        "jira",
+        "scrum",
+        "sql",
+        "testrail"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    },
+    {
+      "title": "AI Automation QA Engineer SSR",
+      "company": "",
+      "location": "hybrid",
+      "description": "  Experiencia sólida en automatización de pruebas (funcional, regresión, integración).  Conocimiento de metodologías  BDD / TDD  y escritura de casos en lenguaje estructurado.  Capacidad de integrar herramientas de testing con pipelines  CI/CD .  Experiencia aplicando o trabajando con herramientas de  IA  para generación o mantenimiento de pruebas  (Debe estar Especificado en el CV)      Compromisos de trabajo    Orientación a calidad y mejora continua para elevar cobertura de regresión automatizada.  Comunicación clara para documentar y transferir conocimiento (incluida la transición del rol a partir del mes 13).  Colaboración con equipos de desarrollo y QA para alinear pruebas, ambientes y datos con las necesidades del producto.  ",
+      "date": 1780586252,
+      "salary": "1600–2400",
+      "url": "https://www.getonbrd.com/jobs/ai-automation-qa-engineer-tcit-santiago-08ec",
+      "source": "GetOnBoard",
+      "id": "6061412095c4",
+      "score": 55,
+      "matches": [
+        "Rol QA ✓",
+        "automation",
+        "ci/cd",
+        "Salario 💰"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    },
+    {
+      "title": "Sr QA Analyst E-commerce (Inglés)",
+      "company": "",
+      "location": "fully_remote",
+      "description": "  Conocimientos y experiencias sólidas en elaboración de casos de prueba.  Conocimientos transversales en desarrollo de software  Conocimiento en gestión de proyectos  Experiencia trabajando con metodologías ágiles  Inglés intermedio.  Experiencia liderando equipos de trabajo  ",
+      "date": 1780072053,
+      "salary": "2000–3000",
+      "url": "https://www.getonbrd.com/jobs/sr-qa-analyst-e-commerce-ingles-intermedio-smith-remote",
+      "source": "GetOnBoard",
+      "id": "484b8e314429",
+      "score": 55,
+      "matches": [
+        "Rol QA ✓",
+        "Remoto/Latam 🌐",
+        "Salario 💰"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    },
     {
       "title": "Senior Quality Assurance Automation Engineer",
       "company": "Experian",
@@ -25,6 +152,25 @@
         "Rol QA ✓",
         "automation",
         "Remoto/Latam 🌐"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    },
+    {
+      "title": "QA Salesforce",
+      "company": "",
+      "location": "hybrid",
+      "description": "  Experiencia de 3 a 5 años en roles QA.  Experiencia en testing funcional y/o automatización de pruebas.  Experiencia en Salesforce.  Manejo de metodologías ágiles.  Conocimientos en procesos CI/CD.  Formación en Ingeniería en Informática, Ingeniería en Computación, Analista de Sistemas, Ingeniería Civil Industrial con mención TI o carreras afines.   📌 ¿Dónde y cómo trabajarás?    Ubicación oficina: Santiago  Modalidad: Híbrida    ✋ Algunas consideraciones antes de postular:    Si estás en situación de discapacidad, cuéntanos si necesitas algún requerimiento especial para tu entrevista  ",
+      "date": 1780592121,
+      "salary": "2500–3500",
+      "url": "https://www.getonbrd.com/jobs/qa-salesforce-3it-santiago",
+      "source": "GetOnBoard",
+      "id": "05787c5417b0",
+      "score": 50,
+      "matches": [
+        "Rol QA ✓",
+        "ci/cd",
+        "Salario 💰"
       ],
       "warnings": [],
       "verdict": "bueno"
@@ -46,6 +192,23 @@
       ],
       "warnings": [],
       "verdict": "bueno"
+    },
+    {
+      "title": "QA Semi Senior (6 Meses)",
+      "company": "",
+      "location": "hybrid",
+      "description": " Buscamos un/a  QA semisenior  con experiencia sólida validando productos en dominios transaccionales y orientados al cliente, donde la calidad impacta directamente la conversión y la operación.   Requisitos y experiencia (Deben venir detallados en el CV)    Experiencia comprobable en  QA  (semisenior) con foco en  eCommerce .  Experiencia en  POS  y en la validación de flujos de transacción y sincronía de información.  Experiencia en  medios de pago : validación de integraciones, aprobaciones/rechazos, consistencia de estados y manejo de errores.  Experiencia en  promociones : cálculo, condiciones, aplicabilidad, reglas y cobertura de escenarios borde.  Conocimiento y/o experiencia trabajando con iniciativas relacionadas con  ley de protección de datos  (por ejemplo: validación de comport",
+      "date": 1780552272,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/qa-semi-senior-6-meses-agilistik-santiago",
+      "source": "GetOnBoard",
+      "id": "df40bc3ad273",
+      "score": 40,
+      "matches": [
+        "Rol QA ✓"
+      ],
+      "warnings": [],
+      "verdict": "regular"
     },
     {
       "title": "DMLSS Program Support Specialist",
