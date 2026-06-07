@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-06-07T12:22:57.325636+00:00",
-  "total_fetched": 144,
+  "last_updated": "2026-06-07T18:07:05.112977+00:00",
+  "total_fetched": 143,
   "sources": {
     "Remotive": 28,
-    "WorkingNomads": 41,
+    "WorkingNomads": 40,
     "GetOnBoard": 50,
     "Himalayas": 20,
     "Jobicy": 5
@@ -133,26 +133,6 @@
         "Rol QA ✓",
         "Remoto/Latam 🌐",
         "Salario 💰"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
-    },
-    {
-      "title": "Senior QA Engineer",
-      "company": "",
-      "location": "['United States']",
-      "description": " Role Overview  We're growing our QA team and looking for a Senior QA Engineer to partner closely on quality across our integrated platform and our expanding portfolio of AI-powered workflows.  What You Will Do  Design and maintain automated end tests for our ecosystem of internal and external systems, build evaluation frameworks for AI and LLM-powered features, and partner with engineers to embed testing into CI/CD pipelines.  Why It Might Be a Fit  You'll have real influence on tooling, standards, and process as the team grows, and you'll be instrumental in transforming our manual testing processes into a comprehensive automation suite.  Requirements   5+ years in QA or test engineering, with meaningful time spent in automation-first environments  Expert level proficiency in test automat",
-      "date": "",
-      "salary": null,
-      "url": "https://himalayas.app/companies/forward-financing/jobs/senior-qa-engineer",
-      "source": "Himalayas",
-      "id": "afa71cb3a216",
-      "score": 55,
-      "matches": [
-        "Rol QA ✓",
-        "automation",
-        "manual testing",
-        "ci/cd"
       ],
       "warnings": [],
       "verdict": "bueno"
