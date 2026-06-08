@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-06-08T14:50:11.184783+00:00",
-  "total_fetched": 142,
+  "last_updated": "2026-06-08T19:23:14.086004+00:00",
+  "total_fetched": 143,
   "sources": {
     "Remotive": 28,
-    "WorkingNomads": 39,
+    "WorkingNomads": 40,
     "GetOnBoard": 50,
     "Himalayas": 20,
     "Jobicy": 5
@@ -192,25 +192,6 @@
       ],
       "warnings": [],
       "verdict": "bueno"
-    },
-    {
-      "title": "Key Account Manager (KAM)",
-      "company": "",
-      "location": "remote_local",
-      "description": "  Mínimo 3 años como KAM, Account Manager, Customer Success Manager o rol comercial consultivo en empresas de Staffing TI, Staff Augmentation, Outsourcing o consultora tecnológica.  No se reemplaza con experiencia solo en venta de software o SaaS.  Experiencia comercial con clientes corporativos en servicios de perfiles tecnológicos, staffing, consultoría TI, outsourcing o servicios profesionales TI.  Conocimiento de roles tecnológicos: capacidad para dimensionar perfiles Backend, Fullstack, QA Automation, Product Owner, DevOps, Data Engineer u otros similares.  Capacidad consultiva para entender necesidades del cliente y detectar oportunidades alineadas con staffing y consultoría TI.  Experiencia en negociación corporativa con tomadores de decisión: gerentes de tecnología, CIOs, CTOs, ger",
-      "date": 1780496513,
-      "salary": null,
-      "url": "https://www.getonbrd.com/jobs/key-account-manager-kam-witi-remote",
-      "source": "GetOnBoard",
-      "id": "985b816eaea8",
-      "score": 35,
-      "matches": [
-        "Rol QA (desc)",
-        "automation",
-        "Remoto/Latam 🌐"
-      ],
-      "warnings": [],
-      "verdict": "regular"
     }
   ],
   "new_jobs": []
