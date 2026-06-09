@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-06-09T00:10:01.911466+00:00",
-  "total_fetched": 143,
+  "last_updated": "2026-06-09T13:45:53.675403+00:00",
+  "total_fetched": 144,
   "sources": {
-    "Remotive": 28,
-    "WorkingNomads": 40,
+    "Remotive": 27,
+    "WorkingNomads": 42,
     "GetOnBoard": 50,
     "Himalayas": 20,
     "Jobicy": 5
   },
-  "new_count": 0,
+  "new_count": 1,
   "jobs": [
     {
       "title": "Senior Quality Assurance Engineer",
@@ -39,7 +39,7 @@
       "company": "",
       "location": "hybrid",
       "description": " -Conocimiento y experiencia en metodologías ágiles (Scrum, Kanban) -Capacidad para colaborar efectivamente con equipos de desarrollo y otros stakeholders -Experiencia en la elaboración y ejecución de planes de prueba -Conocimientos sólidos en el ciclo de vida del desarrollo de software (SDLC) -Habilidad para documentar claramente los casos de prueba, resultados y defectos -Conocimiento de herramientas de gestión de pruebas (JIRA, Zephyr). -Experiencia con pruebas de API (Postman, SoapUI) -Experiencia con pruebas Mobile (Android, iOS) -Habilidad para identificar problemas y proponer soluciones efectivas -Atención al detalle y capacidad para trabajar en un entorno dinámico y cambiante. ",
-      "date": 1780592183,
+      "date": 1781011109,
       "salary": null,
       "url": "https://www.getonbrd.com/jobs/analista-qa-coderslab-io-santiago-d1d1",
       "source": "GetOnBoard",
@@ -194,6 +194,23 @@
       "verdict": "bueno"
     },
     {
+      "title": "Quality Assurance Manager – Pederson Point",
+      "company": "",
+      "location": "['United States']",
+      "description": " Role Overview  The Quality Assurance Manager oversees all aspects of the quality assurance program at a seafood processing plant. Acts as the plant’s HACCP Team Coordinator, taking the lead role in directing the preparation and implementation of the site’s HACCP Plans. Ensures plant operations adhere to the company’s and site’s operations manuals, and all regulatory requirements, customer specifications, and food safety standards mandated by the HACCP plan.  What You Will Do  Performs and manages all functions of the quality assurance program. Directs all activities of the site’s HACCP Team(s). Responsible for the site QMS program and quality benchmarks. Acts as plant liaison with internal managers and regulatory agencies on food safety and quality issues.  Why It Might Be a Fit  3-5 year",
+      "date": "",
+      "salary": null,
+      "url": "https://himalayas.app/companies/north-pacific-seafoods/jobs/quality-assurance-manager-pederson-point",
+      "source": "Himalayas",
+      "id": "4af586a22c0f",
+      "score": 40,
+      "matches": [
+        "Rol QA ✓"
+      ],
+      "warnings": [],
+      "verdict": "regular"
+    },
+    {
       "title": "Key Account Manager (KAM)",
       "company": "",
       "location": "remote_local",
@@ -213,5 +230,23 @@
       "verdict": "regular"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "title": "Quality Assurance Manager – Pederson Point",
+      "company": "",
+      "location": "['United States']",
+      "description": " Role Overview  The Quality Assurance Manager oversees all aspects of the quality assurance program at a seafood processing plant. Acts as the plant’s HACCP Team Coordinator, taking the lead role in directing the preparation and implementation of the site’s HACCP Plans. Ensures plant operations adhere to the company’s and site’s operations manuals, and all regulatory requirements, customer specifications, and food safety standards mandated by the HACCP plan.  What You Will Do  Performs and manages all functions of the quality assurance program. Directs all activities of the site’s HACCP Team(s). Responsible for the site QMS program and quality benchmarks. Acts as plant liaison with internal managers and regulatory agencies on food safety and quality issues.  Why It Might Be a Fit  3-5 year",
+      "date": "",
+      "salary": null,
+      "url": "https://himalayas.app/companies/north-pacific-seafoods/jobs/quality-assurance-manager-pederson-point",
+      "source": "Himalayas",
+      "id": "4af586a22c0f",
+      "score": 40,
+      "matches": [
+        "Rol QA ✓"
+      ],
+      "warnings": [],
+      "verdict": "regular"
+    }
+  ]
 }
