@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-09T19:19:20.705679+00:00",
+  "last_updated": "2026-06-10T00:18:39.925009+00:00",
   "total_fetched": 145,
   "sources": {
     "Remotive": 27,
@@ -8,7 +8,7 @@
     "Himalayas": 20,
     "Jobicy": 6
   },
-  "new_count": 0,
+  "new_count": 2,
   "jobs": [
     {
       "title": "Senior Quality Assurance Engineer",
@@ -78,27 +78,6 @@
       "verdict": "bueno"
     },
     {
-      "title": "Analista QA Funcional | E-commerce y Medios de Pago",
-      "company": "",
-      "location": "hybrid",
-      "description": " Buscamos un/a Analista QA Funcional que asegure la calidad de las plataformas de ecommerce, POS y medios de pago mediante pruebas sistemáticas y una validación rigurosa de los flujos críticos. Nos importa que tengas experiencia en testing funcional, regresión y smoke testing, y que puedas traducir necesidades del negocio en casos de prueba claros, ejecutables y trazables.  Requerimos:   Experiencia en testing funcional, pruebas de regresión y smoke testing.  Capacidad para diseñar y ejecutar casos de prueba y planes de QA.  Manejo de herramientas de gestión como Jira, TestRail o similares.  Conocimiento de flujos de ecommerce: checkout, pagos y promociones.  Experiencia trabajando con metodologías ágiles (Scrum/Kanban).  Conocimientos básicos de SQL para validación de datos.  Experiencia ",
-      "date": 1780620073,
-      "salary": null,
-      "url": "https://www.getonbrd.com/jobs/analista-qa-funcional-junior-ecommerce-y-medios-de-pago-bc-tecnologia-santiago",
-      "source": "GetOnBoard",
-      "id": "dc7ebf711246",
-      "score": 60,
-      "matches": [
-        "Rol QA ✓",
-        "jira",
-        "scrum",
-        "sql",
-        "testrail"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
-    },
-    {
       "title": "AI Automation QA Engineer SSR",
       "company": "",
       "location": "hybrid",
@@ -157,25 +136,6 @@
       "verdict": "bueno"
     },
     {
-      "title": "QA Salesforce",
-      "company": "",
-      "location": "hybrid",
-      "description": "  Experiencia de 3 a 5 años en roles QA.  Experiencia en testing funcional y/o automatización de pruebas.  Experiencia en Salesforce.  Manejo de metodologías ágiles.  Conocimientos en procesos CI/CD.  Formación en Ingeniería en Informática, Ingeniería en Computación, Analista de Sistemas, Ingeniería Civil Industrial con mención TI o carreras afines.   📌 ¿Dónde y cómo trabajarás?    Ubicación oficina: Santiago  Modalidad: Híbrida    ✋ Algunas consideraciones antes de postular:    Si estás en situación de discapacidad, cuéntanos si necesitas algún requerimiento especial para tu entrevista  ",
-      "date": 1780592121,
-      "salary": "2500–3500",
-      "url": "https://www.getonbrd.com/jobs/qa-salesforce-3it-santiago",
-      "source": "GetOnBoard",
-      "id": "05787c5417b0",
-      "score": 50,
-      "matches": [
-        "Rol QA ✓",
-        "ci/cd",
-        "Salario 💰"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
-    },
-    {
       "title": "Senior QA Automation Engineer",
       "company": "Proxify",
       "location": "Time zone: CET (+/- 3 hours)",
@@ -189,6 +149,24 @@
       "matches": [
         "Rol QA ✓",
         "automation"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    },
+    {
+      "title": "QA Funcional IA",
+      "company": "",
+      "location": "hybrid",
+      "description": " Buscamos una persona con mentalidad de calidad para trabajar en pruebas funcionales con foco en IA. Idealmente tendrás experiencia validando aplicaciones, traduciendo requerimientos a pruebas y colaborando con equipos técnicos para lograr entregas confiables.    Experiencia en QA funcional : diseño y ejecución de casos de prueba, análisis de resultados y reporte de defectos.  Conocimiento sólido de  ciclos de testing  (regresión, sanity, smoke) y manejo de evidencia.  Buenas bases técnicas para leer y entender comportamiento del sistema; experiencia trabajando con repositorios y versionamiento ( Git ).  Valorable: manejo de stack de desarrollo para apoyar automatización y validaciones (por ejemplo  Java 21 ,  Python ,  Maven ).  Valorable: experiencia en entornos móviles ( Android Studio ",
+      "date": 1781034692,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/qa-funcional-ia-42labs-santiago",
+      "source": "GetOnBoard",
+      "id": "1e2fc8256492",
+      "score": 45,
+      "matches": [
+        "Rol QA ✓",
+        "defect"
       ],
       "warnings": [],
       "verdict": "bueno"
@@ -209,7 +187,62 @@
       ],
       "warnings": [],
       "verdict": "regular"
+    },
+    {
+      "title": "Mobile Developer iOS (Swift)",
+      "company": "",
+      "location": "fully_remote",
+      "description": " - Desarrollo y mantenimiento de aplicaciones iOS nativas en Swift - Uso de UIKit y/o SwiftUI aplicando patrones como MVVM - Diseño de interfaces intuitivas y accesibles - Integración de servicios mediante APIs RESTful - Participación en pruebas unitarias y de UI - Revisiones de código y mejoras técnicas - Documentación de decisiones de diseño - Colaboración con equipos de backend, QA y diseño - Aseguramiento de la calidad, seguridad y rendimiento de la aplicación - Identificación de oportunidades de modernización, incluyendo el uso de Swift Concurrency ",
+      "date": 1781035298,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/mobile-developer-ios-swift-42labs-santiago",
+      "source": "GetOnBoard",
+      "id": "62d13ae9974d",
+      "score": 30,
+      "matches": [
+        "Rol QA (desc)",
+        "Remoto/Latam 🌐"
+      ],
+      "warnings": [],
+      "verdict": "regular"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "title": "QA Funcional IA",
+      "company": "",
+      "location": "hybrid",
+      "description": " Buscamos una persona con mentalidad de calidad para trabajar en pruebas funcionales con foco en IA. Idealmente tendrás experiencia validando aplicaciones, traduciendo requerimientos a pruebas y colaborando con equipos técnicos para lograr entregas confiables.    Experiencia en QA funcional : diseño y ejecución de casos de prueba, análisis de resultados y reporte de defectos.  Conocimiento sólido de  ciclos de testing  (regresión, sanity, smoke) y manejo de evidencia.  Buenas bases técnicas para leer y entender comportamiento del sistema; experiencia trabajando con repositorios y versionamiento ( Git ).  Valorable: manejo de stack de desarrollo para apoyar automatización y validaciones (por ejemplo  Java 21 ,  Python ,  Maven ).  Valorable: experiencia en entornos móviles ( Android Studio ",
+      "date": 1781034692,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/qa-funcional-ia-42labs-santiago",
+      "source": "GetOnBoard",
+      "id": "1e2fc8256492",
+      "score": 45,
+      "matches": [
+        "Rol QA ✓",
+        "defect"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    },
+    {
+      "title": "Mobile Developer iOS (Swift)",
+      "company": "",
+      "location": "fully_remote",
+      "description": " - Desarrollo y mantenimiento de aplicaciones iOS nativas en Swift - Uso de UIKit y/o SwiftUI aplicando patrones como MVVM - Diseño de interfaces intuitivas y accesibles - Integración de servicios mediante APIs RESTful - Participación en pruebas unitarias y de UI - Revisiones de código y mejoras técnicas - Documentación de decisiones de diseño - Colaboración con equipos de backend, QA y diseño - Aseguramiento de la calidad, seguridad y rendimiento de la aplicación - Identificación de oportunidades de modernización, incluyendo el uso de Swift Concurrency ",
+      "date": 1781035298,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/mobile-developer-ios-swift-42labs-santiago",
+      "source": "GetOnBoard",
+      "id": "62d13ae9974d",
+      "score": 30,
+      "matches": [
+        "Rol QA (desc)",
+        "Remoto/Latam 🌐"
+      ],
+      "warnings": [],
+      "verdict": "regular"
+    }
+  ]
 }
