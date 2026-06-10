@@ -1,121 +1,15 @@
 {
-  "last_updated": "2026-06-10T00:18:39.925009+00:00",
-  "total_fetched": 145,
+  "last_updated": "2026-06-10T14:26:31.606535+00:00",
+  "total_fetched": 99,
   "sources": {
-    "Remotive": 27,
-    "WorkingNomads": 42,
-    "GetOnBoard": 50,
+    "Remotive": 28,
+    "WorkingNomads": 45,
+    "GetOnBoard": 0,
     "Himalayas": 20,
     "Jobicy": 6
   },
-  "new_count": 2,
+  "new_count": 0,
   "jobs": [
-    {
-      "title": "Senior Quality Assurance Engineer",
-      "company": "",
-      "location": "fully_remote",
-      "description": "  You have a bachelor’s degree in Computer Science, Computer Engineering, Information Technology, or equivalent  You have 6+ years of experience in Automation roles.   You have a deep understanding of software QA methodologies, best practices, tools, and processes  You have 3+ years of experience with Javascript, Typescript or a similar scripting language  You have 3+ years of experience creating and maintaining test automation scripts (preferably with Cypress, Playwright, and Appium using Javascript)  You strongly understand CI/CD platforms and incorporate QA best practices.  You have a deep understanding of Agile/Scrum development principles.  You have experience providing mentorship to other team members on QA best practices and methodologies.  You possess strong analytical and problem-",
-      "date": 1779899046,
-      "salary": null,
-      "url": "https://www.getonbrd.com/jobs/senior-quality-assurance-engineer-apply-digital-latam-remote-9d3b",
-      "source": "GetOnBoard",
-      "id": "17a89e129fd3",
-      "score": 95,
-      "matches": [
-        "Rol QA ✓",
-        "playwright",
-        "automation",
-        "agile",
-        "scrum",
-        "javascript",
-        "typescript",
-        "cypress"
-      ],
-      "warnings": [],
-      "verdict": "excelente"
-    },
-    {
-      "title": "Analista QA",
-      "company": "",
-      "location": "hybrid",
-      "description": " -Conocimiento y experiencia en metodologías ágiles (Scrum, Kanban) -Capacidad para colaborar efectivamente con equipos de desarrollo y otros stakeholders -Experiencia en la elaboración y ejecución de planes de prueba -Conocimientos sólidos en el ciclo de vida del desarrollo de software (SDLC) -Habilidad para documentar claramente los casos de prueba, resultados y defectos -Conocimiento de herramientas de gestión de pruebas (JIRA, Zephyr). -Experiencia con pruebas de API (Postman, SoapUI) -Experiencia con pruebas Mobile (Android, iOS) -Habilidad para identificar problemas y proponer soluciones efectivas -Atención al detalle y capacidad para trabajar en un entorno dinámico y cambiante. ",
-      "date": 1781011109,
-      "salary": null,
-      "url": "https://www.getonbrd.com/jobs/analista-qa-coderslab-io-santiago-d1d1",
-      "source": "GetOnBoard",
-      "id": "03cb9d7b9df5",
-      "score": 65,
-      "matches": [
-        "Rol QA ✓",
-        "postman",
-        "jira",
-        "scrum",
-        "defect",
-        "zephyr"
-      ],
-      "warnings": [],
-      "verdict": "excelente"
-    },
-    {
-      "title": "QA Automation",
-      "company": "",
-      "location": "hybrid",
-      "description": " Buscamos un(a) profesional con base sólida en ingeniería de software y experiencia práctica en aseguramiento de calidad, que disfrute construir automatización y trabajar con mentalidad de mejora continua.    Formación:  Ingeniería de Sistemas, Electrónica o carreras afines.   Experiencia:  mínimo  2 años  en pruebas de calidad de software.   Automatización:  experiencia con herramientas como  Selenium, Cypress, Playwright, Robot Framework  o similares.   Metodologías ágiles:  conocimiento y práctica trabajando en entornos ágiles.   APIs y datos:  experiencia en pruebas de  APIs  y  bases de datos  (validación de integridad, consistencia y comportamiento).   Colaboración y comunicación:  habilidad para trabajar con equipos multidisciplinarios, comunicar riesgos y resultados con claridad y ",
-      "date": 1780680827,
-      "salary": null,
-      "url": "https://www.getonbrd.com/jobs/qa-automation-factor-it-medellin",
-      "source": "GetOnBoard",
-      "id": "9c624aadee1d",
-      "score": 60,
-      "matches": [
-        "Rol QA ✓",
-        "playwright",
-        "automation",
-        "selenium",
-        "cypress"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
-    },
-    {
-      "title": "AI Automation QA Engineer SSR",
-      "company": "",
-      "location": "hybrid",
-      "description": "  Experiencia sólida en automatización de pruebas (funcional, regresión, integración).  Conocimiento de metodologías  BDD / TDD  y escritura de casos en lenguaje estructurado.  Capacidad de integrar herramientas de testing con pipelines  CI/CD .  Experiencia aplicando o trabajando con herramientas de  IA  para generación o mantenimiento de pruebas  (Debe estar Especificado en el CV)      Compromisos de trabajo    Orientación a calidad y mejora continua para elevar cobertura de regresión automatizada.  Comunicación clara para documentar y transferir conocimiento (incluida la transición del rol a partir del mes 13).  Colaboración con equipos de desarrollo y QA para alinear pruebas, ambientes y datos con las necesidades del producto.  ",
-      "date": 1780586252,
-      "salary": "1600–2400",
-      "url": "https://www.getonbrd.com/jobs/ai-automation-qa-engineer-tcit-santiago-08ec",
-      "source": "GetOnBoard",
-      "id": "6061412095c4",
-      "score": 55,
-      "matches": [
-        "Rol QA ✓",
-        "automation",
-        "ci/cd",
-        "Salario 💰"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
-    },
-    {
-      "title": "Sr QA Analyst E-commerce (Inglés)",
-      "company": "",
-      "location": "fully_remote",
-      "description": "  Conocimientos y experiencias sólidas en elaboración de casos de prueba.  Conocimientos transversales en desarrollo de software  Conocimiento en gestión de proyectos  Experiencia trabajando con metodologías ágiles  Inglés intermedio.  Experiencia liderando equipos de trabajo  ",
-      "date": 1780072053,
-      "salary": "2000–3000",
-      "url": "https://www.getonbrd.com/jobs/sr-qa-analyst-e-commerce-ingles-intermedio-smith-remote",
-      "source": "GetOnBoard",
-      "id": "484b8e314429",
-      "score": 55,
-      "matches": [
-        "Rol QA ✓",
-        "Remoto/Latam 🌐",
-        "Salario 💰"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
-    },
     {
       "title": "Senior Quality Assurance Automation Engineer",
       "company": "Experian",
@@ -152,97 +46,7 @@
       ],
       "warnings": [],
       "verdict": "bueno"
-    },
-    {
-      "title": "QA Funcional IA",
-      "company": "",
-      "location": "hybrid",
-      "description": " Buscamos una persona con mentalidad de calidad para trabajar en pruebas funcionales con foco en IA. Idealmente tendrás experiencia validando aplicaciones, traduciendo requerimientos a pruebas y colaborando con equipos técnicos para lograr entregas confiables.    Experiencia en QA funcional : diseño y ejecución de casos de prueba, análisis de resultados y reporte de defectos.  Conocimiento sólido de  ciclos de testing  (regresión, sanity, smoke) y manejo de evidencia.  Buenas bases técnicas para leer y entender comportamiento del sistema; experiencia trabajando con repositorios y versionamiento ( Git ).  Valorable: manejo de stack de desarrollo para apoyar automatización y validaciones (por ejemplo  Java 21 ,  Python ,  Maven ).  Valorable: experiencia en entornos móviles ( Android Studio ",
-      "date": 1781034692,
-      "salary": null,
-      "url": "https://www.getonbrd.com/jobs/qa-funcional-ia-42labs-santiago",
-      "source": "GetOnBoard",
-      "id": "1e2fc8256492",
-      "score": 45,
-      "matches": [
-        "Rol QA ✓",
-        "defect"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
-    },
-    {
-      "title": "Quality Assurance Manager – Pederson Point",
-      "company": "",
-      "location": "['United States']",
-      "description": " Role Overview  The Quality Assurance Manager oversees all aspects of the quality assurance program at a seafood processing plant. Acts as the plant’s HACCP Team Coordinator, taking the lead role in directing the preparation and implementation of the site’s HACCP Plans. Ensures plant operations adhere to the company’s and site’s operations manuals, and all regulatory requirements, customer specifications, and food safety standards mandated by the HACCP plan.  What You Will Do  Performs and manages all functions of the quality assurance program. Directs all activities of the site’s HACCP Team(s). Responsible for the site QMS program and quality benchmarks. Acts as plant liaison with internal managers and regulatory agencies on food safety and quality issues.  Why It Might Be a Fit  3-5 year",
-      "date": "",
-      "salary": null,
-      "url": "https://himalayas.app/companies/north-pacific-seafoods/jobs/quality-assurance-manager-pederson-point",
-      "source": "Himalayas",
-      "id": "4af586a22c0f",
-      "score": 40,
-      "matches": [
-        "Rol QA ✓"
-      ],
-      "warnings": [],
-      "verdict": "regular"
-    },
-    {
-      "title": "Mobile Developer iOS (Swift)",
-      "company": "",
-      "location": "fully_remote",
-      "description": " - Desarrollo y mantenimiento de aplicaciones iOS nativas en Swift - Uso de UIKit y/o SwiftUI aplicando patrones como MVVM - Diseño de interfaces intuitivas y accesibles - Integración de servicios mediante APIs RESTful - Participación en pruebas unitarias y de UI - Revisiones de código y mejoras técnicas - Documentación de decisiones de diseño - Colaboración con equipos de backend, QA y diseño - Aseguramiento de la calidad, seguridad y rendimiento de la aplicación - Identificación de oportunidades de modernización, incluyendo el uso de Swift Concurrency ",
-      "date": 1781035298,
-      "salary": null,
-      "url": "https://www.getonbrd.com/jobs/mobile-developer-ios-swift-42labs-santiago",
-      "source": "GetOnBoard",
-      "id": "62d13ae9974d",
-      "score": 30,
-      "matches": [
-        "Rol QA (desc)",
-        "Remoto/Latam 🌐"
-      ],
-      "warnings": [],
-      "verdict": "regular"
     }
   ],
-  "new_jobs": [
-    {
-      "title": "QA Funcional IA",
-      "company": "",
-      "location": "hybrid",
-      "description": " Buscamos una persona con mentalidad de calidad para trabajar en pruebas funcionales con foco en IA. Idealmente tendrás experiencia validando aplicaciones, traduciendo requerimientos a pruebas y colaborando con equipos técnicos para lograr entregas confiables.    Experiencia en QA funcional : diseño y ejecución de casos de prueba, análisis de resultados y reporte de defectos.  Conocimiento sólido de  ciclos de testing  (regresión, sanity, smoke) y manejo de evidencia.  Buenas bases técnicas para leer y entender comportamiento del sistema; experiencia trabajando con repositorios y versionamiento ( Git ).  Valorable: manejo de stack de desarrollo para apoyar automatización y validaciones (por ejemplo  Java 21 ,  Python ,  Maven ).  Valorable: experiencia en entornos móviles ( Android Studio ",
-      "date": 1781034692,
-      "salary": null,
-      "url": "https://www.getonbrd.com/jobs/qa-funcional-ia-42labs-santiago",
-      "source": "GetOnBoard",
-      "id": "1e2fc8256492",
-      "score": 45,
-      "matches": [
-        "Rol QA ✓",
-        "defect"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
-    },
-    {
-      "title": "Mobile Developer iOS (Swift)",
-      "company": "",
-      "location": "fully_remote",
-      "description": " - Desarrollo y mantenimiento de aplicaciones iOS nativas en Swift - Uso de UIKit y/o SwiftUI aplicando patrones como MVVM - Diseño de interfaces intuitivas y accesibles - Integración de servicios mediante APIs RESTful - Participación en pruebas unitarias y de UI - Revisiones de código y mejoras técnicas - Documentación de decisiones de diseño - Colaboración con equipos de backend, QA y diseño - Aseguramiento de la calidad, seguridad y rendimiento de la aplicación - Identificación de oportunidades de modernización, incluyendo el uso de Swift Concurrency ",
-      "date": 1781035298,
-      "salary": null,
-      "url": "https://www.getonbrd.com/jobs/mobile-developer-ios-swift-42labs-santiago",
-      "source": "GetOnBoard",
-      "id": "62d13ae9974d",
-      "score": 30,
-      "matches": [
-        "Rol QA (desc)",
-        "Remoto/Latam 🌐"
-      ],
-      "warnings": [],
-      "verdict": "regular"
-    }
-  ]
+  "new_jobs": []
 }
