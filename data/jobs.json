@@ -1,15 +1,39 @@
 {
-  "last_updated": "2026-06-11T14:41:43.268068+00:00",
-  "total_fetched": 153,
+  "last_updated": "2026-06-11T19:37:31.282420+00:00",
+  "total_fetched": 154,
   "sources": {
     "Remotive": 28,
-    "WorkingNomads": 48,
+    "WorkingNomads": 49,
     "GetOnBoard": 50,
     "Himalayas": 20,
     "Jobicy": 7
   },
-  "new_count": 0,
+  "new_count": 1,
   "jobs": [
+    {
+      "title": "QA Automation Engineer Inglés Avanzado",
+      "company": "",
+      "location": "fully_remote",
+      "description": "  Excluyentes.  Playwright JMeter Microsoft SQL Familiaridad con TypeScript, aplicaciones web y Node.js. Familiaridad con CSS y HTML. Inglés avanzado.   Deseables.   Familiaridad con Git y GitHub. Familiaridad con metodologías ágiles Scrum o Kanban. Experiencia en Desarrollo Guiado por Pruebas (Test-Driven Development - TDD). Experiencia en la escritura y ejecución de casos de prueba (Test Cases). Experiencia en la definición y mantenimiento de matrices de prueba (Test Matrix). ",
+      "date": 1781204176,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/qa-automation-engineer-coderslab-io-remote-8f95",
+      "source": "GetOnBoard",
+      "id": "c841060449ec",
+      "score": 80,
+      "matches": [
+        "Rol QA ✓",
+        "playwright",
+        "automation",
+        "scrum",
+        "typescript",
+        "sql",
+        "test case",
+        "Remoto/Latam 🌐"
+      ],
+      "warnings": [],
+      "verdict": "excelente"
+    },
     {
       "title": "QA Salesforce",
       "company": "",
@@ -70,26 +94,6 @@
         "postman",
         "selenium",
         "sql"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
-    },
-    {
-      "title": "AI Automation QA Engineer SSR",
-      "company": "",
-      "location": "hybrid",
-      "description": "  Experiencia sólida en automatización de pruebas (funcional, regresión, integración).  Conocimiento de metodologías  BDD / TDD  y escritura de casos en lenguaje estructurado.  Capacidad de integrar herramientas de testing con pipelines  CI/CD .  Experiencia aplicando o trabajando con herramientas de  IA  para generación o mantenimiento de pruebas  (Debe estar Especificado en el CV)      Compromisos de trabajo    Orientación a calidad y mejora continua para elevar cobertura de regresión automatizada.  Comunicación clara para documentar y transferir conocimiento (incluida la transición del rol a partir del mes 13).  Colaboración con equipos de desarrollo y QA para alinear pruebas, ambientes y datos con las necesidades del producto.  ",
-      "date": 1780586252,
-      "salary": "1600–2400",
-      "url": "https://www.getonbrd.com/jobs/ai-automation-qa-engineer-tcit-santiago-08ec",
-      "source": "GetOnBoard",
-      "id": "6061412095c4",
-      "score": 55,
-      "matches": [
-        "Rol QA ✓",
-        "automation",
-        "ci/cd",
-        "Salario 💰"
       ],
       "warnings": [],
       "verdict": "bueno"
@@ -169,23 +173,6 @@
       "verdict": "bueno"
     },
     {
-      "title": "QA Funcional Automatizador (Junior)",
-      "company": "",
-      "location": "hybrid",
-      "description": " Buscamos un/a  QA Funcional Automatizador  ingeniero/a en informática  (o formación equivalente), titulado/a, con al menos  1 año de experiencia  automatizando pruebas funcionales.  Nos interesa que tengas experiencia práctica construyendo y manteniendo automatización, asegurando que los casos de prueba reflejen fielmente los requerimientos y permitan una rápida detección de errores.   Requisitos:    Titulación en  Ingeniería en Informática  o carrera afín.  Al menos  1 año  de experiencia automatizando  Capacidad para entender flujos de negocio y traducirlos en escenarios de prueba.  Buenas prácticas de documentación: claridad al reportar hallazgos y mantener trazabilidad.  Enfoque en calidad y orden: mantener tests legibles, reutilizables y mantenibles.    Habilidades y competencias:   ",
-      "date": 1781132698,
-      "salary": null,
-      "url": "https://www.getonbrd.com/jobs/qa-funcional-automatizador-junior-agilistik-santiago",
-      "source": "GetOnBoard",
-      "id": "640fc3d292ba",
-      "score": 40,
-      "matches": [
-        "Rol QA ✓"
-      ],
-      "warnings": [],
-      "verdict": "regular"
-    },
-    {
       "title": "Quality Assurance Specialist",
       "company": "ECS",
       "location": "USA",
@@ -221,5 +208,30 @@
       "verdict": "regular"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "title": "QA Automation Engineer Inglés Avanzado",
+      "company": "",
+      "location": "fully_remote",
+      "description": "  Excluyentes.  Playwright JMeter Microsoft SQL Familiaridad con TypeScript, aplicaciones web y Node.js. Familiaridad con CSS y HTML. Inglés avanzado.   Deseables.   Familiaridad con Git y GitHub. Familiaridad con metodologías ágiles Scrum o Kanban. Experiencia en Desarrollo Guiado por Pruebas (Test-Driven Development - TDD). Experiencia en la escritura y ejecución de casos de prueba (Test Cases). Experiencia en la definición y mantenimiento de matrices de prueba (Test Matrix). ",
+      "date": 1781204176,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/qa-automation-engineer-coderslab-io-remote-8f95",
+      "source": "GetOnBoard",
+      "id": "c841060449ec",
+      "score": 80,
+      "matches": [
+        "Rol QA ✓",
+        "playwright",
+        "automation",
+        "scrum",
+        "typescript",
+        "sql",
+        "test case",
+        "Remoto/Latam 🌐"
+      ],
+      "warnings": [],
+      "verdict": "excelente"
+    }
+  ]
 }
