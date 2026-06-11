@@ -1,15 +1,38 @@
 {
-  "last_updated": "2026-06-10T19:37:05.328857+00:00",
-  "total_fetched": 150,
+  "last_updated": "2026-06-11T00:20:05.284566+00:00",
+  "total_fetched": 151,
   "sources": {
     "Remotive": 28,
     "WorkingNomads": 46,
     "GetOnBoard": 50,
     "Himalayas": 20,
-    "Jobicy": 6
+    "Jobicy": 7
   },
-  "new_count": 0,
+  "new_count": 3,
   "jobs": [
+    {
+      "title": "QA Salesforce",
+      "company": "",
+      "location": "hybrid",
+      "description": "   Dominio de Salesforce.  Manejo de Jira y TestRail.  Uso de Salesforce Inspector.  Práctica en Postman y SOAP UI.  Gestión de pruebas funcionales.  Trayectoria de 3 a 5 años en QA.  Competencia en APIs REST y SOAP.  Experiencia con Selenium y Provar.  Aplicación de pruebas de regresión.  Formación en informática o carrera afín.  Conocimientos en Sales Cloud y Service Cloud.  Capacidad para validar integraciones Salesforce.  Comprensión de metodologías ágiles Scrum y Kanban.  Habilidades en documentación de hallazgos técnicos.  Implementación de pruebas automatizadas en Salesforce.  Experiencia en banca, fintech, financieras o industrias similares.  Validación de configuraciones, desarrollos, integraciones y automatizaciones.  ",
+      "date": 1781125000,
+      "salary": "2000–2500",
+      "url": "https://www.getonbrd.com/jobs/qa-salesforce-3it-santiago-b4c4",
+      "source": "GetOnBoard",
+      "id": "05787c5417b0",
+      "score": 70,
+      "matches": [
+        "Rol QA ✓",
+        "postman",
+        "selenium",
+        "jira",
+        "scrum",
+        "testrail",
+        "Salario 💰"
+      ],
+      "warnings": [],
+      "verdict": "excelente"
+    },
     {
       "title": "QA Automation",
       "company": "",
@@ -146,6 +169,58 @@
       "verdict": "bueno"
     },
     {
+      "title": "QA Funcional por Proyecto",
+      "company": "",
+      "location": "hybrid",
+      "description": "  Dominio de Gherkin y Cucumber   Experiencia en testing de software   Uso de JMeter para pruebas de estrés   Control y seguimiento de pruebas funcionales   Manejo de Jenkins y Bamboo para integración continua   Conocimientos en aseguramiento de calidad de software   Participación en proyectos de banca, fintech, financieras o similares   Trayectoria de 3 a 5 años como QA Funcional o roles similares   Práctica en ejecución de pruebas funcionales sobre aplicaciones web  ",
+      "date": 1781121968,
+      "salary": "1800–2200",
+      "url": "https://www.getonbrd.com/jobs/qa-funcional-por-proyecto-3it-santiago",
+      "source": "GetOnBoard",
+      "id": "6ecb0c3f7b5b",
+      "score": 45,
+      "matches": [
+        "Rol QA ✓",
+        "Salario 💰"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    },
+    {
+      "title": "QA Funcional Automatizador (Junior)",
+      "company": "",
+      "location": "hybrid",
+      "description": " Buscamos un/a  QA Funcional Automatizador  ingeniero/a en informática  (o formación equivalente), titulado/a, con al menos  1 año de experiencia  automatizando pruebas funcionales.  Nos interesa que tengas experiencia práctica construyendo y manteniendo automatización, asegurando que los casos de prueba reflejen fielmente los requerimientos y permitan una rápida detección de errores.   Requisitos:    Titulación en  Ingeniería en Informática  o carrera afín.  Al menos  1 año  de experiencia automatizando  Capacidad para entender flujos de negocio y traducirlos en escenarios de prueba.  Buenas prácticas de documentación: claridad al reportar hallazgos y mantener trazabilidad.  Enfoque en calidad y orden: mantener tests legibles, reutilizables y mantenibles.    Habilidades y competencias:   ",
+      "date": 1781132698,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/qa-funcional-automatizador-junior-agilistik-santiago",
+      "source": "GetOnBoard",
+      "id": "640fc3d292ba",
+      "score": 40,
+      "matches": [
+        "Rol QA ✓"
+      ],
+      "warnings": [],
+      "verdict": "regular"
+    },
+    {
+      "title": "Quality Assurance Specialist",
+      "company": "ECS",
+      "location": "USA",
+      "description": " ECS is seeking an experienced   Quality Assurance Specialist    to  work   remotely   providing support for cloud-related application and infrastructure migration and modernization efforts performed under this contract for   NIH NIAID Enabling and Advancing Technologies (NEAT)  . This engagement supports the External Enterprise Software Development Support Services program area which includes the development, support, and maintenance of NIH enterprise applications managed by the Software Engineering Branch. \n   Please Note:  This position is contingent upon [contract win].  \n The NIAID NEAT Quality Assurance Specialist will perform Quality Assurance checks and provide software testing services for all applications maintained by SEB. \n  Key Responsibilities:  \n \n Maintain the level of qual",
+      "date": "2026-06-10T18:20:32+00:00",
+      "salary": null,
+      "url": "https://jobicy.com/jobs/146114-quality-assurance-specialist",
+      "source": "Jobicy",
+      "id": "c3f242110d94",
+      "score": 40,
+      "matches": [
+        "Rol QA ✓"
+      ],
+      "warnings": [],
+      "verdict": "regular"
+    },
+    {
       "title": "Mobile Developer iOS (Swift)",
       "company": "",
       "location": "fully_remote",
@@ -164,5 +239,58 @@
       "verdict": "regular"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "title": "QA Funcional por Proyecto",
+      "company": "",
+      "location": "hybrid",
+      "description": "  Dominio de Gherkin y Cucumber   Experiencia en testing de software   Uso de JMeter para pruebas de estrés   Control y seguimiento de pruebas funcionales   Manejo de Jenkins y Bamboo para integración continua   Conocimientos en aseguramiento de calidad de software   Participación en proyectos de banca, fintech, financieras o similares   Trayectoria de 3 a 5 años como QA Funcional o roles similares   Práctica en ejecución de pruebas funcionales sobre aplicaciones web  ",
+      "date": 1781121968,
+      "salary": "1800–2200",
+      "url": "https://www.getonbrd.com/jobs/qa-funcional-por-proyecto-3it-santiago",
+      "source": "GetOnBoard",
+      "id": "6ecb0c3f7b5b",
+      "score": 45,
+      "matches": [
+        "Rol QA ✓",
+        "Salario 💰"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    },
+    {
+      "title": "QA Funcional Automatizador (Junior)",
+      "company": "",
+      "location": "hybrid",
+      "description": " Buscamos un/a  QA Funcional Automatizador  ingeniero/a en informática  (o formación equivalente), titulado/a, con al menos  1 año de experiencia  automatizando pruebas funcionales.  Nos interesa que tengas experiencia práctica construyendo y manteniendo automatización, asegurando que los casos de prueba reflejen fielmente los requerimientos y permitan una rápida detección de errores.   Requisitos:    Titulación en  Ingeniería en Informática  o carrera afín.  Al menos  1 año  de experiencia automatizando  Capacidad para entender flujos de negocio y traducirlos en escenarios de prueba.  Buenas prácticas de documentación: claridad al reportar hallazgos y mantener trazabilidad.  Enfoque en calidad y orden: mantener tests legibles, reutilizables y mantenibles.    Habilidades y competencias:   ",
+      "date": 1781132698,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/qa-funcional-automatizador-junior-agilistik-santiago",
+      "source": "GetOnBoard",
+      "id": "640fc3d292ba",
+      "score": 40,
+      "matches": [
+        "Rol QA ✓"
+      ],
+      "warnings": [],
+      "verdict": "regular"
+    },
+    {
+      "title": "Quality Assurance Specialist",
+      "company": "ECS",
+      "location": "USA",
+      "description": " ECS is seeking an experienced   Quality Assurance Specialist    to  work   remotely   providing support for cloud-related application and infrastructure migration and modernization efforts performed under this contract for   NIH NIAID Enabling and Advancing Technologies (NEAT)  . This engagement supports the External Enterprise Software Development Support Services program area which includes the development, support, and maintenance of NIH enterprise applications managed by the Software Engineering Branch. \n   Please Note:  This position is contingent upon [contract win].  \n The NIAID NEAT Quality Assurance Specialist will perform Quality Assurance checks and provide software testing services for all applications maintained by SEB. \n  Key Responsibilities:  \n \n Maintain the level of qual",
+      "date": "2026-06-10T18:20:32+00:00",
+      "salary": null,
+      "url": "https://jobicy.com/jobs/146114-quality-assurance-specialist",
+      "source": "Jobicy",
+      "id": "c3f242110d94",
+      "score": 40,
+      "matches": [
+        "Rol QA ✓"
+      ],
+      "warnings": [],
+      "verdict": "regular"
+    }
+  ]
 }
