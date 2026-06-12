@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-06-11T19:37:31.282420+00:00",
-  "total_fetched": 154,
+  "last_updated": "2026-06-12T00:21:24.984396+00:00",
+  "total_fetched": 153,
   "sources": {
     "Remotive": 28,
     "WorkingNomads": 49,
     "GetOnBoard": 50,
     "Himalayas": 20,
-    "Jobicy": 7
+    "Jobicy": 6
   },
   "new_count": 1,
   "jobs": [
@@ -173,6 +173,24 @@
       "verdict": "bueno"
     },
     {
+      "title": "QA Funcional (Reemplazo 3 Semanas)",
+      "company": "",
+      "location": "hybrid",
+      "description": "  Dominio de Gherkin y Cucumber   Experiencia en testing de software   Uso de JMeter para pruebas de estrés   Control y seguimiento de pruebas funcionales   Manejo de Jenkins y Bamboo para integración continua   Conocimientos en aseguramiento de calidad de software   Participación en proyectos de banca, fintech, financieras o similares   Trayectoria de 3 a 5 años como QA Funcional o roles similares   Práctica en ejecución de pruebas funcionales sobre aplicaciones web  ",
+      "date": 1781121968,
+      "salary": "1800–2000",
+      "url": "https://www.getonbrd.com/jobs/qa-funcional-por-proyecto-3it-santiago",
+      "source": "GetOnBoard",
+      "id": "3f3adf5171d2",
+      "score": 45,
+      "matches": [
+        "Rol QA ✓",
+        "Salario 💰"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    },
+    {
       "title": "Quality Assurance Specialist",
       "company": "ECS",
       "location": "USA",
@@ -210,28 +228,22 @@
   ],
   "new_jobs": [
     {
-      "title": "QA Automation Engineer Inglés Avanzado",
+      "title": "QA Funcional (Reemplazo 3 Semanas)",
       "company": "",
-      "location": "fully_remote",
-      "description": "  Excluyentes.  Playwright JMeter Microsoft SQL Familiaridad con TypeScript, aplicaciones web y Node.js. Familiaridad con CSS y HTML. Inglés avanzado.   Deseables.   Familiaridad con Git y GitHub. Familiaridad con metodologías ágiles Scrum o Kanban. Experiencia en Desarrollo Guiado por Pruebas (Test-Driven Development - TDD). Experiencia en la escritura y ejecución de casos de prueba (Test Cases). Experiencia en la definición y mantenimiento de matrices de prueba (Test Matrix). ",
-      "date": 1781204176,
-      "salary": null,
-      "url": "https://www.getonbrd.com/jobs/qa-automation-engineer-coderslab-io-remote-8f95",
+      "location": "hybrid",
+      "description": "  Dominio de Gherkin y Cucumber   Experiencia en testing de software   Uso de JMeter para pruebas de estrés   Control y seguimiento de pruebas funcionales   Manejo de Jenkins y Bamboo para integración continua   Conocimientos en aseguramiento de calidad de software   Participación en proyectos de banca, fintech, financieras o similares   Trayectoria de 3 a 5 años como QA Funcional o roles similares   Práctica en ejecución de pruebas funcionales sobre aplicaciones web  ",
+      "date": 1781121968,
+      "salary": "1800–2000",
+      "url": "https://www.getonbrd.com/jobs/qa-funcional-por-proyecto-3it-santiago",
       "source": "GetOnBoard",
-      "id": "c841060449ec",
-      "score": 80,
+      "id": "3f3adf5171d2",
+      "score": 45,
       "matches": [
         "Rol QA ✓",
-        "playwright",
-        "automation",
-        "scrum",
-        "typescript",
-        "sql",
-        "test case",
-        "Remoto/Latam 🌐"
+        "Salario 💰"
       ],
       "warnings": [],
-      "verdict": "excelente"
+      "verdict": "bueno"
     }
   ]
 }
