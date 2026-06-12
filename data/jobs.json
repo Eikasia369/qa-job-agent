@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-06-12T00:21:24.984396+00:00",
-  "total_fetched": 153,
+  "last_updated": "2026-06-12T14:11:33.098024+00:00",
+  "total_fetched": 152,
   "sources": {
-    "Remotive": 28,
+    "Remotive": 27,
     "WorkingNomads": 49,
     "GetOnBoard": 50,
     "Himalayas": 20,
     "Jobicy": 6
   },
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "title": "QA Automation Engineer Inglés Avanzado",
@@ -226,24 +226,5 @@
       "verdict": "regular"
     }
   ],
-  "new_jobs": [
-    {
-      "title": "QA Funcional (Reemplazo 3 Semanas)",
-      "company": "",
-      "location": "hybrid",
-      "description": "  Dominio de Gherkin y Cucumber   Experiencia en testing de software   Uso de JMeter para pruebas de estrés   Control y seguimiento de pruebas funcionales   Manejo de Jenkins y Bamboo para integración continua   Conocimientos en aseguramiento de calidad de software   Participación en proyectos de banca, fintech, financieras o similares   Trayectoria de 3 a 5 años como QA Funcional o roles similares   Práctica en ejecución de pruebas funcionales sobre aplicaciones web  ",
-      "date": 1781121968,
-      "salary": "1800–2000",
-      "url": "https://www.getonbrd.com/jobs/qa-funcional-por-proyecto-3it-santiago",
-      "source": "GetOnBoard",
-      "id": "3f3adf5171d2",
-      "score": 45,
-      "matches": [
-        "Rol QA ✓",
-        "Salario 💰"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
-    }
-  ]
+  "new_jobs": []
 }
