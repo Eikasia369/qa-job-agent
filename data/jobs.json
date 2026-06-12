@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-06-12T14:11:33.098024+00:00",
-  "total_fetched": 152,
+  "last_updated": "2026-06-12T19:09:13.845288+00:00",
+  "total_fetched": 153,
   "sources": {
     "Remotive": 27,
-    "WorkingNomads": 49,
+    "WorkingNomads": 50,
     "GetOnBoard": 50,
     "Himalayas": 20,
     "Jobicy": 6
   },
-  "new_count": 0,
+  "new_count": 2,
   "jobs": [
     {
       "title": "QA Automation Engineer Inglés Avanzado",
       "company": "",
       "location": "fully_remote",
       "description": "  Excluyentes.  Playwright JMeter Microsoft SQL Familiaridad con TypeScript, aplicaciones web y Node.js. Familiaridad con CSS y HTML. Inglés avanzado.   Deseables.   Familiaridad con Git y GitHub. Familiaridad con metodologías ágiles Scrum o Kanban. Experiencia en Desarrollo Guiado por Pruebas (Test-Driven Development - TDD). Experiencia en la escritura y ejecución de casos de prueba (Test Cases). Experiencia en la definición y mantenimiento de matrices de prueba (Test Matrix). ",
-      "date": 1781204176,
+      "date": 1781284059,
       "salary": null,
       "url": "https://www.getonbrd.com/jobs/qa-automation-engineer-coderslab-io-remote-8f95",
       "source": "GetOnBoard",
@@ -35,23 +35,23 @@
       "verdict": "excelente"
     },
     {
-      "title": "QA Salesforce",
+      "title": "QA Product & Automation",
       "company": "",
-      "location": "hybrid",
-      "description": "   Dominio de Salesforce.  Manejo de Jira y TestRail.  Uso de Salesforce Inspector.  Práctica en Postman y SOAP UI.  Gestión de pruebas funcionales.  Trayectoria de 3 a 5 años en QA.  Competencia en APIs REST y SOAP.  Experiencia con Selenium y Provar.  Aplicación de pruebas de regresión.  Formación en informática o carrera afín.  Conocimientos en Sales Cloud y Service Cloud.  Capacidad para validar integraciones Salesforce.  Comprensión de metodologías ágiles Scrum y Kanban.  Habilidades en documentación de hallazgos técnicos.  Implementación de pruebas automatizadas en Salesforce.  Experiencia en banca, fintech, financieras o industrias similares.  Validación de configuraciones, desarrollos, integraciones y automatizaciones.  ",
-      "date": 1781125000,
-      "salary": "2000–2500",
-      "url": "https://www.getonbrd.com/jobs/qa-salesforce-3it-santiago-b4c4",
+      "location": "remote_local",
+      "description": "  Experiencia comprobable en QA funcional y automatización utilizando herramientas como Selenium, Cypress, Playwright o similares.  Conocimiento básico de UX/UI: Capacidad para analizar flujos, detectar fricciones y comunicar hallazgos pensando en el usuario final.  Interés o experiencia en Fintech / Payments: Nos encanta si ya conoces o te apasiona el mundo de los medios de pago, pasarelas de pago, conciliación bancaria, etc.  Mentalidad AI-First: Capacidad y entusiasmo para trabajar con herramientas de IA como parte de tu flujo de trabajo cotidiano para automatizar y redactar más rápido.  Criterio y Priorización: Saber qué testear primero en un contexto de alta velocidad y despliegue continuo.  ",
+      "date": 1781280629,
+      "salary": "1000–1400",
+      "url": "https://www.getonbrd.com/jobs/qa-tester-comunidadfeliz-remote-6876",
       "source": "GetOnBoard",
-      "id": "05787c5417b0",
-      "score": 70,
+      "id": "0d4f66b97609",
+      "score": 75,
       "matches": [
         "Rol QA ✓",
-        "postman",
+        "playwright",
+        "automation",
         "selenium",
-        "jira",
-        "scrum",
-        "testrail",
+        "cypress",
+        "Remoto/Latam 🌐",
         "Salario 💰"
       ],
       "warnings": [],
@@ -99,25 +99,6 @@
       "verdict": "bueno"
     },
     {
-      "title": "Sr QA Analyst E-commerce (Inglés)",
-      "company": "",
-      "location": "fully_remote",
-      "description": "  Conocimientos y experiencias sólidas en elaboración de casos de prueba.  Conocimientos transversales en desarrollo de software  Conocimiento en gestión de proyectos  Experiencia trabajando con metodologías ágiles  Inglés intermedio.  Experiencia liderando equipos de trabajo  ",
-      "date": 1780072053,
-      "salary": "2000–3000",
-      "url": "https://www.getonbrd.com/jobs/sr-qa-analyst-e-commerce-ingles-intermedio-smith-remote",
-      "source": "GetOnBoard",
-      "id": "484b8e314429",
-      "score": 55,
-      "matches": [
-        "Rol QA ✓",
-        "Remoto/Latam 🌐",
-        "Salario 💰"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
-    },
-    {
       "title": "Senior Quality Assurance Automation Engineer",
       "company": "Experian",
       "location": "Costa Rica",
@@ -155,6 +136,24 @@
       "verdict": "bueno"
     },
     {
+      "title": "QA Automatizador",
+      "company": "",
+      "location": "hybrid",
+      "description": "  Experiencia laboral de 1 a 2 años en roles relacionados con Cloud, QA Automation, DevOps o áreas afines.  Capacidad y experiencia en automatización de procesos, pruebas o tareas operativas.  Conocimientos de scripting o desarrollo (Python, Bash, PowerShell u otros).  Capacidad para desarrollar nuevas soluciones y aprender rápidamente tecnologías asociadas al ecosistema cloud.  Conocimiento de prácticas de calidad, testing y validación de sistemas.  Habilidades analíticas, capacidad de aprendizaje y trabajo colaborativo.   Nivel esperado: Junior (1 a 2 años de experiencia comprobable). No se considerarán perfiles sin experiencia práctica en entornos cloud, automatización o calidad. ",
+      "date": 1781280759,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/qa-automatizador-tcit-santiago-016b",
+      "source": "GetOnBoard",
+      "id": "deba8728b0cf",
+      "score": 45,
+      "matches": [
+        "Rol QA ✓",
+        "automation"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    },
+    {
       "title": "QA Funcional IA",
       "company": "",
       "location": "hybrid",
@@ -168,24 +167,6 @@
       "matches": [
         "Rol QA ✓",
         "defect"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
-    },
-    {
-      "title": "QA Funcional (Reemplazo 3 Semanas)",
-      "company": "",
-      "location": "hybrid",
-      "description": "  Dominio de Gherkin y Cucumber   Experiencia en testing de software   Uso de JMeter para pruebas de estrés   Control y seguimiento de pruebas funcionales   Manejo de Jenkins y Bamboo para integración continua   Conocimientos en aseguramiento de calidad de software   Participación en proyectos de banca, fintech, financieras o similares   Trayectoria de 3 a 5 años como QA Funcional o roles similares   Práctica en ejecución de pruebas funcionales sobre aplicaciones web  ",
-      "date": 1781121968,
-      "salary": "1800–2000",
-      "url": "https://www.getonbrd.com/jobs/qa-funcional-por-proyecto-3it-santiago",
-      "source": "GetOnBoard",
-      "id": "3f3adf5171d2",
-      "score": 45,
-      "matches": [
-        "Rol QA ✓",
-        "Salario 💰"
       ],
       "warnings": [],
       "verdict": "bueno"
@@ -226,5 +207,47 @@
       "verdict": "regular"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "title": "QA Product & Automation",
+      "company": "",
+      "location": "remote_local",
+      "description": "  Experiencia comprobable en QA funcional y automatización utilizando herramientas como Selenium, Cypress, Playwright o similares.  Conocimiento básico de UX/UI: Capacidad para analizar flujos, detectar fricciones y comunicar hallazgos pensando en el usuario final.  Interés o experiencia en Fintech / Payments: Nos encanta si ya conoces o te apasiona el mundo de los medios de pago, pasarelas de pago, conciliación bancaria, etc.  Mentalidad AI-First: Capacidad y entusiasmo para trabajar con herramientas de IA como parte de tu flujo de trabajo cotidiano para automatizar y redactar más rápido.  Criterio y Priorización: Saber qué testear primero en un contexto de alta velocidad y despliegue continuo.  ",
+      "date": 1781280629,
+      "salary": "1000–1400",
+      "url": "https://www.getonbrd.com/jobs/qa-tester-comunidadfeliz-remote-6876",
+      "source": "GetOnBoard",
+      "id": "0d4f66b97609",
+      "score": 75,
+      "matches": [
+        "Rol QA ✓",
+        "playwright",
+        "automation",
+        "selenium",
+        "cypress",
+        "Remoto/Latam 🌐",
+        "Salario 💰"
+      ],
+      "warnings": [],
+      "verdict": "excelente"
+    },
+    {
+      "title": "QA Automatizador",
+      "company": "",
+      "location": "hybrid",
+      "description": "  Experiencia laboral de 1 a 2 años en roles relacionados con Cloud, QA Automation, DevOps o áreas afines.  Capacidad y experiencia en automatización de procesos, pruebas o tareas operativas.  Conocimientos de scripting o desarrollo (Python, Bash, PowerShell u otros).  Capacidad para desarrollar nuevas soluciones y aprender rápidamente tecnologías asociadas al ecosistema cloud.  Conocimiento de prácticas de calidad, testing y validación de sistemas.  Habilidades analíticas, capacidad de aprendizaje y trabajo colaborativo.   Nivel esperado: Junior (1 a 2 años de experiencia comprobable). No se considerarán perfiles sin experiencia práctica en entornos cloud, automatización o calidad. ",
+      "date": 1781280759,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/qa-automatizador-tcit-santiago-016b",
+      "source": "GetOnBoard",
+      "id": "deba8728b0cf",
+      "score": 45,
+      "matches": [
+        "Rol QA ✓",
+        "automation"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    }
+  ]
 }
