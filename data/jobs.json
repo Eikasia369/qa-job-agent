@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-12T19:09:13.845288+00:00",
+  "last_updated": "2026-06-13T00:22:05.764899+00:00",
   "total_fetched": 153,
   "sources": {
     "Remotive": 27,
@@ -8,7 +8,7 @@
     "Himalayas": 20,
     "Jobicy": 6
   },
-  "new_count": 2,
+  "new_count": 0,
   "jobs": [
     {
       "title": "QA Automation Engineer Inglés Avanzado",
@@ -207,47 +207,5 @@
       "verdict": "regular"
     }
   ],
-  "new_jobs": [
-    {
-      "title": "QA Product & Automation",
-      "company": "",
-      "location": "remote_local",
-      "description": "  Experiencia comprobable en QA funcional y automatización utilizando herramientas como Selenium, Cypress, Playwright o similares.  Conocimiento básico de UX/UI: Capacidad para analizar flujos, detectar fricciones y comunicar hallazgos pensando en el usuario final.  Interés o experiencia en Fintech / Payments: Nos encanta si ya conoces o te apasiona el mundo de los medios de pago, pasarelas de pago, conciliación bancaria, etc.  Mentalidad AI-First: Capacidad y entusiasmo para trabajar con herramientas de IA como parte de tu flujo de trabajo cotidiano para automatizar y redactar más rápido.  Criterio y Priorización: Saber qué testear primero en un contexto de alta velocidad y despliegue continuo.  ",
-      "date": 1781280629,
-      "salary": "1000–1400",
-      "url": "https://www.getonbrd.com/jobs/qa-tester-comunidadfeliz-remote-6876",
-      "source": "GetOnBoard",
-      "id": "0d4f66b97609",
-      "score": 75,
-      "matches": [
-        "Rol QA ✓",
-        "playwright",
-        "automation",
-        "selenium",
-        "cypress",
-        "Remoto/Latam 🌐",
-        "Salario 💰"
-      ],
-      "warnings": [],
-      "verdict": "excelente"
-    },
-    {
-      "title": "QA Automatizador",
-      "company": "",
-      "location": "hybrid",
-      "description": "  Experiencia laboral de 1 a 2 años en roles relacionados con Cloud, QA Automation, DevOps o áreas afines.  Capacidad y experiencia en automatización de procesos, pruebas o tareas operativas.  Conocimientos de scripting o desarrollo (Python, Bash, PowerShell u otros).  Capacidad para desarrollar nuevas soluciones y aprender rápidamente tecnologías asociadas al ecosistema cloud.  Conocimiento de prácticas de calidad, testing y validación de sistemas.  Habilidades analíticas, capacidad de aprendizaje y trabajo colaborativo.   Nivel esperado: Junior (1 a 2 años de experiencia comprobable). No se considerarán perfiles sin experiencia práctica en entornos cloud, automatización o calidad. ",
-      "date": 1781280759,
-      "salary": null,
-      "url": "https://www.getonbrd.com/jobs/qa-automatizador-tcit-santiago-016b",
-      "source": "GetOnBoard",
-      "id": "deba8728b0cf",
-      "score": 45,
-      "matches": [
-        "Rol QA ✓",
-        "automation"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
-    }
-  ]
+  "new_jobs": []
 }
