@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-06-13T18:12:15.885128+00:00",
-  "total_fetched": 153,
+  "last_updated": "2026-06-14T00:12:33.477426+00:00",
+  "total_fetched": 151,
   "sources": {
     "Remotive": 29,
-    "WorkingNomads": 48,
+    "WorkingNomads": 46,
     "GetOnBoard": 50,
     "Himalayas": 20,
     "Jobicy": 6
   },
-  "new_count": 0,
+  "new_count": 1,
   "jobs": [
     {
       "title": "QA Automation Engineer Inglés Avanzado",
@@ -118,6 +118,24 @@
       "verdict": "bueno"
     },
     {
+      "title": "SDET II",
+      "company": "",
+      "location": "Remote",
+      "description": " Are you passionate about making a difference in people's lives? Do you enjoy working in a service-oriented industry? If so, this opportunity may be the right fit for you!   Modivcare  is looking for an experienced SDET II to join our team, responsible for developing software solutions to test applications and systems to ensure they meet the highest standards of quality. This role is responsible for developing and maintaining automated test frameworks and ensuring software quality across platforms, while collaborating closely with development and cross-functional teams.  This role will:   Develop and maintain automated test scripts and frameworks to validate software functionality and performance across a variety of platforms  Collaborate with software developers to identify and resolve de",
+      "date": "",
+      "salary": null,
+      "url": "https://himalayas.app/companies/modivcare/jobs/sdet-ii-9412459317",
+      "source": "Himalayas",
+      "id": "343253f4af88",
+      "score": 50,
+      "matches": [
+        "Rol QA ✓",
+        "Remoto/Latam 🌐"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    },
+    {
       "title": "Senior QA Automation Engineer",
       "company": "Proxify",
       "location": "Time zone: CET (+/- 3 hours)",
@@ -207,5 +225,24 @@
       "verdict": "regular"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "title": "SDET II",
+      "company": "",
+      "location": "Remote",
+      "description": " Are you passionate about making a difference in people's lives? Do you enjoy working in a service-oriented industry? If so, this opportunity may be the right fit for you!   Modivcare  is looking for an experienced SDET II to join our team, responsible for developing software solutions to test applications and systems to ensure they meet the highest standards of quality. This role is responsible for developing and maintaining automated test frameworks and ensuring software quality across platforms, while collaborating closely with development and cross-functional teams.  This role will:   Develop and maintain automated test scripts and frameworks to validate software functionality and performance across a variety of platforms  Collaborate with software developers to identify and resolve de",
+      "date": "",
+      "salary": null,
+      "url": "https://himalayas.app/companies/modivcare/jobs/sdet-ii-9412459317",
+      "source": "Himalayas",
+      "id": "343253f4af88",
+      "score": 50,
+      "matches": [
+        "Rol QA ✓",
+        "Remoto/Latam 🌐"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    }
+  ]
 }
