@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-06-15T00:16:51.246181+00:00",
-  "total_fetched": 154,
+  "last_updated": "2026-06-15T16:20:27.980348+00:00",
+  "total_fetched": 153,
   "sources": {
-    "Remotive": 32,
+    "Remotive": 31,
     "WorkingNomads": 46,
     "GetOnBoard": 50,
     "Himalayas": 20,
     "Jobicy": 6
   },
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "title": "QA Automation Engineer Inglés Avanzado",
       "company": "",
       "location": "fully_remote",
       "description": "  Excluyentes.  Playwright JMeter Microsoft SQL Familiaridad con TypeScript, aplicaciones web y Node.js. Familiaridad con CSS y HTML. Inglés avanzado.   Deseables.   Familiaridad con Git y GitHub. Familiaridad con metodologías ágiles Scrum o Kanban. Experiencia en Desarrollo Guiado por Pruebas (Test-Driven Development - TDD). Experiencia en la escritura y ejecución de casos de prueba (Test Cases). Experiencia en la definición y mantenimiento de matrices de prueba (Test Matrix). ",
-      "date": 1781284059,
+      "date": 1781532901,
       "salary": null,
       "url": "https://www.getonbrd.com/jobs/qa-automation-engineer-coderslab-io-remote-8f95",
       "source": "GetOnBoard",
@@ -205,42 +205,7 @@
       ],
       "warnings": [],
       "verdict": "regular"
-    },
-    {
-      "title": "Audio Transcription Specialist - Fully Remote | Upto $50/hr",
-      "company": "",
-      "location": "['United States']",
-      "description": " About the job   Mercor  connects elite creative and technical talent with leading AI research labs. Headquartered in San Francisco, our investors include  Benchmark ,  General Catalyst ,  Peter Thiel ,  Adam D'Angelo ,  Larry Summers , and  Jack Dorsey .   Position:  English (US) Audio Generalist Evaluator Expert  Type:  Contract   Compensation:  $50/hour   Location:  Remote   Commitment:  10–20 hours/week   Role Responsibilities   Transcribe and optimize audio and video content in  English (US) , ensuring clarity and accuracy.  Develop and document evaluation standards, including rubrics and grading guidelines in  English .  Conduct model testing and grading, providing structured feedback to improve  AI model performance .  Support benchmarking and quality assurance to maintain consisten",
-      "date": "",
-      "salary": null,
-      "url": "https://himalayas.app/companies/mercor/jobs/audio-transcription-specialist-fully-remote-upto-50-hr",
-      "source": "Himalayas",
-      "id": "285cb66ac9c8",
-      "score": 20,
-      "matches": [
-        "Rol QA (desc)"
-      ],
-      "warnings": [],
-      "verdict": "regular"
     }
   ],
-  "new_jobs": [
-    {
-      "title": "Audio Transcription Specialist - Fully Remote | Upto $50/hr",
-      "company": "",
-      "location": "['United States']",
-      "description": " About the job   Mercor  connects elite creative and technical talent with leading AI research labs. Headquartered in San Francisco, our investors include  Benchmark ,  General Catalyst ,  Peter Thiel ,  Adam D'Angelo ,  Larry Summers , and  Jack Dorsey .   Position:  English (US) Audio Generalist Evaluator Expert  Type:  Contract   Compensation:  $50/hour   Location:  Remote   Commitment:  10–20 hours/week   Role Responsibilities   Transcribe and optimize audio and video content in  English (US) , ensuring clarity and accuracy.  Develop and document evaluation standards, including rubrics and grading guidelines in  English .  Conduct model testing and grading, providing structured feedback to improve  AI model performance .  Support benchmarking and quality assurance to maintain consisten",
-      "date": "",
-      "salary": null,
-      "url": "https://himalayas.app/companies/mercor/jobs/audio-transcription-specialist-fully-remote-upto-50-hr",
-      "source": "Himalayas",
-      "id": "285cb66ac9c8",
-      "score": 20,
-      "matches": [
-        "Rol QA (desc)"
-      ],
-      "warnings": [],
-      "verdict": "regular"
-    }
-  ]
+  "new_jobs": []
 }
