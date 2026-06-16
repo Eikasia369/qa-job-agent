@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-16T15:59:39.874025+00:00",
+  "last_updated": "2026-06-16T20:13:10.724175+00:00",
   "total_fetched": 153,
   "sources": {
     "Remotive": 31,
@@ -8,7 +8,7 @@
     "Himalayas": 20,
     "Jobicy": 6
   },
-  "new_count": 1,
+  "new_count": 2,
   "jobs": [
     {
       "title": "QA Automation Engineer Inglés Avanzado",
@@ -120,6 +120,26 @@
       "verdict": "bueno"
     },
     {
+      "title": "QA Engineer (Santa Clara, CA, US, 95054)",
+      "company": "",
+      "location": "['United States']",
+      "description": " Are you interested in working with the World’s leading AI-powered Quality Engineering Company? Ready to advance your career, team up with global thought leaders across industries and make a difference every day? Join us at  Qualitest !  We are looking for a QA Engineer to join our growing team in Argentina, México or Canada!  Role - QA Engineer  Location - Remote (ARG/MX/CA)  Job Description    3-5 years of experience in Manual Testing.Executes testing procedures to ensure that software meets established quality standards.  Develops and writes testing scripts and plans within an Agile environment to ensure that software functions as expected.  Prepares data sets to test logic, error handling and system workflows. Isolates, reproduces, and tracks defects.  Verifies fixes.  Documents testin",
+      "date": "",
+      "salary": null,
+      "url": "https://himalayas.app/companies/qualitest/jobs/qa-engineer-santa-clara-ca-us-95054",
+      "source": "Himalayas",
+      "id": "afb97c7d6b0e",
+      "score": 55,
+      "matches": [
+        "Rol QA ✓",
+        "agile",
+        "manual testing",
+        "defect"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    },
+    {
       "title": "Senior Quality Assurance Automation Engineer",
       "company": "Experian",
       "location": "Costa Rica",
@@ -193,6 +213,23 @@
       "verdict": "bueno"
     },
     {
+      "title": "Senior Quality Assurance Analyst (Any city, MI, US, 99999)",
+      "company": "",
+      "location": "['United States']",
+      "description": " Be part of a team that unleashes the power of leading-edge technologies to help improve the health and well-being of those most vulnerable in our country and communities. Working at Gainwell carries its rewards. You’ll have an incredible opportunity to grow your career in a company that values work flexibility, learning, and career development. You’ll add to your technical credentials and certifications while enjoying a generous, flexible vacation policy and educational assistance. We also have comprehensive leadership and technical development academies to help build your skills and capabilities.      Summary     As a Senior Quality Assurance Analyst at Gainwell, you can contribute your skills as we harness the power of technology to help our clients improve the health and well-being of ",
+      "date": "",
+      "salary": null,
+      "url": "https://himalayas.app/companies/gainwell-technologies/jobs/senior-quality-assurance-analyst-any-city-mi-us-99999",
+      "source": "Himalayas",
+      "id": "f29fe3dd2f73",
+      "score": 40,
+      "matches": [
+        "Rol QA ✓"
+      ],
+      "warnings": [],
+      "verdict": "regular"
+    },
+    {
       "title": "Quality Assurance Specialist",
       "company": "ECS",
       "location": "USA",
@@ -230,25 +267,41 @@
   ],
   "new_jobs": [
     {
-      "title": "Technical Designer (QA)",
+      "title": "QA Engineer (Santa Clara, CA, US, 95054)",
       "company": "",
-      "location": "fully_remote",
-      "description": "  A sharp eye for visual detail. You notice the 2px misalignment, the wrong shade, the spacing that's off   Strong sense for how good UI should behave, and quick to tell when something feels broken or confusing   Clear, specific communication. Your bug reports leave no guessing about what's wrong or how to reproduce it   Comfortable working in Figma and reading designs against a live product   Methodical and thorough. You check the edge cases, not just the happy path   Able to read and interpret automated test results to catch regressions  ",
-      "date": 1781580107,
-      "salary": "1200–1800",
-      "url": "https://www.getonbrd.com/jobs/junior-full-stack-developer-react-nixtla-remote",
-      "source": "GetOnBoard",
-      "id": "24dcc1df8cff",
-      "score": 65,
+      "location": "['United States']",
+      "description": " Are you interested in working with the World’s leading AI-powered Quality Engineering Company? Ready to advance your career, team up with global thought leaders across industries and make a difference every day? Join us at  Qualitest !  We are looking for a QA Engineer to join our growing team in Argentina, México or Canada!  Role - QA Engineer  Location - Remote (ARG/MX/CA)  Job Description    3-5 years of experience in Manual Testing.Executes testing procedures to ensure that software meets established quality standards.  Develops and writes testing scripts and plans within an Agile environment to ensure that software functions as expected.  Prepares data sets to test logic, error handling and system workflows. Isolates, reproduces, and tracks defects.  Verifies fixes.  Documents testin",
+      "date": "",
+      "salary": null,
+      "url": "https://himalayas.app/companies/qualitest/jobs/qa-engineer-santa-clara-ca-us-95054",
+      "source": "Himalayas",
+      "id": "afb97c7d6b0e",
+      "score": 55,
       "matches": [
         "Rol QA ✓",
-        "regression",
-        "bug",
-        "Remoto/Latam 🌐",
-        "Salario 💰"
+        "agile",
+        "manual testing",
+        "defect"
       ],
       "warnings": [],
-      "verdict": "excelente"
+      "verdict": "bueno"
+    },
+    {
+      "title": "Senior Quality Assurance Analyst (Any city, MI, US, 99999)",
+      "company": "",
+      "location": "['United States']",
+      "description": " Be part of a team that unleashes the power of leading-edge technologies to help improve the health and well-being of those most vulnerable in our country and communities. Working at Gainwell carries its rewards. You’ll have an incredible opportunity to grow your career in a company that values work flexibility, learning, and career development. You’ll add to your technical credentials and certifications while enjoying a generous, flexible vacation policy and educational assistance. We also have comprehensive leadership and technical development academies to help build your skills and capabilities.      Summary     As a Senior Quality Assurance Analyst at Gainwell, you can contribute your skills as we harness the power of technology to help our clients improve the health and well-being of ",
+      "date": "",
+      "salary": null,
+      "url": "https://himalayas.app/companies/gainwell-technologies/jobs/senior-quality-assurance-analyst-any-city-mi-us-99999",
+      "source": "Himalayas",
+      "id": "f29fe3dd2f73",
+      "score": 40,
+      "matches": [
+        "Rol QA ✓"
+      ],
+      "warnings": [],
+      "verdict": "regular"
     }
   ]
 }
