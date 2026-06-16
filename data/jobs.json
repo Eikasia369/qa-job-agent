@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-16T01:43:00.526046+00:00",
+  "last_updated": "2026-06-16T15:59:39.874025+00:00",
   "total_fetched": 153,
   "sources": {
     "Remotive": 31,
@@ -8,7 +8,7 @@
     "Himalayas": 20,
     "Jobicy": 6
   },
-  "new_count": 0,
+  "new_count": 1,
   "jobs": [
     {
       "title": "QA Automation Engineer Inglés Avanzado",
@@ -51,6 +51,27 @@
         "automation",
         "selenium",
         "cypress",
+        "Remoto/Latam 🌐",
+        "Salario 💰"
+      ],
+      "warnings": [],
+      "verdict": "excelente"
+    },
+    {
+      "title": "Technical Designer (QA)",
+      "company": "",
+      "location": "fully_remote",
+      "description": "  A sharp eye for visual detail. You notice the 2px misalignment, the wrong shade, the spacing that's off   Strong sense for how good UI should behave, and quick to tell when something feels broken or confusing   Clear, specific communication. Your bug reports leave no guessing about what's wrong or how to reproduce it   Comfortable working in Figma and reading designs against a live product   Methodical and thorough. You check the edge cases, not just the happy path   Able to read and interpret automated test results to catch regressions  ",
+      "date": 1781580107,
+      "salary": "1200–1800",
+      "url": "https://www.getonbrd.com/jobs/junior-full-stack-developer-react-nixtla-remote",
+      "source": "GetOnBoard",
+      "id": "24dcc1df8cff",
+      "score": 65,
+      "matches": [
+        "Rol QA ✓",
+        "regression",
+        "bug",
         "Remoto/Latam 🌐",
         "Salario 💰"
       ],
@@ -207,5 +228,27 @@
       "verdict": "regular"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "title": "Technical Designer (QA)",
+      "company": "",
+      "location": "fully_remote",
+      "description": "  A sharp eye for visual detail. You notice the 2px misalignment, the wrong shade, the spacing that's off   Strong sense for how good UI should behave, and quick to tell when something feels broken or confusing   Clear, specific communication. Your bug reports leave no guessing about what's wrong or how to reproduce it   Comfortable working in Figma and reading designs against a live product   Methodical and thorough. You check the edge cases, not just the happy path   Able to read and interpret automated test results to catch regressions  ",
+      "date": 1781580107,
+      "salary": "1200–1800",
+      "url": "https://www.getonbrd.com/jobs/junior-full-stack-developer-react-nixtla-remote",
+      "source": "GetOnBoard",
+      "id": "24dcc1df8cff",
+      "score": 65,
+      "matches": [
+        "Rol QA ✓",
+        "regression",
+        "bug",
+        "Remoto/Latam 🌐",
+        "Salario 💰"
+      ],
+      "warnings": [],
+      "verdict": "excelente"
+    }
+  ]
 }
