@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-16T20:13:10.724175+00:00",
+  "last_updated": "2026-06-17T00:21:29.105679+00:00",
   "total_fetched": 153,
   "sources": {
     "Remotive": 31,
@@ -8,7 +8,7 @@
     "Himalayas": 20,
     "Jobicy": 6
   },
-  "new_count": 2,
+  "new_count": 1,
   "jobs": [
     {
       "title": "QA Automation Engineer Inglés Avanzado",
@@ -53,6 +53,49 @@
         "cypress",
         "Remoto/Latam 🌐",
         "Salario 💰"
+      ],
+      "warnings": [],
+      "verdict": "excelente"
+    },
+    {
+      "title": "QA Automation Engineer",
+      "company": "",
+      "location": "remote_local",
+      "description": "  Experiencia: mínimo 2 años como QA funcional y 2+ años como QA automatizador  Experiencia automatizando pruebas: Pruebas funcionales, pruebas de humo y pruebas no funcionales  Experiencia con herramientas de control de versiones  Experiencia probando APIs (karate, api rest, entre otros)  Experiencia usando Selenium, Cucumber y Postman  BDD  TDD  Conocimientos en Java (Framework SPRING y/o SPRING BOOT).  Conocimientos realizando pruebas unitarias y de integración  ",
+      "date": 1781653127,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/qa-automation-engineer-dynamic-devs-remote-ae5f",
+      "source": "GetOnBoard",
+      "id": "03b5db6651bd",
+      "score": 70,
+      "matches": [
+        "Rol QA ✓",
+        "postman",
+        "api rest",
+        "automation",
+        "selenium",
+        "Remoto/Latam 🌐"
+      ],
+      "warnings": [],
+      "verdict": "excelente"
+    },
+    {
+      "title": "QA Automation Engineer (Mobile)",
+      "company": "",
+      "location": "remote_local",
+      "description": "  Experiencia sólida en automatización de pruebas mobile con con Java y Cucumber.  Conocimiento práctico en automatización de pruebas móviles, idealmente con Appium o soluciones equivalentes que permitan validar apps nativas y React Native.,  Experiencia validando servicios RESTful y pruebas de contratos (por ejemplo, usando RestAssured o herramientas similares).,  Capacidad de trabajar con equipos de producto y desarrollo para entender requerimientos funcionales y técnicos.,  Experiencia trabajando en entornos ágiles, colaborativos y orientados a la entrega continua de valor.,  Experiencia en consultas SQL para validación de datos.,  ",
+      "date": 1781652017,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/qa-automation-engineer-dynamic-devs-remote-3611",
+      "source": "GetOnBoard",
+      "id": "05a29f343820",
+      "score": 65,
+      "matches": [
+        "Rol QA ✓",
+        "automation",
+        "sql",
+        "appium",
+        "Remoto/Latam 🌐"
       ],
       "warnings": [],
       "verdict": "excelente"
@@ -115,26 +158,6 @@
         "postman",
         "selenium",
         "sql"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
-    },
-    {
-      "title": "QA Engineer (Santa Clara, CA, US, 95054)",
-      "company": "",
-      "location": "['United States']",
-      "description": " Are you interested in working with the World’s leading AI-powered Quality Engineering Company? Ready to advance your career, team up with global thought leaders across industries and make a difference every day? Join us at  Qualitest !  We are looking for a QA Engineer to join our growing team in Argentina, México or Canada!  Role - QA Engineer  Location - Remote (ARG/MX/CA)  Job Description    3-5 years of experience in Manual Testing.Executes testing procedures to ensure that software meets established quality standards.  Develops and writes testing scripts and plans within an Agile environment to ensure that software functions as expected.  Prepares data sets to test logic, error handling and system workflows. Isolates, reproduces, and tracks defects.  Verifies fixes.  Documents testin",
-      "date": "",
-      "salary": null,
-      "url": "https://himalayas.app/companies/qualitest/jobs/qa-engineer-santa-clara-ca-us-95054",
-      "source": "Himalayas",
-      "id": "afb97c7d6b0e",
-      "score": 55,
-      "matches": [
-        "Rol QA ✓",
-        "agile",
-        "manual testing",
-        "defect"
       ],
       "warnings": [],
       "verdict": "bueno"
@@ -213,23 +236,6 @@
       "verdict": "bueno"
     },
     {
-      "title": "Senior Quality Assurance Analyst (Any city, MI, US, 99999)",
-      "company": "",
-      "location": "['United States']",
-      "description": " Be part of a team that unleashes the power of leading-edge technologies to help improve the health and well-being of those most vulnerable in our country and communities. Working at Gainwell carries its rewards. You’ll have an incredible opportunity to grow your career in a company that values work flexibility, learning, and career development. You’ll add to your technical credentials and certifications while enjoying a generous, flexible vacation policy and educational assistance. We also have comprehensive leadership and technical development academies to help build your skills and capabilities.      Summary     As a Senior Quality Assurance Analyst at Gainwell, you can contribute your skills as we harness the power of technology to help our clients improve the health and well-being of ",
-      "date": "",
-      "salary": null,
-      "url": "https://himalayas.app/companies/gainwell-technologies/jobs/senior-quality-assurance-analyst-any-city-mi-us-99999",
-      "source": "Himalayas",
-      "id": "f29fe3dd2f73",
-      "score": 40,
-      "matches": [
-        "Rol QA ✓"
-      ],
-      "warnings": [],
-      "verdict": "regular"
-    },
-    {
       "title": "Quality Assurance Specialist",
       "company": "ECS",
       "location": "USA",
@@ -267,41 +273,25 @@
   ],
   "new_jobs": [
     {
-      "title": "QA Engineer (Santa Clara, CA, US, 95054)",
+      "title": "QA Automation Engineer (Mobile)",
       "company": "",
-      "location": "['United States']",
-      "description": " Are you interested in working with the World’s leading AI-powered Quality Engineering Company? Ready to advance your career, team up with global thought leaders across industries and make a difference every day? Join us at  Qualitest !  We are looking for a QA Engineer to join our growing team in Argentina, México or Canada!  Role - QA Engineer  Location - Remote (ARG/MX/CA)  Job Description    3-5 years of experience in Manual Testing.Executes testing procedures to ensure that software meets established quality standards.  Develops and writes testing scripts and plans within an Agile environment to ensure that software functions as expected.  Prepares data sets to test logic, error handling and system workflows. Isolates, reproduces, and tracks defects.  Verifies fixes.  Documents testin",
-      "date": "",
+      "location": "remote_local",
+      "description": "  Experiencia sólida en automatización de pruebas mobile con con Java y Cucumber.  Conocimiento práctico en automatización de pruebas móviles, idealmente con Appium o soluciones equivalentes que permitan validar apps nativas y React Native.,  Experiencia validando servicios RESTful y pruebas de contratos (por ejemplo, usando RestAssured o herramientas similares).,  Capacidad de trabajar con equipos de producto y desarrollo para entender requerimientos funcionales y técnicos.,  Experiencia trabajando en entornos ágiles, colaborativos y orientados a la entrega continua de valor.,  Experiencia en consultas SQL para validación de datos.,  ",
+      "date": 1781652017,
       "salary": null,
-      "url": "https://himalayas.app/companies/qualitest/jobs/qa-engineer-santa-clara-ca-us-95054",
-      "source": "Himalayas",
-      "id": "afb97c7d6b0e",
-      "score": 55,
+      "url": "https://www.getonbrd.com/jobs/qa-automation-engineer-dynamic-devs-remote-3611",
+      "source": "GetOnBoard",
+      "id": "05a29f343820",
+      "score": 65,
       "matches": [
         "Rol QA ✓",
-        "agile",
-        "manual testing",
-        "defect"
+        "automation",
+        "sql",
+        "appium",
+        "Remoto/Latam 🌐"
       ],
       "warnings": [],
-      "verdict": "bueno"
-    },
-    {
-      "title": "Senior Quality Assurance Analyst (Any city, MI, US, 99999)",
-      "company": "",
-      "location": "['United States']",
-      "description": " Be part of a team that unleashes the power of leading-edge technologies to help improve the health and well-being of those most vulnerable in our country and communities. Working at Gainwell carries its rewards. You’ll have an incredible opportunity to grow your career in a company that values work flexibility, learning, and career development. You’ll add to your technical credentials and certifications while enjoying a generous, flexible vacation policy and educational assistance. We also have comprehensive leadership and technical development academies to help build your skills and capabilities.      Summary     As a Senior Quality Assurance Analyst at Gainwell, you can contribute your skills as we harness the power of technology to help our clients improve the health and well-being of ",
-      "date": "",
-      "salary": null,
-      "url": "https://himalayas.app/companies/gainwell-technologies/jobs/senior-quality-assurance-analyst-any-city-mi-us-99999",
-      "source": "Himalayas",
-      "id": "f29fe3dd2f73",
-      "score": 40,
-      "matches": [
-        "Rol QA ✓"
-      ],
-      "warnings": [],
-      "verdict": "regular"
+      "verdict": "excelente"
     }
   ]
 }
