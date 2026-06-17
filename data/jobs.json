@@ -1,39 +1,15 @@
 {
-  "last_updated": "2026-06-17T00:21:29.105679+00:00",
-  "total_fetched": 153,
+  "last_updated": "2026-06-17T14:27:24.168914+00:00",
+  "total_fetched": 152,
   "sources": {
-    "Remotive": 31,
+    "Remotive": 30,
     "WorkingNomads": 46,
     "GetOnBoard": 50,
     "Himalayas": 20,
     "Jobicy": 6
   },
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
-    {
-      "title": "QA Automation Engineer Inglés Avanzado",
-      "company": "",
-      "location": "fully_remote",
-      "description": "  Excluyentes.  Playwright JMeter Microsoft SQL Familiaridad con TypeScript, aplicaciones web y Node.js. Familiaridad con CSS y HTML. Inglés avanzado.   Deseables.   Familiaridad con Git y GitHub. Familiaridad con metodologías ágiles Scrum o Kanban. Experiencia en Desarrollo Guiado por Pruebas (Test-Driven Development - TDD). Experiencia en la escritura y ejecución de casos de prueba (Test Cases). Experiencia en la definición y mantenimiento de matrices de prueba (Test Matrix). ",
-      "date": 1781547703,
-      "salary": null,
-      "url": "https://www.getonbrd.com/jobs/qa-automation-engineer-coderslab-io-remote-8f95",
-      "source": "GetOnBoard",
-      "id": "c841060449ec",
-      "score": 80,
-      "matches": [
-        "Rol QA ✓",
-        "playwright",
-        "automation",
-        "scrum",
-        "typescript",
-        "sql",
-        "test case",
-        "Remoto/Latam 🌐"
-      ],
-      "warnings": [],
-      "verdict": "excelente"
-    },
     {
       "title": "QA Product & Automation",
       "company": "",
@@ -271,27 +247,5 @@
       "verdict": "regular"
     }
   ],
-  "new_jobs": [
-    {
-      "title": "QA Automation Engineer (Mobile)",
-      "company": "",
-      "location": "remote_local",
-      "description": "  Experiencia sólida en automatización de pruebas mobile con con Java y Cucumber.  Conocimiento práctico en automatización de pruebas móviles, idealmente con Appium o soluciones equivalentes que permitan validar apps nativas y React Native.,  Experiencia validando servicios RESTful y pruebas de contratos (por ejemplo, usando RestAssured o herramientas similares).,  Capacidad de trabajar con equipos de producto y desarrollo para entender requerimientos funcionales y técnicos.,  Experiencia trabajando en entornos ágiles, colaborativos y orientados a la entrega continua de valor.,  Experiencia en consultas SQL para validación de datos.,  ",
-      "date": 1781652017,
-      "salary": null,
-      "url": "https://www.getonbrd.com/jobs/qa-automation-engineer-dynamic-devs-remote-3611",
-      "source": "GetOnBoard",
-      "id": "05a29f343820",
-      "score": 65,
-      "matches": [
-        "Rol QA ✓",
-        "automation",
-        "sql",
-        "appium",
-        "Remoto/Latam 🌐"
-      ],
-      "warnings": [],
-      "verdict": "excelente"
-    }
-  ]
+  "new_jobs": []
 }
