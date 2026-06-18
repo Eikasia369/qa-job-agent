@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-06-18T00:18:22.180134+00:00",
-  "total_fetched": 152,
+  "last_updated": "2026-06-18T14:13:15.899042+00:00",
+  "total_fetched": 155,
   "sources": {
-    "Remotive": 30,
+    "Remotive": 32,
     "WorkingNomads": 46,
     "GetOnBoard": 50,
     "Himalayas": 20,
-    "Jobicy": 6
+    "Jobicy": 7
   },
-  "new_count": 1,
+  "new_count": 2,
   "jobs": [
     {
       "title": "QA Product & Automation",
@@ -263,29 +263,76 @@
       ],
       "warnings": [],
       "verdict": "regular"
+    },
+    {
+      "title": "Customer Success Officer",
+      "company": "",
+      "location": "['Serbia']",
+      "description": "  Libertex Group  Overview   Established in 1997, the  Libertex Group  has helped shape the online trading industry by merging innovative technology, market movements and digital trends.   The multi-awarded online trading platform, Libertex, enables traders to access the market and invest in stocks or trade CFDs with underlying assets being commodities, Forex, ETFs, cryptocurrencies, and others.  A firm believer in the power of sports to inspire, empower and push for success, Libertex is the Official Online Trading Partner of Audi Revolut F1 Team.  We build innovative fintech so people can #TradeForMore with Libertex.  Job Overview  We are looking for a Quality Assurance Specialist who will be responsible for monitoring and improving the quality of customer interactions across multiple com",
+      "date": "",
+      "salary": null,
+      "url": "https://himalayas.app/companies/libertex-group/jobs/customer-success-officer",
+      "source": "Himalayas",
+      "id": "d4cc73c94093",
+      "score": 20,
+      "matches": [
+        "Rol QA (desc)"
+      ],
+      "warnings": [],
+      "verdict": "regular"
+    },
+    {
+      "title": "Software Development Team Leader | Work From Anywhere",
+      "company": "",
+      "location": "['Thailand']",
+      "description": "  Software Development Team Leader | Work From Anywhere   We're partneringwith an ambitious technology company that's redefining how businesses growthrough modern Cloud-Native applications and DevSecOps solutions. As part oftheir expansion, they are seeking a  Software Development Team Leader  to help drive the success of their projects and team members.   About the Role  As the SoftwareDevelopment Team Leader, you'll play a key role in delivering high-impactsolutions for clients across various industries. You'll guide a talented teamof developers and testers, ensuring best practices in design, development,security, and quality,  all while working with the latest technologies.   What Youll Do   Lead and mentor a     multi-functional team of software engineers and QA professionals.  Collabo",
+      "date": "",
+      "salary": null,
+      "url": "https://himalayas.app/companies/evantis-talent-solutions/jobs/software-development-team-leader-work-from-anywhere-6582598654",
+      "source": "Himalayas",
+      "id": "328fc69244ca",
+      "score": 20,
+      "matches": [
+        "Rol QA (desc)"
+      ],
+      "warnings": [],
+      "verdict": "regular"
     }
   ],
   "new_jobs": [
     {
-      "title": "QA Manual SSR",
+      "title": "Customer Success Officer",
       "company": "",
-      "location": "remote_local",
-      "description": " ● 2+ años de experiencia como QA Manual. ● Experiencia probando apps mobile (Android y/o iOS). ● Experiencia en testing de APIs. ● Conocimiento de metodologías Agile / Scrum. ● Experiencia usando herramientas de gestión de bugs: ● Capacidad para escribir casos de prueba claros y estructurados. ● Perfil detallista y orientado a calidad. ",
-      "date": 1781732819,
+      "location": "['Serbia']",
+      "description": "  Libertex Group  Overview   Established in 1997, the  Libertex Group  has helped shape the online trading industry by merging innovative technology, market movements and digital trends.   The multi-awarded online trading platform, Libertex, enables traders to access the market and invest in stocks or trade CFDs with underlying assets being commodities, Forex, ETFs, cryptocurrencies, and others.  A firm believer in the power of sports to inspire, empower and push for success, Libertex is the Official Online Trading Partner of Audi Revolut F1 Team.  We build innovative fintech so people can #TradeForMore with Libertex.  Job Overview  We are looking for a Quality Assurance Specialist who will be responsible for monitoring and improving the quality of customer interactions across multiple com",
+      "date": "",
       "salary": null,
-      "url": "https://www.getonbrd.com/jobs/qa-manual-coderslab-io-remote",
-      "source": "GetOnBoard",
-      "id": "975771795935",
-      "score": 65,
+      "url": "https://himalayas.app/companies/libertex-group/jobs/customer-success-officer",
+      "source": "Himalayas",
+      "id": "d4cc73c94093",
+      "score": 20,
       "matches": [
-        "Rol QA ✓",
-        "agile",
-        "scrum",
-        "bug",
-        "Remoto/Latam 🌐"
+        "Rol QA (desc)"
       ],
       "warnings": [],
-      "verdict": "excelente"
+      "verdict": "regular"
+    },
+    {
+      "title": "Software Development Team Leader | Work From Anywhere",
+      "company": "",
+      "location": "['Thailand']",
+      "description": "  Software Development Team Leader | Work From Anywhere   We're partneringwith an ambitious technology company that's redefining how businesses growthrough modern Cloud-Native applications and DevSecOps solutions. As part oftheir expansion, they are seeking a  Software Development Team Leader  to help drive the success of their projects and team members.   About the Role  As the SoftwareDevelopment Team Leader, you'll play a key role in delivering high-impactsolutions for clients across various industries. You'll guide a talented teamof developers and testers, ensuring best practices in design, development,security, and quality,  all while working with the latest technologies.   What Youll Do   Lead and mentor a     multi-functional team of software engineers and QA professionals.  Collabo",
+      "date": "",
+      "salary": null,
+      "url": "https://himalayas.app/companies/evantis-talent-solutions/jobs/software-development-team-leader-work-from-anywhere-6582598654",
+      "source": "Himalayas",
+      "id": "328fc69244ca",
+      "score": 20,
+      "matches": [
+        "Rol QA (desc)"
+      ],
+      "warnings": [],
+      "verdict": "regular"
     }
   ]
 }
