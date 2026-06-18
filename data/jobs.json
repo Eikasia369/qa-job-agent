@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-17T19:27:00.504026+00:00",
+  "last_updated": "2026-06-18T00:18:22.180134+00:00",
   "total_fetched": 152,
   "sources": {
     "Remotive": 30,
@@ -8,7 +8,7 @@
     "Himalayas": 20,
     "Jobicy": 6
   },
-  "new_count": 0,
+  "new_count": 1,
   "jobs": [
     {
       "title": "QA Product & Automation",
@@ -56,6 +56,27 @@
       "verdict": "excelente"
     },
     {
+      "title": "QA Manual SSR",
+      "company": "",
+      "location": "remote_local",
+      "description": " ● 2+ años de experiencia como QA Manual. ● Experiencia probando apps mobile (Android y/o iOS). ● Experiencia en testing de APIs. ● Conocimiento de metodologías Agile / Scrum. ● Experiencia usando herramientas de gestión de bugs: ● Capacidad para escribir casos de prueba claros y estructurados. ● Perfil detallista y orientado a calidad. ",
+      "date": 1781732819,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/qa-manual-coderslab-io-remote",
+      "source": "GetOnBoard",
+      "id": "975771795935",
+      "score": 65,
+      "matches": [
+        "Rol QA ✓",
+        "agile",
+        "scrum",
+        "bug",
+        "Remoto/Latam 🌐"
+      ],
+      "warnings": [],
+      "verdict": "excelente"
+    },
+    {
       "title": "QA Automation Engineer (Mobile)",
       "company": "",
       "location": "remote_local",
@@ -96,27 +117,6 @@
       ],
       "warnings": [],
       "verdict": "excelente"
-    },
-    {
-      "title": "QA Automation",
-      "company": "",
-      "location": "hybrid",
-      "description": " Buscamos un(a) profesional con base sólida en ingeniería de software y experiencia práctica en aseguramiento de calidad, que disfrute construir automatización y trabajar con mentalidad de mejora continua.    Formación:  Ingeniería de Sistemas, Electrónica o carreras afines.   Experiencia:  mínimo  2 años  en pruebas de calidad de software.   Automatización:  experiencia con herramientas como  Selenium, Cypress, Playwright, Robot Framework  o similares.   Metodologías ágiles:  conocimiento y práctica trabajando en entornos ágiles.   APIs y datos:  experiencia en pruebas de  APIs  y  bases de datos  (validación de integridad, consistencia y comportamiento).   Colaboración y comunicación:  habilidad para trabajar con equipos multidisciplinarios, comunicar riesgos y resultados con claridad y ",
-      "date": 1780680827,
-      "salary": null,
-      "url": "https://www.getonbrd.com/jobs/qa-automation-factor-it-medellin",
-      "source": "GetOnBoard",
-      "id": "9c624aadee1d",
-      "score": 60,
-      "matches": [
-        "Rol QA ✓",
-        "playwright",
-        "automation",
-        "selenium",
-        "cypress"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
     },
     {
       "title": "QA Analyst",
@@ -171,6 +171,24 @@
       "matches": [
         "Rol QA ✓",
         "automation"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    },
+    {
+      "title": "Analista QA Sr",
+      "company": "",
+      "location": "hybrid",
+      "description": " -Experiencia en diseñar e implementar planes, escenarios y casos de prueba -Experiencia en definir estrategias de testing basadas en riesgos -Experiencia gestionado bugs, evaluando impacto de fixes y coordinando regresiones -Experiencia en ejecución pruebas en web, mobile (iOS/Android) y APIs/microservicios -Experiencia generando y gestionado data de prueba ",
+      "date": 1781732480,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/analista-qa-coderslab-io-santiago-9bab",
+      "source": "GetOnBoard",
+      "id": "7406f9ed8c65",
+      "score": 45,
+      "matches": [
+        "Rol QA ✓",
+        "bug"
       ],
       "warnings": [],
       "verdict": "bueno"
@@ -247,5 +265,27 @@
       "verdict": "regular"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "title": "QA Manual SSR",
+      "company": "",
+      "location": "remote_local",
+      "description": " ● 2+ años de experiencia como QA Manual. ● Experiencia probando apps mobile (Android y/o iOS). ● Experiencia en testing de APIs. ● Conocimiento de metodologías Agile / Scrum. ● Experiencia usando herramientas de gestión de bugs: ● Capacidad para escribir casos de prueba claros y estructurados. ● Perfil detallista y orientado a calidad. ",
+      "date": 1781732819,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/qa-manual-coderslab-io-remote",
+      "source": "GetOnBoard",
+      "id": "975771795935",
+      "score": 65,
+      "matches": [
+        "Rol QA ✓",
+        "agile",
+        "scrum",
+        "bug",
+        "Remoto/Latam 🌐"
+      ],
+      "warnings": [],
+      "verdict": "excelente"
+    }
+  ]
 }
