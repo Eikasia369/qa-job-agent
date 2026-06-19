@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-06-19T01:46:00.450838+00:00",
-  "total_fetched": 154,
+  "last_updated": "2026-06-19T14:14:35.364307+00:00",
+  "total_fetched": 152,
   "sources": {
     "Remotive": 32,
-    "WorkingNomads": 45,
+    "WorkingNomads": 43,
     "GetOnBoard": 50,
     "Himalayas": 20,
     "Jobicy": 7
   },
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "title": "QA Product & Automation",
@@ -243,44 +243,7 @@
       ],
       "warnings": [],
       "verdict": "regular"
-    },
-    {
-      "title": "Principal Data Engineer - LATAM - English Required",
-      "company": "",
-      "location": "['Mexico']",
-      "description": " Work at  DaCodes !  We are a high-impact software and digital transformation firm.  For the past 10 years, we have built technology and innovation-driven solutions thanks to our team of nearly 300 talented #DaCoders, including developers, architects, UX/UI designers, PMs, QA testers, and more. Our team collaborates on projects with clients across LATAM and the United States, delivering outstanding results.  At  DaCodes , you will have the opportunity to accelerate your professional growth, work on diverse projects across multiple industries, and contribute to the design, implementation, and optimization of cloud-based infrastructures.  Our DaCoders have a significant impact on the success of both our business and our clients. You will be the expert participating in our projects and will g",
-      "date": "",
-      "salary": null,
-      "url": "https://himalayas.app/companies/dacodes/jobs/principal-data-engineer-latam-english-required",
-      "source": "Himalayas",
-      "id": "cdd998943cbe",
-      "score": 30,
-      "matches": [
-        "Rol QA (desc)",
-        "Remoto/Latam 🌐"
-      ],
-      "warnings": [],
-      "verdict": "regular"
     }
   ],
-  "new_jobs": [
-    {
-      "title": "Principal Data Engineer - LATAM - English Required",
-      "company": "",
-      "location": "['Mexico']",
-      "description": " Work at  DaCodes !  We are a high-impact software and digital transformation firm.  For the past 10 years, we have built technology and innovation-driven solutions thanks to our team of nearly 300 talented #DaCoders, including developers, architects, UX/UI designers, PMs, QA testers, and more. Our team collaborates on projects with clients across LATAM and the United States, delivering outstanding results.  At  DaCodes , you will have the opportunity to accelerate your professional growth, work on diverse projects across multiple industries, and contribute to the design, implementation, and optimization of cloud-based infrastructures.  Our DaCoders have a significant impact on the success of both our business and our clients. You will be the expert participating in our projects and will g",
-      "date": "",
-      "salary": null,
-      "url": "https://himalayas.app/companies/dacodes/jobs/principal-data-engineer-latam-english-required",
-      "source": "Himalayas",
-      "id": "cdd998943cbe",
-      "score": 30,
-      "matches": [
-        "Rol QA (desc)",
-        "Remoto/Latam 🌐"
-      ],
-      "warnings": [],
-      "verdict": "regular"
-    }
-  ]
+  "new_jobs": []
 }
