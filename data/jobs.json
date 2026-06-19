@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-18T19:33:04.095037+00:00",
+  "last_updated": "2026-06-19T01:46:00.450838+00:00",
   "total_fetched": 154,
   "sources": {
     "Remotive": 32,
@@ -8,7 +8,7 @@
     "Himalayas": 20,
     "Jobicy": 7
   },
-  "new_count": 0,
+  "new_count": 1,
   "jobs": [
     {
       "title": "QA Product & Automation",
@@ -60,7 +60,7 @@
       "company": "",
       "location": "remote_local",
       "description": " ● 2+ años de experiencia como QA Manual. ● Experiencia probando apps mobile (Android y/o iOS). ● Experiencia en testing de APIs. ● Conocimiento de metodologías Agile / Scrum. ● Experiencia usando herramientas de gestión de bugs: ● Capacidad para escribir casos de prueba claros y estructurados. ● Perfil detallista y orientado a calidad. ",
-      "date": 1781732819,
+      "date": 1781812866,
       "salary": null,
       "url": "https://www.getonbrd.com/jobs/qa-manual-coderslab-io-remote",
       "source": "GetOnBoard",
@@ -117,26 +117,6 @@
       ],
       "warnings": [],
       "verdict": "excelente"
-    },
-    {
-      "title": "QA Analyst",
-      "company": "",
-      "location": "hybrid",
-      "description": " Esperamos que tengas sólidos fundamentos en testing de software, idealmente con certificación ISTQB Foundation.   En automatización web, buscamos a alguien con experiencia real en Selenium usando Page Object Model y Page Factory, con manejo fluido de locators (XPath, CSS, ID), tipos de esperas, Shadow DOM y Cucumber.   Para pruebas de API y servicios SOAP, deberás manejar Karate Framework y Rest Assured como herramientas principales, complementadas con Postman y SoapUI para exploración y validación manual.   En cuanto a lenguajes y herramientas del día a día, necesitamos que te desenvuelvas con Java orientado a objetos a nivel intermedio, que gestiones dependencias con Gradle o Maven, y que uses Git con fluidez a nivel de comandos.   Valoramos que conozcas SQL para validar datos directame",
-      "date": 1781113145,
-      "salary": null,
-      "url": "https://www.getonbrd.com/jobs/qa-analyst-factor-it-santiago",
-      "source": "GetOnBoard",
-      "id": "56d0d70c1a9f",
-      "score": 55,
-      "matches": [
-        "Rol QA ✓",
-        "postman",
-        "selenium",
-        "sql"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
     },
     {
       "title": "Senior Quality Assurance Automation Engineer",
@@ -263,7 +243,44 @@
       ],
       "warnings": [],
       "verdict": "regular"
+    },
+    {
+      "title": "Principal Data Engineer - LATAM - English Required",
+      "company": "",
+      "location": "['Mexico']",
+      "description": " Work at  DaCodes !  We are a high-impact software and digital transformation firm.  For the past 10 years, we have built technology and innovation-driven solutions thanks to our team of nearly 300 talented #DaCoders, including developers, architects, UX/UI designers, PMs, QA testers, and more. Our team collaborates on projects with clients across LATAM and the United States, delivering outstanding results.  At  DaCodes , you will have the opportunity to accelerate your professional growth, work on diverse projects across multiple industries, and contribute to the design, implementation, and optimization of cloud-based infrastructures.  Our DaCoders have a significant impact on the success of both our business and our clients. You will be the expert participating in our projects and will g",
+      "date": "",
+      "salary": null,
+      "url": "https://himalayas.app/companies/dacodes/jobs/principal-data-engineer-latam-english-required",
+      "source": "Himalayas",
+      "id": "cdd998943cbe",
+      "score": 30,
+      "matches": [
+        "Rol QA (desc)",
+        "Remoto/Latam 🌐"
+      ],
+      "warnings": [],
+      "verdict": "regular"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "title": "Principal Data Engineer - LATAM - English Required",
+      "company": "",
+      "location": "['Mexico']",
+      "description": " Work at  DaCodes !  We are a high-impact software and digital transformation firm.  For the past 10 years, we have built technology and innovation-driven solutions thanks to our team of nearly 300 talented #DaCoders, including developers, architects, UX/UI designers, PMs, QA testers, and more. Our team collaborates on projects with clients across LATAM and the United States, delivering outstanding results.  At  DaCodes , you will have the opportunity to accelerate your professional growth, work on diverse projects across multiple industries, and contribute to the design, implementation, and optimization of cloud-based infrastructures.  Our DaCoders have a significant impact on the success of both our business and our clients. You will be the expert participating in our projects and will g",
+      "date": "",
+      "salary": null,
+      "url": "https://himalayas.app/companies/dacodes/jobs/principal-data-engineer-latam-english-required",
+      "source": "Himalayas",
+      "id": "cdd998943cbe",
+      "score": 30,
+      "matches": [
+        "Rol QA (desc)",
+        "Remoto/Latam 🌐"
+      ],
+      "warnings": [],
+      "verdict": "regular"
+    }
+  ]
 }
