@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-06-19T14:14:35.364307+00:00",
-  "total_fetched": 152,
+  "last_updated": "2026-06-19T18:58:49.972009+00:00",
+  "total_fetched": 153,
   "sources": {
     "Remotive": 32,
-    "WorkingNomads": 43,
+    "WorkingNomads": 44,
     "GetOnBoard": 50,
     "Himalayas": 20,
     "Jobicy": 7
   },
-  "new_count": 0,
+  "new_count": 1,
   "jobs": [
     {
       "title": "QA Product & Automation",
@@ -60,7 +60,7 @@
       "company": "",
       "location": "remote_local",
       "description": " ● 2+ años de experiencia como QA Manual. ● Experiencia probando apps mobile (Android y/o iOS). ● Experiencia en testing de APIs. ● Conocimiento de metodologías Agile / Scrum. ● Experiencia usando herramientas de gestión de bugs: ● Capacidad para escribir casos de prueba claros y estructurados. ● Perfil detallista y orientado a calidad. ",
-      "date": 1781812866,
+      "date": 1781886600,
       "salary": null,
       "url": "https://www.getonbrd.com/jobs/qa-manual-coderslab-io-remote",
       "source": "GetOnBoard",
@@ -160,7 +160,7 @@
       "company": "",
       "location": "hybrid",
       "description": " -Experiencia en diseñar e implementar planes, escenarios y casos de prueba -Experiencia en definir estrategias de testing basadas en riesgos -Experiencia gestionado bugs, evaluando impacto de fixes y coordinando regresiones -Experiencia en ejecución pruebas en web, mobile (iOS/Android) y APIs/microservicios -Experiencia generando y gestionado data de prueba ",
-      "date": 1781810987,
+      "date": 1781886584,
       "salary": null,
       "url": "https://www.getonbrd.com/jobs/analista-qa-coderslab-io-santiago-9bab",
       "source": "GetOnBoard",
@@ -227,6 +227,26 @@
       "verdict": "regular"
     },
     {
+      "title": "Software Engineer Internship - Testing, Technical Analysis, and Automation (WFH ",
+      "company": "",
+      "location": "['Malaysia']",
+      "description": "  Collaborate with the software development team to understand project requirements and objectives.  Participate in software testing activities, including writing test cases, executing tests, and identifying defects.  Perform technical analysis of software systems, including code review, performance analysis, and troubleshooting.  Assist in the design and implementation of automated testing frameworks and tools to streamline testing processes.  Work on automation projects to improve efficiency and reliability in software development and testing.  Document findings, analyze results, and provide recommendations for improvement.  Communicate effectively with team members and stakeholders to ensure project goals are met.    Currently enrolled in a Bachelor's or Master's degree program in Compu",
+      "date": "",
+      "salary": null,
+      "url": "https://himalayas.app/companies/seeka-technology/jobs/software-engineer-internship-testing-technical-analysis-and-automation-wfh",
+      "source": "Himalayas",
+      "id": "aed8fff36a7b",
+      "score": 35,
+      "matches": [
+        "Rol QA (desc)",
+        "automation",
+        "test case",
+        "defect"
+      ],
+      "warnings": [],
+      "verdict": "regular"
+    },
+    {
       "title": "Mobile Developer iOS (Swift)",
       "company": "",
       "location": "fully_remote",
@@ -245,5 +265,26 @@
       "verdict": "regular"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "title": "Software Engineer Internship - Testing, Technical Analysis, and Automation (WFH ",
+      "company": "",
+      "location": "['Malaysia']",
+      "description": "  Collaborate with the software development team to understand project requirements and objectives.  Participate in software testing activities, including writing test cases, executing tests, and identifying defects.  Perform technical analysis of software systems, including code review, performance analysis, and troubleshooting.  Assist in the design and implementation of automated testing frameworks and tools to streamline testing processes.  Work on automation projects to improve efficiency and reliability in software development and testing.  Document findings, analyze results, and provide recommendations for improvement.  Communicate effectively with team members and stakeholders to ensure project goals are met.    Currently enrolled in a Bachelor's or Master's degree program in Compu",
+      "date": "",
+      "salary": null,
+      "url": "https://himalayas.app/companies/seeka-technology/jobs/software-engineer-internship-testing-technical-analysis-and-automation-wfh",
+      "source": "Himalayas",
+      "id": "aed8fff36a7b",
+      "score": 35,
+      "matches": [
+        "Rol QA (desc)",
+        "automation",
+        "test case",
+        "defect"
+      ],
+      "warnings": [],
+      "verdict": "regular"
+    }
+  ]
 }
