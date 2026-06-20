@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-19T18:58:49.972009+00:00",
+  "last_updated": "2026-06-20T00:13:29.437686+00:00",
   "total_fetched": 153,
   "sources": {
     "Remotive": 32,
@@ -227,26 +227,6 @@
       "verdict": "regular"
     },
     {
-      "title": "Software Engineer Internship - Testing, Technical Analysis, and Automation (WFH ",
-      "company": "",
-      "location": "['Malaysia']",
-      "description": "  Collaborate with the software development team to understand project requirements and objectives.  Participate in software testing activities, including writing test cases, executing tests, and identifying defects.  Perform technical analysis of software systems, including code review, performance analysis, and troubleshooting.  Assist in the design and implementation of automated testing frameworks and tools to streamline testing processes.  Work on automation projects to improve efficiency and reliability in software development and testing.  Document findings, analyze results, and provide recommendations for improvement.  Communicate effectively with team members and stakeholders to ensure project goals are met.    Currently enrolled in a Bachelor's or Master's degree program in Compu",
-      "date": "",
-      "salary": null,
-      "url": "https://himalayas.app/companies/seeka-technology/jobs/software-engineer-internship-testing-technical-analysis-and-automation-wfh",
-      "source": "Himalayas",
-      "id": "aed8fff36a7b",
-      "score": 35,
-      "matches": [
-        "Rol QA (desc)",
-        "automation",
-        "test case",
-        "defect"
-      ],
-      "warnings": [],
-      "verdict": "regular"
-    },
-    {
       "title": "Mobile Developer iOS (Swift)",
       "company": "",
       "location": "fully_remote",
@@ -263,25 +243,39 @@
       ],
       "warnings": [],
       "verdict": "regular"
+    },
+    {
+      "title": "Senior Python Data Scraping Engineer (Freelance)",
+      "company": "",
+      "location": "['United States']",
+      "description": "   Mindrift  is looking for highly skilled Senior Python Data Scraping Engineers to join the Tendem project and drive specialized data scraping workflows within our hybrid AI + human system.    In this role, as an AI Pilot – that’s how we refer to this role at  Mindrift  – you’ll collaborate with Tendem Agents that handle repetitive tasks, while you provide critical thinking, domain expertise, and quality control to deliver accurate and actionable results.   This part-time remote opportunity is ideal for technical professionals with hands-on experience in web scraping, data extraction and processing.  What We Do  The  Mindrift  platform connects specialists with AI projects from major tech innovators. Our mission is to unlock the potential of Generative AI by tapping into real-world expert",
+      "date": "",
+      "salary": null,
+      "url": "https://himalayas.app/companies/mindrift/jobs/senior-python-data-scraping-engineer-freelance-6546892430",
+      "source": "Himalayas",
+      "id": "f46f4af5882f",
+      "score": 20,
+      "matches": [
+        "Rol QA (desc)"
+      ],
+      "warnings": [],
+      "verdict": "regular"
     }
   ],
   "new_jobs": [
     {
-      "title": "Software Engineer Internship - Testing, Technical Analysis, and Automation (WFH ",
+      "title": "Senior Python Data Scraping Engineer (Freelance)",
       "company": "",
-      "location": "['Malaysia']",
-      "description": "  Collaborate with the software development team to understand project requirements and objectives.  Participate in software testing activities, including writing test cases, executing tests, and identifying defects.  Perform technical analysis of software systems, including code review, performance analysis, and troubleshooting.  Assist in the design and implementation of automated testing frameworks and tools to streamline testing processes.  Work on automation projects to improve efficiency and reliability in software development and testing.  Document findings, analyze results, and provide recommendations for improvement.  Communicate effectively with team members and stakeholders to ensure project goals are met.    Currently enrolled in a Bachelor's or Master's degree program in Compu",
+      "location": "['United States']",
+      "description": "   Mindrift  is looking for highly skilled Senior Python Data Scraping Engineers to join the Tendem project and drive specialized data scraping workflows within our hybrid AI + human system.    In this role, as an AI Pilot – that’s how we refer to this role at  Mindrift  – you’ll collaborate with Tendem Agents that handle repetitive tasks, while you provide critical thinking, domain expertise, and quality control to deliver accurate and actionable results.   This part-time remote opportunity is ideal for technical professionals with hands-on experience in web scraping, data extraction and processing.  What We Do  The  Mindrift  platform connects specialists with AI projects from major tech innovators. Our mission is to unlock the potential of Generative AI by tapping into real-world expert",
       "date": "",
       "salary": null,
-      "url": "https://himalayas.app/companies/seeka-technology/jobs/software-engineer-internship-testing-technical-analysis-and-automation-wfh",
+      "url": "https://himalayas.app/companies/mindrift/jobs/senior-python-data-scraping-engineer-freelance-6546892430",
       "source": "Himalayas",
-      "id": "aed8fff36a7b",
-      "score": 35,
+      "id": "f46f4af5882f",
+      "score": 20,
       "matches": [
-        "Rol QA (desc)",
-        "automation",
-        "test case",
-        "defect"
+        "Rol QA (desc)"
       ],
       "warnings": [],
       "verdict": "regular"
