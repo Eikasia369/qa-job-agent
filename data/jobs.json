@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-22T00:16:03.479019+00:00",
+  "last_updated": "2026-06-22T15:56:45.019845+00:00",
   "total_fetched": 149,
   "sources": {
     "Remotive": 30,
@@ -10,29 +10,6 @@
   },
   "new_count": 0,
   "jobs": [
-    {
-      "title": "QA Product & Automation",
-      "company": "",
-      "location": "remote_local",
-      "description": "  Experiencia comprobable en QA funcional y automatización utilizando herramientas como Selenium, Cypress, Playwright o similares.  Conocimiento básico de UX/UI: Capacidad para analizar flujos, detectar fricciones y comunicar hallazgos pensando en el usuario final.  Interés o experiencia en Fintech / Payments: Nos encanta si ya conoces o te apasiona el mundo de los medios de pago, pasarelas de pago, conciliación bancaria, etc.  Mentalidad AI-First: Capacidad y entusiasmo para trabajar con herramientas de IA como parte de tu flujo de trabajo cotidiano para automatizar y redactar más rápido.  Criterio y Priorización: Saber qué testear primero en un contexto de alta velocidad y despliegue continuo.  ",
-      "date": 1781280629,
-      "salary": "1000–1400",
-      "url": "https://www.getonbrd.com/jobs/qa-tester-comunidadfeliz-remote-6876",
-      "source": "GetOnBoard",
-      "id": "0d4f66b97609",
-      "score": 75,
-      "matches": [
-        "Rol QA ✓",
-        "playwright",
-        "automation",
-        "selenium",
-        "cypress",
-        "Remoto/Latam 🌐",
-        "Salario 💰"
-      ],
-      "warnings": [],
-      "verdict": "excelente"
-    },
     {
       "title": "QA Automation Engineer",
       "company": "",
@@ -160,7 +137,7 @@
       "company": "",
       "location": "hybrid",
       "description": " -Experiencia en diseñar e implementar planes, escenarios y casos de prueba -Experiencia en definir estrategias de testing basadas en riesgos -Experiencia gestionado bugs, evaluando impacto de fixes y coordinando regresiones -Experiencia en ejecución pruebas en web, mobile (iOS/Android) y APIs/microservicios -Experiencia generando y gestionado data de prueba ",
-      "date": 1781886584,
+      "date": 1782136663,
       "salary": null,
       "url": "https://www.getonbrd.com/jobs/analista-qa-coderslab-io-santiago-9bab",
       "source": "GetOnBoard",
