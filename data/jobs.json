@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-22T20:09:26.494008+00:00",
+  "last_updated": "2026-06-23T00:11:30.364614+00:00",
   "total_fetched": 149,
   "sources": {
     "Remotive": 30,
@@ -8,7 +8,7 @@
     "Himalayas": 20,
     "Jobicy": 7
   },
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "title": "QA Automation Engineer",
@@ -115,25 +115,6 @@
       "verdict": "bueno"
     },
     {
-      "title": "QA Manager for .NET and Angular based applications - Full Remote",
-      "company": "",
-      "location": "['United States']",
-      "description": "Category: IT Services   Location: Fort Western Province Sri Lanka     For an international organization in New York, we are urgently looking for a REMOTE (Senior) QA Manager for .NET and Angular-based applications. The QA Manager should be experienced with a history of working in an agile environment. Candidates must have hands-on experience working with Angular, .NET, MS SQL in teams building large consumer-facing web applications from the ground up.    Candidates need to be fluent in English. All positions are long-term. This position is open for freelancers and employees.   Candidates need to be able to work normal office hours in New York, US. Example 9 AM NY time equals 7:30 PM    Tasks and Responsibilities:     Work within an agile team to ensure the quality of complex .NET and Angul",
-      "date": "",
-      "salary": null,
-      "url": "https://himalayas.app/companies/gopro-consultancy-group-ltd/jobs/qa-manager-for-net-and-angular-based-applications-full-remote-7178807232",
-      "source": "Himalayas",
-      "id": "74ebded52fbc",
-      "score": 50,
-      "matches": [
-        "Rol QA ✓",
-        "agile",
-        "sql"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
-    },
-    {
       "title": "Senior QA Automation Engineer",
       "company": "Proxify",
       "location": "Time zone: CET (+/- 3 hours)",
@@ -156,7 +137,7 @@
       "company": "",
       "location": "hybrid",
       "description": " -Experiencia en diseñar e implementar planes, escenarios y casos de prueba -Experiencia en definir estrategias de testing basadas en riesgos -Experiencia gestionado bugs, evaluando impacto de fixes y coordinando regresiones -Experiencia en ejecución pruebas en web, mobile (iOS/Android) y APIs/microservicios -Experiencia generando y gestionado data de prueba ",
-      "date": 1782136663,
+      "date": 1782160227,
       "salary": null,
       "url": "https://www.getonbrd.com/jobs/analista-qa-coderslab-io-santiago-9bab",
       "source": "GetOnBoard",
@@ -241,25 +222,5 @@
       "verdict": "regular"
     }
   ],
-  "new_jobs": [
-    {
-      "title": "QA Manager for .NET and Angular based applications - Full Remote",
-      "company": "",
-      "location": "['United States']",
-      "description": "Category: IT Services   Location: Fort Western Province Sri Lanka     For an international organization in New York, we are urgently looking for a REMOTE (Senior) QA Manager for .NET and Angular-based applications. The QA Manager should be experienced with a history of working in an agile environment. Candidates must have hands-on experience working with Angular, .NET, MS SQL in teams building large consumer-facing web applications from the ground up.    Candidates need to be fluent in English. All positions are long-term. This position is open for freelancers and employees.   Candidates need to be able to work normal office hours in New York, US. Example 9 AM NY time equals 7:30 PM    Tasks and Responsibilities:     Work within an agile team to ensure the quality of complex .NET and Angul",
-      "date": "",
-      "salary": null,
-      "url": "https://himalayas.app/companies/gopro-consultancy-group-ltd/jobs/qa-manager-for-net-and-angular-based-applications-full-remote-7178807232",
-      "source": "Himalayas",
-      "id": "74ebded52fbc",
-      "score": 50,
-      "matches": [
-        "Rol QA ✓",
-        "agile",
-        "sql"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
-    }
-  ]
+  "new_jobs": []
 }
