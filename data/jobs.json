@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-23T19:10:29.071801+00:00",
+  "last_updated": "2026-06-24T00:02:27.470620+00:00",
   "total_fetched": 149,
   "sources": {
     "Remotive": 30,
@@ -8,7 +8,7 @@
     "Himalayas": 20,
     "Jobicy": 6
   },
-  "new_count": 0,
+  "new_count": 1,
   "jobs": [
     {
       "title": "QA Automation Engineer",
@@ -37,7 +37,7 @@
       "company": "",
       "location": "remote_local",
       "description": " ● 2+ años de experiencia como QA Manual. ● Experiencia probando apps mobile (Android y/o iOS). ● Experiencia en testing de APIs. ● Conocimiento de metodologías Agile / Scrum. ● Experiencia usando herramientas de gestión de bugs: ● Capacidad para escribir casos de prueba claros y estructurados. ● Perfil detallista y orientado a calidad. ",
-      "date": 1782238865,
+      "date": 1782244826,
       "salary": null,
       "url": "https://www.getonbrd.com/jobs/qa-manual-coderslab-io-remote",
       "source": "GetOnBoard",
@@ -137,7 +137,7 @@
       "company": "",
       "location": "hybrid",
       "description": " -Experiencia en diseñar e implementar planes, escenarios y casos de prueba -Experiencia en definir estrategias de testing basadas en riesgos -Experiencia gestionado bugs, evaluando impacto de fixes y coordinando regresiones -Experiencia en ejecución pruebas en web, mobile (iOS/Android) y APIs/microservicios -Experiencia generando y gestionado data de prueba ",
-      "date": 1782239459,
+      "date": 1782246393,
       "salary": null,
       "url": "https://www.getonbrd.com/jobs/analista-qa-coderslab-io-santiago-9bab",
       "source": "GetOnBoard",
@@ -169,6 +169,26 @@
       "verdict": "bueno"
     },
     {
+      "title": "Work With Us!",
+      "company": "",
+      "location": "Remote",
+      "description": " At  Button  you can expect your work to make an impact and we are always on the lookout for people who embrace creativity and meaningful collaboration. We always love to meet great people who have experience or an interest in working in a consulting or project based environment. We offer full time, part time and contract/ project based opportunities- whatever works for you.   We are regularly looking for folks with skills in:   Service Design  Agile/Scrum Master  Developers of all levels with exposure to a wide variety of technologies  Solution Architects UI/UX Designers User Research QA Engineers   We are a group of life long learners and \"tinkerers\" and we love to share our knowledge with eachother and the larger community. We are a remote first,  employee centric organization establish",
+      "date": "",
+      "salary": null,
+      "url": "https://himalayas.app/companies/button-is/jobs/work-with-us",
+      "source": "Himalayas",
+      "id": "1018cd571448",
+      "score": 40,
+      "matches": [
+        "Rol QA (desc)",
+        "agile",
+        "scrum",
+        "Remoto/Latam 🌐"
+      ],
+      "warnings": [],
+      "verdict": "regular"
+    },
+    {
       "title": "Quality Assurance Specialist",
       "company": "ECS",
       "location": "USA",
@@ -184,25 +204,28 @@
       ],
       "warnings": [],
       "verdict": "regular"
-    },
+    }
+  ],
+  "new_jobs": [
     {
-      "title": "Mobile Developer iOS (Swift)",
+      "title": "Work With Us!",
       "company": "",
-      "location": "fully_remote",
-      "description": " - Desarrollo y mantenimiento de aplicaciones iOS nativas en Swift - Uso de UIKit y/o SwiftUI aplicando patrones como MVVM - Diseño de interfaces intuitivas y accesibles - Integración de servicios mediante APIs RESTful - Participación en pruebas unitarias y de UI - Revisiones de código y mejoras técnicas - Documentación de decisiones de diseño - Colaboración con equipos de backend, QA y diseño - Aseguramiento de la calidad, seguridad y rendimiento de la aplicación - Identificación de oportunidades de modernización, incluyendo el uso de Swift Concurrency ",
-      "date": 1781035298,
+      "location": "Remote",
+      "description": " At  Button  you can expect your work to make an impact and we are always on the lookout for people who embrace creativity and meaningful collaboration. We always love to meet great people who have experience or an interest in working in a consulting or project based environment. We offer full time, part time and contract/ project based opportunities- whatever works for you.   We are regularly looking for folks with skills in:   Service Design  Agile/Scrum Master  Developers of all levels with exposure to a wide variety of technologies  Solution Architects UI/UX Designers User Research QA Engineers   We are a group of life long learners and \"tinkerers\" and we love to share our knowledge with eachother and the larger community. We are a remote first,  employee centric organization establish",
+      "date": "",
       "salary": null,
-      "url": "https://www.getonbrd.com/jobs/mobile-developer-ios-swift-42labs-santiago",
-      "source": "GetOnBoard",
-      "id": "62d13ae9974d",
-      "score": 30,
+      "url": "https://himalayas.app/companies/button-is/jobs/work-with-us",
+      "source": "Himalayas",
+      "id": "1018cd571448",
+      "score": 40,
       "matches": [
         "Rol QA (desc)",
+        "agile",
+        "scrum",
         "Remoto/Latam 🌐"
       ],
       "warnings": [],
       "verdict": "regular"
     }
-  ],
-  "new_jobs": []
+  ]
 }
