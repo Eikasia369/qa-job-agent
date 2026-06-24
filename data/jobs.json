@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-06-24T13:24:59.426523+00:00",
-  "total_fetched": 158,
+  "last_updated": "2026-06-24T18:53:35.060739+00:00",
+  "total_fetched": 159,
   "sources": {
     "Remotive": 36,
-    "WorkingNomads": 46,
+    "WorkingNomads": 47,
     "GetOnBoard": 50,
     "Himalayas": 20,
     "Jobicy": 6
   },
-  "new_count": 5,
+  "new_count": 1,
   "jobs": [
     {
       "title": "QA Automation Engineer",
@@ -94,6 +94,26 @@
       ],
       "warnings": [],
       "verdict": "excelente"
+    },
+    {
+      "title": "Senior Software Test Engineer (SDET) Java/angular",
+      "company": "",
+      "location": "remote_local",
+      "description": "  Técnicas    4+ años de experiencia en pruebas de API sobre aplicaciones Java  4+ años de experiencia en pruebas de UI para SPAs en Angular  4+ años de experiencia configurando frameworks de automatización de pruebas  Familiaridad con integración en pipelines CI/CD  Inglés B2 (tendrás interacción diaria en reuniones, en inglés)    Personales    Capacidad de autogestión  Buenos skills de comunicación en inglés y en español  Fortaleza en trabajo en equipo  Título académico en Ingeniería Informática, Sistemas o carreras afines.    Contrato indefinido desde el inicio con 23people - Tiempo del proyecto 6 meses con posible extensión.    Modalidad:  Home Office - remoto con residencia en Chile.   Experiencia: Desde 4 años en adelante  Horario:  9:00 - 18:00 hrs.   ",
+      "date": 1782229287,
+      "salary": "2700–2900",
+      "url": "https://www.getonbrd.com/jobs/senior-ingeniero-de-desarrollo-de-software-en-pruebas-eng-23people-santiago",
+      "source": "GetOnBoard",
+      "id": "0751d1cfd3f7",
+      "score": 60,
+      "matches": [
+        "Rol QA ✓",
+        "ci/cd",
+        "Remoto/Latam 🌐",
+        "Salario 💰"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
     },
     {
       "title": "Senior Quality Engineer (Florianópolis)",
@@ -246,24 +266,6 @@
       "verdict": "bueno"
     },
     {
-      "title": "QA Automatizador",
-      "company": "",
-      "location": "hybrid",
-      "description": "  Experiencia laboral de 1 a 2 años en roles relacionados con Cloud, QA Automation, DevOps o áreas afines.  Capacidad y experiencia en automatización de procesos, pruebas o tareas operativas.  Conocimientos de scripting o desarrollo (Python, Bash, PowerShell u otros).  Capacidad para desarrollar nuevas soluciones y aprender rápidamente tecnologías asociadas al ecosistema cloud.  Conocimiento de prácticas de calidad, testing y validación de sistemas.  Habilidades analíticas, capacidad de aprendizaje y trabajo colaborativo.   Nivel esperado: Junior (1 a 2 años de experiencia comprobable). No se considerarán perfiles sin experiencia práctica en entornos cloud, automatización o calidad. ",
-      "date": 1781280759,
-      "salary": null,
-      "url": "https://www.getonbrd.com/jobs/qa-automatizador-tcit-santiago-016b",
-      "source": "GetOnBoard",
-      "id": "deba8728b0cf",
-      "score": 45,
-      "matches": [
-        "Rol QA ✓",
-        "automation"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
-    },
-    {
       "title": "Quality Assurance Specialist",
       "company": "ECS",
       "location": "USA",
@@ -283,94 +285,19 @@
   ],
   "new_jobs": [
     {
-      "title": "Senior Quality Engineer (Florianópolis)",
-      "company": "LawnStarter",
-      "location": "Brazil",
-      "description": "  This is a remote role for candidates located in   Florianópolis, Brazil  \n   \n  About LawnStarter  \n LawnStarter is the nation's leading on-demand marketplace for lawn care and outdoor services, with over $100M in annual bookings. We're expanding beyond lawn care to become the one-stop shop for all home services, operating across three brands (LawnStarter, Lawn Love, Home Gnome) on a single shared platform. \n   \n  About Engineering at LawnStarter  \n We've spent the last two years rebuilding the platform from the ground up: new customer app, new Pro onboarding, job distribution engine, and data infrastructure. The foundation is solid. Now we're moving into expanded service verticals, dynamic pricing, and AI-powered features at scale. Quality needs to keep up. \n Our stack is PHP (Laravel) ",
-      "date": "2026-06-23T08:30:06",
-      "salary": "$45k - $65k",
-      "url": "https://remotive.com/remote-jobs/qa/senior-quality-engineer-florianopolis-2090994",
-      "source": "Remotive",
-      "id": "2cc6f6e17cc4",
-      "score": 55,
+      "title": "Senior Software Test Engineer (SDET) Java/angular",
+      "company": "",
+      "location": "remote_local",
+      "description": "  Técnicas    4+ años de experiencia en pruebas de API sobre aplicaciones Java  4+ años de experiencia en pruebas de UI para SPAs en Angular  4+ años de experiencia configurando frameworks de automatización de pruebas  Familiaridad con integración en pipelines CI/CD  Inglés B2 (tendrás interacción diaria en reuniones, en inglés)    Personales    Capacidad de autogestión  Buenos skills de comunicación en inglés y en español  Fortaleza en trabajo en equipo  Título académico en Ingeniería Informática, Sistemas o carreras afines.    Contrato indefinido desde el inicio con 23people - Tiempo del proyecto 6 meses con posible extensión.    Modalidad:  Home Office - remoto con residencia en Chile.   Experiencia: Desde 4 años en adelante  Horario:  9:00 - 18:00 hrs.   ",
+      "date": 1782229287,
+      "salary": "2700–2900",
+      "url": "https://www.getonbrd.com/jobs/senior-ingeniero-de-desarrollo-de-software-en-pruebas-eng-23people-santiago",
+      "source": "GetOnBoard",
+      "id": "0751d1cfd3f7",
+      "score": 60,
       "matches": [
         "Rol QA ✓",
-        "Remoto/Latam 🌐",
-        "Salario 💰"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
-    },
-    {
-      "title": "Senior Quality Engineer (São Paulo)",
-      "company": "LawnStarter",
-      "location": "Brazil",
-      "description": "  This is a remote role for candidates located in  São Paulo , Brazil  \n   \n  About LawnStarter  \n LawnStarter is the nation's leading on-demand marketplace for lawn care and outdoor services, with over $100M in annual bookings. We're expanding beyond lawn care to become the one-stop shop for all home services, operating across three brands (LawnStarter, Lawn Love, Home Gnome) on a single shared platform. \n  About Engineering at LawnStarter  \n We've spent the last two years rebuilding the platform from the ground up: new customer app, new Pro onboarding, job distribution engine, and data infrastructure. The foundation is solid. Now we're moving into expanded service verticals, dynamic pricing, and AI-powered features at scale. Quality needs to keep up. \n Our stack is PHP (Laravel) and Reac",
-      "date": "2026-06-23T08:27:20",
-      "salary": "$45k - $65k",
-      "url": "https://remotive.com/remote-jobs/qa/senior-quality-engineer-sao-paulo-2090995",
-      "source": "Remotive",
-      "id": "5a1d68497d0d",
-      "score": 55,
-      "matches": [
-        "Rol QA ✓",
-        "Remoto/Latam 🌐",
-        "Salario 💰"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
-    },
-    {
-      "title": "Senior Quality Engineer (Belo Horizonte)",
-      "company": "LawnStarter",
-      "location": "Brazil",
-      "description": "  This is a remote role for candidates located in Belo Horizonte, Brazil  \n   \n  About LawnStarter  \n LawnStarter is the nation's leading on-demand marketplace for lawn care and outdoor services, with over $100M in annual bookings. We're expanding beyond lawn care to become the one-stop shop for all home services, operating across three brands (LawnStarter, Lawn Love, Home Gnome) on a single shared platform. \n  About Engineering at LawnStarter  \n We've spent the last two years rebuilding the platform from the ground up: new customer app, new Pro onboarding, job distribution engine, and data infrastructure. The foundation is solid. Now we're moving into expanded service verticals, dynamic pricing, and AI-powered features at scale. Quality needs to keep up. \n Our stack is PHP (Laravel) and R",
-      "date": "2026-06-23T08:25:38",
-      "salary": "$45k - $65k",
-      "url": "https://remotive.com/remote-jobs/qa/senior-quality-engineer-belo-horizonte-2090996",
-      "source": "Remotive",
-      "id": "bc76cd8c19c8",
-      "score": 55,
-      "matches": [
-        "Rol QA ✓",
-        "Remoto/Latam 🌐",
-        "Salario 💰"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
-    },
-    {
-      "title": "Senior Quality Engineer (Campinas)",
-      "company": "LawnStarter",
-      "location": "Brazil",
-      "description": "   This is a remote role for candidates located in   Campinas, Brazil.   \n   \n  About LawnStarter  \n LawnStarter is the nation's leading on-demand marketplace for lawn care and outdoor services, with over $100M in annual bookings. We're expanding beyond lawn care to become the one-stop shop for all home services, operating across three brands (LawnStarter, Lawn Love, Home Gnome) on a single shared platform. \n  About Engineering at LawnStarter  \n We've spent the last two years rebuilding the platform from the ground up: new customer app, new Pro onboarding, job distribution engine, and data infrastructure. The foundation is solid. Now we're moving into expanded service verticals, dynamic pricing, and AI-powered features at scale. Quality needs to keep up. \n Our stack is PHP (Laravel) and Re",
-      "date": "2026-06-23T08:23:50",
-      "salary": "$45k - $65k",
-      "url": "https://remotive.com/remote-jobs/qa/senior-quality-engineer-campinas-2090998",
-      "source": "Remotive",
-      "id": "4ff396044b9d",
-      "score": 55,
-      "matches": [
-        "Rol QA ✓",
-        "Remoto/Latam 🌐",
-        "Salario 💰"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
-    },
-    {
-      "title": "Senior Quality Engineer (Porto Alegre)",
-      "company": "LawnStarter",
-      "location": "Brazil",
-      "description": "  This is a remote role for candidates located in Porto Alegre, Brazil  \n   \n  About LawnStarter  \n LawnStarter is the nation's leading on-demand marketplace for lawn care and outdoor services, with over $100M in annual bookings. We're expanding beyond lawn care to become the one-stop shop for all home services, operating across three brands (LawnStarter, Lawn Love, Home Gnome) on a single shared platform. \n  About Engineering at LawnStarter  \n We've spent the last two years rebuilding the platform from the ground up: new customer app, new Pro onboarding, job distribution engine, and data infrastructure. The foundation is solid. Now we're moving into expanded service verticals, dynamic pricing, and AI-powered features at scale. Quality needs to keep up. \n Our stack is PHP (Laravel) and Rea",
-      "date": "2026-06-23T07:08:26",
-      "salary": "$45k- $65k",
-      "url": "https://remotive.com/remote-jobs/qa/senior-quality-engineer-porto-alegre-2090997",
-      "source": "Remotive",
-      "id": "0a4f2704f85d",
-      "score": 55,
-      "matches": [
-        "Rol QA ✓",
+        "ci/cd",
         "Remoto/Latam 🌐",
         "Salario 💰"
       ],
