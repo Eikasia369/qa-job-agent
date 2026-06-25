@@ -1,120 +1,15 @@
 {
-  "last_updated": "2026-06-24T18:53:35.060739+00:00",
-  "total_fetched": 159,
+  "last_updated": "2026-06-25T00:17:09.056819+00:00",
+  "total_fetched": 109,
   "sources": {
     "Remotive": 36,
     "WorkingNomads": 47,
-    "GetOnBoard": 50,
+    "GetOnBoard": 0,
     "Himalayas": 20,
     "Jobicy": 6
   },
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
-    {
-      "title": "QA Automation Engineer",
-      "company": "",
-      "location": "remote_local",
-      "description": "  Experiencia: mínimo 2 años como QA funcional y 2+ años como QA automatizador  Experiencia automatizando pruebas: Pruebas funcionales, pruebas de humo y pruebas no funcionales  Experiencia con herramientas de control de versiones  Experiencia probando APIs (karate, api rest, entre otros)  Experiencia usando Selenium, Cucumber y Postman  BDD  TDD  Conocimientos en Java (Framework SPRING y/o SPRING BOOT).  Conocimientos realizando pruebas unitarias y de integración  ",
-      "date": 1781653127,
-      "salary": null,
-      "url": "https://www.getonbrd.com/jobs/qa-automation-engineer-dynamic-devs-remote-ae5f",
-      "source": "GetOnBoard",
-      "id": "03b5db6651bd",
-      "score": 70,
-      "matches": [
-        "Rol QA ✓",
-        "postman",
-        "api rest",
-        "automation",
-        "selenium",
-        "Remoto/Latam 🌐"
-      ],
-      "warnings": [],
-      "verdict": "excelente"
-    },
-    {
-      "title": "QA Manual SSR",
-      "company": "",
-      "location": "remote_local",
-      "description": " ● 2+ años de experiencia como QA Manual. ● Experiencia probando apps mobile (Android y/o iOS). ● Experiencia en testing de APIs. ● Conocimiento de metodologías Agile / Scrum. ● Experiencia usando herramientas de gestión de bugs: ● Capacidad para escribir casos de prueba claros y estructurados. ● Perfil detallista y orientado a calidad. ",
-      "date": 1782244826,
-      "salary": null,
-      "url": "https://www.getonbrd.com/jobs/qa-manual-coderslab-io-remote",
-      "source": "GetOnBoard",
-      "id": "975771795935",
-      "score": 65,
-      "matches": [
-        "Rol QA ✓",
-        "agile",
-        "scrum",
-        "bug",
-        "Remoto/Latam 🌐"
-      ],
-      "warnings": [],
-      "verdict": "excelente"
-    },
-    {
-      "title": "QA Automation Engineer (Mobile)",
-      "company": "",
-      "location": "remote_local",
-      "description": "  Experiencia sólida en automatización de pruebas mobile con con Java y Cucumber.  Conocimiento práctico en automatización de pruebas móviles, idealmente con Appium o soluciones equivalentes que permitan validar apps nativas y React Native.,  Experiencia validando servicios RESTful y pruebas de contratos (por ejemplo, usando RestAssured o herramientas similares).,  Capacidad de trabajar con equipos de producto y desarrollo para entender requerimientos funcionales y técnicos.,  Experiencia trabajando en entornos ágiles, colaborativos y orientados a la entrega continua de valor.,  Experiencia en consultas SQL para validación de datos.,  ",
-      "date": 1781652017,
-      "salary": null,
-      "url": "https://www.getonbrd.com/jobs/qa-automation-engineer-dynamic-devs-remote-3611",
-      "source": "GetOnBoard",
-      "id": "05a29f343820",
-      "score": 65,
-      "matches": [
-        "Rol QA ✓",
-        "automation",
-        "sql",
-        "appium",
-        "Remoto/Latam 🌐"
-      ],
-      "warnings": [],
-      "verdict": "excelente"
-    },
-    {
-      "title": "Technical Designer (QA)",
-      "company": "",
-      "location": "fully_remote",
-      "description": "  A sharp eye for visual detail. You notice the 2px misalignment, the wrong shade, the spacing that's off   Strong sense for how good UI should behave, and quick to tell when something feels broken or confusing   Clear, specific communication. Your bug reports leave no guessing about what's wrong or how to reproduce it   Comfortable working in Figma and reading designs against a live product   Methodical and thorough. You check the edge cases, not just the happy path   Able to read and interpret automated test results to catch regressions  ",
-      "date": 1781580107,
-      "salary": "1200–1800",
-      "url": "https://www.getonbrd.com/jobs/junior-full-stack-developer-react-nixtla-remote",
-      "source": "GetOnBoard",
-      "id": "24dcc1df8cff",
-      "score": 65,
-      "matches": [
-        "Rol QA ✓",
-        "regression",
-        "bug",
-        "Remoto/Latam 🌐",
-        "Salario 💰"
-      ],
-      "warnings": [],
-      "verdict": "excelente"
-    },
-    {
-      "title": "Senior Software Test Engineer (SDET) Java/angular",
-      "company": "",
-      "location": "remote_local",
-      "description": "  Técnicas    4+ años de experiencia en pruebas de API sobre aplicaciones Java  4+ años de experiencia en pruebas de UI para SPAs en Angular  4+ años de experiencia configurando frameworks de automatización de pruebas  Familiaridad con integración en pipelines CI/CD  Inglés B2 (tendrás interacción diaria en reuniones, en inglés)    Personales    Capacidad de autogestión  Buenos skills de comunicación en inglés y en español  Fortaleza en trabajo en equipo  Título académico en Ingeniería Informática, Sistemas o carreras afines.    Contrato indefinido desde el inicio con 23people - Tiempo del proyecto 6 meses con posible extensión.    Modalidad:  Home Office - remoto con residencia en Chile.   Experiencia: Desde 4 años en adelante  Horario:  9:00 - 18:00 hrs.   ",
-      "date": 1782229287,
-      "salary": "2700–2900",
-      "url": "https://www.getonbrd.com/jobs/senior-ingeniero-de-desarrollo-de-software-en-pruebas-eng-23people-santiago",
-      "source": "GetOnBoard",
-      "id": "0751d1cfd3f7",
-      "score": 60,
-      "matches": [
-        "Rol QA ✓",
-        "ci/cd",
-        "Remoto/Latam 🌐",
-        "Salario 💰"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
-    },
     {
       "title": "Senior Quality Engineer (Florianópolis)",
       "company": "LawnStarter",
@@ -248,24 +143,6 @@
       "verdict": "bueno"
     },
     {
-      "title": "Analista QA Sr",
-      "company": "",
-      "location": "hybrid",
-      "description": " -Experiencia en diseñar e implementar planes, escenarios y casos de prueba -Experiencia en definir estrategias de testing basadas en riesgos -Experiencia gestionado bugs, evaluando impacto de fixes y coordinando regresiones -Experiencia en ejecución pruebas en web, mobile (iOS/Android) y APIs/microservicios -Experiencia generando y gestionado data de prueba ",
-      "date": 1782305787,
-      "salary": null,
-      "url": "https://www.getonbrd.com/jobs/analista-qa-coderslab-io-santiago-9bab",
-      "source": "GetOnBoard",
-      "id": "7406f9ed8c65",
-      "score": 45,
-      "matches": [
-        "Rol QA ✓",
-        "bug"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
-    },
-    {
       "title": "Quality Assurance Specialist",
       "company": "ECS",
       "location": "USA",
@@ -283,26 +160,5 @@
       "verdict": "regular"
     }
   ],
-  "new_jobs": [
-    {
-      "title": "Senior Software Test Engineer (SDET) Java/angular",
-      "company": "",
-      "location": "remote_local",
-      "description": "  Técnicas    4+ años de experiencia en pruebas de API sobre aplicaciones Java  4+ años de experiencia en pruebas de UI para SPAs en Angular  4+ años de experiencia configurando frameworks de automatización de pruebas  Familiaridad con integración en pipelines CI/CD  Inglés B2 (tendrás interacción diaria en reuniones, en inglés)    Personales    Capacidad de autogestión  Buenos skills de comunicación en inglés y en español  Fortaleza en trabajo en equipo  Título académico en Ingeniería Informática, Sistemas o carreras afines.    Contrato indefinido desde el inicio con 23people - Tiempo del proyecto 6 meses con posible extensión.    Modalidad:  Home Office - remoto con residencia en Chile.   Experiencia: Desde 4 años en adelante  Horario:  9:00 - 18:00 hrs.   ",
-      "date": 1782229287,
-      "salary": "2700–2900",
-      "url": "https://www.getonbrd.com/jobs/senior-ingeniero-de-desarrollo-de-software-en-pruebas-eng-23people-santiago",
-      "source": "GetOnBoard",
-      "id": "0751d1cfd3f7",
-      "score": 60,
-      "matches": [
-        "Rol QA ✓",
-        "ci/cd",
-        "Remoto/Latam 🌐",
-        "Salario 💰"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
-    }
-  ]
+  "new_jobs": []
 }
