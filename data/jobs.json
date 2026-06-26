@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-25T19:07:51.558491+00:00",
+  "last_updated": "2026-06-26T00:13:48.249269+00:00",
   "total_fetched": 157,
   "sources": {
     "Remotive": 32,
@@ -8,7 +8,7 @@
     "Himalayas": 20,
     "Jobicy": 7
   },
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "title": "QA Automation Engineer",
@@ -266,6 +266,24 @@
       "verdict": "bueno"
     },
     {
+      "title": "QA Automatizador Junior",
+      "company": "",
+      "location": "hybrid",
+      "description": "   Experiencia laboral de 1 a 2 años en roles relacionados con Cloud o QA Automation.    Capacidad y experiencia en automatización de procesos, pruebas o tareas operativas.  Conocimientos de scripting o desarrollo (Python, Bash, PowerShell u otros).  Capacidad para desarrollar nuevas soluciones y aprender rápidamente tecnologías asociadas al ecosistema cloud.  Conocimiento de prácticas de calidad, testing y validación de sistemas.  Habilidades analíticas, capacidad de aprendizaje y trabajo colaborativo.    Nivel esperado: Junior (1 a 2 años de experiencia comprobable). No se considerarán perfiles sin experiencia práctica en entornos cloud, automatización o calidad.   ",
+      "date": 1782333014,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/qa-automatizador-tcit-santiago-c3b5",
+      "source": "GetOnBoard",
+      "id": "097d14c5d66c",
+      "score": 45,
+      "matches": [
+        "Rol QA ✓",
+        "automation"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    },
+    {
       "title": "Quality Assurance Specialist",
       "company": "ECS",
       "location": "USA",
@@ -281,44 +299,7 @@
       ],
       "warnings": [],
       "verdict": "regular"
-    },
-    {
-      "title": "Internal Sales Manager",
-      "company": "",
-      "location": "['Peru']",
-      "description": " Description        TripleTen   is an award-winning online school among technology bootcamps. Our mission is to help people change their lives and succeed in technology. We offer flexibility in studies, career mentoring, resume and portfolio preparation, and we guarantee employment after the course. Our employability rate among graduates is 87% across our Full Stack Development, Quality Assurance (QA) and Data Analytics.    We are looking to hire an Internal Sales Specialist to support student retention and payment continuity.  The main function of this role is to contact students who pay monthly and are either due for their next payment or already late, in order to facilitate payments, resolve potential issues, and prevent drop-outs.    Please submit all resumes or CV's in English.    Wha",
-      "date": "",
-      "salary": null,
-      "url": "https://himalayas.app/companies/tripleten/jobs/internal-sales-manager-72820088",
-      "source": "Himalayas",
-      "id": "359e298fec88",
-      "score": 30,
-      "matches": [
-        "Rol QA (desc)",
-        "Remoto/Latam 🌐"
-      ],
-      "warnings": [],
-      "verdict": "regular"
     }
   ],
-  "new_jobs": [
-    {
-      "title": "Internal Sales Manager",
-      "company": "",
-      "location": "['Peru']",
-      "description": " Description        TripleTen   is an award-winning online school among technology bootcamps. Our mission is to help people change their lives and succeed in technology. We offer flexibility in studies, career mentoring, resume and portfolio preparation, and we guarantee employment after the course. Our employability rate among graduates is 87% across our Full Stack Development, Quality Assurance (QA) and Data Analytics.    We are looking to hire an Internal Sales Specialist to support student retention and payment continuity.  The main function of this role is to contact students who pay monthly and are either due for their next payment or already late, in order to facilitate payments, resolve potential issues, and prevent drop-outs.    Please submit all resumes or CV's in English.    Wha",
-      "date": "",
-      "salary": null,
-      "url": "https://himalayas.app/companies/tripleten/jobs/internal-sales-manager-72820088",
-      "source": "Himalayas",
-      "id": "359e298fec88",
-      "score": 30,
-      "matches": [
-        "Rol QA (desc)",
-        "Remoto/Latam 🌐"
-      ],
-      "warnings": [],
-      "verdict": "regular"
-    }
-  ]
+  "new_jobs": []
 }
