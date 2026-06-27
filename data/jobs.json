@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-27T12:10:31.385771+00:00",
+  "last_updated": "2026-06-27T18:07:38.484623+00:00",
   "total_fetched": 157,
   "sources": {
     "Remotive": 33,
@@ -284,23 +284,6 @@
       "verdict": "bueno"
     },
     {
-      "title": "IT Quality Assurance Lead",
-      "company": "",
-      "location": "['United States']",
-      "description": " ABC Supply is North America’s largest wholesale distributor of exterior and interior building products.   ABC Supply is proud to be an employee-first company. In fact, we have won the Gallup Exceptional Workplace Award every year since its inception in 2007, and Glassdoor has named us one of the best places to work in the country. Be part of a company that recognizes your talents, rewards your efforts, and helps you reach your full potential. At ABC Supply, we have YOUR future covered.   The IT Quality Assurance Lead partners closely with development and project teams to ensure the delivery of high-quality software solutions. This role is responsible for leading QA efforts across large projects, managing testing processes, and supporting continuous improvement within the software developm",
-      "date": "",
-      "salary": null,
-      "url": "https://himalayas.app/companies/abc-supply-co-inc/jobs/it-quality-assurance-lead",
-      "source": "Himalayas",
-      "id": "e9b5964788b9",
-      "score": 40,
-      "matches": [
-        "Rol QA ✓"
-      ],
-      "warnings": [],
-      "verdict": "regular"
-    },
-    {
       "title": "Quality Assurance Specialist",
       "company": "ECS",
       "location": "USA",
@@ -316,22 +299,43 @@
       ],
       "warnings": [],
       "verdict": "regular"
+    },
+    {
+      "title": "Senior Data Analyst (Databricks) - Remote USA",
+      "company": "",
+      "location": "['United States']",
+      "description": "  This role is contingent upon a contract award.    The Work : At  ICF , we combine deep domain expertise with leading-edge technology to help our clients solve their most complex challenges. We are seeking a Senior Data Analyst (Databricks) to join our growing team, supporting mission-driven data and analytics modernization programs that deliver measurable impact.  As a Senior Data Analyst (Databricks), you will bring strong expertise in data analytics, SQL-based analysis, data validation, and Databricks workflows. You will also support the validation of user workflows, system functionality, usability, and release readiness through structured user acceptance testing and collaboration with business, technical, product, and QA stakeholders. You will help ensure that modern data platforms, a",
+      "date": "",
+      "salary": null,
+      "url": "https://himalayas.app/companies/icf/jobs/senior-data-analyst-databricks-remote-usa",
+      "source": "Himalayas",
+      "id": "c67f0f29bf40",
+      "score": 30,
+      "matches": [
+        "Rol QA (desc)",
+        "sql",
+        "acceptance testing"
+      ],
+      "warnings": [],
+      "verdict": "regular"
     }
   ],
   "new_jobs": [
     {
-      "title": "IT Quality Assurance Lead",
+      "title": "Senior Data Analyst (Databricks) - Remote USA",
       "company": "",
       "location": "['United States']",
-      "description": " ABC Supply is North America’s largest wholesale distributor of exterior and interior building products.   ABC Supply is proud to be an employee-first company. In fact, we have won the Gallup Exceptional Workplace Award every year since its inception in 2007, and Glassdoor has named us one of the best places to work in the country. Be part of a company that recognizes your talents, rewards your efforts, and helps you reach your full potential. At ABC Supply, we have YOUR future covered.   The IT Quality Assurance Lead partners closely with development and project teams to ensure the delivery of high-quality software solutions. This role is responsible for leading QA efforts across large projects, managing testing processes, and supporting continuous improvement within the software developm",
+      "description": "  This role is contingent upon a contract award.    The Work : At  ICF , we combine deep domain expertise with leading-edge technology to help our clients solve their most complex challenges. We are seeking a Senior Data Analyst (Databricks) to join our growing team, supporting mission-driven data and analytics modernization programs that deliver measurable impact.  As a Senior Data Analyst (Databricks), you will bring strong expertise in data analytics, SQL-based analysis, data validation, and Databricks workflows. You will also support the validation of user workflows, system functionality, usability, and release readiness through structured user acceptance testing and collaboration with business, technical, product, and QA stakeholders. You will help ensure that modern data platforms, a",
       "date": "",
       "salary": null,
-      "url": "https://himalayas.app/companies/abc-supply-co-inc/jobs/it-quality-assurance-lead",
+      "url": "https://himalayas.app/companies/icf/jobs/senior-data-analyst-databricks-remote-usa",
       "source": "Himalayas",
-      "id": "e9b5964788b9",
-      "score": 40,
+      "id": "c67f0f29bf40",
+      "score": 30,
       "matches": [
-        "Rol QA ✓"
+        "Rol QA (desc)",
+        "sql",
+        "acceptance testing"
       ],
       "warnings": [],
       "verdict": "regular"
