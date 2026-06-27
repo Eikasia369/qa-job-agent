@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-06-27T00:12:29.831282+00:00",
-  "total_fetched": 158,
+  "last_updated": "2026-06-27T12:10:31.385771+00:00",
+  "total_fetched": 157,
   "sources": {
-    "Remotive": 34,
+    "Remotive": 33,
     "WorkingNomads": 47,
     "GetOnBoard": 50,
     "Himalayas": 20,
@@ -284,15 +284,15 @@
       "verdict": "bueno"
     },
     {
-      "title": "RN, Quality Assurance",
+      "title": "IT Quality Assurance Lead",
       "company": "",
       "location": "['United States']",
-      "description": " As a community, the  University of Rochester  is defined by a deep commitment to Meliora - Ever Better. Embedded in that ideal are the values we share: equity, leadership, integrity, openness, respect, and accountability. Together, we will set the highest standards for how we treat each other to ensure our community is welcoming to all and is a place where all can thrive.    Job Location (Full Address):   Remote Work - New York, Albany, New York, United States of America, 12224   Opening:    Worker Subtype: Regular Time Type: Full time Scheduled Weekly Hours: 40 Department: 500179 CVSL - QA SMH Work Shift: UR - Day (United States of America) Range: UR URCC 214 Compensation Range: $73,528.00 - $95,586.00         The referenced pay range represents the minimum and maximum compensation for t",
+      "description": " ABC Supply is North America’s largest wholesale distributor of exterior and interior building products.   ABC Supply is proud to be an employee-first company. In fact, we have won the Gallup Exceptional Workplace Award every year since its inception in 2007, and Glassdoor has named us one of the best places to work in the country. Be part of a company that recognizes your talents, rewards your efforts, and helps you reach your full potential. At ABC Supply, we have YOUR future covered.   The IT Quality Assurance Lead partners closely with development and project teams to ensure the delivery of high-quality software solutions. This role is responsible for leading QA efforts across large projects, managing testing processes, and supporting continuous improvement within the software developm",
       "date": "",
       "salary": null,
-      "url": "https://himalayas.app/companies/university-of-rochester/jobs/rn-quality-assurance",
+      "url": "https://himalayas.app/companies/abc-supply-co-inc/jobs/it-quality-assurance-lead",
       "source": "Himalayas",
-      "id": "755e5e788aee",
+      "id": "e9b5964788b9",
       "score": 40,
       "matches": [
         "Rol QA ✓"
@@ -320,15 +320,15 @@
   ],
   "new_jobs": [
     {
-      "title": "RN, Quality Assurance",
+      "title": "IT Quality Assurance Lead",
       "company": "",
       "location": "['United States']",
-      "description": " As a community, the  University of Rochester  is defined by a deep commitment to Meliora - Ever Better. Embedded in that ideal are the values we share: equity, leadership, integrity, openness, respect, and accountability. Together, we will set the highest standards for how we treat each other to ensure our community is welcoming to all and is a place where all can thrive.    Job Location (Full Address):   Remote Work - New York, Albany, New York, United States of America, 12224   Opening:    Worker Subtype: Regular Time Type: Full time Scheduled Weekly Hours: 40 Department: 500179 CVSL - QA SMH Work Shift: UR - Day (United States of America) Range: UR URCC 214 Compensation Range: $73,528.00 - $95,586.00         The referenced pay range represents the minimum and maximum compensation for t",
+      "description": " ABC Supply is North America’s largest wholesale distributor of exterior and interior building products.   ABC Supply is proud to be an employee-first company. In fact, we have won the Gallup Exceptional Workplace Award every year since its inception in 2007, and Glassdoor has named us one of the best places to work in the country. Be part of a company that recognizes your talents, rewards your efforts, and helps you reach your full potential. At ABC Supply, we have YOUR future covered.   The IT Quality Assurance Lead partners closely with development and project teams to ensure the delivery of high-quality software solutions. This role is responsible for leading QA efforts across large projects, managing testing processes, and supporting continuous improvement within the software developm",
       "date": "",
       "salary": null,
-      "url": "https://himalayas.app/companies/university-of-rochester/jobs/rn-quality-assurance",
+      "url": "https://himalayas.app/companies/abc-supply-co-inc/jobs/it-quality-assurance-lead",
       "source": "Himalayas",
-      "id": "755e5e788aee",
+      "id": "e9b5964788b9",
       "score": 40,
       "matches": [
         "Rol QA ✓"
