@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-27T18:07:38.484623+00:00",
+  "last_updated": "2026-06-28T00:06:07.788626+00:00",
   "total_fetched": 157,
   "sources": {
     "Remotive": 33,
@@ -301,20 +301,19 @@
       "verdict": "regular"
     },
     {
-      "title": "Senior Data Analyst (Databricks) - Remote USA",
+      "title": "GenAI Application Engineer",
       "company": "",
-      "location": "['United States']",
-      "description": "  This role is contingent upon a contract award.    The Work : At  ICF , we combine deep domain expertise with leading-edge technology to help our clients solve their most complex challenges. We are seeking a Senior Data Analyst (Databricks) to join our growing team, supporting mission-driven data and analytics modernization programs that deliver measurable impact.  As a Senior Data Analyst (Databricks), you will bring strong expertise in data analytics, SQL-based analysis, data validation, and Databricks workflows. You will also support the validation of user workflows, system functionality, usability, and release readiness through structured user acceptance testing and collaboration with business, technical, product, and QA stakeholders. You will help ensure that modern data platforms, a",
+      "location": "['Mexico']",
+      "description": " ¡Trabaja en  DaCodes !  Somos una firma de expertos en software y transformación digital de alto impacto. Durante 10 años hemos creado soluciones enfocadas en la tecnología e innovación gracias a nuestro equipo de +220 talentosos #DaCoders, incluyendo desarrolladores, arquitectos, diseñadores UX/UI, PMs, QA testers y más. Nuestro equipo colabora en proyectos con clientes en LATAM y Estados Unidos, logrando resultados sobresalientes.  En  DaCodes , tendrás la oportunidad de impulsar tu desarrollo profesional, trabajar en diversos proyectos dentro de distintas industrias, y contribuir al diseño, implementación y optimización de infraestructuras en la nube. Nuestros DaCoders tienen un gran impacto en el éxito de nuestro negocio y el de nuestros clientes. Serás el experto que participará en n",
       "date": "",
       "salary": null,
-      "url": "https://himalayas.app/companies/icf/jobs/senior-data-analyst-databricks-remote-usa",
+      "url": "https://himalayas.app/companies/dacodes/jobs/genai-application-engineer",
       "source": "Himalayas",
-      "id": "c67f0f29bf40",
+      "id": "f29a771880f9",
       "score": 30,
       "matches": [
         "Rol QA (desc)",
-        "sql",
-        "acceptance testing"
+        "Remoto/Latam 🌐"
       ],
       "warnings": [],
       "verdict": "regular"
@@ -322,20 +321,19 @@
   ],
   "new_jobs": [
     {
-      "title": "Senior Data Analyst (Databricks) - Remote USA",
+      "title": "GenAI Application Engineer",
       "company": "",
-      "location": "['United States']",
-      "description": "  This role is contingent upon a contract award.    The Work : At  ICF , we combine deep domain expertise with leading-edge technology to help our clients solve their most complex challenges. We are seeking a Senior Data Analyst (Databricks) to join our growing team, supporting mission-driven data and analytics modernization programs that deliver measurable impact.  As a Senior Data Analyst (Databricks), you will bring strong expertise in data analytics, SQL-based analysis, data validation, and Databricks workflows. You will also support the validation of user workflows, system functionality, usability, and release readiness through structured user acceptance testing and collaboration with business, technical, product, and QA stakeholders. You will help ensure that modern data platforms, a",
+      "location": "['Mexico']",
+      "description": " ¡Trabaja en  DaCodes !  Somos una firma de expertos en software y transformación digital de alto impacto. Durante 10 años hemos creado soluciones enfocadas en la tecnología e innovación gracias a nuestro equipo de +220 talentosos #DaCoders, incluyendo desarrolladores, arquitectos, diseñadores UX/UI, PMs, QA testers y más. Nuestro equipo colabora en proyectos con clientes en LATAM y Estados Unidos, logrando resultados sobresalientes.  En  DaCodes , tendrás la oportunidad de impulsar tu desarrollo profesional, trabajar en diversos proyectos dentro de distintas industrias, y contribuir al diseño, implementación y optimización de infraestructuras en la nube. Nuestros DaCoders tienen un gran impacto en el éxito de nuestro negocio y el de nuestros clientes. Serás el experto que participará en n",
       "date": "",
       "salary": null,
-      "url": "https://himalayas.app/companies/icf/jobs/senior-data-analyst-databricks-remote-usa",
+      "url": "https://himalayas.app/companies/dacodes/jobs/genai-application-engineer",
       "source": "Himalayas",
-      "id": "c67f0f29bf40",
+      "id": "f29a771880f9",
       "score": 30,
       "matches": [
         "Rol QA (desc)",
-        "sql",
-        "acceptance testing"
+        "Remoto/Latam 🌐"
       ],
       "warnings": [],
       "verdict": "regular"
