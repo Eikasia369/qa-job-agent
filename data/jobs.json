@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-06-28T00:06:07.788626+00:00",
-  "total_fetched": 157,
+  "last_updated": "2026-06-28T12:18:19.447269+00:00",
+  "total_fetched": 158,
   "sources": {
-    "Remotive": 33,
+    "Remotive": 34,
     "WorkingNomads": 47,
     "GetOnBoard": 50,
     "Himalayas": 20,
     "Jobicy": 7
   },
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "title": "QA Automation Engineer",
@@ -299,44 +299,7 @@
       ],
       "warnings": [],
       "verdict": "regular"
-    },
-    {
-      "title": "GenAI Application Engineer",
-      "company": "",
-      "location": "['Mexico']",
-      "description": " ¡Trabaja en  DaCodes !  Somos una firma de expertos en software y transformación digital de alto impacto. Durante 10 años hemos creado soluciones enfocadas en la tecnología e innovación gracias a nuestro equipo de +220 talentosos #DaCoders, incluyendo desarrolladores, arquitectos, diseñadores UX/UI, PMs, QA testers y más. Nuestro equipo colabora en proyectos con clientes en LATAM y Estados Unidos, logrando resultados sobresalientes.  En  DaCodes , tendrás la oportunidad de impulsar tu desarrollo profesional, trabajar en diversos proyectos dentro de distintas industrias, y contribuir al diseño, implementación y optimización de infraestructuras en la nube. Nuestros DaCoders tienen un gran impacto en el éxito de nuestro negocio y el de nuestros clientes. Serás el experto que participará en n",
-      "date": "",
-      "salary": null,
-      "url": "https://himalayas.app/companies/dacodes/jobs/genai-application-engineer",
-      "source": "Himalayas",
-      "id": "f29a771880f9",
-      "score": 30,
-      "matches": [
-        "Rol QA (desc)",
-        "Remoto/Latam 🌐"
-      ],
-      "warnings": [],
-      "verdict": "regular"
     }
   ],
-  "new_jobs": [
-    {
-      "title": "GenAI Application Engineer",
-      "company": "",
-      "location": "['Mexico']",
-      "description": " ¡Trabaja en  DaCodes !  Somos una firma de expertos en software y transformación digital de alto impacto. Durante 10 años hemos creado soluciones enfocadas en la tecnología e innovación gracias a nuestro equipo de +220 talentosos #DaCoders, incluyendo desarrolladores, arquitectos, diseñadores UX/UI, PMs, QA testers y más. Nuestro equipo colabora en proyectos con clientes en LATAM y Estados Unidos, logrando resultados sobresalientes.  En  DaCodes , tendrás la oportunidad de impulsar tu desarrollo profesional, trabajar en diversos proyectos dentro de distintas industrias, y contribuir al diseño, implementación y optimización de infraestructuras en la nube. Nuestros DaCoders tienen un gran impacto en el éxito de nuestro negocio y el de nuestros clientes. Serás el experto que participará en n",
-      "date": "",
-      "salary": null,
-      "url": "https://himalayas.app/companies/dacodes/jobs/genai-application-engineer",
-      "source": "Himalayas",
-      "id": "f29a771880f9",
-      "score": 30,
-      "matches": [
-        "Rol QA (desc)",
-        "Remoto/Latam 🌐"
-      ],
-      "warnings": [],
-      "verdict": "regular"
-    }
-  ]
+  "new_jobs": []
 }
