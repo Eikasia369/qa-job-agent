@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-30T00:09:16.813468+00:00",
+  "last_updated": "2026-06-30T13:10:15.818501+00:00",
   "total_fetched": 156,
   "sources": {
     "Remotive": 34,
@@ -75,32 +75,11 @@
       "verdict": "excelente"
     },
     {
-      "title": "Technical Designer (QA)",
-      "company": "",
-      "location": "fully_remote",
-      "description": "  A sharp eye for visual detail. You notice the 2px misalignment, the wrong shade, the spacing that's off   Strong sense for how good UI should behave, and quick to tell when something feels broken or confusing   Clear, specific communication. Your bug reports leave no guessing about what's wrong or how to reproduce it   Comfortable working in Figma and reading designs against a live product   Methodical and thorough. You check the edge cases, not just the happy path   Able to read and interpret automated test results to catch regressions  ",
-      "date": 1781580107,
-      "salary": "1200–1800",
-      "url": "https://www.getonbrd.com/jobs/junior-full-stack-developer-react-nixtla-remote",
-      "source": "GetOnBoard",
-      "id": "24dcc1df8cff",
-      "score": 65,
-      "matches": [
-        "Rol QA ✓",
-        "regression",
-        "bug",
-        "Remoto/Latam 🌐",
-        "Salario 💰"
-      ],
-      "warnings": [],
-      "verdict": "excelente"
-    },
-    {
       "title": "Senior Software Test Engineer (SDET) Java/angular",
       "company": "",
       "location": "remote_local",
       "description": "  Técnicas    4+ años de experiencia en pruebas de API sobre aplicaciones Java  4+ años de experiencia en pruebas de UI para SPAs en Angular  4+ años de experiencia configurando frameworks de automatización de pruebas  Familiaridad con integración en pipelines CI/CD  Inglés B2 (tendrás interacción diaria en reuniones, en inglés)    Personales    Capacidad de autogestión  Buenos skills de comunicación en inglés y en español  Fortaleza en trabajo en equipo  Título académico en Ingeniería Informática, Sistemas o carreras afines.    Contrato indefinido desde el inicio con 23people - Tiempo del proyecto 6 meses con posible extensión.     Modalidad:  Home Office - remoto con residencia en Chile.   Experiencia: Desde 4 años en adelante  Horario:  9:00 - 18:00 hrs.   ",
-      "date": 1782229287,
+      "date": 1782824990,
       "salary": "2700–2900",
       "url": "https://www.getonbrd.com/jobs/senior-ingeniero-de-desarrollo-de-software-en-pruebas-eng-23people-santiago",
       "source": "GetOnBoard",
@@ -284,27 +263,21 @@
       "verdict": "bueno"
     },
     {
-      "title": "Associate Staff Engineer, QA Automation",
+      "title": "Senior QA Automation Engineer – AI Applications ",
       "company": "",
-      "location": "['South Africa']",
-      "description": "By this point in your career, it is not just about the tech you know or how well you can code. It is about what more you want to do with that knowledge. Were you given the tools to go beyond solving for X? Can you help your teammates proceed in the right direction? Can you tackle the challenges our clients face while always looking to take our solutions one step further to succeed at an even higher level? Yes? You may be ready to join us.   5+ years of experience in manual and automation testing roles   Comfortable with scripting in one or more languages like Java, C#, Python, JavaScript, VBScript   Strong hands-on experience in more than one automation tools and frameworks such as UFT, Selenium, Protractor, Appium, TestComplete, Katalon Studio, Coded UI, Zephyr, Specflow, Cucumber, Rest A",
+      "location": "['Canada']",
+      "description": "               Job Requisition ID #               26WD99661   Senior QA Automation Engineer – AI Applications    We are seeking an experienced QA Automation Engineer to ensure the quality, reliability, and performance of AI-powered applications. The ideal candidate has expertise in automated testing and software quality engineering, with experience building scalable testing frameworks and leveraging AI-powered testing tools to improve test development, maintenance, and coverage. They combine deep QA automation expertise with practical experience using AI to enhance testing workflows. Experience testing AI/ML applications or validating machine learning models is an asset.      Responsibilities      Design and maintain automated test suites, evaluation scenarios, metrics, and test datasets f",
       "date": "",
       "salary": null,
-      "url": "https://himalayas.app/companies/nagarro/jobs/associate-staff-engineer-qa-automation-5334340437",
+      "url": "https://himalayas.app/companies/autodesk/jobs/senior-qa-automation-engineer-ai-applications",
       "source": "Himalayas",
-      "id": "6641326bd183",
+      "id": "f64a4cdc2a3c",
       "score": 45,
       "matches": [
         "Rol QA ✓",
-        "automation",
-        "selenium",
-        "javascript",
-        "zephyr",
-        "appium"
+        "automation"
       ],
-      "warnings": [
-        "staff engineer"
-      ],
+      "warnings": [],
       "verdict": "bueno"
     },
     {
@@ -327,27 +300,21 @@
   ],
   "new_jobs": [
     {
-      "title": "Associate Staff Engineer, QA Automation",
+      "title": "Senior QA Automation Engineer – AI Applications ",
       "company": "",
-      "location": "['South Africa']",
-      "description": "By this point in your career, it is not just about the tech you know or how well you can code. It is about what more you want to do with that knowledge. Were you given the tools to go beyond solving for X? Can you help your teammates proceed in the right direction? Can you tackle the challenges our clients face while always looking to take our solutions one step further to succeed at an even higher level? Yes? You may be ready to join us.   5+ years of experience in manual and automation testing roles   Comfortable with scripting in one or more languages like Java, C#, Python, JavaScript, VBScript   Strong hands-on experience in more than one automation tools and frameworks such as UFT, Selenium, Protractor, Appium, TestComplete, Katalon Studio, Coded UI, Zephyr, Specflow, Cucumber, Rest A",
+      "location": "['Canada']",
+      "description": "               Job Requisition ID #               26WD99661   Senior QA Automation Engineer – AI Applications    We are seeking an experienced QA Automation Engineer to ensure the quality, reliability, and performance of AI-powered applications. The ideal candidate has expertise in automated testing and software quality engineering, with experience building scalable testing frameworks and leveraging AI-powered testing tools to improve test development, maintenance, and coverage. They combine deep QA automation expertise with practical experience using AI to enhance testing workflows. Experience testing AI/ML applications or validating machine learning models is an asset.      Responsibilities      Design and maintain automated test suites, evaluation scenarios, metrics, and test datasets f",
       "date": "",
       "salary": null,
-      "url": "https://himalayas.app/companies/nagarro/jobs/associate-staff-engineer-qa-automation-5334340437",
+      "url": "https://himalayas.app/companies/autodesk/jobs/senior-qa-automation-engineer-ai-applications",
       "source": "Himalayas",
-      "id": "6641326bd183",
+      "id": "f64a4cdc2a3c",
       "score": 45,
       "matches": [
         "Rol QA ✓",
-        "automation",
-        "selenium",
-        "javascript",
-        "zephyr",
-        "appium"
+        "automation"
       ],
-      "warnings": [
-        "staff engineer"
-      ],
+      "warnings": [],
       "verdict": "bueno"
     }
   ]
