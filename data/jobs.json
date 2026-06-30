@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-29T19:06:13.606496+00:00",
+  "last_updated": "2026-06-30T00:09:16.813468+00:00",
   "total_fetched": 156,
   "sources": {
     "Remotive": 34,
@@ -8,7 +8,7 @@
     "Himalayas": 20,
     "Jobicy": 7
   },
-  "new_count": 0,
+  "new_count": 1,
   "jobs": [
     {
       "title": "QA Automation Engineer",
@@ -284,6 +284,30 @@
       "verdict": "bueno"
     },
     {
+      "title": "Associate Staff Engineer, QA Automation",
+      "company": "",
+      "location": "['South Africa']",
+      "description": "By this point in your career, it is not just about the tech you know or how well you can code. It is about what more you want to do with that knowledge. Were you given the tools to go beyond solving for X? Can you help your teammates proceed in the right direction? Can you tackle the challenges our clients face while always looking to take our solutions one step further to succeed at an even higher level? Yes? You may be ready to join us.   5+ years of experience in manual and automation testing roles   Comfortable with scripting in one or more languages like Java, C#, Python, JavaScript, VBScript   Strong hands-on experience in more than one automation tools and frameworks such as UFT, Selenium, Protractor, Appium, TestComplete, Katalon Studio, Coded UI, Zephyr, Specflow, Cucumber, Rest A",
+      "date": "",
+      "salary": null,
+      "url": "https://himalayas.app/companies/nagarro/jobs/associate-staff-engineer-qa-automation-5334340437",
+      "source": "Himalayas",
+      "id": "6641326bd183",
+      "score": 45,
+      "matches": [
+        "Rol QA ✓",
+        "automation",
+        "selenium",
+        "javascript",
+        "zephyr",
+        "appium"
+      ],
+      "warnings": [
+        "staff engineer"
+      ],
+      "verdict": "bueno"
+    },
+    {
       "title": "Quality Assurance Specialist",
       "company": "ECS",
       "location": "USA",
@@ -301,5 +325,30 @@
       "verdict": "regular"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "title": "Associate Staff Engineer, QA Automation",
+      "company": "",
+      "location": "['South Africa']",
+      "description": "By this point in your career, it is not just about the tech you know or how well you can code. It is about what more you want to do with that knowledge. Were you given the tools to go beyond solving for X? Can you help your teammates proceed in the right direction? Can you tackle the challenges our clients face while always looking to take our solutions one step further to succeed at an even higher level? Yes? You may be ready to join us.   5+ years of experience in manual and automation testing roles   Comfortable with scripting in one or more languages like Java, C#, Python, JavaScript, VBScript   Strong hands-on experience in more than one automation tools and frameworks such as UFT, Selenium, Protractor, Appium, TestComplete, Katalon Studio, Coded UI, Zephyr, Specflow, Cucumber, Rest A",
+      "date": "",
+      "salary": null,
+      "url": "https://himalayas.app/companies/nagarro/jobs/associate-staff-engineer-qa-automation-5334340437",
+      "source": "Himalayas",
+      "id": "6641326bd183",
+      "score": 45,
+      "matches": [
+        "Rol QA ✓",
+        "automation",
+        "selenium",
+        "javascript",
+        "zephyr",
+        "appium"
+      ],
+      "warnings": [
+        "staff engineer"
+      ],
+      "verdict": "bueno"
+    }
+  ]
 }
