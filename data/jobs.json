@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-07-01T00:11:10.877640+00:00",
-  "total_fetched": 157,
+  "last_updated": "2026-07-01T13:35:12.584399+00:00",
+  "total_fetched": 154,
   "sources": {
-    "Remotive": 34,
+    "Remotive": 31,
     "WorkingNomads": 46,
     "GetOnBoard": 50,
     "Himalayas": 20,
@@ -13,20 +13,20 @@
     {
       "title": "QA Automation Engineer",
       "company": "",
-      "location": "remote_local",
-      "description": "  Experiencia: mínimo 2 años como QA funcional y 2+ años como QA automatizador  Experiencia automatizando pruebas: Pruebas funcionales, pruebas de humo y pruebas no funcionales  Experiencia con herramientas de control de versiones  Experiencia probando APIs (karate, api rest, entre otros)  Experiencia usando Selenium, Cucumber y Postman  BDD  TDD  Conocimientos en Java (Framework SPRING y/o SPRING BOOT).  Conocimientos realizando pruebas unitarias y de integración  ",
-      "date": 1781653127,
+      "location": "fully_remote",
+      "description": " - Experiencia en automatización de pruebas utilizando Selenium, Cypress o Playwright. - Experiencia validando APIs, integraciones y aplicaciones web. - Experiencia demostrable en plataformas Ecommerce, marketplaces o soluciones de comercio electrónico. - Conocimiento de procesos relacionados con catálogo, inventario, checkout, pagos o integraciones. - Experiencia utilizando Git y trabajando bajo metodologías ágiles.  ",
+      "date": 1782395777,
       "salary": null,
-      "url": "https://www.getonbrd.com/jobs/qa-automation-engineer-dynamic-devs-remote-ae5f",
+      "url": "https://www.getonbrd.com/jobs/qa-automation-engineer-interfell-remote-2ef9",
       "source": "GetOnBoard",
       "id": "03b5db6651bd",
       "score": 70,
       "matches": [
         "Rol QA ✓",
-        "postman",
-        "api rest",
+        "playwright",
         "automation",
         "selenium",
+        "cypress",
         "Remoto/Latam 🌐"
       ],
       "warnings": [],
