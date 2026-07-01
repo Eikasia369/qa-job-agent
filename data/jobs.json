@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-30T18:58:47.284728+00:00",
+  "last_updated": "2026-07-01T00:11:10.877640+00:00",
   "total_fetched": 157,
   "sources": {
     "Remotive": 34,
@@ -8,7 +8,7 @@
     "Himalayas": 20,
     "Jobicy": 7
   },
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "title": "QA Automation Engineer",
@@ -48,27 +48,6 @@
         "agile",
         "scrum",
         "bug",
-        "Remoto/Latam 🌐"
-      ],
-      "warnings": [],
-      "verdict": "excelente"
-    },
-    {
-      "title": "QA Automation Engineer (Mobile)",
-      "company": "",
-      "location": "remote_local",
-      "description": "  Experiencia sólida en automatización de pruebas mobile con con Java y Cucumber.  Conocimiento práctico en automatización de pruebas móviles, idealmente con Appium o soluciones equivalentes que permitan validar apps nativas y React Native.,  Experiencia validando servicios RESTful y pruebas de contratos (por ejemplo, usando RestAssured o herramientas similares).,  Capacidad de trabajar con equipos de producto y desarrollo para entender requerimientos funcionales y técnicos.,  Experiencia trabajando en entornos ágiles, colaborativos y orientados a la entrega continua de valor.,  Experiencia en consultas SQL para validación de datos.,  ",
-      "date": 1781652017,
-      "salary": null,
-      "url": "https://www.getonbrd.com/jobs/qa-automation-engineer-dynamic-devs-remote-3611",
-      "source": "GetOnBoard",
-      "id": "05a29f343820",
-      "score": 65,
-      "matches": [
-        "Rol QA ✓",
-        "automation",
-        "sql",
-        "appium",
         "Remoto/Latam 🌐"
       ],
       "warnings": [],
@@ -190,6 +169,26 @@
       "verdict": "bueno"
     },
     {
+      "title": "QA Automation",
+      "company": "",
+      "location": "hybrid",
+      "description": "  Entre 2 y 4 años de experiencia en QA combinando roles de Manual y Automation.  Dominio de Playwright con TypeScript para automatización de pruebas funcionales.  Experiencia con herramientas de performance testing, específicamente k6.io.  Conocimientos de IA agéntica aplicada a la generación de casos de prueba y scripts.  ",
+      "date": 1782849586,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/qa-automation-witi-santiago-f2d6",
+      "source": "GetOnBoard",
+      "id": "9c624aadee1d",
+      "score": 55,
+      "matches": [
+        "Rol QA ✓",
+        "playwright",
+        "automation",
+        "typescript"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    },
+    {
       "title": "Senior Quality Assurance Automation Engineer",
       "company": "Experian",
       "location": "Costa Rica",
@@ -231,7 +230,7 @@
       "company": "",
       "location": "hybrid",
       "description": " -Experiencia en diseñar e implementar planes, escenarios y casos de prueba -Experiencia en definir estrategias de testing basadas en riesgos -Experiencia gestionado bugs, evaluando impacto de fixes y coordinando regresiones -Experiencia en ejecución pruebas en web, mobile (iOS/Android) y APIs/microservicios -Experiencia generando y gestionado data de prueba ",
-      "date": 1782740374,
+      "date": 1782847953,
       "salary": null,
       "url": "https://www.getonbrd.com/jobs/analista-qa-coderslab-io-santiago-9bab",
       "source": "GetOnBoard",
@@ -281,24 +280,6 @@
       "verdict": "bueno"
     },
     {
-      "title": "Senior QA Automation Engineer – AI Applications ",
-      "company": "",
-      "location": "['Canada']",
-      "description": "               Job Requisition ID #               26WD99661   Senior QA Automation Engineer – AI Applications    We are seeking an experienced QA Automation Engineer to ensure the quality, reliability, and performance of AI-powered applications. The ideal candidate has expertise in automated testing and software quality engineering, with experience building scalable testing frameworks and leveraging AI-powered testing tools to improve test development, maintenance, and coverage. They combine deep QA automation expertise with practical experience using AI to enhance testing workflows. Experience testing AI/ML applications or validating machine learning models is an asset.      Responsibilities      Design and maintain automated test suites, evaluation scenarios, metrics, and test datasets f",
-      "date": "",
-      "salary": null,
-      "url": "https://himalayas.app/companies/autodesk/jobs/senior-qa-automation-engineer-ai-applications",
-      "source": "Himalayas",
-      "id": "f64a4cdc2a3c",
-      "score": 45,
-      "matches": [
-        "Rol QA ✓",
-        "automation"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
-    },
-    {
       "title": "Quality Assurance Specialist",
       "company": "ECS",
       "location": "USA",
@@ -316,24 +297,5 @@
       "verdict": "regular"
     }
   ],
-  "new_jobs": [
-    {
-      "title": "Especialista QA Funcional",
-      "company": "",
-      "location": "hybrid",
-      "description": "  Formación    Ingeniería Civil Informática, Ingeniería en Sistemas, Ingeniería Industrial, Ingeniería en Ejecución o carrera afín.    Experiencia    Mínimo 5 años de experiencia en proyectos SAP.  Experiencia en QA Funcional sobre implementaciones SAP S/4HANA.  Experiencia validando procesos de negocio y diseño funcional.  Participación en proyectos de implementación, transformación o migración SAP.  Experiencia trabajando con metodologías SAP Activate o equivalentes.    Conocimientos técnicos    SAP    SAP S/4HANA.  SAP PM, Plant Maintenance.  SAP PP, Production Planning.  SAP Services / Service Management, deseable.  Integraciones con MM.  Integraciones con FI/CO.  Procesos end-to-end SAP.    QA Funcional    Revisión de diseño funcional.  QA de procesos.  QA de datos maestros.  Validaci",
-      "date": 1782836273,
-      "salary": "1000–1200",
-      "url": "https://www.getonbrd.com/jobs/especialista-qa-funcional-sap-senior-devups-santiago",
-      "source": "GetOnBoard",
-      "id": "2253dc6387c8",
-      "score": 45,
-      "matches": [
-        "Rol QA ✓",
-        "Salario 💰"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
-    }
-  ]
+  "new_jobs": []
 }
