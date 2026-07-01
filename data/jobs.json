@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-07-01T13:35:12.584399+00:00",
-  "total_fetched": 154,
+  "last_updated": "2026-07-01T19:00:32.776569+00:00",
+  "total_fetched": 152,
   "sources": {
     "Remotive": 31,
-    "WorkingNomads": 46,
+    "WorkingNomads": 44,
     "GetOnBoard": 50,
     "Himalayas": 20,
     "Jobicy": 7
   },
-  "new_count": 0,
+  "new_count": 1,
   "jobs": [
     {
       "title": "QA Automation Engineer",
@@ -58,7 +58,7 @@
       "company": "",
       "location": "remote_local",
       "description": "  Técnicas    4+ años de experiencia en pruebas de API sobre aplicaciones Java  4+ años de experiencia en pruebas de UI para SPAs en Angular  4+ años de experiencia configurando frameworks de automatización de pruebas  Familiaridad con integración en pipelines CI/CD  Inglés B2 (tendrás interacción diaria en reuniones, en inglés)    Personales    Capacidad de autogestión  Buenos skills de comunicación en inglés y en español  Fortaleza en trabajo en equipo  Título académico en Ingeniería Informática, Sistemas o carreras afines.    Contrato indefinido desde el inicio con 23people - Tiempo del proyecto 6 meses con posible extensión.     Modalidad:  Home Office - remoto con residencia en Chile.   Experiencia: Desde 4 años en adelante  Horario:  9:00 - 18:00 hrs.   ",
-      "date": 1782824990,
+      "date": 1782913733,
       "salary": "2700–2900",
       "url": "https://www.getonbrd.com/jobs/senior-ingeniero-de-desarrollo-de-software-en-pruebas-eng-23people-santiago",
       "source": "GetOnBoard",
@@ -230,7 +230,7 @@
       "company": "",
       "location": "hybrid",
       "description": " -Experiencia en diseñar e implementar planes, escenarios y casos de prueba -Experiencia en definir estrategias de testing basadas en riesgos -Experiencia gestionado bugs, evaluando impacto de fixes y coordinando regresiones -Experiencia en ejecución pruebas en web, mobile (iOS/Android) y APIs/microservicios -Experiencia generando y gestionado data de prueba ",
-      "date": 1782847953,
+      "date": 1782919513,
       "salary": null,
       "url": "https://www.getonbrd.com/jobs/analista-qa-coderslab-io-santiago-9bab",
       "source": "GetOnBoard",
@@ -280,6 +280,23 @@
       "verdict": "bueno"
     },
     {
+      "title": "Senior Performance Tester - Remote United States",
+      "company": "",
+      "location": "['United States']",
+      "description": " Working for a company like  Smile Digital Health  means supporting our mandate for   #BetterGlobalHealth  . We strive towards this goal every day, and the results can be seen in the impact of our innovative health data platform and data management solutions, which are used in over 20 countries.  We were #19 on Deloitte's Technology Fast 50 Ranking for 2024!    Smile Digital Health  makes it easy for healthcare stakeholders to collect and exchange data with our leading FHIR-based data liberation platform.  At its heart, the Smile platform enables people and organizations to better manage healthcare data.  We help generate and liberate structured healthcare data to ensure effective delivery across care teams and health systems bringing    #BetterGlobalHealth   to patients everyday!   Apply ",
+      "date": "",
+      "salary": null,
+      "url": "https://himalayas.app/companies/smile-digital-health/jobs/senior-performance-tester-remote-united-states",
+      "source": "Himalayas",
+      "id": "f1d0cfe6818e",
+      "score": 40,
+      "matches": [
+        "Rol QA ✓"
+      ],
+      "warnings": [],
+      "verdict": "regular"
+    },
+    {
       "title": "Quality Assurance Specialist",
       "company": "ECS",
       "location": "USA",
@@ -297,5 +314,23 @@
       "verdict": "regular"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "title": "Senior Performance Tester - Remote United States",
+      "company": "",
+      "location": "['United States']",
+      "description": " Working for a company like  Smile Digital Health  means supporting our mandate for   #BetterGlobalHealth  . We strive towards this goal every day, and the results can be seen in the impact of our innovative health data platform and data management solutions, which are used in over 20 countries.  We were #19 on Deloitte's Technology Fast 50 Ranking for 2024!    Smile Digital Health  makes it easy for healthcare stakeholders to collect and exchange data with our leading FHIR-based data liberation platform.  At its heart, the Smile platform enables people and organizations to better manage healthcare data.  We help generate and liberate structured healthcare data to ensure effective delivery across care teams and health systems bringing    #BetterGlobalHealth   to patients everyday!   Apply ",
+      "date": "",
+      "salary": null,
+      "url": "https://himalayas.app/companies/smile-digital-health/jobs/senior-performance-tester-remote-united-states",
+      "source": "Himalayas",
+      "id": "f1d0cfe6818e",
+      "score": 40,
+      "matches": [
+        "Rol QA ✓"
+      ],
+      "warnings": [],
+      "verdict": "regular"
+    }
+  ]
 }
