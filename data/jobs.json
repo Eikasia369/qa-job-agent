@@ -1,15 +1,100 @@
 {
-  "last_updated": "2026-07-02T13:00:14.126405+00:00",
-  "total_fetched": 85,
+  "last_updated": "2026-07-02T18:27:22.735599+00:00",
+  "total_fetched": 136,
   "sources": {
     "Remotive": 31,
     "WorkingNomads": 29,
-    "GetOnBoard": 0,
+    "GetOnBoard": 50,
     "Himalayas": 20,
-    "Jobicy": 5
+    "Jobicy": 6
   },
-  "new_count": 0,
+  "new_count": 1,
   "jobs": [
+    {
+      "title": "Senior QA Engineer",
+      "company": "",
+      "location": "remote_local",
+      "description": "  5+ years of experience in quality assurance, with a strong recent focus on test automation.  B2 English level or higher.  Proven, hands-on experience integrating and orchestrating AI agents or Model Context Protocols (MCPs) within active QA workflows.  Demonstrated experience utilizing low-code automation tools instead of relying solely on traditional code-heavy frameworks.  Strong background working closely with product and business stakeholders to define acceptance criteria and identify risks early in the development lifecycle.    Skills    QA Automation  AI Agent Orchestration  Low-Code Test Automation  Exploratory Testing  Test Case Design  ",
+      "date": 1783012698,
+      "salary": "2500–3000",
+      "url": "https://www.getonbrd.com/jobs/senior-qa-engineer-niuro-remote-f141",
+      "source": "GetOnBoard",
+      "id": "afa71cb3a216",
+      "score": 70,
+      "matches": [
+        "Rol QA ✓",
+        "automation",
+        "test case",
+        "exploratory",
+        "Remoto/Latam 🌐",
+        "Salario 💰"
+      ],
+      "warnings": [],
+      "verdict": "excelente"
+    },
+    {
+      "title": "QA Automation Engineer",
+      "company": "",
+      "location": "fully_remote",
+      "description": " - Experiencia en automatización de pruebas utilizando Selenium, Cypress o Playwright. - Experiencia validando APIs, integraciones y aplicaciones web. - Experiencia demostrable en plataformas Ecommerce, marketplaces o soluciones de comercio electrónico. - Conocimiento de procesos relacionados con catálogo, inventario, checkout, pagos o integraciones. - Experiencia utilizando Git y trabajando bajo metodologías ágiles.  ",
+      "date": 1782395777,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/qa-automation-engineer-interfell-remote-2ef9",
+      "source": "GetOnBoard",
+      "id": "03b5db6651bd",
+      "score": 70,
+      "matches": [
+        "Rol QA ✓",
+        "playwright",
+        "automation",
+        "selenium",
+        "cypress",
+        "Remoto/Latam 🌐"
+      ],
+      "warnings": [],
+      "verdict": "excelente"
+    },
+    {
+      "title": "QA Manual SSR",
+      "company": "",
+      "location": "remote_local",
+      "description": " ● 2+ años de experiencia como QA Manual. ● Experiencia probando apps mobile (Android y/o iOS). ● Experiencia en testing de APIs. ● Conocimiento de metodologías Agile / Scrum. ● Experiencia usando herramientas de gestión de bugs: ● Capacidad para escribir casos de prueba claros y estructurados. ● Perfil detallista y orientado a calidad. ",
+      "date": 1782740343,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/qa-manual-coderslab-io-remote",
+      "source": "GetOnBoard",
+      "id": "975771795935",
+      "score": 65,
+      "matches": [
+        "Rol QA ✓",
+        "agile",
+        "scrum",
+        "bug",
+        "Remoto/Latam 🌐"
+      ],
+      "warnings": [],
+      "verdict": "excelente"
+    },
+    {
+      "title": "Senior Software Test Engineer (SDET) Java/angular",
+      "company": "",
+      "location": "remote_local",
+      "description": "  Técnicas    4+ años de experiencia en pruebas de API sobre aplicaciones Java  4+ años de experiencia en pruebas de UI para SPAs en Angular  4+ años de experiencia configurando frameworks de automatización de pruebas  Familiaridad con integración en pipelines CI/CD  Inglés B2 (tendrás interacción diaria en reuniones, en inglés)    Personales    Capacidad de autogestión  Buenos skills de comunicación en inglés y en español  Fortaleza en trabajo en equipo  Título académico en Ingeniería Informática, Sistemas o carreras afines.    Contrato indefinido desde el inicio con 23people - Tiempo del proyecto 6 meses con posible extensión.     Modalidad:  Home Office - remoto con residencia en Chile.   Experiencia: Desde 4 años en adelante  Horario:  9:00 - 18:00 hrs.   ",
+      "date": 1782999866,
+      "salary": "2700–2900",
+      "url": "https://www.getonbrd.com/jobs/senior-ingeniero-de-desarrollo-de-software-en-pruebas-eng-23people-santiago",
+      "source": "GetOnBoard",
+      "id": "0751d1cfd3f7",
+      "score": 60,
+      "matches": [
+        "Rol QA ✓",
+        "ci/cd",
+        "Remoto/Latam 🌐",
+        "Salario 💰"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    },
     {
       "title": "Senior Quality Engineer (Florianópolis)",
       "company": "LawnStarter",
@@ -106,6 +191,26 @@
       "verdict": "bueno"
     },
     {
+      "title": "QA Automation",
+      "company": "",
+      "location": "hybrid",
+      "description": "  Entre 2 y 4 años de experiencia en QA combinando roles de Manual y Automation.  Dominio de Playwright con TypeScript para automatización de pruebas funcionales.  Experiencia con herramientas de performance testing, específicamente k6.io.  Conocimientos de IA agéntica aplicada a la generación de casos de prueba y scripts.  ",
+      "date": 1782849586,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/qa-automation-witi-santiago-f2d6",
+      "source": "GetOnBoard",
+      "id": "9c624aadee1d",
+      "score": 55,
+      "matches": [
+        "Rol QA ✓",
+        "playwright",
+        "automation",
+        "typescript"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    },
+    {
       "title": "Senior Quality Assurance Automation Engineer",
       "company": "Experian",
       "location": "Costa Rica",
@@ -120,6 +225,79 @@
         "Rol QA ✓",
         "automation",
         "Remoto/Latam 🌐"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    },
+    {
+      "title": "Manager, Quality Engineering (Development)",
+      "company": "",
+      "location": "['United States']",
+      "description": "  Basic Function   Lumin Digital  is the digital banking platform of choice for credit unions and community banks across the country. As we scale our extensibility program, the Quality Engineering Manager  will lead the team that makes Lumin the best platform to build on in the community financial institution (CFI) space.  This is a player-coach manager role. You will set strategy, lead and grow a team of developers, and get into the work when it counts, whether that’s shaping E2E and API testing architecture, working with developers to help them understand testing, or presenting to other managers. You will partner closely with other development managers and together you will define and execute a roadmap that elevates Lumin’s quality engineering to industry leadership.  Essential Functions",
+      "date": "",
+      "salary": null,
+      "url": "https://himalayas.app/companies/lumin-digital/jobs/manager-quality-engineering-development",
+      "source": "Himalayas",
+      "id": "1615462a08f8",
+      "score": 50,
+      "matches": [
+        "Rol QA ✓",
+        "api testing",
+        "e2e"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    },
+    {
+      "title": "Analista QA Sr",
+      "company": "",
+      "location": "hybrid",
+      "description": " -Experiencia en diseñar e implementar planes, escenarios y casos de prueba -Experiencia en definir estrategias de testing basadas en riesgos -Experiencia gestionado bugs, evaluando impacto de fixes y coordinando regresiones -Experiencia en ejecución pruebas en web, mobile (iOS/Android) y APIs/microservicios -Experiencia generando y gestionado data de prueba ",
+      "date": 1782934441,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/analista-qa-coderslab-io-santiago-9bab",
+      "source": "GetOnBoard",
+      "id": "7406f9ed8c65",
+      "score": 45,
+      "matches": [
+        "Rol QA ✓",
+        "bug"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    },
+    {
+      "title": "Especialista QA Funcional",
+      "company": "",
+      "location": "hybrid",
+      "description": "  Formación    Ingeniería Civil Informática, Ingeniería en Sistemas, Ingeniería Industrial, Ingeniería en Ejecución o carrera afín.    Experiencia    Mínimo 5 años de experiencia en proyectos SAP.  Experiencia en QA Funcional sobre implementaciones SAP S/4HANA.  Experiencia validando procesos de negocio y diseño funcional.  Participación en proyectos de implementación, transformación o migración SAP.  Experiencia trabajando con metodologías SAP Activate o equivalentes.    Conocimientos técnicos    SAP    SAP S/4HANA.  SAP PM, Plant Maintenance.  SAP PP, Production Planning.  SAP Services / Service Management, deseable.  Integraciones con MM.  Integraciones con FI/CO.  Procesos end-to-end SAP.    QA Funcional    Revisión de diseño funcional.  QA de procesos.  QA de datos maestros.  Validaci",
+      "date": 1782836273,
+      "salary": "1000–1200",
+      "url": "https://www.getonbrd.com/jobs/especialista-qa-funcional-sap-senior-devups-santiago",
+      "source": "GetOnBoard",
+      "id": "2253dc6387c8",
+      "score": 45,
+      "matches": [
+        "Rol QA ✓",
+        "Salario 💰"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    },
+    {
+      "title": "QA Automatizador Junior",
+      "company": "",
+      "location": "hybrid",
+      "description": "   Experiencia laboral de 1 a 2 años en roles relacionados con Cloud o QA Automation.    Capacidad y experiencia en automatización de procesos, pruebas o tareas operativas.  Conocimientos de scripting o desarrollo (Python, Bash, PowerShell u otros).  Capacidad para desarrollar nuevas soluciones y aprender rápidamente tecnologías asociadas al ecosistema cloud.  Conocimiento de prácticas de calidad, testing y validación de sistemas.  Habilidades analíticas, capacidad de aprendizaje y trabajo colaborativo.    Nivel esperado: Junior (1 a 2 años de experiencia comprobable). No se considerarán perfiles sin experiencia práctica en entornos cloud, automatización o calidad.   ",
+      "date": 1782333014,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/qa-automatizador-tcit-santiago-c3b5",
+      "source": "GetOnBoard",
+      "id": "097d14c5d66c",
+      "score": 45,
+      "matches": [
+        "Rol QA ✓",
+        "automation"
       ],
       "warnings": [],
       "verdict": "bueno"
@@ -142,5 +320,25 @@
       "verdict": "regular"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "title": "Manager, Quality Engineering (Development)",
+      "company": "",
+      "location": "['United States']",
+      "description": "  Basic Function   Lumin Digital  is the digital banking platform of choice for credit unions and community banks across the country. As we scale our extensibility program, the Quality Engineering Manager  will lead the team that makes Lumin the best platform to build on in the community financial institution (CFI) space.  This is a player-coach manager role. You will set strategy, lead and grow a team of developers, and get into the work when it counts, whether that’s shaping E2E and API testing architecture, working with developers to help them understand testing, or presenting to other managers. You will partner closely with other development managers and together you will define and execute a roadmap that elevates Lumin’s quality engineering to industry leadership.  Essential Functions",
+      "date": "",
+      "salary": null,
+      "url": "https://himalayas.app/companies/lumin-digital/jobs/manager-quality-engineering-development",
+      "source": "Himalayas",
+      "id": "1615462a08f8",
+      "score": 50,
+      "matches": [
+        "Rol QA ✓",
+        "api testing",
+        "e2e"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    }
+  ]
 }
