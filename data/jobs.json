@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-07-03T12:58:29.419441+00:00",
-  "total_fetched": 136,
+  "last_updated": "2026-07-03T18:15:23.520426+00:00",
+  "total_fetched": 149,
   "sources": {
     "Remotive": 31,
-    "WorkingNomads": 29,
+    "WorkingNomads": 42,
     "GetOnBoard": 50,
     "Himalayas": 20,
     "Jobicy": 6
   },
-  "new_count": 0,
+  "new_count": 2,
   "jobs": [
     {
       "title": "Analista QA Junior",
@@ -30,6 +30,29 @@
         "sql",
         "cypress",
         "testrail"
+      ],
+      "warnings": [],
+      "verdict": "excelente"
+    },
+    {
+      "title": "QA Automation",
+      "company": "",
+      "location": "hybrid",
+      "description": "  Formación:  Carrera de grado en Ingeniería en Informática o carreras afines.  Experiencia:  Mínimo  3 años de experiencia  demostrable en roles de QA Automation.   Conocimientos Técnicos Excluyentes:  •  Automatización Web:  Experiencia sólida y comprobable utilizando  Playwright  y  Selenium  ( Requisitos Primordiales ). Valoramos también el conocimiento en otras herramientas como Cypress, Katalon. •  Gestión de Pruebas:  Uso de plataformas como Jira, Qmetry, Linear, Azure DevOps. •  Seguridad:  Conocimientos básicos de seguridad en entornos SaaS (ej. OWASP).  ",
+      "date": 1783086629,
+      "salary": "1800–2300",
+      "url": "https://www.getonbrd.com/jobs/qa-automation-iconstruye-santiago",
+      "source": "GetOnBoard",
+      "id": "9c624aadee1d",
+      "score": 70,
+      "matches": [
+        "Rol QA ✓",
+        "playwright",
+        "automation",
+        "selenium",
+        "jira",
+        "cypress",
+        "Salario 💰"
       ],
       "warnings": [],
       "verdict": "excelente"
@@ -57,28 +80,6 @@
       "verdict": "excelente"
     },
     {
-      "title": "QA Automation Engineer",
-      "company": "",
-      "location": "fully_remote",
-      "description": " - Experiencia en automatización de pruebas utilizando Selenium, Cypress o Playwright. - Experiencia validando APIs, integraciones y aplicaciones web. - Experiencia demostrable en plataformas Ecommerce, marketplaces o soluciones de comercio electrónico. - Conocimiento de procesos relacionados con catálogo, inventario, checkout, pagos o integraciones. - Experiencia utilizando Git y trabajando bajo metodologías ágiles.  ",
-      "date": 1782395777,
-      "salary": null,
-      "url": "https://www.getonbrd.com/jobs/qa-automation-engineer-interfell-remote-2ef9",
-      "source": "GetOnBoard",
-      "id": "03b5db6651bd",
-      "score": 70,
-      "matches": [
-        "Rol QA ✓",
-        "playwright",
-        "automation",
-        "selenium",
-        "cypress",
-        "Remoto/Latam 🌐"
-      ],
-      "warnings": [],
-      "verdict": "excelente"
-    },
-    {
       "title": "QA Manual SSR",
       "company": "",
       "location": "remote_local",
@@ -95,6 +96,28 @@
         "scrum",
         "bug",
         "Remoto/Latam 🌐"
+      ],
+      "warnings": [],
+      "verdict": "excelente"
+    },
+    {
+      "title": "2026-7970 QA Engineer II/III (Night Shift)",
+      "company": "",
+      "location": "['Philippines']",
+      "description": " The QA Engineer executes manual and automated testing by writing scripts and creating automation scenarios for repeated execution. Using  different automation tools , the QA Engineer will design, test, and deploy effective test automation solutions.  Job Responsibilities:   Works with the Agile Program Manager (APM), Digital Product Manager (DPM), and Business Systems Analyst (BSA) to document and plan test cases for regression, Integration, and automation test plans and test cases.  Writes test automation scripts (i.e. Python, Java, Java script, C# etc.)  Troubleshoots existing automation and optimizes the automation framework.  Supports functional validation and sprint activities.  Communicates with development teams, other product teams, and management to ensure proper test coverage of",
+      "date": "",
+      "salary": null,
+      "url": "https://himalayas.app/companies/arch-capital-group-ltd/jobs/2026-7970-qa-engineer-ii-iii-night-shift",
+      "source": "Himalayas",
+      "id": "d5e95d8871e9",
+      "score": 65,
+      "matches": [
+        "Rol QA ✓",
+        "automation",
+        "agile",
+        "regression",
+        "test case",
+        "test plan"
       ],
       "warnings": [],
       "verdict": "excelente"
@@ -215,26 +238,6 @@
       "verdict": "bueno"
     },
     {
-      "title": "QA Automation",
-      "company": "",
-      "location": "hybrid",
-      "description": "  Entre 2 y 4 años de experiencia en QA combinando roles de Manual y Automation.  Dominio de Playwright con TypeScript para automatización de pruebas funcionales.  Experiencia con herramientas de performance testing, específicamente k6.io.  Conocimientos de IA agéntica aplicada a la generación de casos de prueba y scripts.  ",
-      "date": 1782849586,
-      "salary": null,
-      "url": "https://www.getonbrd.com/jobs/qa-automation-witi-santiago-f2d6",
-      "source": "GetOnBoard",
-      "id": "9c624aadee1d",
-      "score": 55,
-      "matches": [
-        "Rol QA ✓",
-        "playwright",
-        "automation",
-        "typescript"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
-    },
-    {
       "title": "Senior Quality Assurance Automation Engineer",
       "company": "Experian",
       "location": "Costa Rica",
@@ -258,7 +261,7 @@
       "company": "",
       "location": "hybrid",
       "description": " -Experiencia en diseñar e implementar planes, escenarios y casos de prueba -Experiencia en definir estrategias de testing basadas en riesgos -Experiencia gestionado bugs, evaluando impacto de fixes y coordinando regresiones -Experiencia en ejecución pruebas en web, mobile (iOS/Android) y APIs/microservicios -Experiencia generando y gestionado data de prueba ",
-      "date": 1782934441,
+      "date": 1783089709,
       "salary": null,
       "url": "https://www.getonbrd.com/jobs/analista-qa-coderslab-io-santiago-9bab",
       "source": "GetOnBoard",
@@ -290,22 +293,21 @@
       "verdict": "bueno"
     },
     {
-      "title": "QA Automatizador Junior",
+      "title": "Quality Assurance Specialist",
       "company": "",
-      "location": "hybrid",
-      "description": "   Experiencia laboral de 1 a 2 años en roles relacionados con Cloud o QA Automation.    Capacidad y experiencia en automatización de procesos, pruebas o tareas operativas.  Conocimientos de scripting o desarrollo (Python, Bash, PowerShell u otros).  Capacidad para desarrollar nuevas soluciones y aprender rápidamente tecnologías asociadas al ecosistema cloud.  Conocimiento de prácticas de calidad, testing y validación de sistemas.  Habilidades analíticas, capacidad de aprendizaje y trabajo colaborativo.    Nivel esperado: Junior (1 a 2 años de experiencia comprobable). No se considerarán perfiles sin experiencia práctica en entornos cloud, automatización o calidad.   ",
-      "date": 1782333014,
+      "location": "['United States']",
+      "description": " Founded in 1977 as the Senior Care Action Network,  SCAN  began with a simple but radical idea: that older adults deserve to stay healthy and independent. That belief was championed by a group of community activists we still honor today as the “12 Angry Seniors.” Their mission continues to guide everything we do.  Today,  SCAN  is a nonprofit health organization serving more than 500,000 people across Arizona, California, Nevada, New Mexico, Texas, and Washington, with over $8 billion in annual revenue. With nearly five decades of experience, we have built a distinctive, values-driven platform dedicated to improving care for older adults.  Our work spans Medicare Advantage, fully integrated care models, primary care, care for the most medically and socially complex populations, and next-g",
+      "date": "",
       "salary": null,
-      "url": "https://www.getonbrd.com/jobs/qa-automatizador-tcit-santiago-c3b5",
-      "source": "GetOnBoard",
-      "id": "097d14c5d66c",
-      "score": 45,
+      "url": "https://himalayas.app/companies/scan/jobs/quality-assurance-specialist",
+      "source": "Himalayas",
+      "id": "481f48d72b58",
+      "score": 40,
       "matches": [
-        "Rol QA ✓",
-        "automation"
+        "Rol QA ✓"
       ],
       "warnings": [],
-      "verdict": "bueno"
+      "verdict": "regular"
     },
     {
       "title": "Quality Assurance Specialist",
@@ -325,5 +327,45 @@
       "verdict": "regular"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "title": "2026-7970 QA Engineer II/III (Night Shift)",
+      "company": "",
+      "location": "['Philippines']",
+      "description": " The QA Engineer executes manual and automated testing by writing scripts and creating automation scenarios for repeated execution. Using  different automation tools , the QA Engineer will design, test, and deploy effective test automation solutions.  Job Responsibilities:   Works with the Agile Program Manager (APM), Digital Product Manager (DPM), and Business Systems Analyst (BSA) to document and plan test cases for regression, Integration, and automation test plans and test cases.  Writes test automation scripts (i.e. Python, Java, Java script, C# etc.)  Troubleshoots existing automation and optimizes the automation framework.  Supports functional validation and sprint activities.  Communicates with development teams, other product teams, and management to ensure proper test coverage of",
+      "date": "",
+      "salary": null,
+      "url": "https://himalayas.app/companies/arch-capital-group-ltd/jobs/2026-7970-qa-engineer-ii-iii-night-shift",
+      "source": "Himalayas",
+      "id": "d5e95d8871e9",
+      "score": 65,
+      "matches": [
+        "Rol QA ✓",
+        "automation",
+        "agile",
+        "regression",
+        "test case",
+        "test plan"
+      ],
+      "warnings": [],
+      "verdict": "excelente"
+    },
+    {
+      "title": "Quality Assurance Specialist",
+      "company": "",
+      "location": "['United States']",
+      "description": " Founded in 1977 as the Senior Care Action Network,  SCAN  began with a simple but radical idea: that older adults deserve to stay healthy and independent. That belief was championed by a group of community activists we still honor today as the “12 Angry Seniors.” Their mission continues to guide everything we do.  Today,  SCAN  is a nonprofit health organization serving more than 500,000 people across Arizona, California, Nevada, New Mexico, Texas, and Washington, with over $8 billion in annual revenue. With nearly five decades of experience, we have built a distinctive, values-driven platform dedicated to improving care for older adults.  Our work spans Medicare Advantage, fully integrated care models, primary care, care for the most medically and socially complex populations, and next-g",
+      "date": "",
+      "salary": null,
+      "url": "https://himalayas.app/companies/scan/jobs/quality-assurance-specialist",
+      "source": "Himalayas",
+      "id": "481f48d72b58",
+      "score": 40,
+      "matches": [
+        "Rol QA ✓"
+      ],
+      "warnings": [],
+      "verdict": "regular"
+    }
+  ]
 }
