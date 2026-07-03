@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-02T18:27:22.735599+00:00",
+  "last_updated": "2026-07-03T00:10:33.389840+00:00",
   "total_fetched": 136,
   "sources": {
     "Remotive": 31,
@@ -10,6 +10,30 @@
   },
   "new_count": 1,
   "jobs": [
+    {
+      "title": "Analista QA Junior",
+      "company": "",
+      "location": "hybrid",
+      "description": "   Automatización de pruebas    Conocimientos básicos de automatización.  Manejo de al menos una de las siguientes herramientas:  Selenium  Playwright  Cypress  UiPath    Comprensión de scripts de automatización.     Bases de Datos    Consultas básicas en SQL.  Validación y comparación de datos.     APIs    Conocimiento de servicios REST.  Manejo de Postman.  Interpretación de respuestas JSON.     Herramientas de gestión    Jira o Azure DevOps.  Confluence.  TestRail, Xray o herramientas equivalentes.        ",
+      "date": 1783022888,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/analista-qa-junior-bc-tecnologia-santiago",
+      "source": "GetOnBoard",
+      "id": "68088c9ccae3",
+      "score": 75,
+      "matches": [
+        "Rol QA ✓",
+        "playwright",
+        "postman",
+        "selenium",
+        "jira",
+        "sql",
+        "cypress",
+        "testrail"
+      ],
+      "warnings": [],
+      "verdict": "excelente"
+    },
     {
       "title": "Senior QA Engineer",
       "company": "",
@@ -230,25 +254,6 @@
       "verdict": "bueno"
     },
     {
-      "title": "Manager, Quality Engineering (Development)",
-      "company": "",
-      "location": "['United States']",
-      "description": "  Basic Function   Lumin Digital  is the digital banking platform of choice for credit unions and community banks across the country. As we scale our extensibility program, the Quality Engineering Manager  will lead the team that makes Lumin the best platform to build on in the community financial institution (CFI) space.  This is a player-coach manager role. You will set strategy, lead and grow a team of developers, and get into the work when it counts, whether that’s shaping E2E and API testing architecture, working with developers to help them understand testing, or presenting to other managers. You will partner closely with other development managers and together you will define and execute a roadmap that elevates Lumin’s quality engineering to industry leadership.  Essential Functions",
-      "date": "",
-      "salary": null,
-      "url": "https://himalayas.app/companies/lumin-digital/jobs/manager-quality-engineering-development",
-      "source": "Himalayas",
-      "id": "1615462a08f8",
-      "score": 50,
-      "matches": [
-        "Rol QA ✓",
-        "api testing",
-        "e2e"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
-    },
-    {
       "title": "Analista QA Sr",
       "company": "",
       "location": "hybrid",
@@ -322,23 +327,28 @@
   ],
   "new_jobs": [
     {
-      "title": "Manager, Quality Engineering (Development)",
+      "title": "Analista QA Junior",
       "company": "",
-      "location": "['United States']",
-      "description": "  Basic Function   Lumin Digital  is the digital banking platform of choice for credit unions and community banks across the country. As we scale our extensibility program, the Quality Engineering Manager  will lead the team that makes Lumin the best platform to build on in the community financial institution (CFI) space.  This is a player-coach manager role. You will set strategy, lead and grow a team of developers, and get into the work when it counts, whether that’s shaping E2E and API testing architecture, working with developers to help them understand testing, or presenting to other managers. You will partner closely with other development managers and together you will define and execute a roadmap that elevates Lumin’s quality engineering to industry leadership.  Essential Functions",
-      "date": "",
+      "location": "hybrid",
+      "description": "   Automatización de pruebas    Conocimientos básicos de automatización.  Manejo de al menos una de las siguientes herramientas:  Selenium  Playwright  Cypress  UiPath    Comprensión de scripts de automatización.     Bases de Datos    Consultas básicas en SQL.  Validación y comparación de datos.     APIs    Conocimiento de servicios REST.  Manejo de Postman.  Interpretación de respuestas JSON.     Herramientas de gestión    Jira o Azure DevOps.  Confluence.  TestRail, Xray o herramientas equivalentes.        ",
+      "date": 1783022888,
       "salary": null,
-      "url": "https://himalayas.app/companies/lumin-digital/jobs/manager-quality-engineering-development",
-      "source": "Himalayas",
-      "id": "1615462a08f8",
-      "score": 50,
+      "url": "https://www.getonbrd.com/jobs/analista-qa-junior-bc-tecnologia-santiago",
+      "source": "GetOnBoard",
+      "id": "68088c9ccae3",
+      "score": 75,
       "matches": [
         "Rol QA ✓",
-        "api testing",
-        "e2e"
+        "playwright",
+        "postman",
+        "selenium",
+        "jira",
+        "sql",
+        "cypress",
+        "testrail"
       ],
       "warnings": [],
-      "verdict": "bueno"
+      "verdict": "excelente"
     }
   ]
 }
