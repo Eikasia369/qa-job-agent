@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-03T00:10:33.389840+00:00",
+  "last_updated": "2026-07-03T12:58:29.419441+00:00",
   "total_fetched": 136,
   "sources": {
     "Remotive": 31,
@@ -8,7 +8,7 @@
     "Himalayas": 20,
     "Jobicy": 6
   },
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "title": "Analista QA Junior",
@@ -325,30 +325,5 @@
       "verdict": "regular"
     }
   ],
-  "new_jobs": [
-    {
-      "title": "Analista QA Junior",
-      "company": "",
-      "location": "hybrid",
-      "description": "   Automatización de pruebas    Conocimientos básicos de automatización.  Manejo de al menos una de las siguientes herramientas:  Selenium  Playwright  Cypress  UiPath    Comprensión de scripts de automatización.     Bases de Datos    Consultas básicas en SQL.  Validación y comparación de datos.     APIs    Conocimiento de servicios REST.  Manejo de Postman.  Interpretación de respuestas JSON.     Herramientas de gestión    Jira o Azure DevOps.  Confluence.  TestRail, Xray o herramientas equivalentes.        ",
-      "date": 1783022888,
-      "salary": null,
-      "url": "https://www.getonbrd.com/jobs/analista-qa-junior-bc-tecnologia-santiago",
-      "source": "GetOnBoard",
-      "id": "68088c9ccae3",
-      "score": 75,
-      "matches": [
-        "Rol QA ✓",
-        "playwright",
-        "postman",
-        "selenium",
-        "jira",
-        "sql",
-        "cypress",
-        "testrail"
-      ],
-      "warnings": [],
-      "verdict": "excelente"
-    }
-  ]
+  "new_jobs": []
 }
