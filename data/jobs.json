@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-03T18:15:23.520426+00:00",
+  "last_updated": "2026-07-04T00:08:50.569722+00:00",
   "total_fetched": 149,
   "sources": {
     "Remotive": 31,
@@ -8,7 +8,7 @@
     "Himalayas": 20,
     "Jobicy": 6
   },
-  "new_count": 2,
+  "new_count": 0,
   "jobs": [
     {
       "title": "Analista QA Junior",
@@ -101,33 +101,11 @@
       "verdict": "excelente"
     },
     {
-      "title": "2026-7970 QA Engineer II/III (Night Shift)",
-      "company": "",
-      "location": "['Philippines']",
-      "description": " The QA Engineer executes manual and automated testing by writing scripts and creating automation scenarios for repeated execution. Using  different automation tools , the QA Engineer will design, test, and deploy effective test automation solutions.  Job Responsibilities:   Works with the Agile Program Manager (APM), Digital Product Manager (DPM), and Business Systems Analyst (BSA) to document and plan test cases for regression, Integration, and automation test plans and test cases.  Writes test automation scripts (i.e. Python, Java, Java script, C# etc.)  Troubleshoots existing automation and optimizes the automation framework.  Supports functional validation and sprint activities.  Communicates with development teams, other product teams, and management to ensure proper test coverage of",
-      "date": "",
-      "salary": null,
-      "url": "https://himalayas.app/companies/arch-capital-group-ltd/jobs/2026-7970-qa-engineer-ii-iii-night-shift",
-      "source": "Himalayas",
-      "id": "d5e95d8871e9",
-      "score": 65,
-      "matches": [
-        "Rol QA ✓",
-        "automation",
-        "agile",
-        "regression",
-        "test case",
-        "test plan"
-      ],
-      "warnings": [],
-      "verdict": "excelente"
-    },
-    {
       "title": "Senior Software Test Engineer (SDET) Java/angular",
       "company": "",
       "location": "remote_local",
       "description": "  Técnicas    4+ años de experiencia en pruebas de API sobre aplicaciones Java  4+ años de experiencia en pruebas de UI para SPAs en Angular  4+ años de experiencia configurando frameworks de automatización de pruebas  Familiaridad con integración en pipelines CI/CD  Inglés B2 (tendrás interacción diaria en reuniones, en inglés)    Personales    Capacidad de autogestión  Buenos skills de comunicación en inglés y en español  Fortaleza en trabajo en equipo  Título académico en Ingeniería Informática, Sistemas o carreras afines.    Contrato indefinido desde el inicio con 23people - Tiempo del proyecto 6 meses con posible extensión.     Modalidad:  Home Office - remoto con residencia en Chile.   Experiencia: Desde 4 años en adelante  Horario:  9:00 - 18:00 hrs.   ",
-      "date": 1782999866,
+      "date": 1783107512,
       "salary": "2700–2900",
       "url": "https://www.getonbrd.com/jobs/senior-ingeniero-de-desarrollo-de-software-en-pruebas-eng-23people-santiago",
       "source": "GetOnBoard",
@@ -294,23 +272,6 @@
     },
     {
       "title": "Quality Assurance Specialist",
-      "company": "",
-      "location": "['United States']",
-      "description": " Founded in 1977 as the Senior Care Action Network,  SCAN  began with a simple but radical idea: that older adults deserve to stay healthy and independent. That belief was championed by a group of community activists we still honor today as the “12 Angry Seniors.” Their mission continues to guide everything we do.  Today,  SCAN  is a nonprofit health organization serving more than 500,000 people across Arizona, California, Nevada, New Mexico, Texas, and Washington, with over $8 billion in annual revenue. With nearly five decades of experience, we have built a distinctive, values-driven platform dedicated to improving care for older adults.  Our work spans Medicare Advantage, fully integrated care models, primary care, care for the most medically and socially complex populations, and next-g",
-      "date": "",
-      "salary": null,
-      "url": "https://himalayas.app/companies/scan/jobs/quality-assurance-specialist",
-      "source": "Himalayas",
-      "id": "481f48d72b58",
-      "score": 40,
-      "matches": [
-        "Rol QA ✓"
-      ],
-      "warnings": [],
-      "verdict": "regular"
-    },
-    {
-      "title": "Quality Assurance Specialist",
       "company": "ECS",
       "location": "USA",
       "description": " ECS is seeking an experienced   Quality Assurance Specialist    to  work   remotely   providing support for cloud-related application and infrastructure migration and modernization efforts performed under this contract for   NIH NIAID Enabling and Advancing Technologies (NEAT)  . This engagement supports the External Enterprise Software Development Support Services program area which includes the development, support, and maintenance of NIH enterprise applications managed by the Software Engineering Branch.    Please Note:  This position is contingent upon [contract win].   The NIAID NEAT Quality Assurance Specialist will perform Quality Assurance checks and provide software testing services for all applications maintained by SEB.   Key Responsibilities:   \n Maintain the level of quality ",
@@ -327,45 +288,5 @@
       "verdict": "regular"
     }
   ],
-  "new_jobs": [
-    {
-      "title": "2026-7970 QA Engineer II/III (Night Shift)",
-      "company": "",
-      "location": "['Philippines']",
-      "description": " The QA Engineer executes manual and automated testing by writing scripts and creating automation scenarios for repeated execution. Using  different automation tools , the QA Engineer will design, test, and deploy effective test automation solutions.  Job Responsibilities:   Works with the Agile Program Manager (APM), Digital Product Manager (DPM), and Business Systems Analyst (BSA) to document and plan test cases for regression, Integration, and automation test plans and test cases.  Writes test automation scripts (i.e. Python, Java, Java script, C# etc.)  Troubleshoots existing automation and optimizes the automation framework.  Supports functional validation and sprint activities.  Communicates with development teams, other product teams, and management to ensure proper test coverage of",
-      "date": "",
-      "salary": null,
-      "url": "https://himalayas.app/companies/arch-capital-group-ltd/jobs/2026-7970-qa-engineer-ii-iii-night-shift",
-      "source": "Himalayas",
-      "id": "d5e95d8871e9",
-      "score": 65,
-      "matches": [
-        "Rol QA ✓",
-        "automation",
-        "agile",
-        "regression",
-        "test case",
-        "test plan"
-      ],
-      "warnings": [],
-      "verdict": "excelente"
-    },
-    {
-      "title": "Quality Assurance Specialist",
-      "company": "",
-      "location": "['United States']",
-      "description": " Founded in 1977 as the Senior Care Action Network,  SCAN  began with a simple but radical idea: that older adults deserve to stay healthy and independent. That belief was championed by a group of community activists we still honor today as the “12 Angry Seniors.” Their mission continues to guide everything we do.  Today,  SCAN  is a nonprofit health organization serving more than 500,000 people across Arizona, California, Nevada, New Mexico, Texas, and Washington, with over $8 billion in annual revenue. With nearly five decades of experience, we have built a distinctive, values-driven platform dedicated to improving care for older adults.  Our work spans Medicare Advantage, fully integrated care models, primary care, care for the most medically and socially complex populations, and next-g",
-      "date": "",
-      "salary": null,
-      "url": "https://himalayas.app/companies/scan/jobs/quality-assurance-specialist",
-      "source": "Himalayas",
-      "id": "481f48d72b58",
-      "score": 40,
-      "matches": [
-        "Rol QA ✓"
-      ],
-      "warnings": [],
-      "verdict": "regular"
-    }
-  ]
+  "new_jobs": []
 }
