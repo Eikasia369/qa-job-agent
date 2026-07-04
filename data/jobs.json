@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-07-04T12:09:18.054083+00:00",
-  "total_fetched": 178,
+  "last_updated": "2026-07-04T18:05:12.388285+00:00",
+  "total_fetched": 175,
   "sources": {
     "Remotive": 32,
-    "WorkingNomads": 42,
+    "WorkingNomads": 39,
     "GetOnBoard": 50,
     "Himalayas": 20,
     "Jobicy": 34
   },
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "title": "Analista QA Junior",
@@ -306,24 +306,5 @@
       "verdict": "regular"
     }
   ],
-  "new_jobs": [
-    {
-      "title": "Senior Software Quality Engineer (Mexico Remote)",
-      "company": "Turnitin, LLC",
-      "location": "Mexico",
-      "description": " Company Description  When you join Turnitin, you'll be welcomed into a company that is a recognized innovator in global education. For over 25 years, Turnitin has partnered with educators and institutions to develop learning integrity solutions that recognize the enduring value of critical thinking in a rapidly changing world. Over 16,000 academic institutions, publishers, and corporations use our services in more than 185 countries around the world: Turnitin Feedback Studio, Clarity, Originality, Gradescope, ExamSoft, Similarity, and iThenticate. Protecting the value of an authentic education is at the heart of who we are.  Experience a remote-first culture that empowers you to work with purpose and accountability in a way that best suits you, supported by a comprehensive package that pr",
-      "date": "2026-06-25T11:08:25+00:00",
-      "salary": null,
-      "url": "https://jobicy.com/jobs/147744-senior-software-quality-engineer-mexico-remote",
-      "source": "Jobicy",
-      "id": "c173aa9ae0a9",
-      "score": 50,
-      "matches": [
-        "Rol QA ✓",
-        "Remoto/Latam 🌐"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
-    }
-  ]
+  "new_jobs": []
 }
