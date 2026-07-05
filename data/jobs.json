@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-05T12:19:08.234953+00:00",
+  "last_updated": "2026-07-05T18:07:09.622565+00:00",
   "total_fetched": 171,
   "sources": {
     "Remotive": 30,
@@ -8,7 +8,7 @@
     "Himalayas": 20,
     "Jobicy": 34
   },
-  "new_count": 3,
+  "new_count": 0,
   "jobs": [
     {
       "title": "Analista QA Junior",
@@ -116,27 +116,6 @@
         "ci/cd",
         "Remoto/Latam 🌐",
         "Salario 💰"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
-    },
-    {
-      "title": "QA Tester",
-      "company": "",
-      "location": "['United States']",
-      "description": " QA Tester  **Job Title: QA Tester** **Terms: 1+ Year Contract** **Work Schedule: Remote** ** Skills:** - 3+ years of experience performing functional testing within enterprise applications. - Strong understanding of QA methodologies and the Software Development Life Cycle (SDLC). - Experience creating test plans, test cases, and test data. - Ability to identify, document, and track software defects. - Strong analytical, troubleshooting, and problem-solving skills.  Originally posted on  Himalayas  ",
-      "date": "",
-      "salary": null,
-      "url": "https://himalayas.app/companies/omegahires/jobs/qa-tester",
-      "source": "Himalayas",
-      "id": "67b9477a3493",
-      "score": 60,
-      "matches": [
-        "Rol QA ✓",
-        "test case",
-        "test plan",
-        "defect",
-        "functional testing"
       ],
       "warnings": [],
       "verdict": "bueno"
@@ -256,25 +235,6 @@
       "verdict": "bueno"
     },
     {
-      "title": "1086|Automation Test Engineer (Python)",
-      "company": "",
-      "location": "['Georgia']",
-      "description": " Inte­tics Inc., a leading American technology company specializing in custom software development, distributed professional team creation, software product quality assessment, and end-to-end digital solutions, is looking for an Automation Test Engineer (Python) to join a long-term banking project.   Project Responsibilities:    Leads other testers in specific testing activities.  • Plans and prepares test scenarios and cases for execution.  • Documents test results to ensure traceability.  • Executes tests and keeps the status up to date.  • Logs and documents defects to support reporting and resolution.  • Configures and maintains test environments.  • Escalates risks and blockers to the Test Manager.  • Ensures test coverage is reflected in standard and closure reports.  • Implements an",
-      "date": "",
-      "salary": null,
-      "url": "https://himalayas.app/companies/intetics/jobs/1086-automation-test-engineer-python",
-      "source": "Himalayas",
-      "id": "7efae17ffe16",
-      "score": 50,
-      "matches": [
-        "Rol QA ✓",
-        "automation",
-        "defect"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
-    },
-    {
       "title": "Senior Software Quality Engineer (Mexico Remote)",
       "company": "Turnitin, LLC",
       "location": "Mexico",
@@ -344,84 +304,7 @@
       ],
       "warnings": [],
       "verdict": "regular"
-    },
-    {
-      "title": "Freelance Data Scraping Engineer (Python)",
-      "company": "",
-      "location": "['Argentina']",
-      "description": "   Mindrift  is looking for highly skilled Python Data Scraping Engineers to join the Tendem project and drive specialized data scraping workflows within our hybrid AI + human system.    In this role, as an AI Pilot – that’s how we refer to this role at  Mindrift  – you’ll collaborate with Tendem Agents that handle repetitive tasks, while you provide critical thinking, domain expertise, and quality control to deliver accurate and actionable results.   This part-time remote opportunity is ideal for technical professionals with hands-on experience in web scraping, data extraction and processing.   What We Do   The  Mindrift  platform connects specialists with AI projects from major tech innovators. Our mission is to unlock the potential of Generative AI by tapping into real-world expertise f",
-      "date": "",
-      "salary": null,
-      "url": "https://himalayas.app/companies/mindrift/jobs/freelance-data-scraping-engineer-python-6813192924",
-      "source": "Himalayas",
-      "id": "d58b49bde256",
-      "score": 30,
-      "matches": [
-        "Rol QA (desc)",
-        "Remoto/Latam 🌐"
-      ],
-      "warnings": [],
-      "verdict": "regular"
     }
   ],
-  "new_jobs": [
-    {
-      "title": "QA Tester",
-      "company": "",
-      "location": "['United States']",
-      "description": " QA Tester  **Job Title: QA Tester** **Terms: 1+ Year Contract** **Work Schedule: Remote** ** Skills:** - 3+ years of experience performing functional testing within enterprise applications. - Strong understanding of QA methodologies and the Software Development Life Cycle (SDLC). - Experience creating test plans, test cases, and test data. - Ability to identify, document, and track software defects. - Strong analytical, troubleshooting, and problem-solving skills.  Originally posted on  Himalayas  ",
-      "date": "",
-      "salary": null,
-      "url": "https://himalayas.app/companies/omegahires/jobs/qa-tester",
-      "source": "Himalayas",
-      "id": "67b9477a3493",
-      "score": 60,
-      "matches": [
-        "Rol QA ✓",
-        "test case",
-        "test plan",
-        "defect",
-        "functional testing"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
-    },
-    {
-      "title": "1086|Automation Test Engineer (Python)",
-      "company": "",
-      "location": "['Georgia']",
-      "description": " Inte­tics Inc., a leading American technology company specializing in custom software development, distributed professional team creation, software product quality assessment, and end-to-end digital solutions, is looking for an Automation Test Engineer (Python) to join a long-term banking project.   Project Responsibilities:    Leads other testers in specific testing activities.  • Plans and prepares test scenarios and cases for execution.  • Documents test results to ensure traceability.  • Executes tests and keeps the status up to date.  • Logs and documents defects to support reporting and resolution.  • Configures and maintains test environments.  • Escalates risks and blockers to the Test Manager.  • Ensures test coverage is reflected in standard and closure reports.  • Implements an",
-      "date": "",
-      "salary": null,
-      "url": "https://himalayas.app/companies/intetics/jobs/1086-automation-test-engineer-python",
-      "source": "Himalayas",
-      "id": "7efae17ffe16",
-      "score": 50,
-      "matches": [
-        "Rol QA ✓",
-        "automation",
-        "defect"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
-    },
-    {
-      "title": "Freelance Data Scraping Engineer (Python)",
-      "company": "",
-      "location": "['Argentina']",
-      "description": "   Mindrift  is looking for highly skilled Python Data Scraping Engineers to join the Tendem project and drive specialized data scraping workflows within our hybrid AI + human system.    In this role, as an AI Pilot – that’s how we refer to this role at  Mindrift  – you’ll collaborate with Tendem Agents that handle repetitive tasks, while you provide critical thinking, domain expertise, and quality control to deliver accurate and actionable results.   This part-time remote opportunity is ideal for technical professionals with hands-on experience in web scraping, data extraction and processing.   What We Do   The  Mindrift  platform connects specialists with AI projects from major tech innovators. Our mission is to unlock the potential of Generative AI by tapping into real-world expertise f",
-      "date": "",
-      "salary": null,
-      "url": "https://himalayas.app/companies/mindrift/jobs/freelance-data-scraping-engineer-python-6813192924",
-      "source": "Himalayas",
-      "id": "d58b49bde256",
-      "score": 30,
-      "matches": [
-        "Rol QA (desc)",
-        "Remoto/Latam 🌐"
-      ],
-      "warnings": [],
-      "verdict": "regular"
-    }
-  ]
+  "new_jobs": []
 }
