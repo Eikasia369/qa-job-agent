@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-07-06T14:29:26.088098+00:00",
-  "total_fetched": 168,
+  "last_updated": "2026-07-06T18:58:29.511835+00:00",
+  "total_fetched": 169,
   "sources": {
     "Remotive": 28,
-    "WorkingNomads": 36,
+    "WorkingNomads": 37,
     "GetOnBoard": 50,
     "Himalayas": 20,
     "Jobicy": 34
   },
-  "new_count": 2,
+  "new_count": 0,
   "jobs": [
     {
       "title": "Analista QA Semi Senior",
@@ -98,6 +98,27 @@
         "exploratory",
         "Remoto/Latam 🌐",
         "Salario 💰"
+      ],
+      "warnings": [],
+      "verdict": "excelente"
+    },
+    {
+      "title": "QA Automation Engineer",
+      "company": "",
+      "location": "fully_remote",
+      "description": "  Entre 2 y 4 años de experiencia en QA combinando roles de Manual y Automation.  Dominio de Playwright con TypeScript para automatización de pruebas funcionales.  Experiencia con herramientas de performance testing, específicamente k6.io.  Conocimientos de IA agéntica aplicada a la generación de casos de prueba y scripts.  ",
+      "date": 1783355002,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/qa-automation-engineer-witi-remote-432c",
+      "source": "GetOnBoard",
+      "id": "03b5db6651bd",
+      "score": 65,
+      "matches": [
+        "Rol QA ✓",
+        "playwright",
+        "automation",
+        "typescript",
+        "Remoto/Latam 🌐"
       ],
       "warnings": [],
       "verdict": "excelente"
@@ -299,7 +320,7 @@
       "company": "",
       "location": "hybrid",
       "description": " -Experiencia en diseñar e implementar planes, escenarios y casos de prueba -Experiencia en definir estrategias de testing basadas en riesgos -Experiencia gestionado bugs, evaluando impacto de fixes y coordinando regresiones -Experiencia en ejecución pruebas en web, mobile (iOS/Android) y APIs/microservicios -Experiencia generando y gestionado data de prueba ",
-      "date": 1783347863,
+      "date": 1783354639,
       "salary": null,
       "url": "https://www.getonbrd.com/jobs/analista-qa-coderslab-io-santiago-9bab",
       "source": "GetOnBoard",
@@ -348,48 +369,5 @@
       "verdict": "regular"
     }
   ],
-  "new_jobs": [
-    {
-      "title": "Analista QA Semi Senior",
-      "company": "",
-      "location": "no_remote",
-      "description": "   Experiencia:  Entre 3 y 4 años de experiencia comprobable en roles de QA/Testing de software.    Metodologías:  Experiencia en metodologías ágiles, participando activamente en refinamientos, plannings y retrospectivas (no solo como asistente, sino aportando visión de calidad).    Pruebas Funcionales:  Dominio avanzado en el diseño de escenarios de prueba, matrices de cobertura, reportes de calidad y gestión de datos de prueba (Test Data). Automatización (Requisito Core):  Experiencia práctica (mínimo 1 año) desarrollando y manteniendo scripts de automatización de pruebas (E2E o de regresión) utilizando frameworks como Cypress, Playwright o Selenium.   ",
-      "date": 1783345535,
-      "salary": "1000–1400",
-      "url": "https://www.getonbrd.com/jobs/analista-qa-semi-senior-tcit-santiago",
-      "source": "GetOnBoard",
-      "id": "4a2b623336e7",
-      "score": 75,
-      "matches": [
-        "Rol QA ✓",
-        "playwright",
-        "selenium",
-        "cypress",
-        "e2e",
-        "Remoto/Latam 🌐",
-        "Salario 💰"
-      ],
-      "warnings": [],
-      "verdict": "excelente"
-    },
-    {
-      "title": "Senior QA Automation Engineer",
-      "company": "Juniper Square",
-      "location": "Canada,  USA",
-      "description": "  About Juniper Square   Our mission is to unlock the full potential of private markets. Privately owned assets like commercial real estate, private equity, and venture capital make up half of our financial ecosystem yet remain inaccessible to most people. We are digitizing these markets, and as a result, bringing efficiency, transparency, and access to one of the most productive corners of our financial ecosystem. If you care about making the world a better place by making markets work better through technology – all while contributing as a member of a values-driven organization – we want to hear from you.   Juniper Square offers employees a variety of ways to work, ranging from a fully remote experience to working full-time in one of our physical offices. We invest heavily in   digital-f",
-      "date": "2026-07-06T02:25:01+00:00",
-      "salary": "USD119000–149000",
-      "url": "https://jobicy.com/jobs/142768-senior-qa-automation-engineer-2",
-      "source": "Jobicy",
-      "id": "e1a2faff2a01",
-      "score": 50,
-      "matches": [
-        "Rol QA ✓",
-        "automation",
-        "Salario 💰"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
-    }
-  ]
+  "new_jobs": []
 }
