@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-07-05T18:07:09.622565+00:00",
-  "total_fetched": 171,
+  "last_updated": "2026-07-06T00:10:42.529013+00:00",
+  "total_fetched": 170,
   "sources": {
     "Remotive": 30,
-    "WorkingNomads": 37,
+    "WorkingNomads": 36,
     "GetOnBoard": 50,
     "Himalayas": 20,
     "Jobicy": 34
@@ -301,6 +301,24 @@
       "score": 40,
       "matches": [
         "Rol QA ✓"
+      ],
+      "warnings": [],
+      "verdict": "regular"
+    },
+    {
+      "title": "Freelance Data Scraping Engineer (Python)",
+      "company": "",
+      "location": "['Brazil']",
+      "description": "   Mindrift  is looking for highly skilled Python Data Scraping Engineers to join the Tendem project and drive specialized data scraping workflows within our hybrid AI + human system.    In this role, as an AI Pilot – that’s how we refer to this role at  Mindrift  – you’ll collaborate with Tendem Agents that handle repetitive tasks, while you provide critical thinking, domain expertise, and quality control to deliver accurate and actionable results.   This part-time remote opportunity is ideal for technical professionals with hands-on experience in web scraping, data extraction and processing.   What We Do   The  Mindrift  platform connects specialists with AI projects from major tech innovators. Our mission is to unlock the potential of Generative AI by tapping into real-world expertise f",
+      "date": "",
+      "salary": null,
+      "url": "https://himalayas.app/companies/mindrift/jobs/freelance-data-scraping-engineer-python-6586845302",
+      "source": "Himalayas",
+      "id": "d58b49bde256",
+      "score": 30,
+      "matches": [
+        "Rol QA (desc)",
+        "Remoto/Latam 🌐"
       ],
       "warnings": [],
       "verdict": "regular"
