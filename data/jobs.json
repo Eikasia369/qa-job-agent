@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-07-07T13:22:49.029986+00:00",
-  "total_fetched": 170,
+  "last_updated": "2026-07-07T19:05:00.236398+00:00",
+  "total_fetched": 171,
   "sources": {
     "Remotive": 28,
-    "WorkingNomads": 38,
+    "WorkingNomads": 39,
     "GetOnBoard": 50,
     "Himalayas": 20,
     "Jobicy": 34
@@ -34,30 +34,6 @@
       "verdict": "excelente"
     },
     {
-      "title": "Analista QA Junior",
-      "company": "",
-      "location": "hybrid",
-      "description": "   Automatización de pruebas    Conocimientos básicos de automatización.  Manejo de al menos una de las siguientes herramientas:  Selenium  Playwright  Cypress  UiPath    Comprensión de scripts de automatización.     Bases de Datos    Consultas básicas en SQL.  Validación y comparación de datos.     APIs    Conocimiento de servicios REST.  Manejo de Postman.  Interpretación de respuestas JSON.     Herramientas de gestión    Jira o Azure DevOps.  Confluence.  TestRail, Xray o herramientas equivalentes.        ",
-      "date": 1783022888,
-      "salary": null,
-      "url": "https://www.getonbrd.com/jobs/analista-qa-junior-bc-tecnologia-santiago",
-      "source": "GetOnBoard",
-      "id": "68088c9ccae3",
-      "score": 75,
-      "matches": [
-        "Rol QA ✓",
-        "playwright",
-        "postman",
-        "selenium",
-        "jira",
-        "sql",
-        "cypress",
-        "testrail"
-      ],
-      "warnings": [],
-      "verdict": "excelente"
-    },
-    {
       "title": "QA Automation",
       "company": "",
       "location": "hybrid",
@@ -75,28 +51,6 @@
         "selenium",
         "jira",
         "cypress",
-        "Salario 💰"
-      ],
-      "warnings": [],
-      "verdict": "excelente"
-    },
-    {
-      "title": "Senior QA Engineer",
-      "company": "",
-      "location": "remote_local",
-      "description": "  5+ years of experience in quality assurance, with a strong recent focus on test automation.  B2 English level or higher.  Proven, hands-on experience integrating and orchestrating AI agents or Model Context Protocols (MCPs) within active QA workflows.  Demonstrated experience utilizing low-code automation tools instead of relying solely on traditional code-heavy frameworks.  Strong background working closely with product and business stakeholders to define acceptance criteria and identify risks early in the development lifecycle.    Skills    QA Automation  AI Agent Orchestration  Low-Code Test Automation  Exploratory Testing  Test Case Design  ",
-      "date": 1783012698,
-      "salary": "2500–3000",
-      "url": "https://www.getonbrd.com/jobs/senior-qa-engineer-niuro-remote-f141",
-      "source": "GetOnBoard",
-      "id": "afa71cb3a216",
-      "score": 70,
-      "matches": [
-        "Rol QA ✓",
-        "automation",
-        "test case",
-        "exploratory",
-        "Remoto/Latam 🌐",
         "Salario 💰"
       ],
       "warnings": [],
