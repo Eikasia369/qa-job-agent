@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-06T18:58:29.511835+00:00",
+  "last_updated": "2026-07-07T00:12:29.276823+00:00",
   "total_fetched": 169,
   "sources": {
     "Remotive": 28,
@@ -8,7 +8,7 @@
     "Himalayas": 20,
     "Jobicy": 34
   },
-  "new_count": 0,
+  "new_count": 3,
   "jobs": [
     {
       "title": "Analista QA Semi Senior",
@@ -103,6 +103,27 @@
       "verdict": "excelente"
     },
     {
+      "title": "QA Engineer",
+      "company": "",
+      "location": "remote_local",
+      "description": "   Nivel de inglés: B2/C1 (excluyente).     Al menos 5 años de experiencia práctica como QA Engineer con fuerte énfasis en automatización de pruebas.    Experiencia comprobada diseñando e implementando automatización a escala en entornos de IT complejos.    Sólidos conocimientos de programación en Java, incluyendo frameworks de automatización de pruebas, utilidades y debugging.    Experiencia sólida en testing manual para complementar la cobertura automatizada.    Manejo de JIRA para gestión de casos de prueba, seguimiento de defectos y reporting.    Experiencia liderando y/o mentoreando a otros miembros del equipo de QA.     Fuertes habilidades analíticas, de resolución de problemas y de comunicación.    Experiencia trabajando en entornos de consultoría o delivery enterprise.   ",
+      "date": 1783366554,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/qa-engineer-improving-south-america-remote-877c",
+      "source": "GetOnBoard",
+      "id": "24697a2d946e",
+      "score": 65,
+      "matches": [
+        "Rol QA ✓",
+        "jira",
+        "bug",
+        "defect",
+        "Remoto/Latam 🌐"
+      ],
+      "warnings": [],
+      "verdict": "excelente"
+    },
+    {
       "title": "QA Automation Engineer",
       "company": "",
       "location": "fully_remote",
@@ -118,27 +139,6 @@
         "playwright",
         "automation",
         "typescript",
-        "Remoto/Latam 🌐"
-      ],
-      "warnings": [],
-      "verdict": "excelente"
-    },
-    {
-      "title": "QA Manual SSR",
-      "company": "",
-      "location": "remote_local",
-      "description": " ● 2+ años de experiencia como QA Manual. ● Experiencia probando apps mobile (Android y/o iOS). ● Experiencia en testing de APIs. ● Conocimiento de metodologías Agile / Scrum. ● Experiencia usando herramientas de gestión de bugs: ● Capacidad para escribir casos de prueba claros y estructurados. ● Perfil detallista y orientado a calidad. ",
-      "date": 1782740343,
-      "salary": null,
-      "url": "https://www.getonbrd.com/jobs/qa-manual-coderslab-io-remote",
-      "source": "GetOnBoard",
-      "id": "975771795935",
-      "score": 65,
-      "matches": [
-        "Rol QA ✓",
-        "agile",
-        "scrum",
-        "bug",
         "Remoto/Latam 🌐"
       ],
       "warnings": [],
@@ -279,6 +279,25 @@
       "verdict": "bueno"
     },
     {
+      "title": "SDET team lead",
+      "company": "",
+      "location": "['United States']",
+      "description": "  Job Expectations:     Lead and coordinate day-to-day activities for the Mexico-based SDET team, ensuring \n    alignment on deliverables and local operational needs.     Coordinate with distributed teams across different time zones to ensure testing \n    strategies are synchronized and project goals are met.     Analyze and architect technical test solutions for complex user stories, ensuring deep \n    coverage for integration points and distributed systems.     Optimize and refactor existing automated regression suites to maximize reliability, \n    reduce execution time, and eliminate flakiness.     Refine and extend existing automation frameworks, ensuring they remain modular, \n    scalable, and accessible for the wider engineering team.     Directly expand API automation coverage, impl",
+      "date": "",
+      "salary": null,
+      "url": "https://himalayas.app/companies/valce-talent-solutions/jobs/sdet-team-lead",
+      "source": "Himalayas",
+      "id": "997806bc207c",
+      "score": 50,
+      "matches": [
+        "Rol QA ✓",
+        "automation",
+        "regression"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    },
+    {
       "title": "Senior Software Quality Engineer (Mexico Remote)",
       "company": "Turnitin, LLC",
       "location": "Mexico",
@@ -292,25 +311,6 @@
       "matches": [
         "Rol QA ✓",
         "Remoto/Latam 🌐"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
-    },
-    {
-      "title": "Senior QA Automation Engineer",
-      "company": "Juniper Square",
-      "location": "Canada,  USA",
-      "description": "  About Juniper Square   Our mission is to unlock the full potential of private markets. Privately owned assets like commercial real estate, private equity, and venture capital make up half of our financial ecosystem yet remain inaccessible to most people. We are digitizing these markets, and as a result, bringing efficiency, transparency, and access to one of the most productive corners of our financial ecosystem. If you care about making the world a better place by making markets work better through technology – all while contributing as a member of a values-driven organization – we want to hear from you.   Juniper Square offers employees a variety of ways to work, ranging from a fully remote experience to working full-time in one of our physical offices. We invest heavily in   digital-f",
-      "date": "2026-07-06T02:25:01+00:00",
-      "salary": "USD119000–149000",
-      "url": "https://jobicy.com/jobs/142768-senior-qa-automation-engineer-2",
-      "source": "Jobicy",
-      "id": "e1a2faff2a01",
-      "score": 50,
-      "matches": [
-        "Rol QA ✓",
-        "automation",
-        "Salario 💰"
       ],
       "warnings": [],
       "verdict": "bueno"
@@ -334,15 +334,15 @@
       "verdict": "bueno"
     },
     {
-      "title": "Especialista QA Funcional",
-      "company": "",
-      "location": "hybrid",
-      "description": "  Formación    Ingeniería Civil Informática, Ingeniería en Sistemas, Ingeniería Industrial, Ingeniería en Ejecución o carrera afín.    Experiencia    Mínimo 5 años de experiencia en proyectos SAP.  Experiencia en QA Funcional sobre implementaciones SAP S/4HANA.  Experiencia validando procesos de negocio y diseño funcional.  Participación en proyectos de implementación, transformación o migración SAP.  Experiencia trabajando con metodologías SAP Activate o equivalentes.    Conocimientos técnicos    SAP    SAP S/4HANA.  SAP PM, Plant Maintenance.  SAP PP, Production Planning.  SAP Services / Service Management, deseable.  Integraciones con MM.  Integraciones con FI/CO.  Procesos end-to-end SAP.    QA Funcional    Revisión de diseño funcional.  QA de procesos.  QA de datos maestros.  Validaci",
-      "date": 1782836273,
-      "salary": "1000–1200",
-      "url": "https://www.getonbrd.com/jobs/especialista-qa-funcional-sap-senior-devups-santiago",
-      "source": "GetOnBoard",
-      "id": "2253dc6387c8",
+      "title": "Senior QA Engineer",
+      "company": "NFQ",
+      "location": "Lithuania",
+      "description": " We build the tech that moves industries forward. We have our eyes set on AI, energy, logistics, sports and other complex and exciting segments.      We believe in an innovative approach to solving deep issues and encourage our people to find their own solutions. We are constantly rethinking processes, business models, architecture, and tech stacks.      We foster a sense of curiosity, experimentation, and passion beyond code. With us, you can easily deepen your knowledge in any field you’re curious about. And because we work across many industries, you’ll be gaining the experience others can only dream of.     As a  Senior Quality Assurance Engineer  you will join our team and contribute to delivering high-quality software solutions across web, mobile and backend systems. You will work cl",
+      "date": "2026-07-06T16:10:04+00:00",
+      "salary": "EUR33600–62400",
+      "url": "https://jobicy.com/jobs/145577-senior-qa-engineer",
+      "source": "Jobicy",
+      "id": "6d978570eb3c",
       "score": 45,
       "matches": [
         "Rol QA ✓",
@@ -369,5 +369,64 @@
       "verdict": "regular"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "title": "QA Engineer",
+      "company": "",
+      "location": "remote_local",
+      "description": "   Nivel de inglés: B2/C1 (excluyente).     Al menos 5 años de experiencia práctica como QA Engineer con fuerte énfasis en automatización de pruebas.    Experiencia comprobada diseñando e implementando automatización a escala en entornos de IT complejos.    Sólidos conocimientos de programación en Java, incluyendo frameworks de automatización de pruebas, utilidades y debugging.    Experiencia sólida en testing manual para complementar la cobertura automatizada.    Manejo de JIRA para gestión de casos de prueba, seguimiento de defectos y reporting.    Experiencia liderando y/o mentoreando a otros miembros del equipo de QA.     Fuertes habilidades analíticas, de resolución de problemas y de comunicación.    Experiencia trabajando en entornos de consultoría o delivery enterprise.   ",
+      "date": 1783366554,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/qa-engineer-improving-south-america-remote-877c",
+      "source": "GetOnBoard",
+      "id": "24697a2d946e",
+      "score": 65,
+      "matches": [
+        "Rol QA ✓",
+        "jira",
+        "bug",
+        "defect",
+        "Remoto/Latam 🌐"
+      ],
+      "warnings": [],
+      "verdict": "excelente"
+    },
+    {
+      "title": "SDET team lead",
+      "company": "",
+      "location": "['United States']",
+      "description": "  Job Expectations:     Lead and coordinate day-to-day activities for the Mexico-based SDET team, ensuring \n    alignment on deliverables and local operational needs.     Coordinate with distributed teams across different time zones to ensure testing \n    strategies are synchronized and project goals are met.     Analyze and architect technical test solutions for complex user stories, ensuring deep \n    coverage for integration points and distributed systems.     Optimize and refactor existing automated regression suites to maximize reliability, \n    reduce execution time, and eliminate flakiness.     Refine and extend existing automation frameworks, ensuring they remain modular, \n    scalable, and accessible for the wider engineering team.     Directly expand API automation coverage, impl",
+      "date": "",
+      "salary": null,
+      "url": "https://himalayas.app/companies/valce-talent-solutions/jobs/sdet-team-lead",
+      "source": "Himalayas",
+      "id": "997806bc207c",
+      "score": 50,
+      "matches": [
+        "Rol QA ✓",
+        "automation",
+        "regression"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    },
+    {
+      "title": "Senior QA Engineer",
+      "company": "NFQ",
+      "location": "Lithuania",
+      "description": " We build the tech that moves industries forward. We have our eyes set on AI, energy, logistics, sports and other complex and exciting segments.      We believe in an innovative approach to solving deep issues and encourage our people to find their own solutions. We are constantly rethinking processes, business models, architecture, and tech stacks.      We foster a sense of curiosity, experimentation, and passion beyond code. With us, you can easily deepen your knowledge in any field you’re curious about. And because we work across many industries, you’ll be gaining the experience others can only dream of.     As a  Senior Quality Assurance Engineer  you will join our team and contribute to delivering high-quality software solutions across web, mobile and backend systems. You will work cl",
+      "date": "2026-07-06T16:10:04+00:00",
+      "salary": "EUR33600–62400",
+      "url": "https://jobicy.com/jobs/145577-senior-qa-engineer",
+      "source": "Jobicy",
+      "id": "6d978570eb3c",
+      "score": 45,
+      "matches": [
+        "Rol QA ✓",
+        "Salario 💰"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    }
+  ]
 }
