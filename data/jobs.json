@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-08T12:22:56.094636+00:00",
+  "last_updated": "2026-07-08T18:21:26.067254+00:00",
   "total_fetched": 171,
   "sources": {
     "Remotive": 28,
@@ -78,32 +78,11 @@
       "verdict": "excelente"
     },
     {
-      "title": "QA Automation Engineer",
-      "company": "",
-      "location": "fully_remote",
-      "description": "  Entre 2 y 4 años de experiencia en QA combinando roles de Manual y Automation.  Dominio de Playwright con TypeScript para automatización de pruebas funcionales.  Experiencia con herramientas de performance testing, específicamente k6.io.  Conocimientos de IA agéntica aplicada a la generación de casos de prueba y scripts.  ",
-      "date": 1783355002,
-      "salary": null,
-      "url": "https://www.getonbrd.com/jobs/qa-automation-engineer-witi-remote-432c",
-      "source": "GetOnBoard",
-      "id": "03b5db6651bd",
-      "score": 65,
-      "matches": [
-        "Rol QA ✓",
-        "playwright",
-        "automation",
-        "typescript",
-        "Remoto/Latam 🌐"
-      ],
-      "warnings": [],
-      "verdict": "excelente"
-    },
-    {
       "title": "Senior Software Test Engineer (SDET) Java/angular",
       "company": "",
       "location": "remote_local",
       "description": "  Técnicas    4+ años de experiencia en pruebas de API sobre aplicaciones Java  4+ años de experiencia en pruebas de UI para SPAs en Angular  4+ años de experiencia configurando frameworks de automatización de pruebas  Familiaridad con integración en pipelines CI/CD  Inglés B2 (tendrás interacción diaria en reuniones, en inglés)    Personales    Capacidad de autogestión  Buenos skills de comunicación en inglés y en español  Fortaleza en trabajo en equipo  Título académico en Ingeniería Informática, Sistemas o carreras afines.    Contrato indefinido desde el inicio con 23people - Tiempo del proyecto 6 meses con posible extensión.     Modalidad:  Home Office - remoto con residencia en Chile.   Experiencia: Desde 4 años en adelante  Horario:  9:00 - 18:00 hrs.   ",
-      "date": 1783430018,
+      "date": 1783516754,
       "salary": "2700–2900",
       "url": "https://www.getonbrd.com/jobs/senior-ingeniero-de-desarrollo-de-software-en-pruebas-eng-23people-santiago",
       "source": "GetOnBoard",
@@ -255,7 +234,7 @@
       "company": "",
       "location": "hybrid",
       "description": " -Experiencia en diseñar e implementar planes, escenarios y casos de prueba -Experiencia en definir estrategias de testing basadas en riesgos -Experiencia gestionado bugs, evaluando impacto de fixes y coordinando regresiones -Experiencia en ejecución pruebas en web, mobile (iOS/Android) y APIs/microservicios -Experiencia generando y gestionado data de prueba ",
-      "date": 1783354639,
+      "date": 1783520495,
       "salary": null,
       "url": "https://www.getonbrd.com/jobs/analista-qa-coderslab-io-santiago-9bab",
       "source": "GetOnBoard",
