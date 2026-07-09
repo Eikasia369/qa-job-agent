@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-07-08T18:21:26.067254+00:00",
-  "total_fetched": 171,
+  "last_updated": "2026-07-09T00:15:22.418908+00:00",
+  "total_fetched": 170,
   "sources": {
     "Remotive": 28,
-    "WorkingNomads": 39,
+    "WorkingNomads": 38,
     "GetOnBoard": 50,
     "Himalayas": 20,
     "Jobicy": 34
@@ -72,6 +72,27 @@
         "jira",
         "bug",
         "defect",
+        "Remoto/Latam 🌐"
+      ],
+      "warnings": [],
+      "verdict": "excelente"
+    },
+    {
+      "title": "QA Automation Engineer",
+      "company": "",
+      "location": "fully_remote",
+      "description": "  Entre 2 y 4 años de experiencia en QA combinando roles de Manual y Automation.  Dominio de Playwright con TypeScript para automatización de pruebas funcionales.  Experiencia con herramientas de performance testing, específicamente k6.io.  Conocimientos de IA agéntica aplicada a la generación de casos de prueba y scripts.  ",
+      "date": 1783355002,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/qa-automation-engineer-witi-remote-432c",
+      "source": "GetOnBoard",
+      "id": "03b5db6651bd",
+      "score": 65,
+      "matches": [
+        "Rol QA ✓",
+        "playwright",
+        "automation",
+        "typescript",
         "Remoto/Latam 🌐"
       ],
       "warnings": [],
