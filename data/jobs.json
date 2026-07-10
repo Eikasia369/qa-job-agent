@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-09T18:51:45.291273+00:00",
+  "last_updated": "2026-07-10T00:09:14.788967+00:00",
   "total_fetched": 167,
   "sources": {
     "Remotive": 27,
@@ -8,7 +8,7 @@
     "Himalayas": 20,
     "Jobicy": 34
   },
-  "new_count": 0,
+  "new_count": 1,
   "jobs": [
     {
       "title": "Analista QA Semi Senior",
@@ -92,6 +92,27 @@
         "Rol QA ✓",
         "ci/cd",
         "Remoto/Latam 🌐",
+        "Salario 💰"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    },
+    {
+      "title": "Analista QA Funcional",
+      "company": "",
+      "location": "hybrid",
+      "description": "  Uso de Jira y Confluence  Expertise con Sentencias SQL  Dominio de Gherkin y Cucumber  Experiencia en testing de software  Uso de JMeter para pruebas de estrés  Control y seguimiento de pruebas funcionales  Manejo de Jenkins y Bamboo para integración continua  Conocimientos en aseguramiento de calidad de software  Participación en proyectos de Banca, Fintech o Instituciones financieras  Trayectoria de 4 años como QA Funcional trabajando con Postman y SOAP UI    📍 ¿Dónde y cómo trabajarás?    Cliente: Banco de Chile  Ubicación oficina: Santiago, 1 semana presencia y 4 semanas remoto  Modalidad: Hibrida  ",
+      "date": 1783624091,
+      "salary": "1800–2000",
+      "url": "https://www.getonbrd.com/jobs/analista-qa-funcional-3it-santiago-dae9",
+      "source": "GetOnBoard",
+      "id": "a453fd0283ed",
+      "score": 60,
+      "matches": [
+        "Rol QA ✓",
+        "postman",
+        "jira",
+        "sql",
         "Salario 💰"
       ],
       "warnings": [],
@@ -283,5 +304,27 @@
       "verdict": "regular"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "title": "Analista QA Funcional",
+      "company": "",
+      "location": "hybrid",
+      "description": "  Uso de Jira y Confluence  Expertise con Sentencias SQL  Dominio de Gherkin y Cucumber  Experiencia en testing de software  Uso de JMeter para pruebas de estrés  Control y seguimiento de pruebas funcionales  Manejo de Jenkins y Bamboo para integración continua  Conocimientos en aseguramiento de calidad de software  Participación en proyectos de Banca, Fintech o Instituciones financieras  Trayectoria de 4 años como QA Funcional trabajando con Postman y SOAP UI    📍 ¿Dónde y cómo trabajarás?    Cliente: Banco de Chile  Ubicación oficina: Santiago, 1 semana presencia y 4 semanas remoto  Modalidad: Hibrida  ",
+      "date": 1783624091,
+      "salary": "1800–2000",
+      "url": "https://www.getonbrd.com/jobs/analista-qa-funcional-3it-santiago-dae9",
+      "source": "GetOnBoard",
+      "id": "a453fd0283ed",
+      "score": 60,
+      "matches": [
+        "Rol QA ✓",
+        "postman",
+        "jira",
+        "sql",
+        "Salario 💰"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    }
+  ]
 }
