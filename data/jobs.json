@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-07-10T13:14:42.171072+00:00",
-  "total_fetched": 167,
+  "last_updated": "2026-07-10T18:24:32.815093+00:00",
+  "total_fetched": 168,
   "sources": {
     "Remotive": 30,
-    "WorkingNomads": 33,
+    "WorkingNomads": 34,
     "GetOnBoard": 50,
     "Himalayas": 20,
     "Jobicy": 34
   },
-  "new_count": 0,
+  "new_count": 1,
   "jobs": [
     {
       "title": "Analista QA Semi Senior",
@@ -82,7 +82,7 @@
       "company": "",
       "location": "remote_local",
       "description": "  Técnicas    4+ años de experiencia en pruebas de API sobre aplicaciones Java  4+ años de experiencia en pruebas de UI para SPAs en Angular  4+ años de experiencia configurando frameworks de automatización de pruebas  Familiaridad con integración en pipelines CI/CD  Inglés B2 (tendrás interacción diaria en reuniones, en inglés)    Personales    Capacidad de autogestión  Buenos skills de comunicación en inglés y en español  Fortaleza en trabajo en equipo  Título académico en Ingeniería Informática, Sistemas o carreras afines.    Contrato indefinido desde el inicio con 23people - Tiempo del proyecto 6 meses con posible extensión.     Modalidad:  Home Office - remoto con residencia en Chile.   Experiencia: Desde 4 años en adelante  Horario:  9:00 - 18:00 hrs.   ",
-      "date": 1783602763,
+      "date": 1783690976,
       "salary": "2700–2900",
       "url": "https://www.getonbrd.com/jobs/senior-ingeniero-de-desarrollo-de-software-en-pruebas-eng-23people-santiago",
       "source": "GetOnBoard",
@@ -251,24 +251,6 @@
       "verdict": "bueno"
     },
     {
-      "title": "Analista QA Sr",
-      "company": "",
-      "location": "hybrid",
-      "description": " -Experiencia en diseñar e implementar planes, escenarios y casos de prueba -Experiencia en definir estrategias de testing basadas en riesgos -Experiencia gestionado bugs, evaluando impacto de fixes y coordinando regresiones -Experiencia en ejecución pruebas en web, mobile (iOS/Android) y APIs/microservicios -Experiencia generando y gestionado data de prueba ",
-      "date": 1783520495,
-      "salary": null,
-      "url": "https://www.getonbrd.com/jobs/analista-qa-coderslab-io-santiago-9bab",
-      "source": "GetOnBoard",
-      "id": "7406f9ed8c65",
-      "score": 45,
-      "matches": [
-        "Rol QA ✓",
-        "bug"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
-    },
-    {
       "title": "Senior QA Engineer",
       "company": "NFQ",
       "location": "Lithuania",
@@ -285,6 +267,23 @@
       ],
       "warnings": [],
       "verdict": "bueno"
+    },
+    {
+      "title": "Supplier Quality Engineer, Principal",
+      "company": "",
+      "location": "['United States']",
+      "description": " Date Posted: 2026-07-08 Country: United States of America Location: US-NY-REMOTE Position Role Type: Remote  U.S. Citizen, U.S. Person, or Immigration Status Requirements:  U.S. citizenship is required, as only U.S. citizens are authorized to access information under this program/contract. Security Clearance Type:  None/Not Required Security Clearance Status:  Not Required At  RTX , the world's largest aerospace and defense company, 185,000 great minds are united by purpose and inspired to make a difference solving the world’s most complex problems. With our three market leading businesses, world-class operations and investments in research and development, we offer capabilities and opportunity no one else can. Together, we push the boundaries of known science and find new ways to connect",
+      "date": "",
+      "salary": null,
+      "url": "https://himalayas.app/companies/rtx/jobs/supplier-quality-engineer-principal",
+      "source": "Himalayas",
+      "id": "4e84aaf58fd9",
+      "score": 40,
+      "matches": [
+        "Rol QA ✓"
+      ],
+      "warnings": [],
+      "verdict": "regular"
     },
     {
       "title": "Quality Assurance Specialist",
@@ -304,5 +303,23 @@
       "verdict": "regular"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "title": "Supplier Quality Engineer, Principal",
+      "company": "",
+      "location": "['United States']",
+      "description": " Date Posted: 2026-07-08 Country: United States of America Location: US-NY-REMOTE Position Role Type: Remote  U.S. Citizen, U.S. Person, or Immigration Status Requirements:  U.S. citizenship is required, as only U.S. citizens are authorized to access information under this program/contract. Security Clearance Type:  None/Not Required Security Clearance Status:  Not Required At  RTX , the world's largest aerospace and defense company, 185,000 great minds are united by purpose and inspired to make a difference solving the world’s most complex problems. With our three market leading businesses, world-class operations and investments in research and development, we offer capabilities and opportunity no one else can. Together, we push the boundaries of known science and find new ways to connect",
+      "date": "",
+      "salary": null,
+      "url": "https://himalayas.app/companies/rtx/jobs/supplier-quality-engineer-principal",
+      "source": "Himalayas",
+      "id": "4e84aaf58fd9",
+      "score": 40,
+      "matches": [
+        "Rol QA ✓"
+      ],
+      "warnings": [],
+      "verdict": "regular"
+    }
+  ]
 }
