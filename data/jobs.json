@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-07-11T11:55:30.016921+00:00",
-  "total_fetched": 178,
+  "last_updated": "2026-07-11T17:56:31.439822+00:00",
+  "total_fetched": 176,
   "sources": {
     "Remotive": 41,
-    "WorkingNomads": 33,
+    "WorkingNomads": 31,
     "GetOnBoard": 50,
     "Himalayas": 20,
     "Jobicy": 34
@@ -246,6 +246,23 @@
       ],
       "warnings": [],
       "verdict": "bueno"
+    },
+    {
+      "title": "Senior Python Data Scraping Engineer (Freelance)",
+      "company": "",
+      "location": "['Serbia']",
+      "description": "   Mindrift  is looking for highly skilled Senior Python Data Scraping Engineers to join the Tendem project and drive specialized data scraping workflows within our hybrid AI + human system.    In this role, as an AI Pilot – that’s how we refer to this role at  Mindrift  – you’ll collaborate with Tendem Agents that handle repetitive tasks, while you provide critical thinking, domain expertise, and quality control to deliver accurate and actionable results.   This part-time remote opportunity is ideal for technical professionals with hands-on experience in web scraping, data extraction and processing.  What We Do  The  Mindrift  platform connects specialists with AI projects from major tech innovators. Our mission is to unlock the potential of Generative AI by tapping into real-world expert",
+      "date": "",
+      "salary": null,
+      "url": "https://himalayas.app/companies/mindrift/jobs/senior-python-data-scraping-engineer-freelance-3491761298",
+      "source": "Himalayas",
+      "id": "f46f4af5882f",
+      "score": 20,
+      "matches": [
+        "Rol QA (desc)"
+      ],
+      "warnings": [],
+      "verdict": "regular"
     }
   ],
   "new_jobs": []
