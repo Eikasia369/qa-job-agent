@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-07-11T00:02:05.655705+00:00",
-  "total_fetched": 168,
+  "last_updated": "2026-07-11T11:55:30.016921+00:00",
+  "total_fetched": 178,
   "sources": {
-    "Remotive": 30,
-    "WorkingNomads": 34,
+    "Remotive": 41,
+    "WorkingNomads": 33,
     "GetOnBoard": 50,
     "Himalayas": 20,
     "Jobicy": 34
@@ -92,27 +92,6 @@
         "Rol QA ✓",
         "ci/cd",
         "Remoto/Latam 🌐",
-        "Salario 💰"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
-    },
-    {
-      "title": "Analista QA Funcional",
-      "company": "",
-      "location": "hybrid",
-      "description": "  Uso de Jira y Confluence  Expertise con Sentencias SQL  Dominio de Gherkin y Cucumber  Experiencia en testing de software  Uso de JMeter para pruebas de estrés  Control y seguimiento de pruebas funcionales  Manejo de Jenkins y Bamboo para integración continua  Conocimientos en aseguramiento de calidad de software  Participación en proyectos de Banca, Fintech o Instituciones financieras  Trayectoria de 4 años como QA Funcional trabajando con Postman y SOAP UI    📍 ¿Dónde y cómo trabajarás?    Cliente: Banco de Chile  Ubicación oficina: Santiago, 1 semana presencia y 4 semanas remoto  Modalidad: Hibrida  ",
-      "date": 1783624091,
-      "salary": "1800–2000",
-      "url": "https://www.getonbrd.com/jobs/analista-qa-funcional-3it-santiago-dae9",
-      "source": "GetOnBoard",
-      "id": "a453fd0283ed",
-      "score": 60,
-      "matches": [
-        "Rol QA ✓",
-        "postman",
-        "jira",
-        "sql",
         "Salario 💰"
       ],
       "warnings": [],
@@ -267,40 +246,6 @@
       ],
       "warnings": [],
       "verdict": "bueno"
-    },
-    {
-      "title": "Quality Assurance Specialist",
-      "company": "ECS",
-      "location": "USA",
-      "description": " ECS is seeking an experienced   Quality Assurance Specialist    to  work   remotely   providing support for cloud-related application and infrastructure migration and modernization efforts performed under this contract for   NIH NIAID Enabling and Advancing Technologies (NEAT)  . This engagement supports the External Enterprise Software Development Support Services program area which includes the development, support, and maintenance of NIH enterprise applications managed by the Software Engineering Branch.    Please Note:  This position is contingent upon [contract win].   The NIAID NEAT Quality Assurance Specialist will perform Quality Assurance checks and provide software testing services for all applications maintained by SEB.   Key Responsibilities:   \n Maintain the level of quality ",
-      "date": "2026-06-10T18:20:32+00:00",
-      "salary": null,
-      "url": "https://jobicy.com/jobs/146114-quality-assurance-specialist",
-      "source": "Jobicy",
-      "id": "c3f242110d94",
-      "score": 40,
-      "matches": [
-        "Rol QA ✓"
-      ],
-      "warnings": [],
-      "verdict": "regular"
-    },
-    {
-      "title": "Freelance Data Scraping Engineer (Python)",
-      "company": "",
-      "location": "['United States']",
-      "description": "   Mindrift  is looking for highly skilled Python Data Scraping Engineers to join the Tendem project and drive specialized data scraping workflows within our hybrid AI + human system.    In this role, as an AI Pilot – that’s how we refer to this role at  Mindrift  – you’ll collaborate with Tendem Agents that handle repetitive tasks, while you provide critical thinking, domain expertise, and quality control to deliver accurate and actionable results.   This part-time remote opportunity is ideal for technical professionals with hands-on experience in web scraping, data extraction and processing.   What We Do   The  Mindrift  platform connects specialists with AI projects from major tech innovators. Our mission is to unlock the potential of Generative AI by tapping into real-world expertise f",
-      "date": "",
-      "salary": null,
-      "url": "https://himalayas.app/companies/mindrift/jobs/freelance-data-scraping-engineer-python-1310417459",
-      "source": "Himalayas",
-      "id": "d58b49bde256",
-      "score": 20,
-      "matches": [
-        "Rol QA (desc)"
-      ],
-      "warnings": [],
-      "verdict": "regular"
     }
   ],
   "new_jobs": []
