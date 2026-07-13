@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-07-12T23:59:23.190285+00:00",
-  "total_fetched": 173,
+  "last_updated": "2026-07-13T13:27:08.257326+00:00",
+  "total_fetched": 172,
   "sources": {
-    "Remotive": 39,
+    "Remotive": 38,
     "WorkingNomads": 30,
     "GetOnBoard": 50,
     "Himalayas": 20,
     "Jobicy": 34
   },
-  "new_count": 0,
+  "new_count": 1,
   "jobs": [
     {
       "title": "Analista QA Semi Senior",
@@ -230,6 +230,24 @@
       "verdict": "bueno"
     },
     {
+      "title": "Analista QA Sr",
+      "company": "",
+      "location": "hybrid",
+      "description": " -Experiencia en diseñar e implementar planes, escenarios y casos de prueba -Experiencia en definir estrategias de testing basadas en riesgos -Experiencia gestionado bugs, evaluando impacto de fixes y coordinando regresiones -Experiencia en ejecución pruebas en web, mobile (iOS/Android) y APIs/microservicios -Experiencia generando y gestionado data de prueba ",
+      "date": 1783944482,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/analista-qa-coderslab-io-santiago-9bab",
+      "source": "GetOnBoard",
+      "id": "7406f9ed8c65",
+      "score": 45,
+      "matches": [
+        "Rol QA ✓",
+        "bug"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    },
+    {
       "title": "Senior QA Engineer",
       "company": "NFQ",
       "location": "Lithuania",
@@ -246,7 +264,42 @@
       ],
       "warnings": [],
       "verdict": "bueno"
+    },
+    {
+      "title": "Quality Assurance Supervisor",
+      "company": "",
+      "location": "['United States']",
+      "description": "  Career Team is a leading workforce development organization on a mission to transform lives.  We blend cutting-edge technology with compassionate, high-touch services to drive real, measurable outcomes in the lives of job seekers across the country.  At Career Team, we’re solving today’s unemployment challenges with smart software, world-class trainers, dedicated case managers, dynamic job developers, and innovative partners. If you're passionate about making a difference and believe in the power of technology to transform lives, you’ll feel right at home here.    TITLE:  Quality Assurance Supervisor   REPORTS TO:  Quality Assurance Manager   LOCATION:  Remote   EMPLOYMENT TYPE:  Full-Time, Non-Exempt Employee   SALARY:  $60,000-$70,000  Career Team is looking to hire a Quality Assurance",
+      "date": "",
+      "salary": null,
+      "url": "https://himalayas.app/companies/careerteam-llc/jobs/quality-assurance-supervisor",
+      "source": "Himalayas",
+      "id": "a5c0baa538d6",
+      "score": 40,
+      "matches": [
+        "Rol QA ✓"
+      ],
+      "warnings": [],
+      "verdict": "regular"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "title": "Quality Assurance Supervisor",
+      "company": "",
+      "location": "['United States']",
+      "description": "  Career Team is a leading workforce development organization on a mission to transform lives.  We blend cutting-edge technology with compassionate, high-touch services to drive real, measurable outcomes in the lives of job seekers across the country.  At Career Team, we’re solving today’s unemployment challenges with smart software, world-class trainers, dedicated case managers, dynamic job developers, and innovative partners. If you're passionate about making a difference and believe in the power of technology to transform lives, you’ll feel right at home here.    TITLE:  Quality Assurance Supervisor   REPORTS TO:  Quality Assurance Manager   LOCATION:  Remote   EMPLOYMENT TYPE:  Full-Time, Non-Exempt Employee   SALARY:  $60,000-$70,000  Career Team is looking to hire a Quality Assurance",
+      "date": "",
+      "salary": null,
+      "url": "https://himalayas.app/companies/careerteam-llc/jobs/quality-assurance-supervisor",
+      "source": "Himalayas",
+      "id": "a5c0baa538d6",
+      "score": 40,
+      "matches": [
+        "Rol QA ✓"
+      ],
+      "warnings": [],
+      "verdict": "regular"
+    }
+  ]
 }
