@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-14T18:07:21.520006+00:00",
+  "last_updated": "2026-07-14T23:55:30.282257+00:00",
   "total_fetched": 173,
   "sources": {
     "Remotive": 39,
@@ -212,6 +212,25 @@
       "verdict": "bueno"
     },
     {
+      "title": "QA Automatizador Senior",
+      "company": "",
+      "location": "hybrid",
+      "description": " Formación   Profesional en Ingeniería de Sistemas, Ingeniería Informática, Ingeniería Civil Informática o carreras afines.   Experiencia   Mínimo 5 años de experiencia en QA. Entre 4 y 6 años de experiencia enfocada en automatización de pruebas.  Experiencia diseñando y manteniendo frameworks de automatización.  Participación en equipos ágiles y squads multidisciplinarios.  Experiencia integrando automatización en procesos DevOps y CI/CD.   Conocimientos técnicos indispensables   Automatización avanzada de pruebas funcionales.  Diseño y mantenimiento de frameworks de automatización.  Integración de pruebas automatizadas en pipelines CI/CD.  Programación para automatización utilizando Java, Python o JavaScript.  Gestión de cobertura de pruebas y métricas de calidad.  Manejo de GitHub y/o G",
+      "date": 1784058396,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/qa-automatizador-senior-factor-it-santiago",
+      "source": "GetOnBoard",
+      "id": "1e09c8f8a116",
+      "score": 50,
+      "matches": [
+        "Rol QA ✓",
+        "javascript",
+        "ci/cd"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    },
+    {
       "title": "Senior Software Quality Engineer (Mexico Remote)",
       "company": "Turnitin, LLC",
       "location": "Mexico",
@@ -225,24 +244,6 @@
       "matches": [
         "Rol QA ✓",
         "Remoto/Latam 🌐"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
-    },
-    {
-      "title": "Analista QA Sr",
-      "company": "",
-      "location": "hybrid",
-      "description": " -Experiencia en diseñar e implementar planes, escenarios y casos de prueba -Experiencia en definir estrategias de testing basadas en riesgos -Experiencia gestionado bugs, evaluando impacto de fixes y coordinando regresiones -Experiencia en ejecución pruebas en web, mobile (iOS/Android) y APIs/microservicios -Experiencia generando y gestionado data de prueba ",
-      "date": 1783961969,
-      "salary": null,
-      "url": "https://www.getonbrd.com/jobs/analista-qa-coderslab-io-santiago-9bab",
-      "source": "GetOnBoard",
-      "id": "7406f9ed8c65",
-      "score": 45,
-      "matches": [
-        "Rol QA ✓",
-        "bug"
       ],
       "warnings": [],
       "verdict": "bueno"
@@ -264,42 +265,27 @@
       ],
       "warnings": [],
       "verdict": "bueno"
-    },
-    {
-      "title": "Casualty Claims Quality Assurance Consultant",
-      "company": "",
-      "location": "['United States']",
-      "description": "  At EMC, we’re all about working together to make an impact. As part of our team, you’ll have the opportunity to grow, contribute, and gain experience that matters. We strive to be caring leaders, close partners, and responsive experts—always supporting each other to do our best work. Join us, and let’s improve lives together.    **This position is eligible to work from home anywhere in the US**    In this role, you’ll play a key part in strengthening the quality and consistency of casualty claims handling across the organization. You’ll partner closely with Casualty, Complex, and Specialty teams to review claim files, evaluate performance against best practices and KPIs, and identify opportunities to improve outcomes. Through targeted audits and broader claims reviews, you’ll uncover tre",
-      "date": "",
-      "salary": null,
-      "url": "https://himalayas.app/companies/emc-insurance-companies/jobs/casualty-claims-quality-assurance-consultant",
-      "source": "Himalayas",
-      "id": "fd14ec7bee68",
-      "score": 40,
-      "matches": [
-        "Rol QA ✓"
-      ],
-      "warnings": [],
-      "verdict": "regular"
     }
   ],
   "new_jobs": [
     {
-      "title": "Casualty Claims Quality Assurance Consultant",
+      "title": "QA Automatizador Senior",
       "company": "",
-      "location": "['United States']",
-      "description": "  At EMC, we’re all about working together to make an impact. As part of our team, you’ll have the opportunity to grow, contribute, and gain experience that matters. We strive to be caring leaders, close partners, and responsive experts—always supporting each other to do our best work. Join us, and let’s improve lives together.    **This position is eligible to work from home anywhere in the US**    In this role, you’ll play a key part in strengthening the quality and consistency of casualty claims handling across the organization. You’ll partner closely with Casualty, Complex, and Specialty teams to review claim files, evaluate performance against best practices and KPIs, and identify opportunities to improve outcomes. Through targeted audits and broader claims reviews, you’ll uncover tre",
-      "date": "",
+      "location": "hybrid",
+      "description": " Formación   Profesional en Ingeniería de Sistemas, Ingeniería Informática, Ingeniería Civil Informática o carreras afines.   Experiencia   Mínimo 5 años de experiencia en QA. Entre 4 y 6 años de experiencia enfocada en automatización de pruebas.  Experiencia diseñando y manteniendo frameworks de automatización.  Participación en equipos ágiles y squads multidisciplinarios.  Experiencia integrando automatización en procesos DevOps y CI/CD.   Conocimientos técnicos indispensables   Automatización avanzada de pruebas funcionales.  Diseño y mantenimiento de frameworks de automatización.  Integración de pruebas automatizadas en pipelines CI/CD.  Programación para automatización utilizando Java, Python o JavaScript.  Gestión de cobertura de pruebas y métricas de calidad.  Manejo de GitHub y/o G",
+      "date": 1784058396,
       "salary": null,
-      "url": "https://himalayas.app/companies/emc-insurance-companies/jobs/casualty-claims-quality-assurance-consultant",
-      "source": "Himalayas",
-      "id": "fd14ec7bee68",
-      "score": 40,
+      "url": "https://www.getonbrd.com/jobs/qa-automatizador-senior-factor-it-santiago",
+      "source": "GetOnBoard",
+      "id": "1e09c8f8a116",
+      "score": 50,
       "matches": [
-        "Rol QA ✓"
+        "Rol QA ✓",
+        "javascript",
+        "ci/cd"
       ],
       "warnings": [],
-      "verdict": "regular"
+      "verdict": "bueno"
     }
   ]
 }
