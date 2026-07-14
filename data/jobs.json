@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-14T12:17:27.855903+00:00",
+  "last_updated": "2026-07-14T18:07:21.520006+00:00",
   "total_fetched": 173,
   "sources": {
     "Remotive": 39,
@@ -8,7 +8,7 @@
     "Himalayas": 20,
     "Jobicy": 34
   },
-  "new_count": 0,
+  "new_count": 1,
   "jobs": [
     {
       "title": "Analista QA Semi Senior",
@@ -38,7 +38,7 @@
       "company": "",
       "location": "hybrid",
       "description": "  Formación:  Carrera de grado en Ingeniería en Informática o carreras afines.  Experiencia:  Mínimo  3 años de experiencia  demostrable en roles de QA Automation.   Conocimientos Técnicos Excluyentes:  •  Automatización Web:  Experiencia sólida y comprobable utilizando  Playwright  y  Selenium  ( Requisitos Primordiales ). Valoramos también el conocimiento en otras herramientas como Cypress, Katalon. •  Gestión de Pruebas:  Uso de plataformas como Jira, Qmetry, Linear, Azure DevOps. •  Seguridad:  Conocimientos básicos de seguridad en entornos SaaS (ej. OWASP).  ",
-      "date": 1783086629,
+      "date": 1784045173,
       "salary": "1800–2300",
       "url": "https://www.getonbrd.com/jobs/qa-automation-iconstruye-santiago",
       "source": "GetOnBoard",
@@ -82,7 +82,7 @@
       "company": "",
       "location": "remote_local",
       "description": "  Técnicas    4+ años de experiencia en pruebas de API sobre aplicaciones Java  4+ años de experiencia en pruebas de UI para SPAs en Angular  4+ años de experiencia configurando frameworks de automatización de pruebas  Familiaridad con integración en pipelines CI/CD  Inglés B2 (tendrás interacción diaria en reuniones, en inglés)    Personales    Capacidad de autogestión  Buenos skills de comunicación en inglés y en español  Fortaleza en trabajo en equipo  Título académico en Ingeniería Informática, Sistemas o carreras afines.    Contrato indefinido desde el inicio con 23people - Tiempo del proyecto 6 meses con posible extensión.     Modalidad:  Home Office - remoto con residencia en Chile.   Experiencia: Desde 4 años en adelante  Horario:  9:00 - 18:00 hrs.   ",
-      "date": 1783995291,
+      "date": 1784039008,
       "salary": "2700–2900",
       "url": "https://www.getonbrd.com/jobs/senior-ingeniero-de-desarrollo-de-software-en-pruebas-eng-23people-santiago",
       "source": "GetOnBoard",
@@ -193,26 +193,6 @@
       "verdict": "bueno"
     },
     {
-      "title": "QA Automatizador",
-      "company": "",
-      "location": "hybrid",
-      "description": "  Selenium  Marco de trabajo ágil: Scrum  Integración continua con Jenkins y Bamboo  Pruebas de stress con Jmeter y Loadrunner  Experiencia en BDD con Gherkin y Cucumber  Contar con al menos 3 años de experiencia en automatización de pruebas de software  Tener experiencia en el rubro financiero o bancario    📍 ¿Dónde y cómo trabajarás?    Ubicación oficina: Santiago Centro  Modalidad: Hibrida  ",
-      "date": 1783951556,
-      "salary": "2000–2200",
-      "url": "https://www.getonbrd.com/jobs/qa-automatizador-3it-santiago-1f9a",
-      "source": "GetOnBoard",
-      "id": "deba8728b0cf",
-      "score": 55,
-      "matches": [
-        "Rol QA ✓",
-        "selenium",
-        "scrum",
-        "Salario 💰"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
-    },
-    {
       "title": "Senior Quality Assurance Automation Engineer",
       "company": "Experian",
       "location": "Costa Rica",
@@ -284,7 +264,42 @@
       ],
       "warnings": [],
       "verdict": "bueno"
+    },
+    {
+      "title": "Casualty Claims Quality Assurance Consultant",
+      "company": "",
+      "location": "['United States']",
+      "description": "  At EMC, we’re all about working together to make an impact. As part of our team, you’ll have the opportunity to grow, contribute, and gain experience that matters. We strive to be caring leaders, close partners, and responsive experts—always supporting each other to do our best work. Join us, and let’s improve lives together.    **This position is eligible to work from home anywhere in the US**    In this role, you’ll play a key part in strengthening the quality and consistency of casualty claims handling across the organization. You’ll partner closely with Casualty, Complex, and Specialty teams to review claim files, evaluate performance against best practices and KPIs, and identify opportunities to improve outcomes. Through targeted audits and broader claims reviews, you’ll uncover tre",
+      "date": "",
+      "salary": null,
+      "url": "https://himalayas.app/companies/emc-insurance-companies/jobs/casualty-claims-quality-assurance-consultant",
+      "source": "Himalayas",
+      "id": "fd14ec7bee68",
+      "score": 40,
+      "matches": [
+        "Rol QA ✓"
+      ],
+      "warnings": [],
+      "verdict": "regular"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "title": "Casualty Claims Quality Assurance Consultant",
+      "company": "",
+      "location": "['United States']",
+      "description": "  At EMC, we’re all about working together to make an impact. As part of our team, you’ll have the opportunity to grow, contribute, and gain experience that matters. We strive to be caring leaders, close partners, and responsive experts—always supporting each other to do our best work. Join us, and let’s improve lives together.    **This position is eligible to work from home anywhere in the US**    In this role, you’ll play a key part in strengthening the quality and consistency of casualty claims handling across the organization. You’ll partner closely with Casualty, Complex, and Specialty teams to review claim files, evaluate performance against best practices and KPIs, and identify opportunities to improve outcomes. Through targeted audits and broader claims reviews, you’ll uncover tre",
+      "date": "",
+      "salary": null,
+      "url": "https://himalayas.app/companies/emc-insurance-companies/jobs/casualty-claims-quality-assurance-consultant",
+      "source": "Himalayas",
+      "id": "fd14ec7bee68",
+      "score": 40,
+      "matches": [
+        "Rol QA ✓"
+      ],
+      "warnings": [],
+      "verdict": "regular"
+    }
+  ]
 }
