@@ -1,102 +1,15 @@
 {
-  "last_updated": "2026-07-14T23:55:30.282257+00:00",
-  "total_fetched": 173,
+  "last_updated": "2026-07-15T12:18:26.711908+00:00",
+  "total_fetched": 122,
   "sources": {
-    "Remotive": 39,
+    "Remotive": 38,
     "WorkingNomads": 30,
-    "GetOnBoard": 50,
+    "GetOnBoard": 0,
     "Himalayas": 20,
     "Jobicy": 34
   },
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
-    {
-      "title": "Analista QA Semi Senior",
-      "company": "",
-      "location": "no_remote",
-      "description": "   Experiencia:  Entre 3 y 4 años de experiencia comprobable en roles de QA/Testing de software.    Metodologías:  Experiencia en metodologías ágiles, participando activamente en refinamientos, plannings y retrospectivas (no solo como asistente, sino aportando visión de calidad).    Pruebas Funcionales:  Dominio avanzado en el diseño de escenarios de prueba, matrices de cobertura, reportes de calidad y gestión de datos de prueba (Test Data). Automatización (Requisito Core):  Experiencia práctica (mínimo 1 año) desarrollando y manteniendo scripts de automatización de pruebas (E2E o de regresión) utilizando frameworks como Cypress, Playwright o Selenium.   ",
-      "date": 1783345535,
-      "salary": "1000–1400",
-      "url": "https://www.getonbrd.com/jobs/analista-qa-semi-senior-tcit-santiago",
-      "source": "GetOnBoard",
-      "id": "4a2b623336e7",
-      "score": 75,
-      "matches": [
-        "Rol QA ✓",
-        "playwright",
-        "selenium",
-        "cypress",
-        "e2e",
-        "Remoto/Latam 🌐",
-        "Salario 💰"
-      ],
-      "warnings": [],
-      "verdict": "excelente"
-    },
-    {
-      "title": "QA Automation",
-      "company": "",
-      "location": "hybrid",
-      "description": "  Formación:  Carrera de grado en Ingeniería en Informática o carreras afines.  Experiencia:  Mínimo  3 años de experiencia  demostrable en roles de QA Automation.   Conocimientos Técnicos Excluyentes:  •  Automatización Web:  Experiencia sólida y comprobable utilizando  Playwright  y  Selenium  ( Requisitos Primordiales ). Valoramos también el conocimiento en otras herramientas como Cypress, Katalon. •  Gestión de Pruebas:  Uso de plataformas como Jira, Qmetry, Linear, Azure DevOps. •  Seguridad:  Conocimientos básicos de seguridad en entornos SaaS (ej. OWASP).  ",
-      "date": 1784045173,
-      "salary": "1800–2300",
-      "url": "https://www.getonbrd.com/jobs/qa-automation-iconstruye-santiago",
-      "source": "GetOnBoard",
-      "id": "9c624aadee1d",
-      "score": 70,
-      "matches": [
-        "Rol QA ✓",
-        "playwright",
-        "automation",
-        "selenium",
-        "jira",
-        "cypress",
-        "Salario 💰"
-      ],
-      "warnings": [],
-      "verdict": "excelente"
-    },
-    {
-      "title": "QA Engineer",
-      "company": "",
-      "location": "remote_local",
-      "description": "   Nivel de inglés: B2/C1 (excluyente).     Al menos 5 años de experiencia práctica como QA Engineer con fuerte énfasis en automatización de pruebas.    Experiencia comprobada diseñando e implementando automatización a escala en entornos de IT complejos.    Sólidos conocimientos de programación en Java, incluyendo frameworks de automatización de pruebas, utilidades y debugging.    Experiencia sólida en testing manual para complementar la cobertura automatizada.    Manejo de JIRA para gestión de casos de prueba, seguimiento de defectos y reporting.    Experiencia liderando y/o mentoreando a otros miembros del equipo de QA.     Fuertes habilidades analíticas, de resolución de problemas y de comunicación.    Experiencia trabajando en entornos de consultoría o delivery enterprise.   ",
-      "date": 1783366554,
-      "salary": null,
-      "url": "https://www.getonbrd.com/jobs/qa-engineer-improving-south-america-remote-877c",
-      "source": "GetOnBoard",
-      "id": "24697a2d946e",
-      "score": 65,
-      "matches": [
-        "Rol QA ✓",
-        "jira",
-        "bug",
-        "defect",
-        "Remoto/Latam 🌐"
-      ],
-      "warnings": [],
-      "verdict": "excelente"
-    },
-    {
-      "title": "Senior Software Test Engineer (SDET) Java/angular",
-      "company": "",
-      "location": "remote_local",
-      "description": "  Técnicas    4+ años de experiencia en pruebas de API sobre aplicaciones Java  4+ años de experiencia en pruebas de UI para SPAs en Angular  4+ años de experiencia configurando frameworks de automatización de pruebas  Familiaridad con integración en pipelines CI/CD  Inglés B2 (tendrás interacción diaria en reuniones, en inglés)    Personales    Capacidad de autogestión  Buenos skills de comunicación en inglés y en español  Fortaleza en trabajo en equipo  Título académico en Ingeniería Informática, Sistemas o carreras afines.    Contrato indefinido desde el inicio con 23people - Tiempo del proyecto 6 meses con posible extensión.     Modalidad:  Home Office - remoto con residencia en Chile.   Experiencia: Desde 4 años en adelante  Horario:  9:00 - 18:00 hrs.   ",
-      "date": 1784039008,
-      "salary": "2700–2900",
-      "url": "https://www.getonbrd.com/jobs/senior-ingeniero-de-desarrollo-de-software-en-pruebas-eng-23people-santiago",
-      "source": "GetOnBoard",
-      "id": "0751d1cfd3f7",
-      "score": 60,
-      "matches": [
-        "Rol QA ✓",
-        "ci/cd",
-        "Remoto/Latam 🌐",
-        "Salario 💰"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
-    },
     {
       "title": "Senior Quality Engineer (Florianópolis)",
       "company": "LawnStarter",
@@ -212,25 +125,6 @@
       "verdict": "bueno"
     },
     {
-      "title": "QA Automatizador Senior",
-      "company": "",
-      "location": "hybrid",
-      "description": " Formación   Profesional en Ingeniería de Sistemas, Ingeniería Informática, Ingeniería Civil Informática o carreras afines.   Experiencia   Mínimo 5 años de experiencia en QA. Entre 4 y 6 años de experiencia enfocada en automatización de pruebas.  Experiencia diseñando y manteniendo frameworks de automatización.  Participación en equipos ágiles y squads multidisciplinarios.  Experiencia integrando automatización en procesos DevOps y CI/CD.   Conocimientos técnicos indispensables   Automatización avanzada de pruebas funcionales.  Diseño y mantenimiento de frameworks de automatización.  Integración de pruebas automatizadas en pipelines CI/CD.  Programación para automatización utilizando Java, Python o JavaScript.  Gestión de cobertura de pruebas y métricas de calidad.  Manejo de GitHub y/o G",
-      "date": 1784058396,
-      "salary": null,
-      "url": "https://www.getonbrd.com/jobs/qa-automatizador-senior-factor-it-santiago",
-      "source": "GetOnBoard",
-      "id": "1e09c8f8a116",
-      "score": 50,
-      "matches": [
-        "Rol QA ✓",
-        "javascript",
-        "ci/cd"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
-    },
-    {
       "title": "Senior Software Quality Engineer (Mexico Remote)",
       "company": "Turnitin, LLC",
       "location": "Mexico",
@@ -267,25 +161,5 @@
       "verdict": "bueno"
     }
   ],
-  "new_jobs": [
-    {
-      "title": "QA Automatizador Senior",
-      "company": "",
-      "location": "hybrid",
-      "description": " Formación   Profesional en Ingeniería de Sistemas, Ingeniería Informática, Ingeniería Civil Informática o carreras afines.   Experiencia   Mínimo 5 años de experiencia en QA. Entre 4 y 6 años de experiencia enfocada en automatización de pruebas.  Experiencia diseñando y manteniendo frameworks de automatización.  Participación en equipos ágiles y squads multidisciplinarios.  Experiencia integrando automatización en procesos DevOps y CI/CD.   Conocimientos técnicos indispensables   Automatización avanzada de pruebas funcionales.  Diseño y mantenimiento de frameworks de automatización.  Integración de pruebas automatizadas en pipelines CI/CD.  Programación para automatización utilizando Java, Python o JavaScript.  Gestión de cobertura de pruebas y métricas de calidad.  Manejo de GitHub y/o G",
-      "date": 1784058396,
-      "salary": null,
-      "url": "https://www.getonbrd.com/jobs/qa-automatizador-senior-factor-it-santiago",
-      "source": "GetOnBoard",
-      "id": "1e09c8f8a116",
-      "score": 50,
-      "matches": [
-        "Rol QA ✓",
-        "javascript",
-        "ci/cd"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
-    }
-  ]
+  "new_jobs": []
 }
