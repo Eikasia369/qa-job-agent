@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-07-16T12:22:40.766586+00:00",
+  "last_updated": "2026-07-16T18:08:43.053378+00:00",
   "total_fetched": 175,
   "sources": {
     "Remotive": 39,
-    "WorkingNomads": 32,
+    "WorkingNomads": 33,
     "GetOnBoard": 50,
     "Himalayas": 20,
-    "Jobicy": 34
+    "Jobicy": 33
   },
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "title": "QA Automation (Proyecto 3 Meses)",
@@ -360,26 +360,5 @@
       "verdict": "bueno"
     }
   ],
-  "new_jobs": [
-    {
-      "title": "Systems Administrator Quality Assurance",
-      "company": "",
-      "location": "['United States']",
-      "description": " Location:  Remote, onshore in the USA  Salary:  $125k to $185k per year depending on experience and skills  How to Apply:   Please only apply to one open position.  If you aren't a fit for it, we'll consider you for other positions automatically.   Please submit your resume and a cover letter (in .pdf) that a) highlights your relevant experience related to the qualifications listed below; b) explains your interest in Starfish in particular; and c) addresses the following questions:    Describe the most creative test case you’ve ever written to uncover a bug. What was the bug, why was it difficult to find, and how did you identify it?  Describe a time when your automation scripts passed, yet a bug was still released. What went wrong in the design of those tests? How did you change your pro",
-      "date": "",
-      "salary": null,
-      "url": "https://himalayas.app/companies/starfish-storage-corporation/jobs/systems-administrator-quality-assurance",
-      "source": "Himalayas",
-      "id": "cc0151b17a24",
-      "score": 55,
-      "matches": [
-        "Rol QA ✓",
-        "automation",
-        "test case",
-        "bug"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
-    }
-  ]
+  "new_jobs": []
 }
