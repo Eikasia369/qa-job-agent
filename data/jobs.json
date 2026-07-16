@@ -1,15 +1,174 @@
 {
-  "last_updated": "2026-07-15T18:11:09.967764+00:00",
-  "total_fetched": 122,
+  "last_updated": "2026-07-16T00:01:52.356683+00:00",
+  "total_fetched": 172,
   "sources": {
     "Remotive": 38,
     "WorkingNomads": 30,
-    "GetOnBoard": 0,
+    "GetOnBoard": 50,
     "Himalayas": 20,
     "Jobicy": 34
   },
-  "new_count": 0,
+  "new_count": 4,
   "jobs": [
+    {
+      "title": "QA Automation (Proyecto 3 Meses)",
+      "company": "",
+      "location": "fully_remote",
+      "description": "  Experiencia mínima de 5 años en roles de automatización de pruebas o como desarrollador de software (SDET).  Inglés Avanzado.  Dominio de al menos un lenguaje de programación enfocado en QA (ej. Python, Java, JavaScript, TypeScript o C#).  Experiencia sólida utilizando frameworks de automatización modernos (ej. Cypress, Playwright, Selenium o Appium).  Experiencia en automatización de pruebas de APIs (RESTful/GraphQL).  Conocimiento práctico en herramientas de control de versiones (Git) y plataformas CI/CD (ej. Jenkins, GitHub Actions, GitLab CI).  Capacidad analítica para resolver problemas complejos y sólidas bases en arquitectura de software y bases de datos (SQL).  ",
+      "date": 1784153497,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/qa-proyecto-3-meses-leytonmedia-santiago-bbbb",
+      "source": "GetOnBoard",
+      "id": "acdfbf045462",
+      "score": 100,
+      "matches": [
+        "Rol QA ✓",
+        "playwright",
+        "automation",
+        "selenium",
+        "javascript",
+        "typescript",
+        "sql",
+        "cypress"
+      ],
+      "warnings": [],
+      "verdict": "excelente"
+    },
+    {
+      "title": "QA Manual (Proyecto 3 Meses)",
+      "company": "",
+      "location": "fully_remote",
+      "description": "  Experiencia mínima de 5 años trabajando como QA Manual en equipos de desarrollo de software.  Inglés avanzado.  Conocimiento sólido del ciclo de vida del desarrollo de software (SDLC) y metodologías ágiles (Scrum/Kanban).  Experiencia comprobable en la redacción de casos de prueba estructurados y reportes de bugs.  Manejo de herramientas de gestión de proyectos y testing (ej. Jira, TestRail, Zephyr, Trello).  Conocimientos básicos/intermedios en pruebas de API (ej. Postman) y uso de herramientas de desarrollador del navegador (DevTools).  Excelente atención al detalle, pensamiento crítico y fuertes habilidades de comunicación.  ",
+      "date": 1784153353,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/qa-proyecto-3-meses-leytonmedia-santiago-50c5",
+      "source": "GetOnBoard",
+      "id": "ba2efc616ae3",
+      "score": 80,
+      "matches": [
+        "Rol QA ✓",
+        "postman",
+        "jira",
+        "scrum",
+        "bug",
+        "zephyr",
+        "testrail",
+        "Remoto/Latam 🌐"
+      ],
+      "warnings": [],
+      "verdict": "excelente"
+    },
+    {
+      "title": "Senior QA Analyst",
+      "company": "",
+      "location": "fully_remote",
+      "description": "  5+ years of manual testing experience across web and mobile applications.  Certification or related degree in Quality Assurance.  Working knowledge of automation testing tools.  Strong attention to detail with the ability to balance perfection with business priorities.  Strong understanding of UI/UX principles and ability to evaluate products from an end-user perspective.  Experience in writing clear, concise, and comprehensive test plans and test cases.  Experience working in agile methodology.  Strong knowledge of software QA methodologies, tools, and processes.  Exceptional verbal and written communication abilities.  ",
+      "date": 1784117400,
+      "salary": "900–1500",
+      "url": "https://www.getonbrd.com/jobs/senior-qa-analyst-brain-box-labs-remote",
+      "source": "GetOnBoard",
+      "id": "9a17c5fc9924",
+      "score": 80,
+      "matches": [
+        "Rol QA ✓",
+        "automation",
+        "agile",
+        "manual testing",
+        "test case",
+        "test plan",
+        "Remoto/Latam 🌐",
+        "Salario 💰"
+      ],
+      "warnings": [],
+      "verdict": "excelente"
+    },
+    {
+      "title": "Analista QA Semi Senior",
+      "company": "",
+      "location": "no_remote",
+      "description": "   Experiencia:  Entre 3 y 4 años de experiencia comprobable en roles de QA/Testing de software.    Metodologías:  Experiencia en metodologías ágiles, participando activamente en refinamientos, plannings y retrospectivas (no solo como asistente, sino aportando visión de calidad).    Pruebas Funcionales:  Dominio avanzado en el diseño de escenarios de prueba, matrices de cobertura, reportes de calidad y gestión de datos de prueba (Test Data). Automatización (Requisito Core):  Experiencia práctica (mínimo 1 año) desarrollando y manteniendo scripts de automatización de pruebas (E2E o de regresión) utilizando frameworks como Cypress, Playwright o Selenium.   ",
+      "date": 1783345535,
+      "salary": "1000–1400",
+      "url": "https://www.getonbrd.com/jobs/analista-qa-semi-senior-tcit-santiago",
+      "source": "GetOnBoard",
+      "id": "4a2b623336e7",
+      "score": 75,
+      "matches": [
+        "Rol QA ✓",
+        "playwright",
+        "selenium",
+        "cypress",
+        "e2e",
+        "Remoto/Latam 🌐",
+        "Salario 💰"
+      ],
+      "warnings": [],
+      "verdict": "excelente"
+    },
+    {
+      "title": "QA Automation",
+      "company": "",
+      "location": "hybrid",
+      "description": "  Formación:  Carrera de grado en Ingeniería en Informática o carreras afines.  Experiencia:  Mínimo  3 años de experiencia  demostrable en roles de QA Automation.   Conocimientos Técnicos Excluyentes:  •  Automatización Web:  Experiencia sólida y comprobable utilizando  Playwright  y  Selenium  ( Requisitos Primordiales ). Valoramos también el conocimiento en otras herramientas como Cypress, Katalon. •  Gestión de Pruebas:  Uso de plataformas como Jira, Qmetry, Linear, Azure DevOps. •  Seguridad:  Conocimientos básicos de seguridad en entornos SaaS (ej. OWASP).  ",
+      "date": 1784045173,
+      "salary": "1800–2300",
+      "url": "https://www.getonbrd.com/jobs/qa-automation-iconstruye-santiago",
+      "source": "GetOnBoard",
+      "id": "9c624aadee1d",
+      "score": 70,
+      "matches": [
+        "Rol QA ✓",
+        "playwright",
+        "automation",
+        "selenium",
+        "jira",
+        "cypress",
+        "Salario 💰"
+      ],
+      "warnings": [],
+      "verdict": "excelente"
+    },
+    {
+      "title": "QA Engineer",
+      "company": "",
+      "location": "remote_local",
+      "description": "   Nivel de inglés: B2/C1 (excluyente).     Al menos 5 años de experiencia práctica como QA Engineer con fuerte énfasis en automatización de pruebas.    Experiencia comprobada diseñando e implementando automatización a escala en entornos de IT complejos.    Sólidos conocimientos de programación en Java, incluyendo frameworks de automatización de pruebas, utilidades y debugging.    Experiencia sólida en testing manual para complementar la cobertura automatizada.    Manejo de JIRA para gestión de casos de prueba, seguimiento de defectos y reporting.    Experiencia liderando y/o mentoreando a otros miembros del equipo de QA.     Fuertes habilidades analíticas, de resolución de problemas y de comunicación.    Experiencia trabajando en entornos de consultoría o delivery enterprise.   ",
+      "date": 1783366554,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/qa-engineer-improving-south-america-remote-877c",
+      "source": "GetOnBoard",
+      "id": "24697a2d946e",
+      "score": 65,
+      "matches": [
+        "Rol QA ✓",
+        "jira",
+        "bug",
+        "defect",
+        "Remoto/Latam 🌐"
+      ],
+      "warnings": [],
+      "verdict": "excelente"
+    },
+    {
+      "title": "Senior Software Test Engineer (SDET) Java/angular",
+      "company": "",
+      "location": "remote_local",
+      "description": "  Técnicas    4+ años de experiencia en pruebas de API sobre aplicaciones Java  4+ años de experiencia en pruebas de UI para SPAs en Angular  4+ años de experiencia configurando frameworks de automatización de pruebas  Familiaridad con integración en pipelines CI/CD  Inglés B2 (tendrás interacción diaria en reuniones, en inglés)    Personales    Capacidad de autogestión  Buenos skills de comunicación en inglés y en español  Fortaleza en trabajo en equipo  Título académico en Ingeniería Informática, Sistemas o carreras afines.    Contrato indefinido desde el inicio con 23people - Tiempo del proyecto 6 meses con posible extensión.     Modalidad:  Home Office - remoto con residencia en Chile.   Experiencia: Desde 4 años en adelante  Horario:  9:00 - 18:00 hrs.   ",
+      "date": 1784151519,
+      "salary": "2700–2900",
+      "url": "https://www.getonbrd.com/jobs/senior-ingeniero-de-desarrollo-de-software-en-pruebas-eng-23people-santiago",
+      "source": "GetOnBoard",
+      "id": "0751d1cfd3f7",
+      "score": 60,
+      "matches": [
+        "Rol QA ✓",
+        "ci/cd",
+        "Remoto/Latam 🌐",
+        "Salario 💰"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    },
     {
       "title": "Senior Quality Engineer (Florianópolis)",
       "company": "LawnStarter",
@@ -106,6 +265,26 @@
       "verdict": "bueno"
     },
     {
+      "title": "QA Automation Senior",
+      "company": "",
+      "location": "hybrid",
+      "description": " Formación   Profesional en Ingeniería de Sistemas, Ingeniería Informática, Ingeniería Civil Informática o carreras afines.   Experiencia   Mínimo 5 años de experiencia en QA. Entre 4 y 6 años de experiencia enfocada en automatización de pruebas.  Experiencia diseñando y manteniendo frameworks de automatización.  Participación en equipos ágiles y squads multidisciplinarios.  Experiencia integrando automatización en procesos DevOps y CI/CD.   Conocimientos técnicos indispensables   Automatización avanzada de pruebas funcionales.  Diseño y mantenimiento de frameworks de automatización.  Integración de pruebas automatizadas en pipelines CI/CD.  Programación para automatización utilizando Java, Python o JavaScript.  Gestión de cobertura de pruebas y métricas de calidad.  Manejo de GitHub y/o G",
+      "date": 1784058396,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/qa-automatizador-senior-factor-it-santiago",
+      "source": "GetOnBoard",
+      "id": "19afeb77c868",
+      "score": 55,
+      "matches": [
+        "Rol QA ✓",
+        "automation",
+        "javascript",
+        "ci/cd"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    },
+    {
       "title": "Senior Quality Assurance Automation Engineer",
       "company": "Experian",
       "location": "Costa Rica",
@@ -161,5 +340,98 @@
       "verdict": "bueno"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "title": "QA Automation (Proyecto 3 Meses)",
+      "company": "",
+      "location": "fully_remote",
+      "description": "  Experiencia mínima de 5 años en roles de automatización de pruebas o como desarrollador de software (SDET).  Inglés Avanzado.  Dominio de al menos un lenguaje de programación enfocado en QA (ej. Python, Java, JavaScript, TypeScript o C#).  Experiencia sólida utilizando frameworks de automatización modernos (ej. Cypress, Playwright, Selenium o Appium).  Experiencia en automatización de pruebas de APIs (RESTful/GraphQL).  Conocimiento práctico en herramientas de control de versiones (Git) y plataformas CI/CD (ej. Jenkins, GitHub Actions, GitLab CI).  Capacidad analítica para resolver problemas complejos y sólidas bases en arquitectura de software y bases de datos (SQL).  ",
+      "date": 1784153497,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/qa-proyecto-3-meses-leytonmedia-santiago-bbbb",
+      "source": "GetOnBoard",
+      "id": "acdfbf045462",
+      "score": 100,
+      "matches": [
+        "Rol QA ✓",
+        "playwright",
+        "automation",
+        "selenium",
+        "javascript",
+        "typescript",
+        "sql",
+        "cypress"
+      ],
+      "warnings": [],
+      "verdict": "excelente"
+    },
+    {
+      "title": "QA Manual (Proyecto 3 Meses)",
+      "company": "",
+      "location": "fully_remote",
+      "description": "  Experiencia mínima de 5 años trabajando como QA Manual en equipos de desarrollo de software.  Inglés avanzado.  Conocimiento sólido del ciclo de vida del desarrollo de software (SDLC) y metodologías ágiles (Scrum/Kanban).  Experiencia comprobable en la redacción de casos de prueba estructurados y reportes de bugs.  Manejo de herramientas de gestión de proyectos y testing (ej. Jira, TestRail, Zephyr, Trello).  Conocimientos básicos/intermedios en pruebas de API (ej. Postman) y uso de herramientas de desarrollador del navegador (DevTools).  Excelente atención al detalle, pensamiento crítico y fuertes habilidades de comunicación.  ",
+      "date": 1784153353,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/qa-proyecto-3-meses-leytonmedia-santiago-50c5",
+      "source": "GetOnBoard",
+      "id": "ba2efc616ae3",
+      "score": 80,
+      "matches": [
+        "Rol QA ✓",
+        "postman",
+        "jira",
+        "scrum",
+        "bug",
+        "zephyr",
+        "testrail",
+        "Remoto/Latam 🌐"
+      ],
+      "warnings": [],
+      "verdict": "excelente"
+    },
+    {
+      "title": "Senior QA Analyst",
+      "company": "",
+      "location": "fully_remote",
+      "description": "  5+ years of manual testing experience across web and mobile applications.  Certification or related degree in Quality Assurance.  Working knowledge of automation testing tools.  Strong attention to detail with the ability to balance perfection with business priorities.  Strong understanding of UI/UX principles and ability to evaluate products from an end-user perspective.  Experience in writing clear, concise, and comprehensive test plans and test cases.  Experience working in agile methodology.  Strong knowledge of software QA methodologies, tools, and processes.  Exceptional verbal and written communication abilities.  ",
+      "date": 1784117400,
+      "salary": "900–1500",
+      "url": "https://www.getonbrd.com/jobs/senior-qa-analyst-brain-box-labs-remote",
+      "source": "GetOnBoard",
+      "id": "9a17c5fc9924",
+      "score": 80,
+      "matches": [
+        "Rol QA ✓",
+        "automation",
+        "agile",
+        "manual testing",
+        "test case",
+        "test plan",
+        "Remoto/Latam 🌐",
+        "Salario 💰"
+      ],
+      "warnings": [],
+      "verdict": "excelente"
+    },
+    {
+      "title": "QA Automation Senior",
+      "company": "",
+      "location": "hybrid",
+      "description": " Formación   Profesional en Ingeniería de Sistemas, Ingeniería Informática, Ingeniería Civil Informática o carreras afines.   Experiencia   Mínimo 5 años de experiencia en QA. Entre 4 y 6 años de experiencia enfocada en automatización de pruebas.  Experiencia diseñando y manteniendo frameworks de automatización.  Participación en equipos ágiles y squads multidisciplinarios.  Experiencia integrando automatización en procesos DevOps y CI/CD.   Conocimientos técnicos indispensables   Automatización avanzada de pruebas funcionales.  Diseño y mantenimiento de frameworks de automatización.  Integración de pruebas automatizadas en pipelines CI/CD.  Programación para automatización utilizando Java, Python o JavaScript.  Gestión de cobertura de pruebas y métricas de calidad.  Manejo de GitHub y/o G",
+      "date": 1784058396,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/qa-automatizador-senior-factor-it-santiago",
+      "source": "GetOnBoard",
+      "id": "19afeb77c868",
+      "score": 55,
+      "matches": [
+        "Rol QA ✓",
+        "automation",
+        "javascript",
+        "ci/cd"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    }
+  ]
 }
