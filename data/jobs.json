@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-17T18:08:45.888793+00:00",
+  "last_updated": "2026-07-17T23:55:41.247761+00:00",
   "total_fetched": 177,
   "sources": {
     "Remotive": 41,
@@ -8,7 +8,7 @@
     "Himalayas": 20,
     "Jobicy": 32
   },
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "title": "QA Automation (Proyecto 3 Meses)",
@@ -379,46 +379,7 @@
       ],
       "warnings": [],
       "verdict": "bueno"
-    },
-    {
-      "title": "AI Software Engineering Teaching Experts",
-      "company": "",
-      "location": "['Brazil']",
-      "description": " Description        TripleTen   is an online teaching platform that empowers people, regardless of their prior experience, to embark on the exciting and challenging journey of mastering tech professions. Our bootcamps focus on training students in Data Analytics, Data Science, Web Development, Quality Assurance (QA) Engineering, and UX/UI Design — in an accessible and practical way, supporting them until they successfully thrive in a new career.  🚀 Our mission is to ensure that every student has the opportunity to successfully master a new profession, find their purpose, and become a valuable member of the tech industry.  What is our goal?  We are continuously looking for experienced  AI Software Engineering  professionals who want to support and guide our students on their path to becomin",
-      "date": "",
-      "salary": null,
-      "url": "https://himalayas.app/companies/tripleten/jobs/ai-software-engineering-teaching-experts-1477345149",
-      "source": "Himalayas",
-      "id": "e93e82e79662",
-      "score": 30,
-      "matches": [
-        "Rol QA (desc)",
-        "Remoto/Latam 🌐"
-      ],
-      "warnings": [],
-      "verdict": "regular"
     }
   ],
-  "new_jobs": [
-    {
-      "title": "Senior Software QA Engineer",
-      "company": "",
-      "location": "fully_remote",
-      "description": " Buscamos un profesional con experiencia en pruebas de integración, análisis de causa raíz (Root Cause Analysis) y automatización de procesos QA, capaz de diseñar estrategias de calidad que aseguren la confiabilidad de la plataforma. REQUIERE INGLES AVANZADO (C1-C2)   Más de  4 años  de experiencia en  Software QA  o  Software Engineering .  Experiencia en  pruebas de integración automatizadas .  Experiencia realizando  Root Cause Analysis (RCA) .  Conocimiento en  pruebas de RESTful APIs .  Manejo de  SQL  y  PostgreSQL .  Capacidad para  analizar logs  y  depurar incidencias .   Inglés avanzado .   Además, valoramos competencias para el éxito en el rol:  pensamiento analítico ,  atención al detalle ,  resolución de problemas ,  comunicación efectiva ,  trabajo colaborativo  y  proactivid",
-      "date": 1784126748,
-      "salary": "1400–1800",
-      "url": "https://www.getonbrd.com/jobs/senior-software-qa-engineer-devups-remote",
-      "source": "GetOnBoard",
-      "id": "6fa077c70d06",
-      "score": 60,
-      "matches": [
-        "Rol QA ✓",
-        "sql",
-        "Remoto/Latam 🌐",
-        "Salario 💰"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
-    }
-  ]
+  "new_jobs": []
 }
