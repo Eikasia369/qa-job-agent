@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-17T12:12:53.297549+00:00",
+  "last_updated": "2026-07-17T18:08:45.888793+00:00",
   "total_fetched": 177,
   "sources": {
     "Remotive": 41,
@@ -151,6 +151,26 @@
       "verdict": "excelente"
     },
     {
+      "title": "Senior Software Test Engineer (SDET) Java/angular",
+      "company": "",
+      "location": "remote_local",
+      "description": "  Técnicas    4+ años de experiencia en pruebas de API sobre aplicaciones Java  4+ años de experiencia en pruebas de UI para SPAs en Angular  4+ años de experiencia configurando frameworks de automatización de pruebas  Familiaridad con integración en pipelines CI/CD  Inglés B2 (tendrás interacción diaria en reuniones, en inglés)    Personales    Capacidad de autogestión  Buenos skills de comunicación en inglés y en español  Fortaleza en trabajo en equipo  Título académico en Ingeniería Informática, Sistemas o carreras afines.    Contrato indefinido desde el inicio con 23people - Tiempo del proyecto 6 meses con posible extensión.     Modalidad:  Home Office - remoto con residencia en Chile.   Experiencia: Desde 4 años en adelante  Horario:  9:00 - 18:00 hrs.   ",
+      "date": 1784294219,
+      "salary": "2700–2900",
+      "url": "https://www.getonbrd.com/jobs/senior-ingeniero-de-desarrollo-de-software-en-pruebas-eng-23people-santiago",
+      "source": "GetOnBoard",
+      "id": "0751d1cfd3f7",
+      "score": 60,
+      "matches": [
+        "Rol QA ✓",
+        "ci/cd",
+        "Remoto/Latam 🌐",
+        "Salario 💰"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    },
+    {
       "title": "QA Engineer",
       "company": "",
       "location": "fully_remote",
@@ -171,19 +191,19 @@
       "verdict": "bueno"
     },
     {
-      "title": "Senior Software Test Engineer (SDET) Java/angular",
+      "title": "Senior Software QA Engineer",
       "company": "",
-      "location": "remote_local",
-      "description": "  Técnicas    4+ años de experiencia en pruebas de API sobre aplicaciones Java  4+ años de experiencia en pruebas de UI para SPAs en Angular  4+ años de experiencia configurando frameworks de automatización de pruebas  Familiaridad con integración en pipelines CI/CD  Inglés B2 (tendrás interacción diaria en reuniones, en inglés)    Personales    Capacidad de autogestión  Buenos skills de comunicación en inglés y en español  Fortaleza en trabajo en equipo  Título académico en Ingeniería Informática, Sistemas o carreras afines.    Contrato indefinido desde el inicio con 23people - Tiempo del proyecto 6 meses con posible extensión.     Modalidad:  Home Office - remoto con residencia en Chile.   Experiencia: Desde 4 años en adelante  Horario:  9:00 - 18:00 hrs.   ",
-      "date": 1784151519,
-      "salary": "2700–2900",
-      "url": "https://www.getonbrd.com/jobs/senior-ingeniero-de-desarrollo-de-software-en-pruebas-eng-23people-santiago",
+      "location": "fully_remote",
+      "description": " Buscamos un profesional con experiencia en pruebas de integración, análisis de causa raíz (Root Cause Analysis) y automatización de procesos QA, capaz de diseñar estrategias de calidad que aseguren la confiabilidad de la plataforma. REQUIERE INGLES AVANZADO (C1-C2)   Más de  4 años  de experiencia en  Software QA  o  Software Engineering .  Experiencia en  pruebas de integración automatizadas .  Experiencia realizando  Root Cause Analysis (RCA) .  Conocimiento en  pruebas de RESTful APIs .  Manejo de  SQL  y  PostgreSQL .  Capacidad para  analizar logs  y  depurar incidencias .   Inglés avanzado .   Además, valoramos competencias para el éxito en el rol:  pensamiento analítico ,  atención al detalle ,  resolución de problemas ,  comunicación efectiva ,  trabajo colaborativo  y  proactivid",
+      "date": 1784126748,
+      "salary": "1400–1800",
+      "url": "https://www.getonbrd.com/jobs/senior-software-qa-engineer-devups-remote",
       "source": "GetOnBoard",
-      "id": "0751d1cfd3f7",
+      "id": "6fa077c70d06",
       "score": 60,
       "matches": [
         "Rol QA ✓",
-        "ci/cd",
+        "sql",
         "Remoto/Latam 🌐",
         "Salario 💰"
       ],
@@ -381,26 +401,24 @@
   ],
   "new_jobs": [
     {
-      "title": "QA Automation Engineer / Sector Bancario",
+      "title": "Senior Software QA Engineer",
       "company": "",
-      "location": "hybrid",
-      "description": "  Mínimo 2 años de experiencia comprobada como Ingeniero QA.  Experiencia en automatización de pruebas de software.  Habilidades de programación básicas a intermedias.  Experiencia en pruebas de software, preferiblemente en entornos de desarrollo de modelos de datos.  Conocimiento en metodologías de pruebas y diseño de casos de prueba.  Manejo de bases de datos SQL y NoSQL.  Experiencia con herramientas de automatización como Serenity, Karate, K6, Cypress, Protractor, TestCafe, Appium, entre otras.    Deseables:    Certificación ISTQB o similar.  Conocimiento de buenas prácticas de desarrollo: Git, TDD, revisiones de código, CI/CD.  Experiencia en herramientas RPA (Robotic Process Automation).  Experiencia previa en entornos ágiles.  Uso de herramientas de inteligencia artificial en proces",
-      "date": 1784245944,
-      "salary": null,
-      "url": "https://www.getonbrd.com/jobs/qa-automation-engineer-sector-bancario-devsu-quito-954e",
+      "location": "fully_remote",
+      "description": " Buscamos un profesional con experiencia en pruebas de integración, análisis de causa raíz (Root Cause Analysis) y automatización de procesos QA, capaz de diseñar estrategias de calidad que aseguren la confiabilidad de la plataforma. REQUIERE INGLES AVANZADO (C1-C2)   Más de  4 años  de experiencia en  Software QA  o  Software Engineering .  Experiencia en  pruebas de integración automatizadas .  Experiencia realizando  Root Cause Analysis (RCA) .  Conocimiento en  pruebas de RESTful APIs .  Manejo de  SQL  y  PostgreSQL .  Capacidad para  analizar logs  y  depurar incidencias .   Inglés avanzado .   Además, valoramos competencias para el éxito en el rol:  pensamiento analítico ,  atención al detalle ,  resolución de problemas ,  comunicación efectiva ,  trabajo colaborativo  y  proactivid",
+      "date": 1784126748,
+      "salary": "1400–1800",
+      "url": "https://www.getonbrd.com/jobs/senior-software-qa-engineer-devups-remote",
       "source": "GetOnBoard",
-      "id": "c946c92ae33e",
-      "score": 65,
+      "id": "6fa077c70d06",
+      "score": 60,
       "matches": [
         "Rol QA ✓",
-        "automation",
         "sql",
-        "cypress",
-        "ci/cd",
-        "appium"
+        "Remoto/Latam 🌐",
+        "Salario 💰"
       ],
       "warnings": [],
-      "verdict": "excelente"
+      "verdict": "bueno"
     }
   ]
 }
