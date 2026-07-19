@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-18T23:57:25.421542+00:00",
+  "last_updated": "2026-07-19T12:01:08.301271+00:00",
   "total_fetched": 178,
   "sources": {
     "Remotive": 42,
@@ -106,29 +106,6 @@
       "verdict": "excelente"
     },
     {
-      "title": "QA Automation",
-      "company": "",
-      "location": "hybrid",
-      "description": "  Formación:  Carrera de grado en Ingeniería en Informática o carreras afines.  Experiencia:  Mínimo  3 años de experiencia  demostrable en roles de QA Automation.   Conocimientos Técnicos Excluyentes:  •  Automatización Web:  Experiencia sólida y comprobable utilizando  Playwright  y  Selenium  ( Requisitos Primordiales ). Valoramos también el conocimiento en otras herramientas como Cypress, Katalon. •  Gestión de Pruebas:  Uso de plataformas como Jira, Qmetry, Linear, Azure DevOps. •  Seguridad:  Conocimientos básicos de seguridad en entornos SaaS (ej. OWASP).  ",
-      "date": 1784045173,
-      "salary": "1800–2300",
-      "url": "https://www.getonbrd.com/jobs/qa-automation-iconstruye-santiago",
-      "source": "GetOnBoard",
-      "id": "9c624aadee1d",
-      "score": 70,
-      "matches": [
-        "Rol QA ✓",
-        "playwright",
-        "automation",
-        "selenium",
-        "jira",
-        "cypress",
-        "Salario 💰"
-      ],
-      "warnings": [],
-      "verdict": "excelente"
-    },
-    {
       "title": "QA Automation Engineer / Sector Bancario",
       "company": "",
       "location": "hybrid",
@@ -184,26 +161,6 @@
       "matches": [
         "Rol QA ✓",
         "ci/cd",
-        "Remoto/Latam 🌐",
-        "Salario 💰"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
-    },
-    {
-      "title": "Senior Software QA Engineer",
-      "company": "",
-      "location": "fully_remote",
-      "description": " Buscamos un profesional con experiencia en pruebas de integración, análisis de causa raíz (Root Cause Analysis) y automatización de procesos QA, capaz de diseñar estrategias de calidad que aseguren la confiabilidad de la plataforma. REQUIERE INGLES AVANZADO (C1-C2)   Más de  4 años  de experiencia en  Software QA  o  Software Engineering .  Experiencia en  pruebas de integración automatizadas .  Experiencia realizando  Root Cause Analysis (RCA) .  Conocimiento en  pruebas de RESTful APIs .  Manejo de  SQL  y  PostgreSQL .  Capacidad para  analizar logs  y  depurar incidencias .   Inglés avanzado .   Además, valoramos competencias para el éxito en el rol:  pensamiento analítico ,  atención al detalle ,  resolución de problemas ,  comunicación efectiva ,  trabajo colaborativo  y  proactivid",
-      "date": 1784126748,
-      "salary": "1400–1800",
-      "url": "https://www.getonbrd.com/jobs/senior-software-qa-engineer-devups-remote",
-      "source": "GetOnBoard",
-      "id": "6fa077c70d06",
-      "score": 60,
-      "matches": [
-        "Rol QA ✓",
-        "sql",
         "Remoto/Latam 🌐",
         "Salario 💰"
       ],
