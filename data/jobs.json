@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-19T17:59:58.411942+00:00",
+  "last_updated": "2026-07-20T00:01:01.364265+00:00",
   "total_fetched": 177,
   "sources": {
     "Remotive": 42,
@@ -8,7 +8,7 @@
     "Himalayas": 20,
     "Jobicy": 32
   },
-  "new_count": 0,
+  "new_count": 1,
   "jobs": [
     {
       "title": "QA Automation (Proyecto 3 Meses)",
@@ -320,6 +320,24 @@
       "verdict": "bueno"
     },
     {
+      "title": "Sr. Quality Engineer I",
+      "company": "",
+      "location": "['United States']",
+      "description": " Job Summary  The Senior Quality Assurance Engineer performs and leads testing of multiple large, complex, and strategic software development applications using QA best practices and frameworks. This role provides appropriate and timely status, metrics, and communication to stakeholders. The Senior QA Engineer aids in the identification of continuous process improvement of QA standards, and practices.  What you will do   Perform the analysis of business requirements for accuracy, completeness, redundancy, ambiguity, and testability for multiple strategic software projects. \n Define the scope, approach, risks, and assumptions for testing. \n Design, build, and prioritize test cases. \n  - Execute manual and automated testing.   Report and communicate test status and metrics to project stakeho",
+      "date": "",
+      "salary": null,
+      "url": "https://himalayas.app/companies/cdw/jobs/sr-quality-engineer-i",
+      "source": "Himalayas",
+      "id": "117f9845d08a",
+      "score": 45,
+      "matches": [
+        "Rol QA ✓",
+        "test case"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    },
+    {
       "title": "Senior QA Engineer",
       "company": "NFQ",
       "location": "Lithuania",
@@ -338,5 +356,24 @@
       "verdict": "bueno"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "title": "Sr. Quality Engineer I",
+      "company": "",
+      "location": "['United States']",
+      "description": " Job Summary  The Senior Quality Assurance Engineer performs and leads testing of multiple large, complex, and strategic software development applications using QA best practices and frameworks. This role provides appropriate and timely status, metrics, and communication to stakeholders. The Senior QA Engineer aids in the identification of continuous process improvement of QA standards, and practices.  What you will do   Perform the analysis of business requirements for accuracy, completeness, redundancy, ambiguity, and testability for multiple strategic software projects. \n Define the scope, approach, risks, and assumptions for testing. \n Design, build, and prioritize test cases. \n  - Execute manual and automated testing.   Report and communicate test status and metrics to project stakeho",
+      "date": "",
+      "salary": null,
+      "url": "https://himalayas.app/companies/cdw/jobs/sr-quality-engineer-i",
+      "source": "Himalayas",
+      "id": "117f9845d08a",
+      "score": 45,
+      "matches": [
+        "Rol QA ✓",
+        "test case"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    }
+  ]
 }
