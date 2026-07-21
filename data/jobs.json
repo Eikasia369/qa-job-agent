@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-21T18:17:19.384753+00:00",
+  "last_updated": "2026-07-21T23:57:27.763590+00:00",
   "total_fetched": 182,
   "sources": {
     "Remotive": 41,
@@ -8,7 +8,7 @@
     "Himalayas": 20,
     "Jobicy": 32
   },
-  "new_count": 0,
+  "new_count": 1,
   "jobs": [
     {
       "title": "QA Automation (Proyecto 3 Meses)",
@@ -30,6 +30,30 @@
         "typescript",
         "sql",
         "cypress"
+      ],
+      "warnings": [],
+      "verdict": "excelente"
+    },
+    {
+      "title": "QA Engineer (Automation)",
+      "company": "",
+      "location": "fully_remote",
+      "description": "  Experience: 3+ years in a QA or SDET role on a SaaS product.  Black-Box Testing: Strong instincts for functional testing, exploratory testing, user flow validation, and edge case identification.  White-Box Fundamentals: Comfortable reading code, contributing to unit/integration test coverage, and collaborating with developers at the code level.  JavaScript Proficiency: Hands-on experience with test automation in JavaScript (Playwright, Cypress, or similar).  API Testing: Experience testing REST APIs via Postman, pytest, or equivalent tooling.  Data Awareness: Familiarity with MongoDB or complex data structures where accuracy is non-negotiable.  The Right Mindset: You thrive in a startup environment. You are analytical, detail-obsessed, and take initiative to find problems before users do",
+      "date": 1784659891,
+      "salary": "3000–4000",
+      "url": "https://www.getonbrd.com/jobs/qa-engineer-automation-molten-cloud-remote",
+      "source": "GetOnBoard",
+      "id": "9a02669bfd1d",
+      "score": 95,
+      "matches": [
+        "Rol QA ✓",
+        "playwright",
+        "postman",
+        "api testing",
+        "automation",
+        "javascript",
+        "cypress",
+        "functional testing"
       ],
       "warnings": [],
       "verdict": "excelente"
@@ -370,5 +394,30 @@
       "verdict": "bueno"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "title": "QA Engineer (Automation)",
+      "company": "",
+      "location": "fully_remote",
+      "description": "  Experience: 3+ years in a QA or SDET role on a SaaS product.  Black-Box Testing: Strong instincts for functional testing, exploratory testing, user flow validation, and edge case identification.  White-Box Fundamentals: Comfortable reading code, contributing to unit/integration test coverage, and collaborating with developers at the code level.  JavaScript Proficiency: Hands-on experience with test automation in JavaScript (Playwright, Cypress, or similar).  API Testing: Experience testing REST APIs via Postman, pytest, or equivalent tooling.  Data Awareness: Familiarity with MongoDB or complex data structures where accuracy is non-negotiable.  The Right Mindset: You thrive in a startup environment. You are analytical, detail-obsessed, and take initiative to find problems before users do",
+      "date": 1784659891,
+      "salary": "3000–4000",
+      "url": "https://www.getonbrd.com/jobs/qa-engineer-automation-molten-cloud-remote",
+      "source": "GetOnBoard",
+      "id": "9a02669bfd1d",
+      "score": 95,
+      "matches": [
+        "Rol QA ✓",
+        "playwright",
+        "postman",
+        "api testing",
+        "automation",
+        "javascript",
+        "cypress",
+        "functional testing"
+      ],
+      "warnings": [],
+      "verdict": "excelente"
+    }
+  ]
 }
