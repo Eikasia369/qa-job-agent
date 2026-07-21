@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-07-20T23:59:10.407573+00:00",
+  "last_updated": "2026-07-21T12:24:50.843630+00:00",
   "total_fetched": 180,
   "sources": {
-    "Remotive": 42,
-    "WorkingNomads": 36,
+    "Remotive": 41,
+    "WorkingNomads": 37,
     "GetOnBoard": 50,
     "Himalayas": 20,
     "Jobicy": 32
   },
-  "new_count": 2,
+  "new_count": 0,
   "jobs": [
     {
       "title": "QA Automation (Proyecto 3 Meses)",
@@ -350,38 +350,17 @@
       ],
       "warnings": [],
       "verdict": "bueno"
-    }
-  ],
-  "new_jobs": [
-    {
-      "title": "Project Chiron - Spanish (Latin America) Quality Control Specialist",
-      "company": "Welo Global",
-      "location": "Argentina,  Mexico",
-      "description": " \r\n \r\n About the Role  \r\n \r\n \r\n We are looking for detail-oriented Quality Control (QC) Specialist to support an AI data annotation project. In this role, you will review the work submitted by Trainers — pre-seeded questions paired with images and their corresponding \"golden\" answers — to confirm accuracy, consistency, and adherence to project guidelines.  \r\n \r\n \r\n This is a task-based, remote-friendly opportunity ideal for individuals who are highly meticulous, observant, and skilled at spotting errors or inconsistencies that others may miss.  \r\n \r\n \r\n What You'll Do  \r\n \r\n \r\n \r\n \r\n Review completed tasks submitted by Trainers, including the original question, the image, and the golden answer provided  \r\n \r\n \r\n \r\n \r\n \r\n \r\n Independently verify whether the golden answer is correct based on",
-      "date": "2026-07-20T17:11:22+00:00",
-      "salary": "USD80000–None",
-      "url": "https://jobicy.com/jobs/149468-project-chiron-spanish-latin-america-quality-control-specialist",
-      "source": "Jobicy",
-      "id": "b84419c59f32",
-      "score": 55,
-      "matches": [
-        "Rol QA ✓",
-        "Remoto/Latam 🌐",
-        "Salario 💰"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
     },
     {
-      "title": "Project Chiron - French (Canada) Quality Control Specialist",
-      "company": "Welo Global",
-      "location": "Canada",
-      "description": " \n \n \n  About the Role   \n \n \n We are looking for detail-oriented Quality Control (QC) Specialist to support an AI data annotation project. In this role, you will review the work submitted by Trainers — pre-seeded questions paired with images and their corresponding \"golden\" answers — to confirm accuracy, consistency, and adherence to project guidelines.  \n \n \n This is a task-based, remote-friendly opportunity ideal for individuals who are highly meticulous, observant, and skilled at spotting errors or inconsistencies that others may miss.  \n \n \n  What You'll Do   \n \n \n \n \n Review completed tasks submitted by Trainers, including the original question, the image, and the golden answer provided  \n \n \n \n \n \n \n Independently verify whether the golden answer is correct based on the image  \n \n \n",
-      "date": "2026-07-20T17:11:18+00:00",
-      "salary": "CAD106000–106000",
-      "url": "https://jobicy.com/jobs/149466-project-chiron-french-canada-quality-control-specialist",
+      "title": "Senior QA Engineer",
+      "company": "NFQ",
+      "location": "Lithuania",
+      "description": " We build the tech that moves industries forward. We have our eyes set on AI, energy, logistics, sports and other complex and exciting segments.      We believe in an innovative approach to solving deep issues and encourage our people to find their own solutions. We are constantly rethinking processes, business models, architecture, and tech stacks.      We foster a sense of curiosity, experimentation, and passion beyond code. With us, you can easily deepen your knowledge in any field you’re curious about. And because we work across many industries, you’ll be gaining the experience others can only dream of.     As a  Senior Quality Assurance Engineer  you will join our team and contribute to delivering high-quality software solutions across web, mobile and backend systems. You will work cl",
+      "date": "2026-07-06T16:10:04+00:00",
+      "salary": "EUR33600–62400",
+      "url": "https://jobicy.com/jobs/145577-senior-qa-engineer",
       "source": "Jobicy",
-      "id": "c6f237503386",
+      "id": "6d978570eb3c",
       "score": 45,
       "matches": [
         "Rol QA ✓",
@@ -390,5 +369,6 @@
       "warnings": [],
       "verdict": "bueno"
     }
-  ]
+  ],
+  "new_jobs": []
 }
