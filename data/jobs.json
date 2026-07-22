@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-07-22T12:27:24.904906+00:00",
-  "total_fetched": 179,
+  "last_updated": "2026-07-22T18:10:02.179614+00:00",
+  "total_fetched": 180,
   "sources": {
     "Remotive": 35,
-    "WorkingNomads": 42,
+    "WorkingNomads": 43,
     "GetOnBoard": 50,
     "Himalayas": 20,
     "Jobicy": 32
   },
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "title": "QA Automation (Proyecto 3 Meses)",
@@ -86,7 +86,7 @@
       "title": "Senior QA Analyst",
       "company": "",
       "location": "fully_remote",
-      "description": "  5+ years of manual testing experience across web and mobile applications.  Certification or related degree in Quality Assurance.  Working knowledge of automation testing tools.  Strong attention to detail with the ability to balance perfection with business priorities.  Strong understanding of UI/UX principles and ability to evaluate products from an end-user perspective.  Experience in writing clear, concise, and comprehensive test plans and test cases.  Experience working in agile methodology.  Strong knowledge of software QA methodologies, tools, and processes.  Exceptional verbal and written communication abilities.  ",
+      "description": "  English proficiency (C1) is necessary  5+ years of manual testing experience across web and mobile applications.  Certification or related degree in Quality Assurance.  Working knowledge of automation testing tools.  Strong attention to detail with the ability to balance perfection with business priorities.  Strong understanding of UI/UX principles and ability to evaluate products from an end-user perspective.  Experience in writing clear, concise, and comprehensive test plans and test cases.  Experience working in agile methodology.  Strong knowledge of software QA methodologies, tools, and processes.  Exceptional verbal and written communication abilities.  ",
       "date": 1784117400,
       "salary": "900–1500",
       "url": "https://www.getonbrd.com/jobs/senior-qa-analyst-brain-box-labs-remote",
@@ -129,26 +129,6 @@
       "verdict": "excelente"
     },
     {
-      "title": "Senior Software Test Engineer (SDET) Java/angular",
-      "company": "",
-      "location": "remote_local",
-      "description": "  Técnicas    4+ años de experiencia en pruebas de API sobre aplicaciones Java  4+ años de experiencia en pruebas de UI para SPAs en Angular  4+ años de experiencia configurando frameworks de automatización de pruebas  Familiaridad con integración en pipelines CI/CD  Inglés B2 (tendrás interacción diaria en reuniones, en inglés)    Personales    Capacidad de autogestión  Buenos skills de comunicación en inglés y en español  Fortaleza en trabajo en equipo  Título académico en Ingeniería Informática, Sistemas o carreras afines.    Contrato indefinido desde el inicio con 23people - Tiempo del proyecto 6 meses con posible extensión.     Modalidad:  Home Office - remoto con residencia en Chile.   Experiencia: Desde 4 años en adelante  Horario:  9:00 - 18:00 hrs.   ",
-      "date": 1784640528,
-      "salary": "2700–2900",
-      "url": "https://www.getonbrd.com/jobs/senior-ingeniero-de-desarrollo-de-software-en-pruebas-eng-23people-santiago",
-      "source": "GetOnBoard",
-      "id": "0751d1cfd3f7",
-      "score": 60,
-      "matches": [
-        "Rol QA ✓",
-        "ci/cd",
-        "Remoto/Latam 🌐",
-        "Salario 💰"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
-    },
-    {
       "title": "QA Engineer",
       "company": "",
       "location": "fully_remote",
@@ -162,6 +142,26 @@
       "matches": [
         "Rol QA ✓",
         "ci/cd",
+        "Remoto/Latam 🌐",
+        "Salario 💰"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    },
+    {
+      "title": "Senior Software QA Engineer",
+      "company": "",
+      "location": "fully_remote",
+      "description": " Buscamos un profesional con experiencia en pruebas de integración, análisis de causa raíz (Root Cause Analysis) y automatización de procesos QA, capaz de diseñar estrategias de calidad que aseguren la confiabilidad de la plataforma. REQUIERE INGLES AVANZADO (C1-C2)   Más de  4 años  de experiencia en  Software QA  o  Software Engineering .  Experiencia en  pruebas de integración automatizadas .  Experiencia realizando  Root Cause Analysis (RCA) .  Conocimiento en  pruebas de RESTful APIs .  Manejo de  SQL  y  PostgreSQL .  Capacidad para  analizar logs  y  depurar incidencias .   Inglés avanzado .   Además, valoramos competencias para el éxito en el rol:  pensamiento analítico ,  atención al detalle ,  resolución de problemas ,  comunicación efectiva ,  trabajo colaborativo  y  proactivid",
+      "date": 1784126748,
+      "salary": "1400–1800",
+      "url": "https://www.getonbrd.com/jobs/senior-software-qa-engineer-devups-remote",
+      "source": "GetOnBoard",
+      "id": "6fa077c70d06",
+      "score": 60,
+      "matches": [
+        "Rol QA ✓",
+        "sql",
         "Remoto/Latam 🌐",
         "Salario 💰"
       ],
@@ -299,24 +299,5 @@
       "verdict": "bueno"
     }
   ],
-  "new_jobs": [
-    {
-      "title": "Manager, Quality Assurance, Customer Support",
-      "company": "1Password",
-      "location": "Canada,  USA",
-      "description": "   1Password is growing.  We’ve surpassed $400M in ARR and we’re continuing to accelerate, earning a spot on the Forbes Cloud 100 for four years in a row and teaming up with iconic partners like Oracle Red Bull Racing.      About 1Password    At 1Password, we’re building the foundation for a safe, productive digital future. Our mission is to unleash employee productivity without compromising security by ensuring every identity is authentic, every application sign-in is secure, and every device is trusted. We innovated the market-leading enterprise password manager and pioneered Unified Access Management, a new cybersecurity category built for the way people and AI agents work today. As one of the most loved brands in cybersecurity, we take a human-centric approach in everything from produc",
-      "date": "2026-07-22T04:56:31+00:00",
-      "salary": "USD147000–213000",
-      "url": "https://jobicy.com/jobs/149620-manager-quality-assurance-customer-support",
-      "source": "Jobicy",
-      "id": "6ce91ba0075e",
-      "score": 45,
-      "matches": [
-        "Rol QA ✓",
-        "Salario 💰"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
-    }
-  ]
+  "new_jobs": []
 }
