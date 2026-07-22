@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-07-21T23:57:27.763590+00:00",
-  "total_fetched": 182,
+  "last_updated": "2026-07-22T12:27:24.904906+00:00",
+  "total_fetched": 179,
   "sources": {
-    "Remotive": 41,
-    "WorkingNomads": 39,
+    "Remotive": 35,
+    "WorkingNomads": 42,
     "GetOnBoard": 50,
     "Himalayas": 20,
     "Jobicy": 32
@@ -169,101 +169,6 @@
       "verdict": "bueno"
     },
     {
-      "title": "Senior Quality Engineer (Florianópolis)",
-      "company": "LawnStarter",
-      "location": "Brazil",
-      "description": "  This is a remote role for candidates located in   Florianópolis, Brazil  \n   \n  About LawnStarter  \n LawnStarter is the nation's leading on-demand marketplace for lawn care and outdoor services, with over $100M in annual bookings. We're expanding beyond lawn care to become the one-stop shop for all home services, operating across three brands (LawnStarter, Lawn Love, Home Gnome) on a single shared platform. \n   \n  About Engineering at LawnStarter  \n We've spent the last two years rebuilding the platform from the ground up: new customer app, new Pro onboarding, job distribution engine, and data infrastructure. The foundation is solid. Now we're moving into expanded service verticals, dynamic pricing, and AI-powered features at scale. Quality needs to keep up. \n Our stack is PHP (Laravel) ",
-      "date": "2026-06-23T08:30:06",
-      "salary": "$45k - $65k",
-      "url": "https://remotive.com/remote-jobs/qa/senior-quality-engineer-florianopolis-2090994",
-      "source": "Remotive",
-      "id": "2cc6f6e17cc4",
-      "score": 55,
-      "matches": [
-        "Rol QA ✓",
-        "Remoto/Latam 🌐",
-        "Salario 💰"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
-    },
-    {
-      "title": "Senior Quality Engineer (São Paulo)",
-      "company": "LawnStarter",
-      "location": "Brazil",
-      "description": "  This is a remote role for candidates located in  São Paulo , Brazil  \n   \n  About LawnStarter  \n LawnStarter is the nation's leading on-demand marketplace for lawn care and outdoor services, with over $100M in annual bookings. We're expanding beyond lawn care to become the one-stop shop for all home services, operating across three brands (LawnStarter, Lawn Love, Home Gnome) on a single shared platform. \n  About Engineering at LawnStarter  \n We've spent the last two years rebuilding the platform from the ground up: new customer app, new Pro onboarding, job distribution engine, and data infrastructure. The foundation is solid. Now we're moving into expanded service verticals, dynamic pricing, and AI-powered features at scale. Quality needs to keep up. \n Our stack is PHP (Laravel) and Reac",
-      "date": "2026-06-23T08:27:20",
-      "salary": "$45k - $65k",
-      "url": "https://remotive.com/remote-jobs/qa/senior-quality-engineer-sao-paulo-2090995",
-      "source": "Remotive",
-      "id": "5a1d68497d0d",
-      "score": 55,
-      "matches": [
-        "Rol QA ✓",
-        "Remoto/Latam 🌐",
-        "Salario 💰"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
-    },
-    {
-      "title": "Senior Quality Engineer (Belo Horizonte)",
-      "company": "LawnStarter",
-      "location": "Brazil",
-      "description": "  This is a remote role for candidates located in Belo Horizonte, Brazil  \n   \n  About LawnStarter  \n LawnStarter is the nation's leading on-demand marketplace for lawn care and outdoor services, with over $100M in annual bookings. We're expanding beyond lawn care to become the one-stop shop for all home services, operating across three brands (LawnStarter, Lawn Love, Home Gnome) on a single shared platform. \n  About Engineering at LawnStarter  \n We've spent the last two years rebuilding the platform from the ground up: new customer app, new Pro onboarding, job distribution engine, and data infrastructure. The foundation is solid. Now we're moving into expanded service verticals, dynamic pricing, and AI-powered features at scale. Quality needs to keep up. \n Our stack is PHP (Laravel) and R",
-      "date": "2026-06-23T08:25:38",
-      "salary": "$45k - $65k",
-      "url": "https://remotive.com/remote-jobs/qa/senior-quality-engineer-belo-horizonte-2090996",
-      "source": "Remotive",
-      "id": "bc76cd8c19c8",
-      "score": 55,
-      "matches": [
-        "Rol QA ✓",
-        "Remoto/Latam 🌐",
-        "Salario 💰"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
-    },
-    {
-      "title": "Senior Quality Engineer (Campinas)",
-      "company": "LawnStarter",
-      "location": "Brazil",
-      "description": "   This is a remote role for candidates located in   Campinas, Brazil.   \n   \n  About LawnStarter  \n LawnStarter is the nation's leading on-demand marketplace for lawn care and outdoor services, with over $100M in annual bookings. We're expanding beyond lawn care to become the one-stop shop for all home services, operating across three brands (LawnStarter, Lawn Love, Home Gnome) on a single shared platform. \n  About Engineering at LawnStarter  \n We've spent the last two years rebuilding the platform from the ground up: new customer app, new Pro onboarding, job distribution engine, and data infrastructure. The foundation is solid. Now we're moving into expanded service verticals, dynamic pricing, and AI-powered features at scale. Quality needs to keep up. \n Our stack is PHP (Laravel) and Re",
-      "date": "2026-06-23T08:23:50",
-      "salary": "$45k - $65k",
-      "url": "https://remotive.com/remote-jobs/qa/senior-quality-engineer-campinas-2090998",
-      "source": "Remotive",
-      "id": "4ff396044b9d",
-      "score": 55,
-      "matches": [
-        "Rol QA ✓",
-        "Remoto/Latam 🌐",
-        "Salario 💰"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
-    },
-    {
-      "title": "Senior Quality Engineer (Porto Alegre)",
-      "company": "LawnStarter",
-      "location": "Brazil",
-      "description": "  This is a remote role for candidates located in Porto Alegre, Brazil  \n   \n  About LawnStarter  \n LawnStarter is the nation's leading on-demand marketplace for lawn care and outdoor services, with over $100M in annual bookings. We're expanding beyond lawn care to become the one-stop shop for all home services, operating across three brands (LawnStarter, Lawn Love, Home Gnome) on a single shared platform. \n  About Engineering at LawnStarter  \n We've spent the last two years rebuilding the platform from the ground up: new customer app, new Pro onboarding, job distribution engine, and data infrastructure. The foundation is solid. Now we're moving into expanded service verticals, dynamic pricing, and AI-powered features at scale. Quality needs to keep up. \n Our stack is PHP (Laravel) and Rea",
-      "date": "2026-06-23T07:08:26",
-      "salary": "$45k- $65k",
-      "url": "https://remotive.com/remote-jobs/qa/senior-quality-engineer-porto-alegre-2090997",
-      "source": "Remotive",
-      "id": "0a4f2704f85d",
-      "score": 55,
-      "matches": [
-        "Rol QA ✓",
-        "Remoto/Latam 🌐",
-        "Salario 💰"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
-    },
-    {
       "title": "QA Automation Senior",
       "company": "",
       "location": "hybrid",
@@ -358,6 +263,24 @@
       "verdict": "bueno"
     },
     {
+      "title": "Manager, Quality Assurance, Customer Support",
+      "company": "1Password",
+      "location": "Canada,  USA",
+      "description": "   1Password is growing.  We’ve surpassed $400M in ARR and we’re continuing to accelerate, earning a spot on the Forbes Cloud 100 for four years in a row and teaming up with iconic partners like Oracle Red Bull Racing.      About 1Password    At 1Password, we’re building the foundation for a safe, productive digital future. Our mission is to unleash employee productivity without compromising security by ensuring every identity is authentic, every application sign-in is secure, and every device is trusted. We innovated the market-leading enterprise password manager and pioneered Unified Access Management, a new cybersecurity category built for the way people and AI agents work today. As one of the most loved brands in cybersecurity, we take a human-centric approach in everything from produc",
+      "date": "2026-07-22T04:56:31+00:00",
+      "salary": "USD147000–213000",
+      "url": "https://jobicy.com/jobs/149620-manager-quality-assurance-customer-support",
+      "source": "Jobicy",
+      "id": "6ce91ba0075e",
+      "score": 45,
+      "matches": [
+        "Rol QA ✓",
+        "Salario 💰"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    },
+    {
       "title": "Project Chiron - French (Canada) Quality Control Specialist",
       "company": "Welo Global",
       "location": "Canada",
@@ -374,17 +297,19 @@
       ],
       "warnings": [],
       "verdict": "bueno"
-    },
+    }
+  ],
+  "new_jobs": [
     {
-      "title": "Senior QA Engineer",
-      "company": "NFQ",
-      "location": "Lithuania",
-      "description": " We build the tech that moves industries forward. We have our eyes set on AI, energy, logistics, sports and other complex and exciting segments.      We believe in an innovative approach to solving deep issues and encourage our people to find their own solutions. We are constantly rethinking processes, business models, architecture, and tech stacks.      We foster a sense of curiosity, experimentation, and passion beyond code. With us, you can easily deepen your knowledge in any field you’re curious about. And because we work across many industries, you’ll be gaining the experience others can only dream of.     As a  Senior Quality Assurance Engineer  you will join our team and contribute to delivering high-quality software solutions across web, mobile and backend systems. You will work cl",
-      "date": "2026-07-06T16:10:04+00:00",
-      "salary": "EUR33600–62400",
-      "url": "https://jobicy.com/jobs/145577-senior-qa-engineer",
+      "title": "Manager, Quality Assurance, Customer Support",
+      "company": "1Password",
+      "location": "Canada,  USA",
+      "description": "   1Password is growing.  We’ve surpassed $400M in ARR and we’re continuing to accelerate, earning a spot on the Forbes Cloud 100 for four years in a row and teaming up with iconic partners like Oracle Red Bull Racing.      About 1Password    At 1Password, we’re building the foundation for a safe, productive digital future. Our mission is to unleash employee productivity without compromising security by ensuring every identity is authentic, every application sign-in is secure, and every device is trusted. We innovated the market-leading enterprise password manager and pioneered Unified Access Management, a new cybersecurity category built for the way people and AI agents work today. As one of the most loved brands in cybersecurity, we take a human-centric approach in everything from produc",
+      "date": "2026-07-22T04:56:31+00:00",
+      "salary": "USD147000–213000",
+      "url": "https://jobicy.com/jobs/149620-manager-quality-assurance-customer-support",
       "source": "Jobicy",
-      "id": "6d978570eb3c",
+      "id": "6ce91ba0075e",
       "score": 45,
       "matches": [
         "Rol QA ✓",
@@ -392,32 +317,6 @@
       ],
       "warnings": [],
       "verdict": "bueno"
-    }
-  ],
-  "new_jobs": [
-    {
-      "title": "QA Engineer (Automation)",
-      "company": "",
-      "location": "fully_remote",
-      "description": "  Experience: 3+ years in a QA or SDET role on a SaaS product.  Black-Box Testing: Strong instincts for functional testing, exploratory testing, user flow validation, and edge case identification.  White-Box Fundamentals: Comfortable reading code, contributing to unit/integration test coverage, and collaborating with developers at the code level.  JavaScript Proficiency: Hands-on experience with test automation in JavaScript (Playwright, Cypress, or similar).  API Testing: Experience testing REST APIs via Postman, pytest, or equivalent tooling.  Data Awareness: Familiarity with MongoDB or complex data structures where accuracy is non-negotiable.  The Right Mindset: You thrive in a startup environment. You are analytical, detail-obsessed, and take initiative to find problems before users do",
-      "date": 1784659891,
-      "salary": "3000–4000",
-      "url": "https://www.getonbrd.com/jobs/qa-engineer-automation-molten-cloud-remote",
-      "source": "GetOnBoard",
-      "id": "9a02669bfd1d",
-      "score": 95,
-      "matches": [
-        "Rol QA ✓",
-        "playwright",
-        "postman",
-        "api testing",
-        "automation",
-        "javascript",
-        "cypress",
-        "functional testing"
-      ],
-      "warnings": [],
-      "verdict": "excelente"
     }
   ]
 }
