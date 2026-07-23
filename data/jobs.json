@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-07-23T12:25:52.201131+00:00",
-  "total_fetched": 182,
+  "last_updated": "2026-07-23T18:15:35.370533+00:00",
+  "total_fetched": 181,
   "sources": {
     "Remotive": 36,
-    "WorkingNomads": 45,
+    "WorkingNomads": 44,
     "GetOnBoard": 50,
     "Himalayas": 20,
     "Jobicy": 31
   },
-  "new_count": 0,
+  "new_count": 2,
   "jobs": [
     {
       "title": "QA Automation (Proyecto 3 Meses)",
@@ -54,6 +54,30 @@
         "javascript",
         "cypress",
         "functional testing"
+      ],
+      "warnings": [],
+      "verdict": "excelente"
+    },
+    {
+      "title": "QA Engineer SSR",
+      "company": "",
+      "location": "hybrid",
+      "description": " -Gestión de pruebas ( Azure Test Plans o Jira + Xray/Zephyr) -Pruebas funcionales ( Azure Test Plans, Jira ) -APIs (Postman + Newman) -Automatización web E2E (Playwright) -Rendimiento ( K6 ) -Seguridad dinámica (OWASP ZAP) -Calidad estática (SonarQube)  -CI/CD (Azure Pipelines, GitHub Actions o Jenkins) -Bases de datos (SQL Server, DBeaver o SSMS) -Control de versiones ( Git ) -Mobile (Appium) -Accesibilidad (axe-core o Lighthouse) ",
+      "date": 1784829096,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/qa-engineer-ssr-coderslab-io-quito",
+      "source": "GetOnBoard",
+      "id": "3069294a32f9",
+      "score": 90,
+      "matches": [
+        "Rol QA ✓",
+        "playwright",
+        "postman",
+        "jira",
+        "sql",
+        "test plan",
+        "ci/cd",
+        "github actions"
       ],
       "warnings": [],
       "verdict": "excelente"
@@ -192,6 +216,25 @@
       "verdict": "bueno"
     },
     {
+      "title": "Advanced QA Automation Engineer",
+      "company": "",
+      "location": "['Colombia', 'Costa Rica']",
+      "description": " WHAT WE DO  Founded in 2007,  Growth Acceleration Partners  (GAP) is a consulting and technology services company. We consult, design, build and modernize revenue-generating software and data engineering solutions for clients. With modernization services and AI tools, we help businesses achieve a competitive advantage through technology. GAP’s remote, integrated engineering teams use end-to-end solutions to innovate and align with your business goals. We have 600+ English-speaking engineers based in Latin America and approximately 20 U.S.-based engineers. With some of the highest customer satisfaction scores in the industry, GAP’s focus is customer and employee success.  GAP is a woman-owned company headquartered in Austin Texas. We are a values-based company focused on growing our people",
+      "date": "",
+      "salary": null,
+      "url": "https://himalayas.app/companies/wearegap/jobs/advanced-qa-automation-engineer",
+      "source": "Himalayas",
+      "id": "9b35efa7a445",
+      "score": 55,
+      "matches": [
+        "Rol QA ✓",
+        "automation",
+        "Remoto/Latam 🌐"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    },
+    {
       "title": "Senior Quality Assurance Automation Engineer",
       "company": "Experian",
       "location": "Costa Rica",
@@ -302,5 +345,49 @@
       "verdict": "bueno"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "title": "QA Engineer SSR",
+      "company": "",
+      "location": "hybrid",
+      "description": " -Gestión de pruebas ( Azure Test Plans o Jira + Xray/Zephyr) -Pruebas funcionales ( Azure Test Plans, Jira ) -APIs (Postman + Newman) -Automatización web E2E (Playwright) -Rendimiento ( K6 ) -Seguridad dinámica (OWASP ZAP) -Calidad estática (SonarQube)  -CI/CD (Azure Pipelines, GitHub Actions o Jenkins) -Bases de datos (SQL Server, DBeaver o SSMS) -Control de versiones ( Git ) -Mobile (Appium) -Accesibilidad (axe-core o Lighthouse) ",
+      "date": 1784829096,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/qa-engineer-ssr-coderslab-io-quito",
+      "source": "GetOnBoard",
+      "id": "3069294a32f9",
+      "score": 90,
+      "matches": [
+        "Rol QA ✓",
+        "playwright",
+        "postman",
+        "jira",
+        "sql",
+        "test plan",
+        "ci/cd",
+        "github actions"
+      ],
+      "warnings": [],
+      "verdict": "excelente"
+    },
+    {
+      "title": "Advanced QA Automation Engineer",
+      "company": "",
+      "location": "['Colombia', 'Costa Rica']",
+      "description": " WHAT WE DO  Founded in 2007,  Growth Acceleration Partners  (GAP) is a consulting and technology services company. We consult, design, build and modernize revenue-generating software and data engineering solutions for clients. With modernization services and AI tools, we help businesses achieve a competitive advantage through technology. GAP’s remote, integrated engineering teams use end-to-end solutions to innovate and align with your business goals. We have 600+ English-speaking engineers based in Latin America and approximately 20 U.S.-based engineers. With some of the highest customer satisfaction scores in the industry, GAP’s focus is customer and employee success.  GAP is a woman-owned company headquartered in Austin Texas. We are a values-based company focused on growing our people",
+      "date": "",
+      "salary": null,
+      "url": "https://himalayas.app/companies/wearegap/jobs/advanced-qa-automation-engineer",
+      "source": "Himalayas",
+      "id": "9b35efa7a445",
+      "score": 55,
+      "matches": [
+        "Rol QA ✓",
+        "automation",
+        "Remoto/Latam 🌐"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    }
+  ]
 }
