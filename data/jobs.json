@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-07-23T00:02:55.206344+00:00",
-  "total_fetched": 180,
+  "last_updated": "2026-07-23T12:25:52.201131+00:00",
+  "total_fetched": 182,
   "sources": {
-    "Remotive": 35,
-    "WorkingNomads": 43,
+    "Remotive": 36,
+    "WorkingNomads": 45,
     "GetOnBoard": 50,
     "Himalayas": 20,
-    "Jobicy": 32
+    "Jobicy": 31
   },
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "title": "QA Automation (Proyecto 3 Meses)",
@@ -302,29 +302,5 @@
       "verdict": "bueno"
     }
   ],
-  "new_jobs": [
-    {
-      "title": "Analista QA Junior (Funcional y Automatización)",
-      "company": "",
-      "location": "hybrid",
-      "description": " Buscamos a una persona con interés real por la calidad del software, con enfoque en el detalle, disciplina para documentar y buena comunicación para coordinar hallazgos y evidencias.   Requisitos / Conocimientos requeridos    Conceptos de SDLC y STLC.  Diseño y ejecución de casos de prueba.  Reporte y seguimiento de defectos, asegurando trazabilidad entre evidencia, caso y resultado.  Consultas básicas en SQL.  Validación de APIs REST y comprensión del consumo de endpoints.  Uso de Postman.  Interpretación de JSON (estructura, campos y validaciones de respuesta).  Conocimiento básico de herramientas de automatización como Selenium, Playwright, Cypress o UiPath.  Comprensión básica de scripts de automatización y su ejecución/registro.    Competencias y habilidades (soft skills)    Orientac",
-      "date": 1784761313,
-      "salary": null,
-      "url": "https://www.getonbrd.com/jobs/qa-junior-funcional-y-automatizacion-bc-tecnologia-santiago",
-      "source": "GetOnBoard",
-      "id": "8cdc5849dd3a",
-      "score": 70,
-      "matches": [
-        "Rol QA ✓",
-        "playwright",
-        "postman",
-        "selenium",
-        "sql",
-        "cypress",
-        "defect"
-      ],
-      "warnings": [],
-      "verdict": "excelente"
-    }
-  ]
+  "new_jobs": []
 }
