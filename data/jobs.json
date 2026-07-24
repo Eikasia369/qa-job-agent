@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-07-23T18:15:35.370533+00:00",
-  "total_fetched": 181,
+  "last_updated": "2026-07-24T00:04:04.359883+00:00",
+  "total_fetched": 182,
   "sources": {
     "Remotive": 36,
     "WorkingNomads": 44,
     "GetOnBoard": 50,
     "Himalayas": 20,
-    "Jobicy": 31
+    "Jobicy": 32
   },
-  "new_count": 2,
+  "new_count": 1,
   "jobs": [
     {
       "title": "QA Automation (Proyecto 3 Meses)",
@@ -154,6 +154,29 @@
       "verdict": "excelente"
     },
     {
+      "title": "Automation Test Engineer",
+      "company": "",
+      "location": "['United States']",
+      "description": " Responsibilities  Highly skilled and experienced Automation Test Engineer with a strong background in both functional and automation testing of Salesforce applications built using OmniStudio and Lightning Web Components (LWC). The ideal candidate will have hands-on expertise with automation tools such as Selenium, Java, Cucumber, Playwright ,  and AI-based testing tools. The position will play a critical role in ensuring quality across the development lifecycle. This role places a strong emphasis on in-sprint automation, enabling rapid feedback and continuous delivery within Agile teams. Additionally, the position involves API testing for complex insurance applications, using tools like SoapUI and Postman to validate integrations and ensure seamless data flow across systems.  Responsibili",
+      "date": "",
+      "salary": null,
+      "url": "https://himalayas.app/companies/h-w-kaufman-financial-group/jobs/automation-test-engineer-8992968831",
+      "source": "Himalayas",
+      "id": "78ee82f6c06b",
+      "score": 70,
+      "matches": [
+        "Rol QA ✓",
+        "playwright",
+        "postman",
+        "api testing",
+        "automation",
+        "selenium",
+        "agile"
+      ],
+      "warnings": [],
+      "verdict": "excelente"
+    },
+    {
       "title": "QA Automation Engineer / Sector Bancario",
       "company": "",
       "location": "hybrid",
@@ -211,25 +234,6 @@
         "automation",
         "javascript",
         "ci/cd"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
-    },
-    {
-      "title": "Advanced QA Automation Engineer",
-      "company": "",
-      "location": "['Colombia', 'Costa Rica']",
-      "description": " WHAT WE DO  Founded in 2007,  Growth Acceleration Partners  (GAP) is a consulting and technology services company. We consult, design, build and modernize revenue-generating software and data engineering solutions for clients. With modernization services and AI tools, we help businesses achieve a competitive advantage through technology. GAP’s remote, integrated engineering teams use end-to-end solutions to innovate and align with your business goals. We have 600+ English-speaking engineers based in Latin America and approximately 20 U.S.-based engineers. With some of the highest customer satisfaction scores in the industry, GAP’s focus is customer and employee success.  GAP is a woman-owned company headquartered in Austin Texas. We are a values-based company focused on growing our people",
-      "date": "",
-      "salary": null,
-      "url": "https://himalayas.app/companies/wearegap/jobs/advanced-qa-automation-engineer",
-      "source": "Himalayas",
-      "id": "9b35efa7a445",
-      "score": 55,
-      "matches": [
-        "Rol QA ✓",
-        "automation",
-        "Remoto/Latam 🌐"
       ],
       "warnings": [],
       "verdict": "bueno"
@@ -347,47 +351,27 @@
   ],
   "new_jobs": [
     {
-      "title": "QA Engineer SSR",
+      "title": "Automation Test Engineer",
       "company": "",
-      "location": "hybrid",
-      "description": " -Gestión de pruebas ( Azure Test Plans o Jira + Xray/Zephyr) -Pruebas funcionales ( Azure Test Plans, Jira ) -APIs (Postman + Newman) -Automatización web E2E (Playwright) -Rendimiento ( K6 ) -Seguridad dinámica (OWASP ZAP) -Calidad estática (SonarQube)  -CI/CD (Azure Pipelines, GitHub Actions o Jenkins) -Bases de datos (SQL Server, DBeaver o SSMS) -Control de versiones ( Git ) -Mobile (Appium) -Accesibilidad (axe-core o Lighthouse) ",
-      "date": 1784829096,
+      "location": "['United States']",
+      "description": " Responsibilities  Highly skilled and experienced Automation Test Engineer with a strong background in both functional and automation testing of Salesforce applications built using OmniStudio and Lightning Web Components (LWC). The ideal candidate will have hands-on expertise with automation tools such as Selenium, Java, Cucumber, Playwright ,  and AI-based testing tools. The position will play a critical role in ensuring quality across the development lifecycle. This role places a strong emphasis on in-sprint automation, enabling rapid feedback and continuous delivery within Agile teams. Additionally, the position involves API testing for complex insurance applications, using tools like SoapUI and Postman to validate integrations and ensure seamless data flow across systems.  Responsibili",
+      "date": "",
       "salary": null,
-      "url": "https://www.getonbrd.com/jobs/qa-engineer-ssr-coderslab-io-quito",
-      "source": "GetOnBoard",
-      "id": "3069294a32f9",
-      "score": 90,
+      "url": "https://himalayas.app/companies/h-w-kaufman-financial-group/jobs/automation-test-engineer-8992968831",
+      "source": "Himalayas",
+      "id": "78ee82f6c06b",
+      "score": 70,
       "matches": [
         "Rol QA ✓",
         "playwright",
         "postman",
-        "jira",
-        "sql",
-        "test plan",
-        "ci/cd",
-        "github actions"
+        "api testing",
+        "automation",
+        "selenium",
+        "agile"
       ],
       "warnings": [],
       "verdict": "excelente"
-    },
-    {
-      "title": "Advanced QA Automation Engineer",
-      "company": "",
-      "location": "['Colombia', 'Costa Rica']",
-      "description": " WHAT WE DO  Founded in 2007,  Growth Acceleration Partners  (GAP) is a consulting and technology services company. We consult, design, build and modernize revenue-generating software and data engineering solutions for clients. With modernization services and AI tools, we help businesses achieve a competitive advantage through technology. GAP’s remote, integrated engineering teams use end-to-end solutions to innovate and align with your business goals. We have 600+ English-speaking engineers based in Latin America and approximately 20 U.S.-based engineers. With some of the highest customer satisfaction scores in the industry, GAP’s focus is customer and employee success.  GAP is a woman-owned company headquartered in Austin Texas. We are a values-based company focused on growing our people",
-      "date": "",
-      "salary": null,
-      "url": "https://himalayas.app/companies/wearegap/jobs/advanced-qa-automation-engineer",
-      "source": "Himalayas",
-      "id": "9b35efa7a445",
-      "score": 55,
-      "matches": [
-        "Rol QA ✓",
-        "automation",
-        "Remoto/Latam 🌐"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
     }
   ]
 }
