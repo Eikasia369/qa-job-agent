@@ -1,262 +1,15 @@
 {
-  "last_updated": "2026-07-24T00:04:04.359883+00:00",
-  "total_fetched": 182,
+  "last_updated": "2026-07-24T12:22:14.443136+00:00",
+  "total_fetched": 130,
   "sources": {
-    "Remotive": 36,
-    "WorkingNomads": 44,
-    "GetOnBoard": 50,
+    "Remotive": 35,
+    "WorkingNomads": 43,
+    "GetOnBoard": 0,
     "Himalayas": 20,
     "Jobicy": 32
   },
   "new_count": 1,
   "jobs": [
-    {
-      "title": "QA Automation (Proyecto 3 Meses)",
-      "company": "",
-      "location": "fully_remote",
-      "description": "  Experiencia mínima de 5 años en roles de automatización de pruebas o como desarrollador de software (SDET).  Inglés Avanzado.  Dominio de al menos un lenguaje de programación enfocado en QA (ej. Python, Java, JavaScript, TypeScript o C#).  Experiencia sólida utilizando frameworks de automatización modernos (ej. Cypress, Playwright, Selenium o Appium).  Experiencia en automatización de pruebas de APIs (RESTful/GraphQL).  Conocimiento práctico en herramientas de control de versiones (Git) y plataformas CI/CD (ej. Jenkins, GitHub Actions, GitLab CI).  Capacidad analítica para resolver problemas complejos y sólidas bases en arquitectura de software y bases de datos (SQL).  ",
-      "date": 1784153497,
-      "salary": null,
-      "url": "https://www.getonbrd.com/jobs/qa-proyecto-3-meses-leytonmedia-santiago-bbbb",
-      "source": "GetOnBoard",
-      "id": "acdfbf045462",
-      "score": 100,
-      "matches": [
-        "Rol QA ✓",
-        "playwright",
-        "automation",
-        "selenium",
-        "javascript",
-        "typescript",
-        "sql",
-        "cypress"
-      ],
-      "warnings": [],
-      "verdict": "excelente"
-    },
-    {
-      "title": "QA Engineer (Automation)",
-      "company": "",
-      "location": "fully_remote",
-      "description": "  Experience: 3+ years in a QA or SDET role on a SaaS product.  Black-Box Testing: Strong instincts for functional testing, exploratory testing, user flow validation, and edge case identification.  White-Box Fundamentals: Comfortable reading code, contributing to unit/integration test coverage, and collaborating with developers at the code level.  JavaScript Proficiency: Hands-on experience with test automation in JavaScript (Playwright, Cypress, or similar).  API Testing: Experience testing REST APIs via Postman, pytest, or equivalent tooling.  Data Awareness: Familiarity with MongoDB or complex data structures where accuracy is non-negotiable.  The Right Mindset: You thrive in a startup environment. You are analytical, detail-obsessed, and take initiative to find problems before users do",
-      "date": 1784659891,
-      "salary": "3000–4000",
-      "url": "https://www.getonbrd.com/jobs/qa-engineer-automation-molten-cloud-remote",
-      "source": "GetOnBoard",
-      "id": "9a02669bfd1d",
-      "score": 95,
-      "matches": [
-        "Rol QA ✓",
-        "playwright",
-        "postman",
-        "api testing",
-        "automation",
-        "javascript",
-        "cypress",
-        "functional testing"
-      ],
-      "warnings": [],
-      "verdict": "excelente"
-    },
-    {
-      "title": "QA Engineer SSR",
-      "company": "",
-      "location": "hybrid",
-      "description": " -Gestión de pruebas ( Azure Test Plans o Jira + Xray/Zephyr) -Pruebas funcionales ( Azure Test Plans, Jira ) -APIs (Postman + Newman) -Automatización web E2E (Playwright) -Rendimiento ( K6 ) -Seguridad dinámica (OWASP ZAP) -Calidad estática (SonarQube)  -CI/CD (Azure Pipelines, GitHub Actions o Jenkins) -Bases de datos (SQL Server, DBeaver o SSMS) -Control de versiones ( Git ) -Mobile (Appium) -Accesibilidad (axe-core o Lighthouse) ",
-      "date": 1784829096,
-      "salary": null,
-      "url": "https://www.getonbrd.com/jobs/qa-engineer-ssr-coderslab-io-quito",
-      "source": "GetOnBoard",
-      "id": "3069294a32f9",
-      "score": 90,
-      "matches": [
-        "Rol QA ✓",
-        "playwright",
-        "postman",
-        "jira",
-        "sql",
-        "test plan",
-        "ci/cd",
-        "github actions"
-      ],
-      "warnings": [],
-      "verdict": "excelente"
-    },
-    {
-      "title": "QA Manual (Proyecto 3 Meses)",
-      "company": "",
-      "location": "fully_remote",
-      "description": "  Experiencia mínima de 5 años trabajando como QA Manual en equipos de desarrollo de software.  Inglés avanzado.  Conocimiento sólido del ciclo de vida del desarrollo de software (SDLC) y metodologías ágiles (Scrum/Kanban).  Experiencia comprobable en la redacción de casos de prueba estructurados y reportes de bugs.  Manejo de herramientas de gestión de proyectos y testing (ej. Jira, TestRail, Zephyr, Trello).  Conocimientos básicos/intermedios en pruebas de API (ej. Postman) y uso de herramientas de desarrollador del navegador (DevTools).  Excelente atención al detalle, pensamiento crítico y fuertes habilidades de comunicación.  ",
-      "date": 1784153353,
-      "salary": null,
-      "url": "https://www.getonbrd.com/jobs/qa-proyecto-3-meses-leytonmedia-santiago-50c5",
-      "source": "GetOnBoard",
-      "id": "ba2efc616ae3",
-      "score": 80,
-      "matches": [
-        "Rol QA ✓",
-        "postman",
-        "jira",
-        "scrum",
-        "bug",
-        "zephyr",
-        "testrail",
-        "Remoto/Latam 🌐"
-      ],
-      "warnings": [],
-      "verdict": "excelente"
-    },
-    {
-      "title": "Senior QA Analyst",
-      "company": "",
-      "location": "fully_remote",
-      "description": "  English proficiency (C1) is necessary  5+ years of manual testing experience across web and mobile applications.  Certification or related degree in Quality Assurance.  Working knowledge of automation testing tools.  Strong attention to detail with the ability to balance perfection with business priorities.  Strong understanding of UI/UX principles and ability to evaluate products from an end-user perspective.  Experience in writing clear, concise, and comprehensive test plans and test cases.  Experience working in agile methodology.  Strong knowledge of software QA methodologies, tools, and processes.  Exceptional verbal and written communication abilities.  ",
-      "date": 1784117400,
-      "salary": "900–1500",
-      "url": "https://www.getonbrd.com/jobs/senior-qa-analyst-brain-box-labs-remote",
-      "source": "GetOnBoard",
-      "id": "9a17c5fc9924",
-      "score": 80,
-      "matches": [
-        "Rol QA ✓",
-        "automation",
-        "agile",
-        "manual testing",
-        "test case",
-        "test plan",
-        "Remoto/Latam 🌐",
-        "Salario 💰"
-      ],
-      "warnings": [],
-      "verdict": "excelente"
-    },
-    {
-      "title": "Analista QA Junior (Funcional y Automatización)",
-      "company": "",
-      "location": "hybrid",
-      "description": " Buscamos a una persona con interés real por la calidad del software, con enfoque en el detalle, disciplina para documentar y buena comunicación para coordinar hallazgos y evidencias.   Requisitos / Conocimientos requeridos    Conceptos de SDLC y STLC.  Diseño y ejecución de casos de prueba.  Reporte y seguimiento de defectos, asegurando trazabilidad entre evidencia, caso y resultado.  Consultas básicas en SQL.  Validación de APIs REST y comprensión del consumo de endpoints.  Uso de Postman.  Interpretación de JSON (estructura, campos y validaciones de respuesta).  Conocimiento básico de herramientas de automatización como Selenium, Playwright, Cypress o UiPath.  Comprensión básica de scripts de automatización y su ejecución/registro.    Competencias y habilidades (soft skills)    Orientac",
-      "date": 1784761313,
-      "salary": null,
-      "url": "https://www.getonbrd.com/jobs/qa-junior-funcional-y-automatizacion-bc-tecnologia-santiago",
-      "source": "GetOnBoard",
-      "id": "8cdc5849dd3a",
-      "score": 70,
-      "matches": [
-        "Rol QA ✓",
-        "playwright",
-        "postman",
-        "selenium",
-        "sql",
-        "cypress",
-        "defect"
-      ],
-      "warnings": [],
-      "verdict": "excelente"
-    },
-    {
-      "title": "Automation Test Engineer",
-      "company": "",
-      "location": "['United States']",
-      "description": " Responsibilities  Highly skilled and experienced Automation Test Engineer with a strong background in both functional and automation testing of Salesforce applications built using OmniStudio and Lightning Web Components (LWC). The ideal candidate will have hands-on expertise with automation tools such as Selenium, Java, Cucumber, Playwright ,  and AI-based testing tools. The position will play a critical role in ensuring quality across the development lifecycle. This role places a strong emphasis on in-sprint automation, enabling rapid feedback and continuous delivery within Agile teams. Additionally, the position involves API testing for complex insurance applications, using tools like SoapUI and Postman to validate integrations and ensure seamless data flow across systems.  Responsibili",
-      "date": "",
-      "salary": null,
-      "url": "https://himalayas.app/companies/h-w-kaufman-financial-group/jobs/automation-test-engineer-8992968831",
-      "source": "Himalayas",
-      "id": "78ee82f6c06b",
-      "score": 70,
-      "matches": [
-        "Rol QA ✓",
-        "playwright",
-        "postman",
-        "api testing",
-        "automation",
-        "selenium",
-        "agile"
-      ],
-      "warnings": [],
-      "verdict": "excelente"
-    },
-    {
-      "title": "QA Automation Engineer / Sector Bancario",
-      "company": "",
-      "location": "hybrid",
-      "description": "  Mínimo 2 años de experiencia comprobada como Ingeniero QA.  Experiencia en automatización de pruebas de software.  Habilidades de programación básicas a intermedias.  Experiencia en pruebas de software, preferiblemente en entornos de desarrollo de modelos de datos.  Conocimiento en metodologías de pruebas y diseño de casos de prueba.  Manejo de bases de datos SQL y NoSQL.  Experiencia con herramientas de automatización como Serenity, Karate, K6, Cypress, Protractor, TestCafe, Appium, entre otras.    Deseables:    Certificación ISTQB o similar.  Conocimiento de buenas prácticas de desarrollo: Git, TDD, revisiones de código, CI/CD.  Experiencia en herramientas RPA (Robotic Process Automation).  Experiencia previa en entornos ágiles.  Uso de herramientas de inteligencia artificial en proces",
-      "date": 1784245944,
-      "salary": null,
-      "url": "https://www.getonbrd.com/jobs/qa-automation-engineer-sector-bancario-devsu-quito-954e",
-      "source": "GetOnBoard",
-      "id": "c946c92ae33e",
-      "score": 65,
-      "matches": [
-        "Rol QA ✓",
-        "automation",
-        "sql",
-        "cypress",
-        "ci/cd",
-        "appium"
-      ],
-      "warnings": [],
-      "verdict": "excelente"
-    },
-    {
-      "title": "QA Engineer",
-      "company": "",
-      "location": "fully_remote",
-      "description": " Buscamos un  Ingeniero QA  con experiencia comprobable en automatización de pruebas y su integración en procesos de entrega continua. El objetivo es garantizar la máxima cobertura, calidad y estabilidad del software, mejorando la eficiencia del equipo y la confiabilidad de los releases.   Requisitos     Formación:  profesional en Ingeniería, Sistemas, Informática o carreras afines.   Experiencia:3 años  en roles de QA enfocados en automatización.    Competencias     Automatización:  capacidad para diseñar frameworks reutilizables, codificar y mantener scripts de prueba, y asegurar alta cobertura.   Integración en CI/CD:  experiencia integrando suites automatizadas en pipelines de entrega continua.   Calidad y rendimiento:  ejecución y análisis de pruebas de carga, estrés y performance, id",
-      "date": 1784230275,
-      "salary": "1400–2300",
-      "url": "https://www.getonbrd.com/jobs/qa-engineer-factor-it-remote",
-      "source": "GetOnBoard",
-      "id": "24697a2d946e",
-      "score": 60,
-      "matches": [
-        "Rol QA ✓",
-        "ci/cd",
-        "Remoto/Latam 🌐",
-        "Salario 💰"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
-    },
-    {
-      "title": "QA Automation Senior",
-      "company": "",
-      "location": "hybrid",
-      "description": " Formación   Profesional en Ingeniería de Sistemas, Ingeniería Informática, Ingeniería Civil Informática o carreras afines.   Experiencia   Mínimo 5 años de experiencia en QA. Entre 4 y 6 años de experiencia enfocada en automatización de pruebas.  Experiencia diseñando y manteniendo frameworks de automatización.  Participación en equipos ágiles y squads multidisciplinarios.  Experiencia integrando automatización en procesos DevOps y CI/CD.   Conocimientos técnicos indispensables   Automatización avanzada de pruebas funcionales.  Diseño y mantenimiento de frameworks de automatización.  Integración de pruebas automatizadas en pipelines CI/CD.  Programación para automatización utilizando Java, Python o JavaScript.  Gestión de cobertura de pruebas y métricas de calidad.  Manejo de GitHub y/o G",
-      "date": 1784058396,
-      "salary": null,
-      "url": "https://www.getonbrd.com/jobs/qa-automatizador-senior-factor-it-santiago",
-      "source": "GetOnBoard",
-      "id": "19afeb77c868",
-      "score": 55,
-      "matches": [
-        "Rol QA ✓",
-        "automation",
-        "javascript",
-        "ci/cd"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
-    },
-    {
-      "title": "Senior Quality Assurance Automation Engineer",
-      "company": "Experian",
-      "location": "Costa Rica",
-      "description": " Company Description  Experian is a global data and technology company, powering opportunities for people and businesses around the world. We operate across a range of markets, from financial services to healthcare, automotive, agribusiness, insurance, and many more. Experian invests in people and new advanced technologies to unlock the power of data. We have an amazing team of 25,200 people in 32 countries.   Job Description  Experian is looking for a Senior QA Automation Engineer to test and maintain core enterprise systems while providing technical leadership across distributed teams in the United States and India. You will blend manual and automated test creation with operational ownership, helping engineering teams deliver secure, reliable, and scalable software. You will report to th",
-      "date": "2026-06-23T02:51:41+00:00",
-      "salary": null,
-      "url": "https://jobicy.com/jobs/144474-senior-quality-assurance-automation-engineer",
-      "source": "Jobicy",
-      "id": "5fdbe8c3ab94",
-      "score": 55,
-      "matches": [
-        "Rol QA ✓",
-        "automation",
-        "Remoto/Latam 🌐"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
-    },
     {
       "title": "Project Chiron - Spanish (Latin America) Quality Control Specialist",
       "company": "Welo Global",
@@ -290,24 +43,6 @@
       "matches": [
         "Rol QA ✓",
         "Remoto/Latam 🌐"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
-    },
-    {
-      "title": "Analista QA Sr",
-      "company": "",
-      "location": "hybrid",
-      "description": " -Experiencia en diseñar e implementar planes, escenarios y casos de prueba -Experiencia en definir estrategias de testing basadas en riesgos -Experiencia gestionado bugs, evaluando impacto de fixes y coordinando regresiones -Experiencia en ejecución pruebas en web, mobile (iOS/Android) y APIs/microservicios -Experiencia generando y gestionado data de prueba ",
-      "date": 1784643877,
-      "salary": null,
-      "url": "https://www.getonbrd.com/jobs/analista-qa-coderslab-io-santiago-9bab",
-      "source": "GetOnBoard",
-      "id": "7406f9ed8c65",
-      "score": 45,
-      "matches": [
-        "Rol QA ✓",
-        "bug"
       ],
       "warnings": [],
       "verdict": "bueno"
@@ -347,31 +82,42 @@
       ],
       "warnings": [],
       "verdict": "bueno"
+    },
+    {
+      "title": "Anesthesia Coding QA Specialist III - Remote",
+      "company": "",
+      "location": "['United States']",
+      "description": "   Overview  The Anesthesia Coding QA Specialist III – RCM supports our coding QA process and coder and provider documentation integrity and education. This role provides clinical documentation review to support correct coding and regulatory compliance and is responsible for reviewing professional coding accuracy and quality and educational feedback to coders and providers.   At this time,  US Anesthesia Partners  does not hire candidates residing in California, Hawaii, or Alaska.    The base pay estimate for this role is $60,800 - $103,400 annually. The final offer will depend on the skills, experience, and qualifications of the selected candidate. This range is for base pay only and does not include bonuses or other compensation. This position is eligible for an annual bonus. Bonuses are",
+      "date": "",
+      "salary": null,
+      "url": "https://himalayas.app/companies/us-anesthesia-partners/jobs/anesthesia-coding-qa-specialist-iii-remote-3156231468",
+      "source": "Himalayas",
+      "id": "e06fd295ddfb",
+      "score": 40,
+      "matches": [
+        "Rol QA ✓"
+      ],
+      "warnings": [],
+      "verdict": "regular"
     }
   ],
   "new_jobs": [
     {
-      "title": "Automation Test Engineer",
+      "title": "Anesthesia Coding QA Specialist III - Remote",
       "company": "",
       "location": "['United States']",
-      "description": " Responsibilities  Highly skilled and experienced Automation Test Engineer with a strong background in both functional and automation testing of Salesforce applications built using OmniStudio and Lightning Web Components (LWC). The ideal candidate will have hands-on expertise with automation tools such as Selenium, Java, Cucumber, Playwright ,  and AI-based testing tools. The position will play a critical role in ensuring quality across the development lifecycle. This role places a strong emphasis on in-sprint automation, enabling rapid feedback and continuous delivery within Agile teams. Additionally, the position involves API testing for complex insurance applications, using tools like SoapUI and Postman to validate integrations and ensure seamless data flow across systems.  Responsibili",
+      "description": "   Overview  The Anesthesia Coding QA Specialist III – RCM supports our coding QA process and coder and provider documentation integrity and education. This role provides clinical documentation review to support correct coding and regulatory compliance and is responsible for reviewing professional coding accuracy and quality and educational feedback to coders and providers.   At this time,  US Anesthesia Partners  does not hire candidates residing in California, Hawaii, or Alaska.    The base pay estimate for this role is $60,800 - $103,400 annually. The final offer will depend on the skills, experience, and qualifications of the selected candidate. This range is for base pay only and does not include bonuses or other compensation. This position is eligible for an annual bonus. Bonuses are",
       "date": "",
       "salary": null,
-      "url": "https://himalayas.app/companies/h-w-kaufman-financial-group/jobs/automation-test-engineer-8992968831",
+      "url": "https://himalayas.app/companies/us-anesthesia-partners/jobs/anesthesia-coding-qa-specialist-iii-remote-3156231468",
       "source": "Himalayas",
-      "id": "78ee82f6c06b",
-      "score": 70,
+      "id": "e06fd295ddfb",
+      "score": 40,
       "matches": [
-        "Rol QA ✓",
-        "playwright",
-        "postman",
-        "api testing",
-        "automation",
-        "selenium",
-        "agile"
+        "Rol QA ✓"
       ],
       "warnings": [],
-      "verdict": "excelente"
+      "verdict": "regular"
     }
   ]
 }
