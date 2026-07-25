@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-24T18:21:25.439321+00:00",
+  "last_updated": "2026-07-25T00:07:21.181595+00:00",
   "total_fetched": 179,
   "sources": {
     "Remotive": 35,
@@ -8,7 +8,7 @@
     "Himalayas": 20,
     "Jobicy": 32
   },
-  "new_count": 2,
+  "new_count": 0,
   "jobs": [
     {
       "title": "QA Automation (Proyecto 3 Meses)",
@@ -348,66 +348,7 @@
       ],
       "warnings": [],
       "verdict": "bueno"
-    },
-    {
-      "title": "Freelance Mobile App Developer (iOS / Android)",
-      "company": "",
-      "location": "['Egypt']",
-      "description": "  Mindrift  is looking for skilled  Mobile App Developers (React Native, Flutter, Swift, or Kotlin)  to join the Tendem project ( https://tendem.ai/ ) and build native and cross-platform mobile applications within our hybrid AI + human environment. In this role, as an AI Pilot – that's how we refer to this position at  Mindrift  – you'll collaborate with Tendem Agents that handle repetitive tasks, while you provide mobile engineering expertise, platform-specific judgment, and quality control to ensure apps are stable, performant, and ready for real users on real devices. This part-time remote opportunity is ideal for professionals with hands-on experience shipping iOS and/or Android apps, working with platform APIs, and handling the full mobile development lifecycle.   What We Do   The  Mi",
-      "date": "",
-      "salary": null,
-      "url": "https://himalayas.app/companies/mindrift/jobs/freelance-mobile-app-developer-ios-android-8948960511",
-      "source": "Himalayas",
-      "id": "fbc4c07a4240",
-      "score": 20,
-      "matches": [
-        "Rol QA (desc)"
-      ],
-      "warnings": [],
-      "verdict": "regular"
     }
   ],
-  "new_jobs": [
-    {
-      "title": "QA Engineer CRM",
-      "company": "",
-      "location": "hybrid",
-      "description": "  Experiencia comprobable como QA Funcional en proyectos de software empresariales.  Experiencia en pruebas funcionales de CRM o plataformas de Customer Service.  Conocimiento sólido de procesos de atención al cliente / postventa.  Experiencia en diseño y ejecución de casos de prueba, matrices de cobertura y trazabilidad  Manejo de herramientas de gestión de pruebas y defectos.  Experiencia trabajando bajo lineamientos de un QA Tech Lead.  Pruebas WMS, API REST, móviles (Android/iOS) o BI.  Pruebas de regresión estructuradas y validación end-to-end.  Capacidad de análisis funcional y validación de reglas de negocio complejas.  Gestión de pruebas: Xray, Zephyr, TestRail.  Automatización UI: Playwright, Cypress, Selenium 4.  Automatización API: Postman, REST Assured, Karate DSL.  Gestión de ",
-      "date": 1784903769,
-      "salary": null,
-      "url": "https://www.getonbrd.com/jobs/qa-engineer-crm-coderslab-io-santiago",
-      "source": "GetOnBoard",
-      "id": "21ece3205f3c",
-      "score": 80,
-      "matches": [
-        "Rol QA ✓",
-        "playwright",
-        "postman",
-        "api rest",
-        "selenium",
-        "cypress",
-        "defect",
-        "zephyr"
-      ],
-      "warnings": [],
-      "verdict": "excelente"
-    },
-    {
-      "title": "Freelance Mobile App Developer (iOS / Android)",
-      "company": "",
-      "location": "['Egypt']",
-      "description": "  Mindrift  is looking for skilled  Mobile App Developers (React Native, Flutter, Swift, or Kotlin)  to join the Tendem project ( https://tendem.ai/ ) and build native and cross-platform mobile applications within our hybrid AI + human environment. In this role, as an AI Pilot – that's how we refer to this position at  Mindrift  – you'll collaborate with Tendem Agents that handle repetitive tasks, while you provide mobile engineering expertise, platform-specific judgment, and quality control to ensure apps are stable, performant, and ready for real users on real devices. This part-time remote opportunity is ideal for professionals with hands-on experience shipping iOS and/or Android apps, working with platform APIs, and handling the full mobile development lifecycle.   What We Do   The  Mi",
-      "date": "",
-      "salary": null,
-      "url": "https://himalayas.app/companies/mindrift/jobs/freelance-mobile-app-developer-ios-android-8948960511",
-      "source": "Himalayas",
-      "id": "fbc4c07a4240",
-      "score": 20,
-      "matches": [
-        "Rol QA (desc)"
-      ],
-      "warnings": [],
-      "verdict": "regular"
-    }
-  ]
+  "new_jobs": []
 }
