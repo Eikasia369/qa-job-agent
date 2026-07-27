@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-27T13:40:18.347794+00:00",
+  "last_updated": "2026-07-27T18:25:16.097500+00:00",
   "total_fetched": 179,
   "sources": {
     "Remotive": 36,
@@ -63,7 +63,7 @@
       "company": "",
       "location": "hybrid",
       "description": " -Gestión de pruebas ( Azure Test Plans o Jira + Xray/Zephyr) -Pruebas funcionales ( Azure Test Plans, Jira ) -APIs (Postman + Newman) -Automatización web E2E (Playwright) -Rendimiento ( K6 ) -Seguridad dinámica (OWASP ZAP) -Calidad estática (SonarQube)  -CI/CD (Azure Pipelines, GitHub Actions o Jenkins) -Bases de datos (SQL Server, DBeaver o SSMS) -Control de versiones ( Git ) -Mobile (Appium) -Accesibilidad (axe-core o Lighthouse) ",
-      "date": 1784893254,
+      "date": 1785174560,
       "salary": null,
       "url": "https://www.getonbrd.com/jobs/qa-engineer-ssr-coderslab-io-quito",
       "source": "GetOnBoard",
@@ -87,7 +87,7 @@
       "company": "",
       "location": "hybrid",
       "description": "  Experiencia comprobable como QA Funcional en proyectos de software empresariales.  Experiencia en pruebas funcionales de CRM o plataformas de Customer Service.  Conocimiento sólido de procesos de atención al cliente / postventa.  Experiencia en diseño y ejecución de casos de prueba, matrices de cobertura y trazabilidad  Manejo de herramientas de gestión de pruebas y defectos.  Experiencia trabajando bajo lineamientos de un QA Tech Lead.  Pruebas WMS, API REST, móviles (Android/iOS) o BI.  Pruebas de regresión estructuradas y validación end-to-end.  Capacidad de análisis funcional y validación de reglas de negocio complejas.  Gestión de pruebas: Xray, Zephyr, TestRail.  Automatización UI: Playwright, Cypress, Selenium 4.  Automatización API: Postman, REST Assured, Karate DSL.  Gestión de ",
-      "date": 1784903769,
+      "date": 1785174449,
       "salary": null,
       "url": "https://www.getonbrd.com/jobs/qa-engineer-crm-coderslab-io-santiago",
       "source": "GetOnBoard",
@@ -220,26 +220,6 @@
       "verdict": "bueno"
     },
     {
-      "title": "QA Automation Senior",
-      "company": "",
-      "location": "hybrid",
-      "description": " Formación   Profesional en Ingeniería de Sistemas, Ingeniería Informática, Ingeniería Civil Informática o carreras afines.   Experiencia   Mínimo 5 años de experiencia en QA. Entre 4 y 6 años de experiencia enfocada en automatización de pruebas.  Experiencia diseñando y manteniendo frameworks de automatización.  Participación en equipos ágiles y squads multidisciplinarios.  Experiencia integrando automatización en procesos DevOps y CI/CD.   Conocimientos técnicos indispensables   Automatización avanzada de pruebas funcionales.  Diseño y mantenimiento de frameworks de automatización.  Integración de pruebas automatizadas en pipelines CI/CD.  Programación para automatización utilizando Java, Python o JavaScript.  Gestión de cobertura de pruebas y métricas de calidad.  Manejo de GitHub y/o G",
-      "date": 1784058396,
-      "salary": null,
-      "url": "https://www.getonbrd.com/jobs/qa-automatizador-senior-factor-it-santiago",
-      "source": "GetOnBoard",
-      "id": "19afeb77c868",
-      "score": 55,
-      "matches": [
-        "Rol QA ✓",
-        "automation",
-        "javascript",
-        "ci/cd"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
-    },
-    {
       "title": "Senior Quality Assurance Automation Engineer",
       "company": "Experian",
       "location": "Costa Rica",
@@ -300,7 +280,7 @@
       "company": "",
       "location": "hybrid",
       "description": " -Experiencia en diseñar e implementar planes, escenarios y casos de prueba -Experiencia en definir estrategias de testing basadas en riesgos -Experiencia gestionado bugs, evaluando impacto de fixes y coordinando regresiones -Experiencia en ejecución pruebas en web, mobile (iOS/Android) y APIs/microservicios -Experiencia generando y gestionado data de prueba ",
-      "date": 1784893702,
+      "date": 1785174658,
       "salary": null,
       "url": "https://www.getonbrd.com/jobs/analista-qa-coderslab-io-santiago-9bab",
       "source": "GetOnBoard",
