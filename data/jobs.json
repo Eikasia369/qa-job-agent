@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-07-28T00:05:18.169491+00:00",
-  "total_fetched": 179,
+  "last_updated": "2026-07-28T12:56:34.491842+00:00",
+  "total_fetched": 181,
   "sources": {
     "Remotive": 36,
-    "WorkingNomads": 41,
+    "WorkingNomads": 43,
     "GetOnBoard": 50,
     "Himalayas": 20,
     "Jobicy": 32
   },
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "title": "QA Automation (Proyecto 3 Meses)",
@@ -328,42 +328,7 @@
       ],
       "warnings": [],
       "verdict": "bueno"
-    },
-    {
-      "title": "Senior Software Quality Assurance Engineer",
-      "company": "",
-      "location": "['Turkey']",
-      "description": " Before jumping into all the information about the role and what you can bring to the table, let us introduce ourselves real quick.  About us   Insider One  is the  #1 platform  that brings everything marketing and customer engagement teams need in one place so they can reach their peak potential and  become unstoppable.    Our story began with six desks and a vision to create a single platform to make industry-first technologies and emerging channels accessible to marketers worldwide. Today,  Insider One  is powered  by 1,500+ team members representing 50+ nationalities across 30+ offices .  With AI at its core and an integrated Customer Data Platform (CDP),   Insider One  unites data, personalization, and journey orchestration across the most extensive set of natively supported channels ",
-      "date": "",
-      "salary": null,
-      "url": "https://himalayas.app/companies/insider-one/jobs/senior-software-quality-assurance-engineer",
-      "source": "Himalayas",
-      "id": "fab9a056b2ba",
-      "score": 40,
-      "matches": [
-        "Rol QA ✓"
-      ],
-      "warnings": [],
-      "verdict": "regular"
     }
   ],
-  "new_jobs": [
-    {
-      "title": "Senior Software Quality Assurance Engineer",
-      "company": "",
-      "location": "['Turkey']",
-      "description": " Before jumping into all the information about the role and what you can bring to the table, let us introduce ourselves real quick.  About us   Insider One  is the  #1 platform  that brings everything marketing and customer engagement teams need in one place so they can reach their peak potential and  become unstoppable.    Our story began with six desks and a vision to create a single platform to make industry-first technologies and emerging channels accessible to marketers worldwide. Today,  Insider One  is powered  by 1,500+ team members representing 50+ nationalities across 30+ offices .  With AI at its core and an integrated Customer Data Platform (CDP),   Insider One  unites data, personalization, and journey orchestration across the most extensive set of natively supported channels ",
-      "date": "",
-      "salary": null,
-      "url": "https://himalayas.app/companies/insider-one/jobs/senior-software-quality-assurance-engineer",
-      "source": "Himalayas",
-      "id": "fab9a056b2ba",
-      "score": 40,
-      "matches": [
-        "Rol QA ✓"
-      ],
-      "warnings": [],
-      "verdict": "regular"
-    }
-  ]
+  "new_jobs": []
 }
