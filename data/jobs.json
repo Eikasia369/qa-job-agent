@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-07-28T12:56:34.491842+00:00",
-  "total_fetched": 181,
+  "last_updated": "2026-07-28T18:17:22.389222+00:00",
+  "total_fetched": 182,
   "sources": {
     "Remotive": 36,
-    "WorkingNomads": 43,
+    "WorkingNomads": 44,
     "GetOnBoard": 50,
     "Himalayas": 20,
     "Jobicy": 32
   },
-  "new_count": 0,
+  "new_count": 1,
   "jobs": [
     {
       "title": "QA Automation (Proyecto 3 Meses)",
@@ -63,7 +63,7 @@
       "company": "",
       "location": "hybrid",
       "description": " -Gestión de pruebas ( Azure Test Plans o Jira + Xray/Zephyr) -Pruebas funcionales ( Azure Test Plans, Jira ) -APIs (Postman + Newman) -Automatización web E2E (Playwright) -Rendimiento ( K6 ) -Seguridad dinámica (OWASP ZAP) -Calidad estática (SonarQube)  -CI/CD (Azure Pipelines, GitHub Actions o Jenkins) -Bases de datos (SQL Server, DBeaver o SSMS) -Control de versiones ( Git ) -Mobile (Appium) -Accesibilidad (axe-core o Lighthouse) ",
-      "date": 1785174560,
+      "date": 1785247984,
       "salary": null,
       "url": "https://www.getonbrd.com/jobs/qa-engineer-ssr-coderslab-io-quito",
       "source": "GetOnBoard",
@@ -87,7 +87,7 @@
       "company": "",
       "location": "hybrid",
       "description": "  Experiencia comprobable como QA Funcional en proyectos de software empresariales.  Experiencia en pruebas funcionales de CRM o plataformas de Customer Service.  Conocimiento sólido de procesos de atención al cliente / postventa.  Experiencia en diseño y ejecución de casos de prueba, matrices de cobertura y trazabilidad  Manejo de herramientas de gestión de pruebas y defectos.  Experiencia trabajando bajo lineamientos de un QA Tech Lead.  Pruebas WMS, API REST, móviles (Android/iOS) o BI.  Pruebas de regresión estructuradas y validación end-to-end.  Capacidad de análisis funcional y validación de reglas de negocio complejas.  Gestión de pruebas: Xray, Zephyr, TestRail.  Automatización UI: Playwright, Cypress, Selenium 4.  Automatización API: Postman, REST Assured, Karate DSL.  Gestión de ",
-      "date": 1785174449,
+      "date": 1785261676,
       "salary": null,
       "url": "https://www.getonbrd.com/jobs/qa-engineer-crm-coderslab-io-santiago",
       "source": "GetOnBoard",
@@ -220,6 +220,46 @@
       "verdict": "bueno"
     },
     {
+      "title": "Senior Software QA Engineer",
+      "company": "",
+      "location": "fully_remote",
+      "description": " Buscamos un profesional con experiencia en pruebas de integración, análisis de causa raíz (Root Cause Analysis) y automatización de procesos QA, capaz de diseñar estrategias de calidad que aseguren la confiabilidad de la plataforma. REQUIERE INGLES AVANZADO (C1-C2)   Más de  4 años  de experiencia en  Software QA  o  Software Engineering .  Experiencia en  pruebas de integración automatizadas .  Experiencia realizando  Root Cause Analysis (RCA) .  Conocimiento en  pruebas de RESTful APIs .  Manejo de  SQL  y  PostgreSQL .  Capacidad para  analizar logs  y  depurar incidencias .   Inglés avanzado .   Además, valoramos competencias para el éxito en el rol:  pensamiento analítico ,  atención al detalle ,  resolución de problemas ,  comunicación efectiva ,  trabajo colaborativo  y  proactivid",
+      "date": 1784126748,
+      "salary": "1400–1800",
+      "url": "https://www.getonbrd.com/jobs/senior-software-qa-engineer-devups-remote",
+      "source": "GetOnBoard",
+      "id": "6fa077c70d06",
+      "score": 60,
+      "matches": [
+        "Rol QA ✓",
+        "sql",
+        "Remoto/Latam 🌐",
+        "Salario 💰"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    },
+    {
+      "title": "Ingeniero/a QA",
+      "company": "",
+      "location": "hybrid",
+      "description": " Esperamos que tengas sólidos fundamentos en testing de software, idealmente con certificación ISTQB Foundation.  En automatización web, buscamos a alguien con experiencia real en Selenium usando Page Object Model y Page Factory, con manejo fluido de locators (XPath, CSS, ID), tipos de esperas, Shadow DOM y Cucumber.  Para pruebas de API y servicios SOAP, deberás manejar Karate Framework y Rest Assured como herramientas principales, complementadas con Postman y SoapUI para exploración y validación manual.  En cuanto a lenguajes y herramientas del día a día, necesitamos que te desenvuelvas con Java orientado a objetos a nivel intermedio, que gestiones dependencias con Gradle o Maven, y que uses Git con fluidez a nivel de comandos.  Valoramos que conozcas SQL para validar datos directamente ",
+      "date": 1785249932,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/ingeniero-a-qa-factor-it-santiago-b93e",
+      "source": "GetOnBoard",
+      "id": "5a61e040f38c",
+      "score": 55,
+      "matches": [
+        "Rol QA ✓",
+        "postman",
+        "selenium",
+        "sql"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    },
+    {
       "title": "Senior Quality Assurance Automation Engineer",
       "company": "Experian",
       "location": "Costa Rica",
@@ -280,7 +320,7 @@
       "company": "",
       "location": "hybrid",
       "description": " -Experiencia en diseñar e implementar planes, escenarios y casos de prueba -Experiencia en definir estrategias de testing basadas en riesgos -Experiencia gestionado bugs, evaluando impacto de fixes y coordinando regresiones -Experiencia en ejecución pruebas en web, mobile (iOS/Android) y APIs/microservicios -Experiencia generando y gestionado data de prueba ",
-      "date": 1785174658,
+      "date": 1785248171,
       "salary": null,
       "url": "https://www.getonbrd.com/jobs/analista-qa-coderslab-io-santiago-9bab",
       "source": "GetOnBoard",
@@ -330,5 +370,26 @@
       "verdict": "bueno"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "title": "Ingeniero/a QA",
+      "company": "",
+      "location": "hybrid",
+      "description": " Esperamos que tengas sólidos fundamentos en testing de software, idealmente con certificación ISTQB Foundation.  En automatización web, buscamos a alguien con experiencia real en Selenium usando Page Object Model y Page Factory, con manejo fluido de locators (XPath, CSS, ID), tipos de esperas, Shadow DOM y Cucumber.  Para pruebas de API y servicios SOAP, deberás manejar Karate Framework y Rest Assured como herramientas principales, complementadas con Postman y SoapUI para exploración y validación manual.  En cuanto a lenguajes y herramientas del día a día, necesitamos que te desenvuelvas con Java orientado a objetos a nivel intermedio, que gestiones dependencias con Gradle o Maven, y que uses Git con fluidez a nivel de comandos.  Valoramos que conozcas SQL para validar datos directamente ",
+      "date": 1785249932,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/ingeniero-a-qa-factor-it-santiago-b93e",
+      "source": "GetOnBoard",
+      "id": "5a61e040f38c",
+      "score": 55,
+      "matches": [
+        "Rol QA ✓",
+        "postman",
+        "selenium",
+        "sql"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    }
+  ]
 }
