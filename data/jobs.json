@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-28T18:17:22.389222+00:00",
+  "last_updated": "2026-07-29T00:00:34.023045+00:00",
   "total_fetched": 182,
   "sources": {
     "Remotive": 36,
@@ -8,7 +8,7 @@
     "Himalayas": 20,
     "Jobicy": 32
   },
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "title": "QA Automation (Proyecto 3 Meses)",
@@ -173,6 +173,29 @@
         "sql",
         "cypress",
         "defect"
+      ],
+      "warnings": [],
+      "verdict": "excelente"
+    },
+    {
+      "title": "QA Automation",
+      "company": "",
+      "location": "hybrid",
+      "description": "  Formación:  Carrera de grado en Ingeniería en Informática o carreras afines.  Experiencia:  Mínimo  3 años de experiencia  demostrable en roles de QA Automation.   Conocimientos Técnicos Excluyentes:  •  Automatización Web:  Experiencia sólida y comprobable utilizando  Playwright  y  Selenium  ( Requisitos Primordiales ). Valoramos también el conocimiento en otras herramientas como Cypress, Katalon. •  Gestión de Pruebas:  Uso de plataformas como Jira, Qmetry, Linear, Azure DevOps. •  Seguridad:  Conocimientos básicos de seguridad en entornos SaaS (ej. OWASP).  ",
+      "date": 1784045173,
+      "salary": "1800–2300",
+      "url": "https://www.getonbrd.com/jobs/qa-automation-iconstruye-santiago",
+      "source": "GetOnBoard",
+      "id": "9c624aadee1d",
+      "score": 70,
+      "matches": [
+        "Rol QA ✓",
+        "playwright",
+        "automation",
+        "selenium",
+        "jira",
+        "cypress",
+        "Salario 💰"
       ],
       "warnings": [],
       "verdict": "excelente"
@@ -370,26 +393,5 @@
       "verdict": "bueno"
     }
   ],
-  "new_jobs": [
-    {
-      "title": "Ingeniero/a QA",
-      "company": "",
-      "location": "hybrid",
-      "description": " Esperamos que tengas sólidos fundamentos en testing de software, idealmente con certificación ISTQB Foundation.  En automatización web, buscamos a alguien con experiencia real en Selenium usando Page Object Model y Page Factory, con manejo fluido de locators (XPath, CSS, ID), tipos de esperas, Shadow DOM y Cucumber.  Para pruebas de API y servicios SOAP, deberás manejar Karate Framework y Rest Assured como herramientas principales, complementadas con Postman y SoapUI para exploración y validación manual.  En cuanto a lenguajes y herramientas del día a día, necesitamos que te desenvuelvas con Java orientado a objetos a nivel intermedio, que gestiones dependencias con Gradle o Maven, y que uses Git con fluidez a nivel de comandos.  Valoramos que conozcas SQL para validar datos directamente ",
-      "date": 1785249932,
-      "salary": null,
-      "url": "https://www.getonbrd.com/jobs/ingeniero-a-qa-factor-it-santiago-b93e",
-      "source": "GetOnBoard",
-      "id": "5a61e040f38c",
-      "score": 55,
-      "matches": [
-        "Rol QA ✓",
-        "postman",
-        "selenium",
-        "sql"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
-    }
-  ]
+  "new_jobs": []
 }
