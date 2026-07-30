@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-29T18:09:28.030378+00:00",
+  "last_updated": "2026-07-30T00:03:16.655262+00:00",
   "total_fetched": 181,
   "sources": {
     "Remotive": 35,
@@ -173,29 +173,6 @@
         "sql",
         "cypress",
         "defect"
-      ],
-      "warnings": [],
-      "verdict": "excelente"
-    },
-    {
-      "title": "QA Automation",
-      "company": "",
-      "location": "hybrid",
-      "description": "  Formación:  Carrera de grado en Ingeniería en Informática o carreras afines.  Experiencia:  Mínimo  3 años de experiencia  demostrable en roles de QA Automation.   Conocimientos Técnicos Excluyentes:  •  Automatización Web:  Experiencia sólida y comprobable utilizando  Playwright  y  Selenium  ( Requisitos Primordiales ). Valoramos también el conocimiento en otras herramientas como Cypress, Katalon. •  Gestión de Pruebas:  Uso de plataformas como Jira, Qmetry, Linear, Azure DevOps. •  Seguridad:  Conocimientos básicos de seguridad en entornos SaaS (ej. OWASP).  ",
-      "date": 1784045173,
-      "salary": "1800–2300",
-      "url": "https://www.getonbrd.com/jobs/qa-automation-iconstruye-santiago",
-      "source": "GetOnBoard",
-      "id": "9c624aadee1d",
-      "score": 70,
-      "matches": [
-        "Rol QA ✓",
-        "playwright",
-        "automation",
-        "selenium",
-        "jira",
-        "cypress",
-        "Salario 💰"
       ],
       "warnings": [],
       "verdict": "excelente"
