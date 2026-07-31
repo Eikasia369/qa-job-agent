@@ -1,15 +1,126 @@
 {
-  "last_updated": "2026-07-31T12:58:15.372529+00:00",
-  "total_fetched": 129,
+  "last_updated": "2026-07-31T18:22:28.961078+00:00",
+  "total_fetched": 178,
   "sources": {
     "Remotive": 34,
-    "WorkingNomads": 43,
-    "GetOnBoard": 0,
+    "WorkingNomads": 42,
+    "GetOnBoard": 50,
     "Himalayas": 20,
     "Jobicy": 32
   },
   "new_count": 0,
   "jobs": [
+    {
+      "title": "QA Engineer (Automation)",
+      "company": "",
+      "location": "fully_remote",
+      "description": "  Experience: 3+ years in a QA or SDET role on a SaaS product.  Black-Box Testing: Strong instincts for functional testing, exploratory testing, user flow validation, and edge case identification.  White-Box Fundamentals: Comfortable reading code, contributing to unit/integration test coverage, and collaborating with developers at the code level.  JavaScript Proficiency: Hands-on experience with test automation in JavaScript (Playwright, Cypress, or similar).  API Testing: Experience testing REST APIs via Postman, pytest, or equivalent tooling.  Data Awareness: Familiarity with MongoDB or complex data structures where accuracy is non-negotiable.  The Right Mindset: You thrive in a startup environment. You are analytical, detail-obsessed, and take initiative to find problems before users do",
+      "date": 1784659891,
+      "salary": "3000–4000",
+      "url": "https://www.getonbrd.com/jobs/qa-engineer-automation-molten-cloud-remote",
+      "source": "GetOnBoard",
+      "id": "9a02669bfd1d",
+      "score": 95,
+      "matches": [
+        "Rol QA ✓",
+        "playwright",
+        "postman",
+        "api testing",
+        "automation",
+        "javascript",
+        "cypress",
+        "functional testing"
+      ],
+      "warnings": [],
+      "verdict": "excelente"
+    },
+    {
+      "title": "QA Engineer CRM",
+      "company": "",
+      "location": "hybrid",
+      "description": "  Experiencia comprobable como QA Funcional en proyectos de software empresariales.  Experiencia en pruebas funcionales de CRM o plataformas de Customer Service.  Conocimiento sólido de procesos de atención al cliente / postventa.  Experiencia en diseño y ejecución de casos de prueba, matrices de cobertura y trazabilidad  Manejo de herramientas de gestión de pruebas y defectos.  Experiencia trabajando bajo lineamientos de un QA Tech Lead.  Pruebas WMS, API REST, móviles (Android/iOS) o BI.  Pruebas de regresión estructuradas y validación end-to-end.  Capacidad de análisis funcional y validación de reglas de negocio complejas.  Gestión de pruebas: Xray, Zephyr, TestRail.  Automatización UI: Playwright, Cypress, Selenium 4.  Automatización API: Postman, REST Assured, Karate DSL.  Gestión de ",
+      "date": 1785427406,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/qa-engineer-crm-coderslab-io-santiago",
+      "source": "GetOnBoard",
+      "id": "21ece3205f3c",
+      "score": 80,
+      "matches": [
+        "Rol QA ✓",
+        "playwright",
+        "postman",
+        "api rest",
+        "selenium",
+        "cypress",
+        "defect",
+        "zephyr"
+      ],
+      "warnings": [],
+      "verdict": "excelente"
+    },
+    {
+      "title": "Analista QA Junior (Funcional y Automatización)",
+      "company": "",
+      "location": "hybrid",
+      "description": " Buscamos a una persona con interés real por la calidad del software, con enfoque en el detalle, disciplina para documentar y buena comunicación para coordinar hallazgos y evidencias.   Requisitos / Conocimientos requeridos    Conceptos de SDLC y STLC.  Diseño y ejecución de casos de prueba.  Reporte y seguimiento de defectos, asegurando trazabilidad entre evidencia, caso y resultado.  Consultas básicas en SQL.  Validación de APIs REST y comprensión del consumo de endpoints.  Uso de Postman.  Interpretación de JSON (estructura, campos y validaciones de respuesta).  Conocimiento básico de herramientas de automatización como Selenium, Playwright, Cypress o UiPath.  Comprensión básica de scripts de automatización y su ejecución/registro.    Competencias y habilidades (soft skills)    Orientac",
+      "date": 1784761313,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/qa-junior-funcional-y-automatizacion-bc-tecnologia-santiago",
+      "source": "GetOnBoard",
+      "id": "8cdc5849dd3a",
+      "score": 70,
+      "matches": [
+        "Rol QA ✓",
+        "playwright",
+        "postman",
+        "selenium",
+        "sql",
+        "cypress",
+        "defect"
+      ],
+      "warnings": [],
+      "verdict": "excelente"
+    },
+    {
+      "title": "QA Engineer SSR",
+      "company": "",
+      "location": "hybrid",
+      "description": " Buscamos a alguien con experiencia sólida en Quality Assurance, capaz de combinar criterio técnico con disciplina de pruebas y colaboración.   Experiencia requerida    Entre  2 y 4 años  de experiencia en  Quality Assurance .  Experiencia ejecutando  pruebas funcionales y no funcionales  en  aplicaciones distribuidas .  Participación en equipos de desarrollo bajo  metodologías ágiles .    Conocimientos técnicos EXCLUYENTES (Importante considerar para postular)    Experiencia en  pruebas manuales .  Uso de  Postman  para validación de  APIs .  Experiencia en  automatización de pruebas .  Diseño y ejecución de  Smoke Tests ,  Regression Tests  y  E2E .  Testing de  APIs  y  microservicios , incluyendo validación de  APIs REST  y pruebas de integración.  Conocimientos de  pruebas de carga  y",
+      "date": 1785434573,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/qa-engineer-ssr-agilistik-santiago",
+      "source": "GetOnBoard",
+      "id": "3069294a32f9",
+      "score": 55,
+      "matches": [
+        "Rol QA ✓",
+        "postman",
+        "regression",
+        "e2e"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    },
+    {
+      "title": "Ingeniero/a QA",
+      "company": "",
+      "location": "hybrid",
+      "description": " Esperamos que tengas sólidos fundamentos en testing de software, idealmente con certificación ISTQB Foundation.  En automatización web, buscamos a alguien con experiencia real en Selenium usando Page Object Model y Page Factory, con manejo fluido de locators (XPath, CSS, ID), tipos de esperas, Shadow DOM y Cucumber.  Para pruebas de API y servicios SOAP, deberás manejar Karate Framework y Rest Assured como herramientas principales, complementadas con Postman y SoapUI para exploración y validación manual.  En cuanto a lenguajes y herramientas del día a día, necesitamos que te desenvuelvas con Java orientado a objetos a nivel intermedio, que gestiones dependencias con Gradle o Maven, y que uses Git con fluidez a nivel de comandos.  Valoramos que conozcas SQL para validar datos directamente ",
+      "date": 1785249932,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/ingeniero-a-qa-factor-it-santiago-b93e",
+      "source": "GetOnBoard",
+      "id": "5a61e040f38c",
+      "score": 55,
+      "matches": [
+        "Rol QA ✓",
+        "postman",
+        "selenium",
+        "sql"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    },
     {
       "title": "Senior Quality Assurance Automation Engineer",
       "company": "Experian",
@@ -62,6 +173,24 @@
       "matches": [
         "Rol QA ✓",
         "Remoto/Latam 🌐"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    },
+    {
+      "title": "Analista QA Sr",
+      "company": "",
+      "location": "hybrid",
+      "description": " -Experiencia en diseñar e implementar planes, escenarios y casos de prueba -Experiencia en definir estrategias de testing basadas en riesgos -Experiencia gestionado bugs, evaluando impacto de fixes y coordinando regresiones -Experiencia en ejecución pruebas en web, mobile (iOS/Android) y APIs/microservicios -Experiencia generando y gestionado data de prueba ",
+      "date": 1785428351,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/analista-qa-coderslab-io-santiago-9bab",
+      "source": "GetOnBoard",
+      "id": "7406f9ed8c65",
+      "score": 45,
+      "matches": [
+        "Rol QA ✓",
+        "bug"
       ],
       "warnings": [],
       "verdict": "bueno"
