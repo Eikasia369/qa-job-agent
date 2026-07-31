@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-30T18:18:56.401262+00:00",
+  "last_updated": "2026-07-31T00:05:13.995632+00:00",
   "total_fetched": 180,
   "sources": {
     "Remotive": 35,
@@ -8,32 +8,8 @@
     "Himalayas": 20,
     "Jobicy": 32
   },
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
-    {
-      "title": "QA Automation (Proyecto 3 Meses)",
-      "company": "",
-      "location": "fully_remote",
-      "description": "  Experiencia mínima de 5 años en roles de automatización de pruebas o como desarrollador de software (SDET).  Inglés Avanzado.  Dominio de al menos un lenguaje de programación enfocado en QA (ej. Python, Java, JavaScript, TypeScript o C#).  Experiencia sólida utilizando frameworks de automatización modernos (ej. Cypress, Playwright, Selenium o Appium).  Experiencia en automatización de pruebas de APIs (RESTful/GraphQL).  Conocimiento práctico en herramientas de control de versiones (Git) y plataformas CI/CD (ej. Jenkins, GitHub Actions, GitLab CI).  Capacidad analítica para resolver problemas complejos y sólidas bases en arquitectura de software y bases de datos (SQL).  ",
-      "date": 1784153497,
-      "salary": null,
-      "url": "https://www.getonbrd.com/jobs/qa-proyecto-3-meses-leytonmedia-santiago-bbbb",
-      "source": "GetOnBoard",
-      "id": "acdfbf045462",
-      "score": 100,
-      "matches": [
-        "Rol QA ✓",
-        "playwright",
-        "automation",
-        "selenium",
-        "javascript",
-        "typescript",
-        "sql",
-        "cypress"
-      ],
-      "warnings": [],
-      "verdict": "excelente"
-    },
     {
       "title": "QA Engineer (Automation)",
       "company": "",
@@ -83,30 +59,6 @@
       "verdict": "excelente"
     },
     {
-      "title": "QA Manual (Proyecto 3 Meses)",
-      "company": "",
-      "location": "fully_remote",
-      "description": "  Experiencia mínima de 5 años trabajando como QA Manual en equipos de desarrollo de software.  Inglés avanzado.  Conocimiento sólido del ciclo de vida del desarrollo de software (SDLC) y metodologías ágiles (Scrum/Kanban).  Experiencia comprobable en la redacción de casos de prueba estructurados y reportes de bugs.  Manejo de herramientas de gestión de proyectos y testing (ej. Jira, TestRail, Zephyr, Trello).  Conocimientos básicos/intermedios en pruebas de API (ej. Postman) y uso de herramientas de desarrollador del navegador (DevTools).  Excelente atención al detalle, pensamiento crítico y fuertes habilidades de comunicación.  ",
-      "date": 1784153353,
-      "salary": null,
-      "url": "https://www.getonbrd.com/jobs/qa-proyecto-3-meses-leytonmedia-santiago-50c5",
-      "source": "GetOnBoard",
-      "id": "ba2efc616ae3",
-      "score": 80,
-      "matches": [
-        "Rol QA ✓",
-        "postman",
-        "jira",
-        "scrum",
-        "bug",
-        "zephyr",
-        "testrail",
-        "Remoto/Latam 🌐"
-      ],
-      "warnings": [],
-      "verdict": "excelente"
-    },
-    {
       "title": "Analista QA Junior (Funcional y Automatización)",
       "company": "",
       "location": "hybrid",
@@ -150,46 +102,6 @@
       ],
       "warnings": [],
       "verdict": "excelente"
-    },
-    {
-      "title": "QA Engineer",
-      "company": "",
-      "location": "fully_remote",
-      "description": " Buscamos un  Ingeniero QA  con experiencia comprobable en automatización de pruebas y su integración en procesos de entrega continua. El objetivo es garantizar la máxima cobertura, calidad y estabilidad del software, mejorando la eficiencia del equipo y la confiabilidad de los releases.   Requisitos     Formación:  profesional en Ingeniería, Sistemas, Informática o carreras afines.   Experiencia:3 años  en roles de QA enfocados en automatización.    Competencias     Automatización:  capacidad para diseñar frameworks reutilizables, codificar y mantener scripts de prueba, y asegurar alta cobertura.   Integración en CI/CD:  experiencia integrando suites automatizadas en pipelines de entrega continua.   Calidad y rendimiento:  ejecución y análisis de pruebas de carga, estrés y performance, id",
-      "date": 1784230275,
-      "salary": "1400–2300",
-      "url": "https://www.getonbrd.com/jobs/qa-engineer-factor-it-remote",
-      "source": "GetOnBoard",
-      "id": "24697a2d946e",
-      "score": 60,
-      "matches": [
-        "Rol QA ✓",
-        "ci/cd",
-        "Remoto/Latam 🌐",
-        "Salario 💰"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
-    },
-    {
-      "title": "Senior Software QA Engineer",
-      "company": "",
-      "location": "fully_remote",
-      "description": " Buscamos un profesional con experiencia en pruebas de integración, análisis de causa raíz (Root Cause Analysis) y automatización de procesos QA, capaz de diseñar estrategias de calidad que aseguren la confiabilidad de la plataforma. REQUIERE INGLES AVANZADO (C1-C2)   Más de  4 años  de experiencia en  Software QA  o  Software Engineering .  Experiencia en  pruebas de integración automatizadas .  Experiencia realizando  Root Cause Analysis (RCA) .  Conocimiento en  pruebas de RESTful APIs .  Manejo de  SQL  y  PostgreSQL .  Capacidad para  analizar logs  y  depurar incidencias .   Inglés avanzado .   Además, valoramos competencias para el éxito en el rol:  pensamiento analítico ,  atención al detalle ,  resolución de problemas ,  comunicación efectiva ,  trabajo colaborativo  y  proactivid",
-      "date": 1784126748,
-      "salary": "1400–1800",
-      "url": "https://www.getonbrd.com/jobs/senior-software-qa-engineer-devups-remote",
-      "source": "GetOnBoard",
-      "id": "6fa077c70d06",
-      "score": 60,
-      "matches": [
-        "Rol QA ✓",
-        "sql",
-        "Remoto/Latam 🌐",
-        "Salario 💰"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
     },
     {
       "title": "QA Engineer SSR",
@@ -340,42 +252,7 @@
       ],
       "warnings": [],
       "verdict": "bueno"
-    },
-    {
-      "title": "Sales Director - Enterprise (Loqate)",
-      "company": "",
-      "location": "['United States']",
-      "description": "  Enabling safe and rewarding digital lives for genuine people, everywhere   We make it our mission to ensure more genuine people have digital access to opportunities, and businesses have access to more genuine people. Our technology draws on diverse and reliable data to create a single point of truth for identity and address verification.  With over 30 years of experience behind us our team and technology are focused on enabling safe and rewarding digital lives for everyone. Regardless of age, location or background, genuine people everywhere should be able to digitally prove who they are and where they live.  New Business Team -  GBG  Loqate, Americas   GBG 's New Business team is a high-performing, collaborative sales organization focused on helping enterprise customers solve complex da",
-      "date": "",
-      "salary": null,
-      "url": "https://himalayas.app/companies/gbg/jobs/sales-director-enterprise-loqate",
-      "source": "Himalayas",
-      "id": "e31aaf0c76f1",
-      "score": 40,
-      "matches": [
-        "Rol QA ✓"
-      ],
-      "warnings": [],
-      "verdict": "regular"
     }
   ],
-  "new_jobs": [
-    {
-      "title": "Sales Director - Enterprise (Loqate)",
-      "company": "",
-      "location": "['United States']",
-      "description": "  Enabling safe and rewarding digital lives for genuine people, everywhere   We make it our mission to ensure more genuine people have digital access to opportunities, and businesses have access to more genuine people. Our technology draws on diverse and reliable data to create a single point of truth for identity and address verification.  With over 30 years of experience behind us our team and technology are focused on enabling safe and rewarding digital lives for everyone. Regardless of age, location or background, genuine people everywhere should be able to digitally prove who they are and where they live.  New Business Team -  GBG  Loqate, Americas   GBG 's New Business team is a high-performing, collaborative sales organization focused on helping enterprise customers solve complex da",
-      "date": "",
-      "salary": null,
-      "url": "https://himalayas.app/companies/gbg/jobs/sales-director-enterprise-loqate",
-      "source": "Himalayas",
-      "id": "e31aaf0c76f1",
-      "score": 40,
-      "matches": [
-        "Rol QA ✓"
-      ],
-      "warnings": [],
-      "verdict": "regular"
-    }
-  ]
+  "new_jobs": []
 }
