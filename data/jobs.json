@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-01T18:02:30.354859+00:00",
+  "last_updated": "2026-08-01T23:59:43.662346+00:00",
   "total_fetched": 179,
   "sources": {
     "Remotive": 34,
@@ -8,7 +8,7 @@
     "Himalayas": 20,
     "Jobicy": 32
   },
-  "new_count": 0,
+  "new_count": 1,
   "jobs": [
     {
       "title": "QA Engineer (Automation)",
@@ -230,7 +230,42 @@
       ],
       "warnings": [],
       "verdict": "bueno"
+    },
+    {
+      "title": "Thai AI Product Tester",
+      "company": "",
+      "location": "['Thailand']",
+      "description": "  \n Thai AI Product Tester  Project Type:  Contract  \n Location: 100% Remote, global \n Device: Applicants must own a qualifying Google Pixel device for the duration of the project \n Compensation: USD $125.00 upon successful completion of the 14-day participation period (Paid in two parts)   Please note:    To ensure eligibility for this project, applicants must be international freelancers. Unfortunately, we are unable to hire U.S. citizens, Green Card holders, or candidates currently residing in the U.S.   \n  Pre-Onboarding Status:  This project is in the final approval stage and is expected to launch shortly. We are currently building a pool of qualified experts and onboarding candidates in advance. By completing the process now, you will be cleared and ready to start as soon as the proj",
+      "date": "",
+      "salary": null,
+      "url": "https://himalayas.app/companies/productive-playhouse/jobs/thai-ai-product-tester",
+      "source": "Himalayas",
+      "id": "c47800d911b3",
+      "score": 40,
+      "matches": [
+        "Rol QA ✓"
+      ],
+      "warnings": [],
+      "verdict": "regular"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "title": "Thai AI Product Tester",
+      "company": "",
+      "location": "['Thailand']",
+      "description": "  \n Thai AI Product Tester  Project Type:  Contract  \n Location: 100% Remote, global \n Device: Applicants must own a qualifying Google Pixel device for the duration of the project \n Compensation: USD $125.00 upon successful completion of the 14-day participation period (Paid in two parts)   Please note:    To ensure eligibility for this project, applicants must be international freelancers. Unfortunately, we are unable to hire U.S. citizens, Green Card holders, or candidates currently residing in the U.S.   \n  Pre-Onboarding Status:  This project is in the final approval stage and is expected to launch shortly. We are currently building a pool of qualified experts and onboarding candidates in advance. By completing the process now, you will be cleared and ready to start as soon as the proj",
+      "date": "",
+      "salary": null,
+      "url": "https://himalayas.app/companies/productive-playhouse/jobs/thai-ai-product-tester",
+      "source": "Himalayas",
+      "id": "c47800d911b3",
+      "score": 40,
+      "matches": [
+        "Rol QA ✓"
+      ],
+      "warnings": [],
+      "verdict": "regular"
+    }
+  ]
 }
