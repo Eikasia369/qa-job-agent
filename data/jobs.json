@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-03T13:42:55.172336+00:00",
+  "last_updated": "2026-08-03T18:52:32.261210+00:00",
   "total_fetched": 161,
   "sources": {
     "Remotive": 31,
@@ -35,6 +35,30 @@
       "verdict": "excelente"
     },
     {
+      "title": "QA Engineer SSR",
+      "company": "",
+      "location": "hybrid",
+      "description": " -Gestión de pruebas ( Azure Test Plans o Jira + Xray/Zephyr) -Pruebas funcionales ( Azure Test Plans, Jira ) -APIs (Postman + Newman) -Automatización web E2E (Playwright) -Rendimiento ( K6 ) -Seguridad dinámica (OWASP ZAP) -Calidad estática (SonarQube)  -CI/CD (Azure Pipelines, GitHub Actions o Jenkins) -Bases de datos (SQL Server, DBeaver o SSMS) -Control de versiones ( Git ) -Mobile (Appium) -Accesibilidad (axe-core o Lighthouse) ",
+      "date": 1785427422,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/qa-engineer-ssr-coderslab-io-quito",
+      "source": "GetOnBoard",
+      "id": "3069294a32f9",
+      "score": 90,
+      "matches": [
+        "Rol QA ✓",
+        "playwright",
+        "postman",
+        "jira",
+        "sql",
+        "test plan",
+        "ci/cd",
+        "github actions"
+      ],
+      "warnings": [],
+      "verdict": "excelente"
+    },
+    {
       "title": "QA Engineer CRM",
       "company": "",
       "location": "hybrid",
@@ -57,26 +81,6 @@
       ],
       "warnings": [],
       "verdict": "excelente"
-    },
-    {
-      "title": "QA Engineer SSR",
-      "company": "",
-      "location": "hybrid",
-      "description": " Buscamos a alguien con experiencia sólida en Quality Assurance, capaz de combinar criterio técnico con disciplina de pruebas y colaboración.   Experiencia requerida    Entre  2 y 4 años  de experiencia en  Quality Assurance .  Experiencia ejecutando  pruebas funcionales y no funcionales  en  aplicaciones distribuidas .  Participación en equipos de desarrollo bajo  metodologías ágiles .    Conocimientos técnicos EXCLUYENTES (Importante considerar para postular)    Experiencia en  pruebas manuales .  Uso de  Postman  para validación de  APIs .  Experiencia en  automatización de pruebas .  Diseño y ejecución de  Smoke Tests ,  Regression Tests  y  E2E .  Testing de  APIs  y  microservicios , incluyendo validación de  APIs REST  y pruebas de integración.  Conocimientos de  pruebas de carga  y",
-      "date": 1785434573,
-      "salary": null,
-      "url": "https://www.getonbrd.com/jobs/qa-engineer-ssr-agilistik-santiago",
-      "source": "GetOnBoard",
-      "id": "3069294a32f9",
-      "score": 55,
-      "matches": [
-        "Rol QA ✓",
-        "postman",
-        "regression",
-        "e2e"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
     },
     {
       "title": "Ingeniero/a QA",
