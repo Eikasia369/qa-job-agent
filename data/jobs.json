@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-03T18:52:32.261210+00:00",
+  "last_updated": "2026-08-04T00:11:19.849596+00:00",
   "total_fetched": 161,
   "sources": {
     "Remotive": 31,
@@ -39,7 +39,7 @@
       "company": "",
       "location": "hybrid",
       "description": " -Gestión de pruebas ( Azure Test Plans o Jira + Xray/Zephyr) -Pruebas funcionales ( Azure Test Plans, Jira ) -APIs (Postman + Newman) -Automatización web E2E (Playwright) -Rendimiento ( K6 ) -Seguridad dinámica (OWASP ZAP) -Calidad estática (SonarQube)  -CI/CD (Azure Pipelines, GitHub Actions o Jenkins) -Bases de datos (SQL Server, DBeaver o SSMS) -Control de versiones ( Git ) -Mobile (Appium) -Accesibilidad (axe-core o Lighthouse) ",
-      "date": 1785427422,
+      "date": 1785785099,
       "salary": null,
       "url": "https://www.getonbrd.com/jobs/qa-engineer-ssr-coderslab-io-quito",
       "source": "GetOnBoard",
@@ -63,7 +63,7 @@
       "company": "",
       "location": "hybrid",
       "description": "  Experiencia comprobable como QA Funcional en proyectos de software empresariales.  Experiencia en pruebas funcionales de CRM o plataformas de Customer Service.  Conocimiento sólido de procesos de atención al cliente / postventa.  Experiencia en diseño y ejecución de casos de prueba, matrices de cobertura y trazabilidad  Manejo de herramientas de gestión de pruebas y defectos.  Experiencia trabajando bajo lineamientos de un QA Tech Lead.  Pruebas WMS, API REST, móviles (Android/iOS) o BI.  Pruebas de regresión estructuradas y validación end-to-end.  Capacidad de análisis funcional y validación de reglas de negocio complejas.  Gestión de pruebas: Xray, Zephyr, TestRail.  Automatización UI: Playwright, Cypress, Selenium 4.  Automatización API: Postman, REST Assured, Karate DSL.  Gestión de ",
-      "date": 1785427406,
+      "date": 1785785070,
       "salary": null,
       "url": "https://www.getonbrd.com/jobs/qa-engineer-crm-coderslab-io-santiago",
       "source": "GetOnBoard",
