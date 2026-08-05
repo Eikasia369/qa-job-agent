@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-05T12:56:30.559519+00:00",
+  "last_updated": "2026-08-05T18:23:41.543159+00:00",
   "total_fetched": 161,
   "sources": {
     "Remotive": 31,
@@ -125,6 +125,27 @@
       "verdict": "bueno"
     },
     {
+      "title": "QA Funcional",
+      "company": "",
+      "location": "hybrid",
+      "description": " Buscamos un perfil analítico, detallista y proactivo, con experiencia en pruebas sobre APIs y arquitecturas de microservicios, capaz de trabajar de manera colaborativa con equipos de desarrollo y producto para asegurar entregas estables y alineadas a las necesidades del negocio.  La posición requiere conocimientos en herramientas como Postman, Jira, Zephyr y gestión de pruebas funcionales sobre APIs y microservicios.  Será responsable de analizar documentación funcional e historias de usuario, diseñar y ejecutar casos de prueba, detectar y documentar errores, validar correcciones realizadas por el equipo de desarrollo y ejecutar pruebas de regresión para asegurar que nuevas implementaciones no afecten funcionalidades existentes. Además, tendrá un rol clave en la gestión y seguimiento de i",
+      "date": 1785935059,
+      "salary": "1800–1900",
+      "url": "https://www.getonbrd.com/jobs/qa-funcional-interfell-santo-domingo",
+      "source": "GetOnBoard",
+      "id": "337fd09f12f5",
+      "score": 60,
+      "matches": [
+        "Rol QA ✓",
+        "postman",
+        "jira",
+        "zephyr",
+        "Salario 💰"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    },
+    {
       "title": "Senior Quality Assurance Automation Engineer",
       "company": "Experian",
       "location": "Costa Rica",
@@ -176,24 +197,6 @@
       "matches": [
         "Rol QA ✓",
         "Remoto/Latam 🌐"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
-    },
-    {
-      "title": "Analista QA Sr",
-      "company": "",
-      "location": "hybrid",
-      "description": " -Experiencia en diseñar e implementar planes, escenarios y casos de prueba -Experiencia en definir estrategias de testing basadas en riesgos -Experiencia gestionado bugs, evaluando impacto de fixes y coordinando regresiones -Experiencia en ejecución pruebas en web, mobile (iOS/Android) y APIs/microservicios -Experiencia generando y gestionado data de prueba ",
-      "date": 1785428351,
-      "salary": null,
-      "url": "https://www.getonbrd.com/jobs/analista-qa-coderslab-io-santiago-9bab",
-      "source": "GetOnBoard",
-      "id": "7406f9ed8c65",
-      "score": 45,
-      "matches": [
-        "Rol QA ✓",
-        "bug"
       ],
       "warnings": [],
       "verdict": "bueno"
