@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-04T18:40:37.131374+00:00",
+  "last_updated": "2026-08-05T00:07:29.020133+00:00",
   "total_fetched": 162,
   "sources": {
     "Remotive": 32,
@@ -8,32 +8,8 @@
     "Himalayas": 20,
     "Jobicy": 32
   },
-  "new_count": 0,
+  "new_count": 4,
   "jobs": [
-    {
-      "title": "QA Engineer (Automation)",
-      "company": "",
-      "location": "fully_remote",
-      "description": "  Experience: 3+ years in a QA or SDET role on a SaaS product.  Black-Box Testing: Strong instincts for functional testing, exploratory testing, user flow validation, and edge case identification.  White-Box Fundamentals: Comfortable reading code, contributing to unit/integration test coverage, and collaborating with developers at the code level.  JavaScript Proficiency: Hands-on experience with test automation in JavaScript (Playwright, Cypress, or similar).  API Testing: Experience testing REST APIs via Postman, pytest, or equivalent tooling.  Data Awareness: Familiarity with MongoDB or complex data structures where accuracy is non-negotiable.  The Right Mindset: You thrive in a startup environment. You are analytical, detail-obsessed, and take initiative to find problems before users do",
-      "date": 1784659891,
-      "salary": "3000–4000",
-      "url": "https://www.getonbrd.com/jobs/qa-engineer-automation-molten-cloud-remote",
-      "source": "GetOnBoard",
-      "id": "9a02669bfd1d",
-      "score": 95,
-      "matches": [
-        "Rol QA ✓",
-        "playwright",
-        "postman",
-        "api testing",
-        "automation",
-        "javascript",
-        "cypress",
-        "functional testing"
-      ],
-      "warnings": [],
-      "verdict": "excelente"
-    },
     {
       "title": "QA Engineer SSR",
       "company": "",
@@ -83,21 +59,67 @@
       "verdict": "excelente"
     },
     {
-      "title": "Ingeniero/a QA",
+      "title": "QA Automation Tester Senior",
       "company": "",
       "location": "hybrid",
-      "description": " Esperamos que tengas sólidos fundamentos en testing de software, idealmente con certificación ISTQB Foundation.  En automatización web, buscamos a alguien con experiencia real en Selenium usando Page Object Model y Page Factory, con manejo fluido de locators (XPath, CSS, ID), tipos de esperas, Shadow DOM y Cucumber.  Para pruebas de API y servicios SOAP, deberás manejar Karate Framework y Rest Assured como herramientas principales, complementadas con Postman y SoapUI para exploración y validación manual.  En cuanto a lenguajes y herramientas del día a día, necesitamos que te desenvuelvas con Java orientado a objetos a nivel intermedio, que gestiones dependencias con Gradle o Maven, y que uses Git con fluidez a nivel de comandos.  Valoramos que conozcas SQL para validar datos directamente ",
-      "date": 1785249932,
+      "description": "  Experience in Quality Assurance, with a strong emphasis on test automation.  Proven expertise designing and implementing automation at scale in complex IT environments.  Strong programming skills, including experience with test automation frameworks, utilities, and debugging.  Solid experience with manual testing techniques to complement automated coverage.  Proficiency with JIRA for test case management, defect tracking, and reporting.  Demonstrated experience leading QA efforts on projects or mentoring other QA team members.  Strong analytical, problem‐solving, and communication skills.  Experience working in enterprise or consulting delivery environments.  ",
+      "date": 1785872102,
       "salary": null,
-      "url": "https://www.getonbrd.com/jobs/ingeniero-a-qa-factor-it-santiago-b93e",
+      "url": "https://www.getonbrd.com/jobs/qa-automation-tester-senior-improving-ciudad-de-mexico-guadalajara-monterrey-aguascalientes-queretaro",
       "source": "GetOnBoard",
-      "id": "5a61e040f38c",
-      "score": 55,
+      "id": "82d6bbcb6083",
+      "score": 70,
+      "matches": [
+        "Rol QA ✓",
+        "automation",
+        "jira",
+        "manual testing",
+        "test case",
+        "bug",
+        "defect"
+      ],
+      "warnings": [],
+      "verdict": "excelente"
+    },
+    {
+      "title": "QA / Analista de Calidad",
+      "company": "",
+      "location": "hybrid",
+      "description": "  Al menos 2 años de experiencia en aseguramiento de calidad de software.   Haber participado en una certificación formal con un tercero (cliente o proveedor), acordando casos de prueba y firmando resultados. Este es el requisito excluyente del cargo.   Conocimiento práctico de al menos una herramienta de automatización (Playwright, Cypress o similar).  Experiencia probando APIs REST (Postman, herramientas similares o scripts propios).  Capacidad de escribir casos de prueba claros y priorizar por riesgo/impacto.  Familiaridad con metodologías ágiles y herramientas de seguimiento de bugs (Jira, ClickUp o similares).  Atención al detalle y pensamiento crítico frente a flujos de negocio complejos.  ",
+      "date": 1785884195,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/qa-analista-de-calidad-asesoria-y-gestion-de-procesos-s-a-santiago",
+      "source": "GetOnBoard",
+      "id": "13eab25bafe9",
+      "score": 65,
+      "matches": [
+        "Rol QA ✓",
+        "playwright",
+        "postman",
+        "jira",
+        "cypress",
+        "bug"
+      ],
+      "warnings": [],
+      "verdict": "excelente"
+    },
+    {
+      "title": "QA/Integration Test Engineer",
+      "company": "",
+      "location": "hybrid",
+      "description": "  Testing &amp; Automation    Integration and contract testing for event-driven, distributed systems.  Automated test frameworks: xUnit/NUnit, and an API testing tool (Postman or equivalent).  Kafka producer/consumer test harness development.    Event Streaming &amp; Schema Management    Schema compatibility testing against a schema registry, as part of a CI gate.    Test Environments &amp; Data    Docker Compose-based test environment ownership.  Test data management across multiple, heterogeneous data stores.    Resilience &amp; CI/CD    Failure-mode and resilience testing (idempotency, retries, conflict resolution).  CI/CD pipeline integration for test gating.  ",
+      "date": 1785880770,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/qa-integration-test-engineer-improving-ciudad-de-mexico-guadalajara-monterrey-aguascalientes-queretaro",
+      "source": "GetOnBoard",
+      "id": "c48fca1f15c4",
+      "score": 60,
       "matches": [
         "Rol QA ✓",
         "postman",
-        "selenium",
-        "sql"
+        "api testing",
+        "automation",
+        "ci/cd"
       ],
       "warnings": [],
       "verdict": "bueno"
@@ -211,7 +233,112 @@
       ],
       "warnings": [],
       "verdict": "bueno"
+    },
+    {
+      "title": "Desarrollador/a Full-Stack",
+      "company": "",
+      "location": "hybrid",
+      "description": "  Al menos 3 años de experiencia en desarrollo de software, con 3 o más trabajando con TypeScript y Node.js en producción.   Experiencia construyendo integraciones entre sistemas: idempotencia, reintentos, manejo de duplicados y colas de mensajes. Este es el requisito excluyente del cargo.   Conocimiento sólido de Next.js o React, y de un framework backend tipo NestJS/Express.  Manejo de bases de datos NoSQL (MongoDB, Cosmos DB o similares).  Experiencia consumiendo y diseñando APIs REST.  Familiaridad con control de versiones (Git) y flujos de trabajo colaborativos.  Capacidad de trabajar con requerimientos ambiguos y proponer soluciones.  Comunicación clara para coordinar con equipos de producto, QA y DevOps.  ",
+      "date": 1785884300,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/desarrollador-a-full-stack-asesoria-y-gestion-de-procesos-s-a-santiago",
+      "source": "GetOnBoard",
+      "id": "b7e5895df530",
+      "score": 30,
+      "matches": [
+        "Rol QA (desc)",
+        "typescript",
+        "sql"
+      ],
+      "warnings": [],
+      "verdict": "regular"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "title": "QA Automation Tester Senior",
+      "company": "",
+      "location": "hybrid",
+      "description": "  Experience in Quality Assurance, with a strong emphasis on test automation.  Proven expertise designing and implementing automation at scale in complex IT environments.  Strong programming skills, including experience with test automation frameworks, utilities, and debugging.  Solid experience with manual testing techniques to complement automated coverage.  Proficiency with JIRA for test case management, defect tracking, and reporting.  Demonstrated experience leading QA efforts on projects or mentoring other QA team members.  Strong analytical, problem‐solving, and communication skills.  Experience working in enterprise or consulting delivery environments.  ",
+      "date": 1785872102,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/qa-automation-tester-senior-improving-ciudad-de-mexico-guadalajara-monterrey-aguascalientes-queretaro",
+      "source": "GetOnBoard",
+      "id": "82d6bbcb6083",
+      "score": 70,
+      "matches": [
+        "Rol QA ✓",
+        "automation",
+        "jira",
+        "manual testing",
+        "test case",
+        "bug",
+        "defect"
+      ],
+      "warnings": [],
+      "verdict": "excelente"
+    },
+    {
+      "title": "QA / Analista de Calidad",
+      "company": "",
+      "location": "hybrid",
+      "description": "  Al menos 2 años de experiencia en aseguramiento de calidad de software.   Haber participado en una certificación formal con un tercero (cliente o proveedor), acordando casos de prueba y firmando resultados. Este es el requisito excluyente del cargo.   Conocimiento práctico de al menos una herramienta de automatización (Playwright, Cypress o similar).  Experiencia probando APIs REST (Postman, herramientas similares o scripts propios).  Capacidad de escribir casos de prueba claros y priorizar por riesgo/impacto.  Familiaridad con metodologías ágiles y herramientas de seguimiento de bugs (Jira, ClickUp o similares).  Atención al detalle y pensamiento crítico frente a flujos de negocio complejos.  ",
+      "date": 1785884195,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/qa-analista-de-calidad-asesoria-y-gestion-de-procesos-s-a-santiago",
+      "source": "GetOnBoard",
+      "id": "13eab25bafe9",
+      "score": 65,
+      "matches": [
+        "Rol QA ✓",
+        "playwright",
+        "postman",
+        "jira",
+        "cypress",
+        "bug"
+      ],
+      "warnings": [],
+      "verdict": "excelente"
+    },
+    {
+      "title": "QA/Integration Test Engineer",
+      "company": "",
+      "location": "hybrid",
+      "description": "  Testing &amp; Automation    Integration and contract testing for event-driven, distributed systems.  Automated test frameworks: xUnit/NUnit, and an API testing tool (Postman or equivalent).  Kafka producer/consumer test harness development.    Event Streaming &amp; Schema Management    Schema compatibility testing against a schema registry, as part of a CI gate.    Test Environments &amp; Data    Docker Compose-based test environment ownership.  Test data management across multiple, heterogeneous data stores.    Resilience &amp; CI/CD    Failure-mode and resilience testing (idempotency, retries, conflict resolution).  CI/CD pipeline integration for test gating.  ",
+      "date": 1785880770,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/qa-integration-test-engineer-improving-ciudad-de-mexico-guadalajara-monterrey-aguascalientes-queretaro",
+      "source": "GetOnBoard",
+      "id": "c48fca1f15c4",
+      "score": 60,
+      "matches": [
+        "Rol QA ✓",
+        "postman",
+        "api testing",
+        "automation",
+        "ci/cd"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    },
+    {
+      "title": "Desarrollador/a Full-Stack",
+      "company": "",
+      "location": "hybrid",
+      "description": "  Al menos 3 años de experiencia en desarrollo de software, con 3 o más trabajando con TypeScript y Node.js en producción.   Experiencia construyendo integraciones entre sistemas: idempotencia, reintentos, manejo de duplicados y colas de mensajes. Este es el requisito excluyente del cargo.   Conocimiento sólido de Next.js o React, y de un framework backend tipo NestJS/Express.  Manejo de bases de datos NoSQL (MongoDB, Cosmos DB o similares).  Experiencia consumiendo y diseñando APIs REST.  Familiaridad con control de versiones (Git) y flujos de trabajo colaborativos.  Capacidad de trabajar con requerimientos ambiguos y proponer soluciones.  Comunicación clara para coordinar con equipos de producto, QA y DevOps.  ",
+      "date": 1785884300,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/desarrollador-a-full-stack-asesoria-y-gestion-de-procesos-s-a-santiago",
+      "source": "GetOnBoard",
+      "id": "b7e5895df530",
+      "score": 30,
+      "matches": [
+        "Rol QA (desc)",
+        "typescript",
+        "sql"
+      ],
+      "warnings": [],
+      "verdict": "regular"
+    }
+  ]
 }
