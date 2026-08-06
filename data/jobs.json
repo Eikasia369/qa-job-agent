@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-08-05T18:23:41.543159+00:00",
-  "total_fetched": 161,
+  "last_updated": "2026-08-06T00:02:20.739413+00:00",
+  "total_fetched": 175,
   "sources": {
     "Remotive": 31,
-    "WorkingNomads": 28,
+    "WorkingNomads": 42,
     "GetOnBoard": 50,
     "Himalayas": 20,
     "Jobicy": 32
   },
-  "new_count": 0,
+  "new_count": 2,
   "jobs": [
     {
       "title": "QA Engineer SSR",
@@ -146,6 +146,26 @@
       "verdict": "bueno"
     },
     {
+      "title": "Analista QA Funcional (Manual)",
+      "company": "",
+      "location": "hybrid",
+      "description": " Buscamos un/a  Analista QA funcional  con enfoque manual para un proyecto con duración inicial de 2  meses  (con posibilidad de extensión).  Trabajaremos en modalidad  híbrida : principalmente en formato remoto, con asistencia  ocasional a oficina en Ciudad Empresarial .   Para nosotros, la calidad es un trabajo de equipo: esperamos que el/la QA analice, documente y ejecute con criterio, comunicando riesgos y hallazgos de forma oportuna.   Requisitos     Experiencia como Analista QA manual funcional .  Conocimiento de  Scrum  y trabajo en equipos ágiles.  Capacidad para  análisis y diseño de casos de pruebas .  Conocimiento en  Qmetry  (test management) de forma preferente/clave.  Uso de  Postman  para  pruebas de API .  Conocimientos generales en  Salesforce  y  OMS  (órdenes de compra y",
+      "date": 1785968964,
+      "salary": "1300–1800",
+      "url": "https://www.getonbrd.com/jobs/analista-qa-funcional-manual-tcit-santiago",
+      "source": "GetOnBoard",
+      "id": "281c87bda469",
+      "score": 55,
+      "matches": [
+        "Rol QA ✓",
+        "postman",
+        "scrum",
+        "Salario 💰"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    },
+    {
       "title": "Senior Quality Assurance Automation Engineer",
       "company": "Experian",
       "location": "Costa Rica",
@@ -197,6 +217,24 @@
       "matches": [
         "Rol QA ✓",
         "Remoto/Latam 🌐"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    },
+    {
+      "title": "Analista Funcional QA",
+      "company": "",
+      "location": "hybrid",
+      "description": " Buscamos un/a Analista Funcional QA que transforme requerimientos en pruebas claras, verificables y útiles para el equipo. Valoramos la capacidad de comprender el negocio, pensar en escenarios reales y comunicar con precisión.   Requisitos:    Experiencia en análisis funcional y aseguramiento de calidad (QA), idealmente en ambientes con historias de usuario y criterios de aceptación.  Conocimiento sólido de metodologías de prueba: casos, planes, ejecución, regresión y gestión de defectos.  Capacidad para documentar con orden y trazabilidad (requerimiento ↔ caso ↔ evidencia ↔ resultado).  Habilidad para detectar inconsistencias en requerimientos, proponer preguntas de aclaración y definir criterios de aceptación.  Experiencia trabajando con herramientas de gestión de tickets (por ejemplo, ",
+      "date": 1785964346,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/analista-funcional-qa-hf-solutions-santiago",
+      "source": "GetOnBoard",
+      "id": "1f62b979b5fe",
+      "score": 45,
+      "matches": [
+        "Rol QA ✓",
+        "defect"
       ],
       "warnings": [],
       "verdict": "bueno"
@@ -257,5 +295,44 @@
       "verdict": "regular"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "title": "Analista QA Funcional (Manual)",
+      "company": "",
+      "location": "hybrid",
+      "description": " Buscamos un/a  Analista QA funcional  con enfoque manual para un proyecto con duración inicial de 2  meses  (con posibilidad de extensión).  Trabajaremos en modalidad  híbrida : principalmente en formato remoto, con asistencia  ocasional a oficina en Ciudad Empresarial .   Para nosotros, la calidad es un trabajo de equipo: esperamos que el/la QA analice, documente y ejecute con criterio, comunicando riesgos y hallazgos de forma oportuna.   Requisitos     Experiencia como Analista QA manual funcional .  Conocimiento de  Scrum  y trabajo en equipos ágiles.  Capacidad para  análisis y diseño de casos de pruebas .  Conocimiento en  Qmetry  (test management) de forma preferente/clave.  Uso de  Postman  para  pruebas de API .  Conocimientos generales en  Salesforce  y  OMS  (órdenes de compra y",
+      "date": 1785968964,
+      "salary": "1300–1800",
+      "url": "https://www.getonbrd.com/jobs/analista-qa-funcional-manual-tcit-santiago",
+      "source": "GetOnBoard",
+      "id": "281c87bda469",
+      "score": 55,
+      "matches": [
+        "Rol QA ✓",
+        "postman",
+        "scrum",
+        "Salario 💰"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    },
+    {
+      "title": "Analista Funcional QA",
+      "company": "",
+      "location": "hybrid",
+      "description": " Buscamos un/a Analista Funcional QA que transforme requerimientos en pruebas claras, verificables y útiles para el equipo. Valoramos la capacidad de comprender el negocio, pensar en escenarios reales y comunicar con precisión.   Requisitos:    Experiencia en análisis funcional y aseguramiento de calidad (QA), idealmente en ambientes con historias de usuario y criterios de aceptación.  Conocimiento sólido de metodologías de prueba: casos, planes, ejecución, regresión y gestión de defectos.  Capacidad para documentar con orden y trazabilidad (requerimiento ↔ caso ↔ evidencia ↔ resultado).  Habilidad para detectar inconsistencias en requerimientos, proponer preguntas de aclaración y definir criterios de aceptación.  Experiencia trabajando con herramientas de gestión de tickets (por ejemplo, ",
+      "date": 1785964346,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/analista-funcional-qa-hf-solutions-santiago",
+      "source": "GetOnBoard",
+      "id": "1f62b979b5fe",
+      "score": 45,
+      "matches": [
+        "Rol QA ✓",
+        "defect"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    }
+  ]
 }
