@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-08-06T12:58:26.871383+00:00",
-  "total_fetched": 177,
+  "last_updated": "2026-08-07T01:42:11.864017+00:00",
+  "total_fetched": 180,
   "sources": {
     "Remotive": 34,
-    "WorkingNomads": 41,
+    "WorkingNomads": 44,
     "GetOnBoard": 50,
     "Himalayas": 20,
     "Jobicy": 32
   },
-  "new_count": 0,
+  "new_count": 1,
   "jobs": [
     {
       "title": "QA Engineer SSR",
@@ -240,6 +240,24 @@
       "verdict": "bueno"
     },
     {
+      "title": "QA Automation Engineer",
+      "company": "",
+      "location": "['United States']",
+      "description": " QA Automation Engineer – Remote    Bright Vision Technologies  is a technology consulting and software development company delivering cloud, AI, data, and enterprise solutions across the United States. This is a fantastic opportunity to join an established and well-respected organization offering tremendous career growth potential.   Job Title:  QA Automation Engineer  Location:  100% Remote (U.S.)  Position Type:  Full-time, Direct W2  Salary Range:  $75,000–$98,000 Annually  Experience Required:  6+ years  Sponsorship: U.S. Citizens, Green Card Holders, EAD Holders, and H-1B transfer candidates are encouraged to apply. We are unable to sponsor new H-1B visa petitions for this position.   Job Summary  We are seeking an experienced QA Automation Engineer to design, develop, and maintain r",
+      "date": "",
+      "salary": null,
+      "url": "https://himalayas.app/companies/bright-vision-technologies/jobs/qa-automation-engineer-2070906470",
+      "source": "Himalayas",
+      "id": "03b5db6651bd",
+      "score": 45,
+      "matches": [
+        "Rol QA ✓",
+        "automation"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    },
+    {
       "title": "Manager, Quality Assurance, Customer Support",
       "company": "1Password",
       "location": "Canada,  USA",
@@ -293,7 +311,42 @@
       ],
       "warnings": [],
       "verdict": "regular"
+    },
+    {
+      "title": "Software Development Manager",
+      "company": "",
+      "location": "['United States']",
+      "description": " Software Development Manager    (Remote US)    Overview:   Optimal Blue is hiring a Software Development Manager to lead the teams building modern evolving front-end technologies to deliver best in class user experiences in the mortgage technology space. In addition, this role offers a rare opportunity of the intersection of LOS platforms, modern integration architecture, and cutting‑edge front‑end engineering, shaping the future of how lenders originate and execute loans at scale.  In this role, you will design and develop Azure-hosted services and APIs on a Microsoft technical stack, overseeing a team of developers, quality assurance engineers, and business analysts to expand our industry-leading API marketplace platform. You will take ownership of creating new offerings and enhancing e",
+      "date": "",
+      "salary": null,
+      "url": "https://himalayas.app/companies/computrition-inc/jobs/software-development-manager",
+      "source": "Himalayas",
+      "id": "48b4c0f38db0",
+      "score": 20,
+      "matches": [
+        "Rol QA (desc)"
+      ],
+      "warnings": [],
+      "verdict": "regular"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "title": "Software Development Manager",
+      "company": "",
+      "location": "['United States']",
+      "description": " Software Development Manager    (Remote US)    Overview:   Optimal Blue is hiring a Software Development Manager to lead the teams building modern evolving front-end technologies to deliver best in class user experiences in the mortgage technology space. In addition, this role offers a rare opportunity of the intersection of LOS platforms, modern integration architecture, and cutting‑edge front‑end engineering, shaping the future of how lenders originate and execute loans at scale.  In this role, you will design and develop Azure-hosted services and APIs on a Microsoft technical stack, overseeing a team of developers, quality assurance engineers, and business analysts to expand our industry-leading API marketplace platform. You will take ownership of creating new offerings and enhancing e",
+      "date": "",
+      "salary": null,
+      "url": "https://himalayas.app/companies/computrition-inc/jobs/software-development-manager",
+      "source": "Himalayas",
+      "id": "48b4c0f38db0",
+      "score": 20,
+      "matches": [
+        "Rol QA (desc)"
+      ],
+      "warnings": [],
+      "verdict": "regular"
+    }
+  ]
 }
