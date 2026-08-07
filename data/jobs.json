@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-07T11:49:33.592683+00:00",
+  "last_updated": "2026-08-07T17:50:33.151662+00:00",
   "total_fetched": 179,
   "sources": {
     "Remotive": 33,
@@ -8,7 +8,7 @@
     "Himalayas": 20,
     "Jobicy": 32
   },
-  "new_count": 0,
+  "new_count": 2,
   "jobs": [
     {
       "title": "QA Engineer SSR",
@@ -146,26 +146,6 @@
       "verdict": "bueno"
     },
     {
-      "title": "Analista QA Funcional (Manual)",
-      "company": "",
-      "location": "hybrid",
-      "description": " Buscamos un/a  Analista QA funcional  con enfoque manual para un proyecto con duración inicial de 2  meses  (con posibilidad de extensión).  Trabajaremos en modalidad  híbrida : principalmente en formato remoto, con asistencia  ocasional a oficina en Ciudad Empresarial .   Para nosotros, la calidad es un trabajo de equipo: esperamos que el/la QA analice, documente y ejecute con criterio, comunicando riesgos y hallazgos de forma oportuna.   Requisitos     Experiencia como Analista QA manual funcional .  Conocimiento de  Scrum  y trabajo en equipos ágiles.  Capacidad para  análisis y diseño de casos de pruebas .  Conocimiento en  Qmetry  (test management) de forma preferente/clave.  Uso de  Postman  para  pruebas de API .  Conocimientos generales en  Salesforce  y  OMS  (órdenes de compra y",
-      "date": 1785968964,
-      "salary": "1300–1800",
-      "url": "https://www.getonbrd.com/jobs/analista-qa-funcional-manual-tcit-santiago",
-      "source": "GetOnBoard",
-      "id": "281c87bda469",
-      "score": 55,
-      "matches": [
-        "Rol QA ✓",
-        "postman",
-        "scrum",
-        "Salario 💰"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
-    },
-    {
       "title": "Senior Quality Assurance Automation Engineer",
       "company": "Experian",
       "location": "Costa Rica",
@@ -276,6 +256,23 @@
       "verdict": "bueno"
     },
     {
+      "title": "AI Evaluation Engineer (Python, QA or Security)",
+      "company": "",
+      "location": "['Egypt']",
+      "description": "  Please submit your CV in English and indicate your level of English proficiency.    Mindrift  connects specialists with project-based AI opportunities for leading tech companies, focused on testing, evaluating, and improving AI systems.  Participation is project-based, not permanent employment.    What this opportunity involves  We're building a dataset to evaluate AI coding agents - how well a model handles real-world developer tasks.  You'll create challenging tasks and evaluation criteria within realistic simulated environments:  \n Build realistic developer environments - a virtual company with codebase, infrastructure, and context (tickets, docs, conversations) that forms a believable development history \n Design tasks from intermediate states of these environments - craft the prompt",
+      "date": "",
+      "salary": null,
+      "url": "https://himalayas.app/companies/mindrift/jobs/ai-evaluation-engineer-python-qa-or-security-8520836638",
+      "source": "Himalayas",
+      "id": "6d14da304d03",
+      "score": 40,
+      "matches": [
+        "Rol QA ✓"
+      ],
+      "warnings": [],
+      "verdict": "regular"
+    },
+    {
       "title": "Desarrollador/a Full-Stack",
       "company": "",
       "location": "hybrid",
@@ -293,7 +290,59 @@
       ],
       "warnings": [],
       "verdict": "regular"
+    },
+    {
+      "title": "Reimbursement Coordinator - Home Health",
+      "company": "",
+      "location": "['United States']",
+      "description": " \n  The Reimbursement Coordinator is responsible forfollowing the reimbursement process to ensuretimelyandaccuratepayment for products and services provided to patients on behalf of  WellSky  clients. The scope of this job includes overseeing claims processing, payment posting and follow-up activities, along with addressing discrepancies and resolving claims denials.  \n   We invite you to apply today and join us in shaping the future of healthcare!  \n  Key Responsibilities  \n    Obtain billing information from clients to generate claims, perform QA of charges, and make modifications or changes asrequiredto produce a clean claim.    \n    Submit claims to insurance companies within the individual insurance company'stimelyfiling period, prepare and/or print all secondary claims that do not au",
+      "date": "",
+      "salary": null,
+      "url": "https://himalayas.app/companies/wellsky/jobs/reimbursement-coordinator-home-health-1709667547",
+      "source": "Himalayas",
+      "id": "f8e513c1f2ba",
+      "score": 20,
+      "matches": [
+        "Rol QA (desc)"
+      ],
+      "warnings": [],
+      "verdict": "regular"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "title": "AI Evaluation Engineer (Python, QA or Security)",
+      "company": "",
+      "location": "['Egypt']",
+      "description": "  Please submit your CV in English and indicate your level of English proficiency.    Mindrift  connects specialists with project-based AI opportunities for leading tech companies, focused on testing, evaluating, and improving AI systems.  Participation is project-based, not permanent employment.    What this opportunity involves  We're building a dataset to evaluate AI coding agents - how well a model handles real-world developer tasks.  You'll create challenging tasks and evaluation criteria within realistic simulated environments:  \n Build realistic developer environments - a virtual company with codebase, infrastructure, and context (tickets, docs, conversations) that forms a believable development history \n Design tasks from intermediate states of these environments - craft the prompt",
+      "date": "",
+      "salary": null,
+      "url": "https://himalayas.app/companies/mindrift/jobs/ai-evaluation-engineer-python-qa-or-security-8520836638",
+      "source": "Himalayas",
+      "id": "6d14da304d03",
+      "score": 40,
+      "matches": [
+        "Rol QA ✓"
+      ],
+      "warnings": [],
+      "verdict": "regular"
+    },
+    {
+      "title": "Reimbursement Coordinator - Home Health",
+      "company": "",
+      "location": "['United States']",
+      "description": " \n  The Reimbursement Coordinator is responsible forfollowing the reimbursement process to ensuretimelyandaccuratepayment for products and services provided to patients on behalf of  WellSky  clients. The scope of this job includes overseeing claims processing, payment posting and follow-up activities, along with addressing discrepancies and resolving claims denials.  \n   We invite you to apply today and join us in shaping the future of healthcare!  \n  Key Responsibilities  \n    Obtain billing information from clients to generate claims, perform QA of charges, and make modifications or changes asrequiredto produce a clean claim.    \n    Submit claims to insurance companies within the individual insurance company'stimelyfiling period, prepare and/or print all secondary claims that do not au",
+      "date": "",
+      "salary": null,
+      "url": "https://himalayas.app/companies/wellsky/jobs/reimbursement-coordinator-home-health-1709667547",
+      "source": "Himalayas",
+      "id": "f8e513c1f2ba",
+      "score": 20,
+      "matches": [
+        "Rol QA (desc)"
+      ],
+      "warnings": [],
+      "verdict": "regular"
+    }
+  ]
 }
