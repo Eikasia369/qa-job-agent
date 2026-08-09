@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-08-09T11:32:57.253096+00:00",
-  "total_fetched": 165,
+  "last_updated": "2026-08-09T17:34:44.783208+00:00",
+  "total_fetched": 163,
   "sources": {
     "Remotive": 19,
-    "WorkingNomads": 44,
+    "WorkingNomads": 42,
     "GetOnBoard": 50,
     "Himalayas": 20,
     "Jobicy": 32
   },
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "title": "QA Automation Tester Senior",
@@ -50,27 +50,6 @@
         "api testing",
         "automation",
         "ci/cd"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
-    },
-    {
-      "title": "QA Funcional",
-      "company": "",
-      "location": "hybrid",
-      "description": " Buscamos un perfil analítico, detallista y proactivo, con experiencia en pruebas sobre APIs y arquitecturas de microservicios, capaz de trabajar de manera colaborativa con equipos de desarrollo y producto para asegurar entregas estables y alineadas a las necesidades del negocio.  La posición requiere conocimientos en herramientas como Postman, Jira, Zephyr y gestión de pruebas funcionales sobre APIs y microservicios.  Será responsable de analizar documentación funcional e historias de usuario, diseñar y ejecutar casos de prueba, detectar y documentar errores, validar correcciones realizadas por el equipo de desarrollo y ejecutar pruebas de regresión para asegurar que nuevas implementaciones no afecten funcionalidades existentes. Además, tendrá un rol clave en la gestión y seguimiento de i",
-      "date": 1785935059,
-      "salary": "1800–1900",
-      "url": "https://www.getonbrd.com/jobs/qa-funcional-interfell-santo-domingo",
-      "source": "GetOnBoard",
-      "id": "337fd09f12f5",
-      "score": 60,
-      "matches": [
-        "Rol QA ✓",
-        "postman",
-        "jira",
-        "zephyr",
-        "Salario 💰"
       ],
       "warnings": [],
       "verdict": "bueno"
@@ -186,24 +165,5 @@
       "verdict": "regular"
     }
   ],
-  "new_jobs": [
-    {
-      "title": "Customer Support Specialist",
-      "company": "TripleTen",
-      "location": "Brazil",
-      "description": " Description  TripleTen is an award-winning online school among technology bootcamps. Our mission is to help people change their lives and succeed in technology. We offer flexibility in studies, career mentoring, resume and portfolio preparation, and we guarantee employment after the course. Our employability rate among graduates is 87% across our Full Stack Development, Quality Assurance (QA) and Data Analytics.     We are looking to hire a Customer Support Agent to help students from LATAM and Brazil throughout the learning process, answering their questions, relieving their doubts, and solving technical issues.      Please submit all resumes or CV's in English.   What you will do   Help students by answering their questions in chat rooms and mail channels;  Accompany the learning proces",
-      "date": "2026-08-09T03:28:47+00:00",
-      "salary": null,
-      "url": "https://jobicy.com/jobs/150334-customer-support-specialist-3",
-      "source": "Jobicy",
-      "id": "9257b89f4f5b",
-      "score": 30,
-      "matches": [
-        "Rol QA (desc)",
-        "Remoto/Latam 🌐"
-      ],
-      "warnings": [],
-      "verdict": "regular"
-    }
-  ]
+  "new_jobs": []
 }
