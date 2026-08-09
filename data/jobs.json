@@ -1,59 +1,15 @@
 {
-  "last_updated": "2026-08-09T17:34:44.783208+00:00",
-  "total_fetched": 163,
+  "last_updated": "2026-08-09T23:34:33.924486+00:00",
+  "total_fetched": 113,
   "sources": {
     "Remotive": 19,
     "WorkingNomads": 42,
-    "GetOnBoard": 50,
+    "GetOnBoard": 0,
     "Himalayas": 20,
     "Jobicy": 32
   },
   "new_count": 0,
   "jobs": [
-    {
-      "title": "QA Automation Tester Senior",
-      "company": "",
-      "location": "hybrid",
-      "description": "  Experience in Quality Assurance, with a strong emphasis on test automation.  Proven expertise designing and implementing automation at scale in complex IT environments.  Strong programming skills, including experience with test automation frameworks, utilities, and debugging.  Solid experience with manual testing techniques to complement automated coverage.  Proficiency with JIRA for test case management, defect tracking, and reporting.  Demonstrated experience leading QA efforts on projects or mentoring other QA team members.  Strong analytical, problem‐solving, and communication skills.  Experience working in enterprise or consulting delivery environments.  ",
-      "date": 1785872102,
-      "salary": null,
-      "url": "https://www.getonbrd.com/jobs/qa-automation-tester-senior-improving-ciudad-de-mexico-guadalajara-monterrey-aguascalientes-queretaro",
-      "source": "GetOnBoard",
-      "id": "82d6bbcb6083",
-      "score": 70,
-      "matches": [
-        "Rol QA ✓",
-        "automation",
-        "jira",
-        "manual testing",
-        "test case",
-        "bug",
-        "defect"
-      ],
-      "warnings": [],
-      "verdict": "excelente"
-    },
-    {
-      "title": "QA/Integration Test Engineer",
-      "company": "",
-      "location": "hybrid",
-      "description": "  Testing &amp; Automation    Integration and contract testing for event-driven, distributed systems.  Automated test frameworks: xUnit/NUnit, and an API testing tool (Postman or equivalent).  Kafka producer/consumer test harness development.    Event Streaming &amp; Schema Management    Schema compatibility testing against a schema registry, as part of a CI gate.    Test Environments &amp; Data    Docker Compose-based test environment ownership.  Test data management across multiple, heterogeneous data stores.    Resilience &amp; CI/CD    Failure-mode and resilience testing (idempotency, retries, conflict resolution).  CI/CD pipeline integration for test gating.  ",
-      "date": 1785880770,
-      "salary": null,
-      "url": "https://www.getonbrd.com/jobs/qa-integration-test-engineer-improving-ciudad-de-mexico-guadalajara-monterrey-aguascalientes-queretaro",
-      "source": "GetOnBoard",
-      "id": "c48fca1f15c4",
-      "score": 60,
-      "matches": [
-        "Rol QA ✓",
-        "postman",
-        "api testing",
-        "automation",
-        "ci/cd"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
-    },
     {
       "title": "Senior Quality Assurance Automation Engineer",
       "company": "Experian",
@@ -88,24 +44,6 @@
         "Rol QA ✓",
         "Remoto/Latam 🌐",
         "Salario 💰"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
-    },
-    {
-      "title": "Analista Funcional QA",
-      "company": "",
-      "location": "hybrid",
-      "description": " Buscamos un/a Analista Funcional QA que transforme requerimientos en pruebas claras, verificables y útiles para el equipo. Valoramos la capacidad de comprender el negocio, pensar en escenarios reales y comunicar con precisión.   Requisitos:    Experiencia en análisis funcional y aseguramiento de calidad (QA), idealmente en ambientes con historias de usuario y criterios de aceptación.  Conocimiento sólido de metodologías de prueba: casos, planes, ejecución, regresión y gestión de defectos.  Capacidad para documentar con orden y trazabilidad (requerimiento ↔ caso ↔ evidencia ↔ resultado).  Habilidad para detectar inconsistencias en requerimientos, proponer preguntas de aclaración y definir criterios de aceptación.  Experiencia trabajando con herramientas de gestión de tickets (por ejemplo, ",
-      "date": 1785964346,
-      "salary": null,
-      "url": "https://www.getonbrd.com/jobs/analista-funcional-qa-hf-solutions-santiago",
-      "source": "GetOnBoard",
-      "id": "1f62b979b5fe",
-      "score": 45,
-      "matches": [
-        "Rol QA ✓",
-        "defect"
       ],
       "warnings": [],
       "verdict": "bueno"
