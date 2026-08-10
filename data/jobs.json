@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-10T17:53:09.334873+00:00",
+  "last_updated": "2026-08-10T23:38:17.824175+00:00",
   "total_fetched": 167,
   "sources": {
     "Remotive": 20,
@@ -8,10 +8,10 @@
     "Himalayas": 20,
     "Jobicy": 32
   },
-  "new_count": 0,
+  "new_count": 1,
   "jobs": [
     {
-      "title": "QA Automation Engineer (Mobile)",
+      "title": "QA Automation (Mobile)",
       "company": "",
       "location": "remote_local",
       "description": "   Nivel de inglés: B2/C1 (excluyente).    +6 años de experiencia como QA Automation.     Diseñar, desarrollar y mantener suite de automatización E2E utilizando Playwright para aplicaciones móviles iOS y Android.     Colaborar con equipos de desarrollo para implementar mejores prácticas en testing automation.    Optimizar y mantener la infraestructura de testing automation, mejorando tiempos de ejecución y cobertura de pruebas.    Documentar procedimientos de testing, casos de prueba y resultados de automatización.    Participar en la definición de estándares de calidad y procesos de testing para el equipo Mobile.    Identificar oportunidades de mejora en la arquitectura de testing y proponer soluciones.   ",
@@ -19,7 +19,7 @@
       "salary": "3500–4000",
       "url": "https://www.getonbrd.com/jobs/qa-automation-engineer-mobile-improving-remote",
       "source": "GetOnBoard",
-      "id": "05a29f343820",
+      "id": "2b0a3c018c50",
       "score": 70,
       "matches": [
         "Rol QA ✓",
@@ -187,5 +187,28 @@
       "verdict": "regular"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "title": "QA Automation (Mobile)",
+      "company": "",
+      "location": "remote_local",
+      "description": "   Nivel de inglés: B2/C1 (excluyente).    +6 años de experiencia como QA Automation.     Diseñar, desarrollar y mantener suite de automatización E2E utilizando Playwright para aplicaciones móviles iOS y Android.     Colaborar con equipos de desarrollo para implementar mejores prácticas en testing automation.    Optimizar y mantener la infraestructura de testing automation, mejorando tiempos de ejecución y cobertura de pruebas.    Documentar procedimientos de testing, casos de prueba y resultados de automatización.    Participar en la definición de estándares de calidad y procesos de testing para el equipo Mobile.    Identificar oportunidades de mejora en la arquitectura de testing y proponer soluciones.   ",
+      "date": 1786383783,
+      "salary": "3500–4000",
+      "url": "https://www.getonbrd.com/jobs/qa-automation-engineer-mobile-improving-remote",
+      "source": "GetOnBoard",
+      "id": "2b0a3c018c50",
+      "score": 70,
+      "matches": [
+        "Rol QA ✓",
+        "playwright",
+        "automation",
+        "e2e",
+        "Remoto/Latam 🌐",
+        "Salario 💰"
+      ],
+      "warnings": [],
+      "verdict": "excelente"
+    }
+  ]
 }
