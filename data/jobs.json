@@ -1,15 +1,37 @@
 {
-  "last_updated": "2026-08-10T11:50:37.416893+00:00",
-  "total_fetched": 165,
+  "last_updated": "2026-08-10T17:53:09.334873+00:00",
+  "total_fetched": 167,
   "sources": {
     "Remotive": 20,
-    "WorkingNomads": 43,
+    "WorkingNomads": 45,
     "GetOnBoard": 50,
     "Himalayas": 20,
     "Jobicy": 32
   },
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
+    {
+      "title": "QA Automation Engineer (Mobile)",
+      "company": "",
+      "location": "remote_local",
+      "description": "   Nivel de inglés: B2/C1 (excluyente).    +6 años de experiencia como QA Automation.     Diseñar, desarrollar y mantener suite de automatización E2E utilizando Playwright para aplicaciones móviles iOS y Android.     Colaborar con equipos de desarrollo para implementar mejores prácticas en testing automation.    Optimizar y mantener la infraestructura de testing automation, mejorando tiempos de ejecución y cobertura de pruebas.    Documentar procedimientos de testing, casos de prueba y resultados de automatización.    Participar en la definición de estándares de calidad y procesos de testing para el equipo Mobile.    Identificar oportunidades de mejora en la arquitectura de testing y proponer soluciones.   ",
+      "date": 1786383783,
+      "salary": "3500–4000",
+      "url": "https://www.getonbrd.com/jobs/qa-automation-engineer-mobile-improving-remote",
+      "source": "GetOnBoard",
+      "id": "05a29f343820",
+      "score": 70,
+      "matches": [
+        "Rol QA ✓",
+        "playwright",
+        "automation",
+        "e2e",
+        "Remoto/Latam 🌐",
+        "Salario 💰"
+      ],
+      "warnings": [],
+      "verdict": "excelente"
+    },
     {
       "title": "QA Automation Tester Senior",
       "company": "",
@@ -50,25 +72,6 @@
         "api testing",
         "automation",
         "ci/cd"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
-    },
-    {
-      "title": "Staff SDET Engineer",
-      "company": "",
-      "location": "['Brazil']",
-      "description": " Overview  We are looking for an exceptional and highly experienced Staff Software Development Engineer in Test (SDET) to join our quality engineering team.  This is a crucial individual contributor role responsible for designing, building, and maintaining advanced test automation frameworks, driving innovative testing practices, and significantly raising the quality bar across the entire development lifecycle.  The ideal candidate is a deep technical expert and a proactive mentor.  Key Responsibilities  Technical Design &amp; Framework Ownership  \n   Architect and Develop:  Design, develop, and implement highly scalable, reliable, and maintainable test automation frameworks from scratch across multiple platforms (e.g., web, API, backend services).  \n   Technical Authority:  Serve as the t",
-      "date": "",
-      "salary": null,
-      "url": "https://himalayas.app/companies/cint/jobs/staff-sdet-engineer",
-      "source": "Himalayas",
-      "id": "4804aa79d886",
-      "score": 55,
-      "matches": [
-        "Rol QA ✓",
-        "automation",
-        "Remoto/Latam 🌐"
       ],
       "warnings": [],
       "verdict": "bueno"
@@ -184,25 +187,5 @@
       "verdict": "regular"
     }
   ],
-  "new_jobs": [
-    {
-      "title": "Staff SDET Engineer",
-      "company": "",
-      "location": "['Brazil']",
-      "description": " Overview  We are looking for an exceptional and highly experienced Staff Software Development Engineer in Test (SDET) to join our quality engineering team.  This is a crucial individual contributor role responsible for designing, building, and maintaining advanced test automation frameworks, driving innovative testing practices, and significantly raising the quality bar across the entire development lifecycle.  The ideal candidate is a deep technical expert and a proactive mentor.  Key Responsibilities  Technical Design &amp; Framework Ownership  \n   Architect and Develop:  Design, develop, and implement highly scalable, reliable, and maintainable test automation frameworks from scratch across multiple platforms (e.g., web, API, backend services).  \n   Technical Authority:  Serve as the t",
-      "date": "",
-      "salary": null,
-      "url": "https://himalayas.app/companies/cint/jobs/staff-sdet-engineer",
-      "source": "Himalayas",
-      "id": "4804aa79d886",
-      "score": 55,
-      "matches": [
-        "Rol QA ✓",
-        "automation",
-        "Remoto/Latam 🌐"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
-    }
-  ]
+  "new_jobs": []
 }
