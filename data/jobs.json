@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-12T17:59:15.868475+00:00",
+  "last_updated": "2026-08-12T23:46:50.956419+00:00",
   "total_fetched": 169,
   "sources": {
     "Remotive": 17,
@@ -8,7 +8,7 @@
     "Himalayas": 20,
     "Jobicy": 32
   },
-  "new_count": 0,
+  "new_count": 2,
   "jobs": [
     {
       "title": "QA Automation (Mobile)",
@@ -54,6 +54,27 @@
       ],
       "warnings": [],
       "verdict": "excelente"
+    },
+    {
+      "title": "QA Program Lead",
+      "company": "",
+      "location": "hybrid",
+      "description": "  Estrategias de QA, Testing y modelos de gobierno / QA Center of Excellence.   Gestión de programas, proyectos y portafolios de testing.    SDLC, STLC y metodologías ágiles, híbridas y tradicionales.    Pruebas funcionales, integración, E2E, regresión, UAT y no funcionales.    Integraciones mediante APIs, microservicios, eventos, mensajería y sistemas legados.    Gestión de ambientes, datos de prueba, defectos, releases y migraciones.    Automatización, Quality Engineering, CI/CD y DevSecOps.    Performance, carga, estrés, resiliencia, recuperación y disponibilidad.    Observabilidad, monitoreo, logs, métricas y trazabilidad.    Gestión de indicadores, riesgos, cobertura y readiness.     Principales responsabilidades:     Construir y liderar el  Master Test Plan  para múltiples proyectos ",
+      "date": 1786568522,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/qa-program-lead-bc-tecnologia-lima",
+      "source": "GetOnBoard",
+      "id": "a92c4601fa11",
+      "score": 60,
+      "matches": [
+        "Rol QA ✓",
+        "test plan",
+        "defect",
+        "ci/cd",
+        "e2e"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
     },
     {
       "title": "QA/Integration Test Engineer",
@@ -169,6 +190,23 @@
       "verdict": "bueno"
     },
     {
+      "title": "Test Engineer Manual Career Opportunities at Dev.Pro",
+      "company": "",
+      "location": "['Moldova']",
+      "description": " Are you interested in building an exciting IT career at  Dev.Pro ? Join our exclusive screening process to gain valuable career insights and access personalized feedback on your skill set. As a company of professionals,  Dev.Pro  offers challenging and interesting projects with world-leading clients, a modern technology stack, and career opportunities for both technical and non-technical specialists.  🟩 What you’ll get by applying:  \n Personalized career growth plan tailored to your aspirations \n Expert feedback to elevate your skills for lasting success \n Priority consideration by  Dev.Pro  for suitable job openings within the company \n Opportunity to work with top global corporations and participate in industry-shaping projects \n   Give us a chance to get to know you better so that when",
+      "date": "",
+      "salary": null,
+      "url": "https://himalayas.app/companies/dev-pro/jobs/test-engineer-manual-career-opportunities-at-dev-pro",
+      "source": "Himalayas",
+      "id": "1e3e235f1647",
+      "score": 40,
+      "matches": [
+        "Rol QA ✓"
+      ],
+      "warnings": [],
+      "verdict": "regular"
+    },
+    {
       "title": "Customer Support Specialist",
       "company": "TripleTen",
       "location": "Brazil",
@@ -187,5 +225,44 @@
       "verdict": "regular"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "title": "QA Program Lead",
+      "company": "",
+      "location": "hybrid",
+      "description": "  Estrategias de QA, Testing y modelos de gobierno / QA Center of Excellence.   Gestión de programas, proyectos y portafolios de testing.    SDLC, STLC y metodologías ágiles, híbridas y tradicionales.    Pruebas funcionales, integración, E2E, regresión, UAT y no funcionales.    Integraciones mediante APIs, microservicios, eventos, mensajería y sistemas legados.    Gestión de ambientes, datos de prueba, defectos, releases y migraciones.    Automatización, Quality Engineering, CI/CD y DevSecOps.    Performance, carga, estrés, resiliencia, recuperación y disponibilidad.    Observabilidad, monitoreo, logs, métricas y trazabilidad.    Gestión de indicadores, riesgos, cobertura y readiness.     Principales responsabilidades:     Construir y liderar el  Master Test Plan  para múltiples proyectos ",
+      "date": 1786568522,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/qa-program-lead-bc-tecnologia-lima",
+      "source": "GetOnBoard",
+      "id": "a92c4601fa11",
+      "score": 60,
+      "matches": [
+        "Rol QA ✓",
+        "test plan",
+        "defect",
+        "ci/cd",
+        "e2e"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    },
+    {
+      "title": "Test Engineer Manual Career Opportunities at Dev.Pro",
+      "company": "",
+      "location": "['Moldova']",
+      "description": " Are you interested in building an exciting IT career at  Dev.Pro ? Join our exclusive screening process to gain valuable career insights and access personalized feedback on your skill set. As a company of professionals,  Dev.Pro  offers challenging and interesting projects with world-leading clients, a modern technology stack, and career opportunities for both technical and non-technical specialists.  🟩 What you’ll get by applying:  \n Personalized career growth plan tailored to your aspirations \n Expert feedback to elevate your skills for lasting success \n Priority consideration by  Dev.Pro  for suitable job openings within the company \n Opportunity to work with top global corporations and participate in industry-shaping projects \n   Give us a chance to get to know you better so that when",
+      "date": "",
+      "salary": null,
+      "url": "https://himalayas.app/companies/dev-pro/jobs/test-engineer-manual-career-opportunities-at-dev-pro",
+      "source": "Himalayas",
+      "id": "1e3e235f1647",
+      "score": 40,
+      "matches": [
+        "Rol QA ✓"
+      ],
+      "warnings": [],
+      "verdict": "regular"
+    }
+  ]
 }
