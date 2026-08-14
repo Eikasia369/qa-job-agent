@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-14T17:54:55.364759+00:00",
+  "last_updated": "2026-08-14T23:25:03.066614+00:00",
   "total_fetched": 171,
   "sources": {
     "Remotive": 18,
@@ -93,6 +93,26 @@
         "api testing",
         "automation",
         "ci/cd"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    },
+    {
+      "title": "QA Automation Engineer (Mobile)",
+      "company": "",
+      "location": "hybrid",
+      "description": "  Experiencia sólida en automatización de pruebas mobile con con Java y Cucumber.  Conocimiento práctico en automatización de pruebas móviles, idealmente con Appium o soluciones equivalentes que permitan validar apps nativas y React Native.,  Experiencia validando servicios RESTful y pruebas de contratos (por ejemplo, usando RestAssured o herramientas similares).,  Capacidad de trabajar con equipos de producto y desarrollo para entender requerimientos funcionales y técnicos.,  Experiencia trabajando en entornos ágiles, colaborativos y orientados a la entrega continua de valor.,  Experiencia en consultas SQL para validación de datos.,  ",
+      "date": 1786748772,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/qa-automation-engineer-dynamic-devs-remote-3611",
+      "source": "GetOnBoard",
+      "id": "05a29f343820",
+      "score": 55,
+      "matches": [
+        "Rol QA ✓",
+        "automation",
+        "sql",
+        "appium"
       ],
       "warnings": [],
       "verdict": "bueno"
