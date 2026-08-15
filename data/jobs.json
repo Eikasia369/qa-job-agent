@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-08-14T23:25:03.066614+00:00",
-  "total_fetched": 171,
+  "last_updated": "2026-08-15T11:23:13.332944+00:00",
+  "total_fetched": 167,
   "sources": {
-    "Remotive": 18,
-    "WorkingNomads": 51,
+    "Remotive": 16,
+    "WorkingNomads": 49,
     "GetOnBoard": 50,
     "Himalayas": 20,
     "Jobicy": 32
@@ -169,24 +169,6 @@
       "matches": [
         "Rol QA ✓",
         "defect"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
-    },
-    {
-      "title": "Manager, Quality Assurance, Customer Support",
-      "company": "1Password",
-      "location": "Canada,  USA",
-      "description": "   1Password is growing.  We’ve surpassed $400M in ARR and we’re continuing to accelerate, earning a spot on the Forbes Cloud 100 for four years in a row and teaming up with iconic partners like Oracle Red Bull Racing.      About 1Password    At 1Password, we’re building the foundation for a safe, productive digital future. Our mission is to unleash employee productivity without compromising security by ensuring every identity is authentic, every application sign-in is secure, and every device is trusted. We innovated the market-leading enterprise password manager and pioneered Unified Access Management, a new cybersecurity category built for the way people and AI agents work today. As one of the most loved brands in cybersecurity, we take a human-centric approach in everything from produc",
-      "date": "2026-07-22T04:56:31+00:00",
-      "salary": "USD147000–213000",
-      "url": "https://jobicy.com/jobs/149620-manager-quality-assurance-customer-support",
-      "source": "Jobicy",
-      "id": "6ce91ba0075e",
-      "score": 45,
-      "matches": [
-        "Rol QA ✓",
-        "Salario 💰"
       ],
       "warnings": [],
       "verdict": "bueno"
