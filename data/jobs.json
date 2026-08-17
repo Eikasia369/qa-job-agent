@@ -1,15 +1,122 @@
 {
-  "last_updated": "2026-08-17T17:29:44.226161+00:00",
-  "total_fetched": 116,
+  "last_updated": "2026-08-17T23:26:03.655242+00:00",
+  "total_fetched": 166,
   "sources": {
     "Remotive": 16,
     "WorkingNomads": 48,
-    "GetOnBoard": 0,
+    "GetOnBoard": 50,
     "Himalayas": 20,
     "Jobicy": 32
   },
   "new_count": 0,
   "jobs": [
+    {
+      "title": "QA Automation (Mobile)",
+      "company": "",
+      "location": "remote_local",
+      "description": "   Nivel de inglés: B2/C1 (excluyente).    +6 años de experiencia como QA Automation.     Diseñar, desarrollar y mantener suite de automatización E2E utilizando Playwright para aplicaciones móviles iOS y Android.     Colaborar con equipos de desarrollo para implementar mejores prácticas en testing automation.    Optimizar y mantener la infraestructura de testing automation, mejorando tiempos de ejecución y cobertura de pruebas.    Documentar procedimientos de testing, casos de prueba y resultados de automatización.    Participar en la definición de estándares de calidad y procesos de testing para el equipo Mobile.    Identificar oportunidades de mejora en la arquitectura de testing y proponer soluciones.   ",
+      "date": 1786383783,
+      "salary": "3500–4000",
+      "url": "https://www.getonbrd.com/jobs/qa-automation-engineer-mobile-improving-remote",
+      "source": "GetOnBoard",
+      "id": "2b0a3c018c50",
+      "score": 70,
+      "matches": [
+        "Rol QA ✓",
+        "playwright",
+        "automation",
+        "e2e",
+        "Remoto/Latam 🌐",
+        "Salario 💰"
+      ],
+      "warnings": [],
+      "verdict": "excelente"
+    },
+    {
+      "title": "QA Automation Tester Senior",
+      "company": "",
+      "location": "hybrid",
+      "description": "  Experience in Quality Assurance, with a strong emphasis on test automation.  Proven expertise designing and implementing automation at scale in complex IT environments.  Strong programming skills, including experience with test automation frameworks, utilities, and debugging.  Solid experience with manual testing techniques to complement automated coverage.  Proficiency with JIRA for test case management, defect tracking, and reporting.  Demonstrated experience leading QA efforts on projects or mentoring other QA team members.  Strong analytical, problem‐solving, and communication skills.  Experience working in enterprise or consulting delivery environments.  ",
+      "date": 1785872102,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/qa-automation-tester-senior-improving-ciudad-de-mexico-guadalajara-monterrey-aguascalientes-queretaro",
+      "source": "GetOnBoard",
+      "id": "82d6bbcb6083",
+      "score": 70,
+      "matches": [
+        "Rol QA ✓",
+        "automation",
+        "jira",
+        "manual testing",
+        "test case",
+        "bug",
+        "defect"
+      ],
+      "warnings": [],
+      "verdict": "excelente"
+    },
+    {
+      "title": "QA Program Lead",
+      "company": "",
+      "location": "hybrid",
+      "description": "  Estrategias de QA, Testing y modelos de gobierno / QA Center of Excellence.   Gestión de programas, proyectos y portafolios de testing.    SDLC, STLC y metodologías ágiles, híbridas y tradicionales.    Pruebas funcionales, integración, E2E, regresión, UAT y no funcionales.    Integraciones mediante APIs, microservicios, eventos, mensajería y sistemas legados.    Gestión de ambientes, datos de prueba, defectos, releases y migraciones.    Automatización, Quality Engineering, CI/CD y DevSecOps.    Performance, carga, estrés, resiliencia, recuperación y disponibilidad.    Observabilidad, monitoreo, logs, métricas y trazabilidad.    Gestión de indicadores, riesgos, cobertura y readiness.     Principales responsabilidades:     Construir y liderar el  Master Test Plan  para múltiples proyectos ",
+      "date": 1786568522,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/qa-program-lead-bc-tecnologia-lima",
+      "source": "GetOnBoard",
+      "id": "a92c4601fa11",
+      "score": 60,
+      "matches": [
+        "Rol QA ✓",
+        "test plan",
+        "defect",
+        "ci/cd",
+        "e2e"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    },
+    {
+      "title": "QA/Integration Test Engineer",
+      "company": "",
+      "location": "hybrid",
+      "description": "  Testing &amp; Automation    Integration and contract testing for event-driven, distributed systems.  Automated test frameworks: xUnit/NUnit, and an API testing tool (Postman or equivalent).  Kafka producer/consumer test harness development.    Event Streaming &amp; Schema Management    Schema compatibility testing against a schema registry, as part of a CI gate.    Test Environments &amp; Data    Docker Compose-based test environment ownership.  Test data management across multiple, heterogeneous data stores.    Resilience &amp; CI/CD    Failure-mode and resilience testing (idempotency, retries, conflict resolution).  CI/CD pipeline integration for test gating.  ",
+      "date": 1785880770,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/qa-integration-test-engineer-improving-ciudad-de-mexico-guadalajara-monterrey-aguascalientes-queretaro",
+      "source": "GetOnBoard",
+      "id": "c48fca1f15c4",
+      "score": 60,
+      "matches": [
+        "Rol QA ✓",
+        "postman",
+        "api testing",
+        "automation",
+        "ci/cd"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    },
+    {
+      "title": "QA Automation Engineer (Mobile)",
+      "company": "",
+      "location": "hybrid",
+      "description": "  Experiencia sólida en automatización de pruebas mobile con con Java y Cucumber.  Conocimiento práctico en automatización de pruebas móviles, idealmente con Appium o soluciones equivalentes que permitan validar apps nativas y React Native.,  Experiencia validando servicios RESTful y pruebas de contratos (por ejemplo, usando RestAssured o herramientas similares).,  Capacidad de trabajar con equipos de producto y desarrollo para entender requerimientos funcionales y técnicos.,  Experiencia trabajando en entornos ágiles, colaborativos y orientados a la entrega continua de valor.,  Experiencia en consultas SQL para validación de datos.,  ",
+      "date": 1786748772,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/qa-automation-engineer-dynamic-devs-remote-3611",
+      "source": "GetOnBoard",
+      "id": "05a29f343820",
+      "score": 55,
+      "matches": [
+        "Rol QA ✓",
+        "automation",
+        "sql",
+        "appium"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    },
     {
       "title": "Senior Quality Assurance Automation Engineer",
       "company": "Experian",
@@ -44,6 +151,24 @@
         "Rol QA ✓",
         "Remoto/Latam 🌐",
         "Salario 💰"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    },
+    {
+      "title": "Analista Funcional QA",
+      "company": "",
+      "location": "hybrid",
+      "description": " Buscamos un/a Analista Funcional QA que transforme requerimientos en pruebas claras, verificables y útiles para el equipo. Valoramos la capacidad de comprender el negocio, pensar en escenarios reales y comunicar con precisión.   Requisitos:    Experiencia en análisis funcional y aseguramiento de calidad (QA), idealmente en ambientes con historias de usuario y criterios de aceptación.  Conocimiento sólido de metodologías de prueba: casos, planes, ejecución, regresión y gestión de defectos.  Capacidad para documentar con orden y trazabilidad (requerimiento ↔ caso ↔ evidencia ↔ resultado).  Habilidad para detectar inconsistencias en requerimientos, proponer preguntas de aclaración y definir criterios de aceptación.  Experiencia trabajando con herramientas de gestión de tickets (por ejemplo, ",
+      "date": 1785964346,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/analista-funcional-qa-hf-solutions-santiago",
+      "source": "GetOnBoard",
+      "id": "1f62b979b5fe",
+      "score": 45,
+      "matches": [
+        "Rol QA ✓",
+        "defect"
       ],
       "warnings": [],
       "verdict": "bueno"
