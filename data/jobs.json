@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-18T17:30:27.463213+00:00",
+  "last_updated": "2026-08-18T23:25:38.084084+00:00",
   "total_fetched": 170,
   "sources": {
     "Remotive": 17,
@@ -8,8 +8,32 @@
     "Himalayas": 20,
     "Jobicy": 32
   },
-  "new_count": 0,
+  "new_count": 2,
   "jobs": [
+    {
+      "title": "QA Automation Engineer / SDET",
+      "company": "",
+      "location": "hybrid",
+      "description": "  Experiencia: Al menos 4 años de experiencia comprobada en roles de QA Automation / SDET, con alta autonomía y capacidad para liderar la estrategia de calidad.  Stack de Automatización: Dominio de herramientas de pruebas automatizadas para Web y APIs (ej. Cypress, Playwright, Selenium, RestAssured, Postman o similares).  Integración CI/CD: Experiencia integrando scripts de prueba automatizados en pipelines de despliegue continuo (GitHub Actions, Azure DevOps, Jenkins o similar).  Lógica y Código: Conocimiento en lenguajes de programación o scripting (JavaScript/TypeScript, Python, Java) para la construcción de suites de prueba robustas.  Ubicación y Presencialidad: Residencia en la Región Metropolitana (Santiago) para cumplir con esquema de trabajo Híbrido en Providencia.  Inglés: Nivel t",
+      "date": 1787090793,
+      "salary": "1300–1400",
+      "url": "https://www.getonbrd.com/jobs/qa-automation-engineer-sdet-fieldbeat-santiago",
+      "source": "GetOnBoard",
+      "id": "1a5e5de5fdb5",
+      "score": 90,
+      "matches": [
+        "Rol QA ✓",
+        "playwright",
+        "postman",
+        "automation",
+        "selenium",
+        "javascript",
+        "typescript",
+        "cypress"
+      ],
+      "warnings": [],
+      "verdict": "excelente"
+    },
     {
       "title": "QA Automation (Mobile)",
       "company": "",
@@ -188,6 +212,25 @@
       "verdict": "bueno"
     },
     {
+      "title": "Consultor SAP Ariba",
+      "company": "",
+      "location": "no_remote",
+      "description": " Para este rol, esperamos un perfil con experiencia real en proyectos donde SAP Ariba requiere análisis, diseño y aseguramiento de calidad end-to-end.    Experiencia:  conocimiento profundo y práctica comprobable en  SAP Ariba , incluyendo levantamiento de requerimientos, configuración/diseño e integración cuando aplique.   Arquitectura y diseño:  capacidad para proponer una arquitectura de solución coherente, considerando necesidades de negocio y restricciones técnicas.   QA técnico:  habilidad para evaluar técnicamente la solución, detectar riesgos y asegurar que se cumplan criterios de calidad.   Pruebas con usuarios:  experiencia en apoyar o liderar pruebas de usuario, entendiendo cómo validar el éxito de un proceso.   Comunicación:  claridad para explicar decisiones, traducir requerim",
+      "date": 1787085825,
+      "salary": "1500–2500",
+      "url": "https://www.getonbrd.com/jobs/consultor-sap-ariba-lisit-santiago",
+      "source": "GetOnBoard",
+      "id": "09d804e7320d",
+      "score": 35,
+      "matches": [
+        "Rol QA (desc)",
+        "Remoto/Latam 🌐",
+        "Salario 💰"
+      ],
+      "warnings": [],
+      "verdict": "regular"
+    },
+    {
       "title": "Customer Support Specialist",
       "company": "TripleTen",
       "location": "Brazil",
@@ -206,5 +249,49 @@
       "verdict": "regular"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "title": "QA Automation Engineer / SDET",
+      "company": "",
+      "location": "hybrid",
+      "description": "  Experiencia: Al menos 4 años de experiencia comprobada en roles de QA Automation / SDET, con alta autonomía y capacidad para liderar la estrategia de calidad.  Stack de Automatización: Dominio de herramientas de pruebas automatizadas para Web y APIs (ej. Cypress, Playwright, Selenium, RestAssured, Postman o similares).  Integración CI/CD: Experiencia integrando scripts de prueba automatizados en pipelines de despliegue continuo (GitHub Actions, Azure DevOps, Jenkins o similar).  Lógica y Código: Conocimiento en lenguajes de programación o scripting (JavaScript/TypeScript, Python, Java) para la construcción de suites de prueba robustas.  Ubicación y Presencialidad: Residencia en la Región Metropolitana (Santiago) para cumplir con esquema de trabajo Híbrido en Providencia.  Inglés: Nivel t",
+      "date": 1787090793,
+      "salary": "1300–1400",
+      "url": "https://www.getonbrd.com/jobs/qa-automation-engineer-sdet-fieldbeat-santiago",
+      "source": "GetOnBoard",
+      "id": "1a5e5de5fdb5",
+      "score": 90,
+      "matches": [
+        "Rol QA ✓",
+        "playwright",
+        "postman",
+        "automation",
+        "selenium",
+        "javascript",
+        "typescript",
+        "cypress"
+      ],
+      "warnings": [],
+      "verdict": "excelente"
+    },
+    {
+      "title": "Consultor SAP Ariba",
+      "company": "",
+      "location": "no_remote",
+      "description": " Para este rol, esperamos un perfil con experiencia real en proyectos donde SAP Ariba requiere análisis, diseño y aseguramiento de calidad end-to-end.    Experiencia:  conocimiento profundo y práctica comprobable en  SAP Ariba , incluyendo levantamiento de requerimientos, configuración/diseño e integración cuando aplique.   Arquitectura y diseño:  capacidad para proponer una arquitectura de solución coherente, considerando necesidades de negocio y restricciones técnicas.   QA técnico:  habilidad para evaluar técnicamente la solución, detectar riesgos y asegurar que se cumplan criterios de calidad.   Pruebas con usuarios:  experiencia en apoyar o liderar pruebas de usuario, entendiendo cómo validar el éxito de un proceso.   Comunicación:  claridad para explicar decisiones, traducir requerim",
+      "date": 1787085825,
+      "salary": "1500–2500",
+      "url": "https://www.getonbrd.com/jobs/consultor-sap-ariba-lisit-santiago",
+      "source": "GetOnBoard",
+      "id": "09d804e7320d",
+      "score": 35,
+      "matches": [
+        "Rol QA (desc)",
+        "Remoto/Latam 🌐",
+        "Salario 💰"
+      ],
+      "warnings": [],
+      "verdict": "regular"
+    }
+  ]
 }
