@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-08-17T23:26:03.655242+00:00",
-  "total_fetched": 166,
+  "last_updated": "2026-08-18T11:28:26.997455+00:00",
+  "total_fetched": 168,
   "sources": {
-    "Remotive": 16,
-    "WorkingNomads": 48,
+    "Remotive": 17,
+    "WorkingNomads": 49,
     "GetOnBoard": 50,
     "Himalayas": 20,
     "Jobicy": 32
@@ -151,6 +151,25 @@
         "Rol QA ✓",
         "Remoto/Latam 🌐",
         "Salario 💰"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    },
+    {
+      "title": "QA Funcional",
+      "company": "",
+      "location": "hybrid",
+      "description": "  Estudios en Ciencias de la Computación, Ingeniería de Software o campo relacionado  Experiencia en diseño y ejecución de casos de prueba  Experiencia en desarrollo y pruebas de software  Experiencia en pruebas end-to-end  Fuertes habilidades analíticas y de liderazgo que puedan asegurar la calidad de nuestro trabajo  Habilidades de comunicación orales y escritas, y la capacidad de colaborar con partes internas y externas, incluyendo control de calidad, soporte a ingenieros de desarrollo, y clientes  Comprensión de las mejores prácticas con respecto a las medidas de seguridad del sistema  Conocimiento llevando a cabo Queries con SQL  Conocimiento en el funcionamiento de API Rest y cómo probarlos  ",
+      "date": 1787027110,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/qa-funcional-dynamic-devs-santiago-a44e",
+      "source": "GetOnBoard",
+      "id": "337fd09f12f5",
+      "score": 50,
+      "matches": [
+        "Rol QA ✓",
+        "api rest",
+        "sql"
       ],
       "warnings": [],
       "verdict": "bueno"
