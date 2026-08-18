@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-08-18T11:28:26.997455+00:00",
-  "total_fetched": 168,
+  "last_updated": "2026-08-18T17:30:27.463213+00:00",
+  "total_fetched": 170,
   "sources": {
     "Remotive": 17,
-    "WorkingNomads": 49,
+    "WorkingNomads": 51,
     "GetOnBoard": 50,
     "Himalayas": 20,
     "Jobicy": 32
@@ -28,29 +28,6 @@
         "e2e",
         "Remoto/Latam 🌐",
         "Salario 💰"
-      ],
-      "warnings": [],
-      "verdict": "excelente"
-    },
-    {
-      "title": "QA Automation Tester Senior",
-      "company": "",
-      "location": "hybrid",
-      "description": "  Experience in Quality Assurance, with a strong emphasis on test automation.  Proven expertise designing and implementing automation at scale in complex IT environments.  Strong programming skills, including experience with test automation frameworks, utilities, and debugging.  Solid experience with manual testing techniques to complement automated coverage.  Proficiency with JIRA for test case management, defect tracking, and reporting.  Demonstrated experience leading QA efforts on projects or mentoring other QA team members.  Strong analytical, problem‐solving, and communication skills.  Experience working in enterprise or consulting delivery environments.  ",
-      "date": 1785872102,
-      "salary": null,
-      "url": "https://www.getonbrd.com/jobs/qa-automation-tester-senior-improving-ciudad-de-mexico-guadalajara-monterrey-aguascalientes-queretaro",
-      "source": "GetOnBoard",
-      "id": "82d6bbcb6083",
-      "score": 70,
-      "matches": [
-        "Rol QA ✓",
-        "automation",
-        "jira",
-        "manual testing",
-        "test case",
-        "bug",
-        "defect"
       ],
       "warnings": [],
       "verdict": "excelente"
