@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-19T17:29:33.645789+00:00",
+  "last_updated": "2026-08-19T23:25:57.141972+00:00",
   "total_fetched": 169,
   "sources": {
     "Remotive": 17,
@@ -8,7 +8,7 @@
     "Himalayas": 20,
     "Jobicy": 32
   },
-  "new_count": 0,
+  "new_count": 3,
   "jobs": [
     {
       "title": "QA Automation Engineer / SDET",
@@ -35,10 +35,34 @@
       "verdict": "excelente"
     },
     {
+      "title": "Quality Assurance QA",
+      "company": "",
+      "location": "fully_remote",
+      "description": "   Experiencia:  +3 años en roles de QA con enfoque principal en automatización de pruebas.   Stack E2E:  Dominio de Playwright o Cypress utilizando TypeScript.   Testing de APIs:  Experiencia sólida en automatización o validación de APIs (Postman, REST Assured u homologos).   CI/CD:  Experiencia integrando ejecuciones de pruebas en herramientas de integración continua (GitHub Actions, GitLab CI, Jenkins, etc.).   Uso de IA:  Integración habitual de herramientas de IA dentro de tu flujo de trabajo de QA.   Metodologías ágiles:  Experiencia comprobable trabajando en sprints/misiones dentro de equipos de tecnología.  ",
+      "date": 1787170414,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/quality-assurance-qa-lemontech-remote",
+      "source": "GetOnBoard",
+      "id": "09ad3783c421",
+      "score": 85,
+      "matches": [
+        "Rol QA ✓",
+        "playwright",
+        "postman",
+        "typescript",
+        "cypress",
+        "ci/cd",
+        "github actions",
+        "e2e"
+      ],
+      "warnings": [],
+      "verdict": "excelente"
+    },
+    {
       "title": "QA Automation (Mobile)",
       "company": "",
       "location": "remote_local",
-      "description": "   Nivel de inglés: B2/C1 (excluyente).    +6 años de experiencia como QA Automation.     Diseñar, desarrollar y mantener suite de automatización E2E utilizando Playwright para aplicaciones móviles iOS y Android.     Colaborar con equipos de desarrollo para implementar mejores prácticas en testing automation.    Optimizar y mantener la infraestructura de testing automation, mejorando tiempos de ejecución y cobertura de pruebas.    Documentar procedimientos de testing, casos de prueba y resultados de automatización.    Participar en la definición de estándares de calidad y procesos de testing para el equipo Mobile.    Identificar oportunidades de mejora en la arquitectura de testing y proponer soluciones.   ",
+      "description": "   Nivel de inglés: B2/C1 (excluyente).    +6 años de experiencia como QA Automation.     Diseñar, desarrollar y mantener suite de automatización E2E utilizando Playwright para aplicaciones móviles.     Experiencia automatizando aplicaciones móviles iOS y Android.    Optimizar y mantener la infraestructura de testing automation, mejorando tiempos de ejecución y cobertura de pruebas.    Documentar procedimientos de testing, casos de prueba y resultados de automatización.    Participar en la definición de estándares de calidad y procesos de testing para el equipo Mobile.    Identificar oportunidades de mejora en la arquitectura de testing y proponer soluciones.   ",
       "date": 1786383783,
       "salary": "3500–4000",
       "url": "https://www.getonbrd.com/jobs/qa-automation-engineer-mobile-improving-remote",
@@ -57,6 +81,27 @@
       "verdict": "excelente"
     },
     {
+      "title": "QA Automatizador Mobile",
+      "company": "",
+      "location": "hybrid",
+      "description": "  Appium  Conocimiento y experiencia en Testing de Software  Conocimiento y experiencia en Sector Bancario  Conocimiento Selenium  Experiencia en integración continua con Jenkins / Bamboo  Experiencia en BDD con Gherkin y Cucumber.  Conocimientos en despliegues a través de DA y Cloudbess.  Conocimiento de pruebas técnicas (log, servicios, bd, etc.)  Conocimiento en pruebas unitarias de servicios REST o SOAP a través de software como Postman o SoapUI  Conocimiento en Dynatrace, Elastic, Grafana  Experiencia en herramientas de pruebas de stress como Jmeter y Loadrunner  Conocimiento en pruebas Cloud (AWS, OCI, etc.)  Conocimiento en administración de Docker  Conocimiento en granja de dispositivos móviles y web  Conocimiento en software de control de versiones GIT   📍  ¿Dónde y cómo trabajará",
+      "date": 1787164107,
+      "salary": "1800–2200",
+      "url": "https://www.getonbrd.com/jobs/qa-automatizador-mobile-3it-santiago-efff",
+      "source": "GetOnBoard",
+      "id": "19bd7a4873b1",
+      "score": 60,
+      "matches": [
+        "Rol QA ✓",
+        "postman",
+        "selenium",
+        "appium",
+        "Salario 💰"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    },
+    {
       "title": "QA Program Lead",
       "company": "",
       "location": "hybrid",
@@ -73,6 +118,26 @@
         "defect",
         "ci/cd",
         "e2e"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    },
+    {
+      "title": "Senior iOS Automation Engineer, Quality Engineering",
+      "company": "",
+      "location": "['Brazil']",
+      "description": "   Airbnb  was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.   The Community You Will Join:   The Quality Engineering team helps  Airbnb  build high-quality software efficiently. We enable  Airbnb  engineers to build highly testable systems by building and using tools leveraging AI. We own and continuously improve product test cases, automation coverage, test automation tools, environments, frameworks. We navigate  Airbnb ’s massive codebase identifying weak spots, and help design and imple",
+      "date": "",
+      "salary": null,
+      "url": "https://himalayas.app/companies/airbnb/jobs/senior-ios-automation-engineer-quality-engineering",
+      "source": "Himalayas",
+      "id": "53909060a2ab",
+      "score": 60,
+      "matches": [
+        "Rol QA ✓",
+        "automation",
+        "test case",
+        "Remoto/Latam 🌐"
       ],
       "warnings": [],
       "verdict": "bueno"
@@ -175,24 +240,6 @@
       "verdict": "bueno"
     },
     {
-      "title": "Analista Funcional QA",
-      "company": "",
-      "location": "hybrid",
-      "description": " Buscamos un/a Analista Funcional QA que transforme requerimientos en pruebas claras, verificables y útiles para el equipo. Valoramos la capacidad de comprender el negocio, pensar en escenarios reales y comunicar con precisión.   Requisitos:    Experiencia en análisis funcional y aseguramiento de calidad (QA), idealmente en ambientes con historias de usuario y criterios de aceptación.  Conocimiento sólido de metodologías de prueba: casos, planes, ejecución, regresión y gestión de defectos.  Capacidad para documentar con orden y trazabilidad (requerimiento ↔ caso ↔ evidencia ↔ resultado).  Habilidad para detectar inconsistencias en requerimientos, proponer preguntas de aclaración y definir criterios de aceptación.  Experiencia trabajando con herramientas de gestión de tickets (por ejemplo, ",
-      "date": 1785964346,
-      "salary": null,
-      "url": "https://www.getonbrd.com/jobs/analista-funcional-qa-hf-solutions-santiago",
-      "source": "GetOnBoard",
-      "id": "1f62b979b5fe",
-      "score": 45,
-      "matches": [
-        "Rol QA ✓",
-        "defect"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
-    },
-    {
       "title": "Project Chiron - French (Canada) Quality Control Specialist",
       "company": "Welo Global",
       "location": "Canada",
@@ -248,5 +295,71 @@
       "verdict": "regular"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "title": "Quality Assurance QA",
+      "company": "",
+      "location": "fully_remote",
+      "description": "   Experiencia:  +3 años en roles de QA con enfoque principal en automatización de pruebas.   Stack E2E:  Dominio de Playwright o Cypress utilizando TypeScript.   Testing de APIs:  Experiencia sólida en automatización o validación de APIs (Postman, REST Assured u homologos).   CI/CD:  Experiencia integrando ejecuciones de pruebas en herramientas de integración continua (GitHub Actions, GitLab CI, Jenkins, etc.).   Uso de IA:  Integración habitual de herramientas de IA dentro de tu flujo de trabajo de QA.   Metodologías ágiles:  Experiencia comprobable trabajando en sprints/misiones dentro de equipos de tecnología.  ",
+      "date": 1787170414,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/quality-assurance-qa-lemontech-remote",
+      "source": "GetOnBoard",
+      "id": "09ad3783c421",
+      "score": 85,
+      "matches": [
+        "Rol QA ✓",
+        "playwright",
+        "postman",
+        "typescript",
+        "cypress",
+        "ci/cd",
+        "github actions",
+        "e2e"
+      ],
+      "warnings": [],
+      "verdict": "excelente"
+    },
+    {
+      "title": "QA Automatizador Mobile",
+      "company": "",
+      "location": "hybrid",
+      "description": "  Appium  Conocimiento y experiencia en Testing de Software  Conocimiento y experiencia en Sector Bancario  Conocimiento Selenium  Experiencia en integración continua con Jenkins / Bamboo  Experiencia en BDD con Gherkin y Cucumber.  Conocimientos en despliegues a través de DA y Cloudbess.  Conocimiento de pruebas técnicas (log, servicios, bd, etc.)  Conocimiento en pruebas unitarias de servicios REST o SOAP a través de software como Postman o SoapUI  Conocimiento en Dynatrace, Elastic, Grafana  Experiencia en herramientas de pruebas de stress como Jmeter y Loadrunner  Conocimiento en pruebas Cloud (AWS, OCI, etc.)  Conocimiento en administración de Docker  Conocimiento en granja de dispositivos móviles y web  Conocimiento en software de control de versiones GIT   📍  ¿Dónde y cómo trabajará",
+      "date": 1787164107,
+      "salary": "1800–2200",
+      "url": "https://www.getonbrd.com/jobs/qa-automatizador-mobile-3it-santiago-efff",
+      "source": "GetOnBoard",
+      "id": "19bd7a4873b1",
+      "score": 60,
+      "matches": [
+        "Rol QA ✓",
+        "postman",
+        "selenium",
+        "appium",
+        "Salario 💰"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    },
+    {
+      "title": "Senior iOS Automation Engineer, Quality Engineering",
+      "company": "",
+      "location": "['Brazil']",
+      "description": "   Airbnb  was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.   The Community You Will Join:   The Quality Engineering team helps  Airbnb  build high-quality software efficiently. We enable  Airbnb  engineers to build highly testable systems by building and using tools leveraging AI. We own and continuously improve product test cases, automation coverage, test automation tools, environments, frameworks. We navigate  Airbnb ’s massive codebase identifying weak spots, and help design and imple",
+      "date": "",
+      "salary": null,
+      "url": "https://himalayas.app/companies/airbnb/jobs/senior-ios-automation-engineer-quality-engineering",
+      "source": "Himalayas",
+      "id": "53909060a2ab",
+      "score": 60,
+      "matches": [
+        "Rol QA ✓",
+        "automation",
+        "test case",
+        "Remoto/Latam 🌐"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    }
+  ]
 }
