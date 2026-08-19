@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-08-18T23:25:38.084084+00:00",
-  "total_fetched": 170,
+  "last_updated": "2026-08-19T11:28:27.347984+00:00",
+  "total_fetched": 171,
   "sources": {
     "Remotive": 17,
-    "WorkingNomads": 51,
+    "WorkingNomads": 52,
     "GetOnBoard": 50,
     "Himalayas": 20,
     "Jobicy": 32
   },
-  "new_count": 2,
+  "new_count": 1,
   "jobs": [
     {
       "title": "QA Automation Engineer / SDET",
@@ -78,22 +78,21 @@
       "verdict": "bueno"
     },
     {
-      "title": "QA/Integration Test Engineer",
+      "title": "QA Tester Republica Dominicana",
       "company": "",
       "location": "hybrid",
-      "description": "  Testing &amp; Automation    Integration and contract testing for event-driven, distributed systems.  Automated test frameworks: xUnit/NUnit, and an API testing tool (Postman or equivalent).  Kafka producer/consumer test harness development.    Event Streaming &amp; Schema Management    Schema compatibility testing against a schema registry, as part of a CI gate.    Test Environments &amp; Data    Docker Compose-based test environment ownership.  Test data management across multiple, heterogeneous data stores.    Resilience &amp; CI/CD    Failure-mode and resilience testing (idempotency, retries, conflict resolution).  CI/CD pipeline integration for test gating.  ",
-      "date": 1785880770,
+      "description": " Buscamos un profesional que cuente con:   Más de 3  años de experiencia comprobable en análisis funcional y testing de QA.   Conocimientos especializados en metodologías de desarrollo de software  ágil y tradicional .  Español nativo e inglés avanzado.  Autonomía, pensamiento crítico y comunicación verbal y escrita efectiva.  Experiencia en gestión de casos y defectos (Jira) y métricas de calidad.  Conocimientos de SQL para preparación de datos de prueba.  Familiaridad con pruebas de API (validación REST/SOAP) y automatización web.   ",
+      "date": 1787115113,
       "salary": null,
-      "url": "https://www.getonbrd.com/jobs/qa-integration-test-engineer-improving-ciudad-de-mexico-guadalajara-monterrey-aguascalientes-queretaro",
+      "url": "https://www.getonbrd.com/jobs/qa-analista-funcional-republica-dominicana-agilesoft-spa-remote-1d52",
       "source": "GetOnBoard",
-      "id": "c48fca1f15c4",
-      "score": 60,
+      "id": "e6cc4937b400",
+      "score": 55,
       "matches": [
         "Rol QA ✓",
-        "postman",
-        "api testing",
-        "automation",
-        "ci/cd"
+        "jira",
+        "sql",
+        "defect"
       ],
       "warnings": [],
       "verdict": "bueno"
@@ -251,47 +250,24 @@
   ],
   "new_jobs": [
     {
-      "title": "QA Automation Engineer / SDET",
+      "title": "QA Tester Republica Dominicana",
       "company": "",
       "location": "hybrid",
-      "description": "  Experiencia: Al menos 4 años de experiencia comprobada en roles de QA Automation / SDET, con alta autonomía y capacidad para liderar la estrategia de calidad.  Stack de Automatización: Dominio de herramientas de pruebas automatizadas para Web y APIs (ej. Cypress, Playwright, Selenium, RestAssured, Postman o similares).  Integración CI/CD: Experiencia integrando scripts de prueba automatizados en pipelines de despliegue continuo (GitHub Actions, Azure DevOps, Jenkins o similar).  Lógica y Código: Conocimiento en lenguajes de programación o scripting (JavaScript/TypeScript, Python, Java) para la construcción de suites de prueba robustas.  Ubicación y Presencialidad: Residencia en la Región Metropolitana (Santiago) para cumplir con esquema de trabajo Híbrido en Providencia.  Inglés: Nivel t",
-      "date": 1787090793,
-      "salary": "1300–1400",
-      "url": "https://www.getonbrd.com/jobs/qa-automation-engineer-sdet-fieldbeat-santiago",
+      "description": " Buscamos un profesional que cuente con:   Más de 3  años de experiencia comprobable en análisis funcional y testing de QA.   Conocimientos especializados en metodologías de desarrollo de software  ágil y tradicional .  Español nativo e inglés avanzado.  Autonomía, pensamiento crítico y comunicación verbal y escrita efectiva.  Experiencia en gestión de casos y defectos (Jira) y métricas de calidad.  Conocimientos de SQL para preparación de datos de prueba.  Familiaridad con pruebas de API (validación REST/SOAP) y automatización web.   ",
+      "date": 1787115113,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/qa-analista-funcional-republica-dominicana-agilesoft-spa-remote-1d52",
       "source": "GetOnBoard",
-      "id": "1a5e5de5fdb5",
-      "score": 90,
+      "id": "e6cc4937b400",
+      "score": 55,
       "matches": [
         "Rol QA ✓",
-        "playwright",
-        "postman",
-        "automation",
-        "selenium",
-        "javascript",
-        "typescript",
-        "cypress"
+        "jira",
+        "sql",
+        "defect"
       ],
       "warnings": [],
-      "verdict": "excelente"
-    },
-    {
-      "title": "Consultor SAP Ariba",
-      "company": "",
-      "location": "no_remote",
-      "description": " Para este rol, esperamos un perfil con experiencia real en proyectos donde SAP Ariba requiere análisis, diseño y aseguramiento de calidad end-to-end.    Experiencia:  conocimiento profundo y práctica comprobable en  SAP Ariba , incluyendo levantamiento de requerimientos, configuración/diseño e integración cuando aplique.   Arquitectura y diseño:  capacidad para proponer una arquitectura de solución coherente, considerando necesidades de negocio y restricciones técnicas.   QA técnico:  habilidad para evaluar técnicamente la solución, detectar riesgos y asegurar que se cumplan criterios de calidad.   Pruebas con usuarios:  experiencia en apoyar o liderar pruebas de usuario, entendiendo cómo validar el éxito de un proceso.   Comunicación:  claridad para explicar decisiones, traducir requerim",
-      "date": 1787085825,
-      "salary": "1500–2500",
-      "url": "https://www.getonbrd.com/jobs/consultor-sap-ariba-lisit-santiago",
-      "source": "GetOnBoard",
-      "id": "09d804e7320d",
-      "score": 35,
-      "matches": [
-        "Rol QA (desc)",
-        "Remoto/Latam 🌐",
-        "Salario 💰"
-      ],
-      "warnings": [],
-      "verdict": "regular"
+      "verdict": "bueno"
     }
   ]
 }
