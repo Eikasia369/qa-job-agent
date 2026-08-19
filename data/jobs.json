@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-08-19T11:28:27.347984+00:00",
-  "total_fetched": 171,
+  "last_updated": "2026-08-19T17:29:33.645789+00:00",
+  "total_fetched": 169,
   "sources": {
     "Remotive": 17,
-    "WorkingNomads": 52,
+    "WorkingNomads": 50,
     "GetOnBoard": 50,
     "Himalayas": 20,
     "Jobicy": 32
   },
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "title": "QA Automation Engineer / SDET",
@@ -82,7 +82,7 @@
       "company": "",
       "location": "hybrid",
       "description": " Buscamos un profesional que cuente con:   Más de 3  años de experiencia comprobable en análisis funcional y testing de QA.   Conocimientos especializados en metodologías de desarrollo de software  ágil y tradicional .  Español nativo e inglés avanzado.  Autonomía, pensamiento crítico y comunicación verbal y escrita efectiva.  Experiencia en gestión de casos y defectos (Jira) y métricas de calidad.  Conocimientos de SQL para preparación de datos de prueba.  Familiaridad con pruebas de API (validación REST/SOAP) y automatización web.   ",
-      "date": 1787115113,
+      "date": 1787150501,
       "salary": null,
       "url": "https://www.getonbrd.com/jobs/qa-analista-funcional-republica-dominicana-agilesoft-spa-remote-1d52",
       "source": "GetOnBoard",
@@ -248,26 +248,5 @@
       "verdict": "regular"
     }
   ],
-  "new_jobs": [
-    {
-      "title": "QA Tester Republica Dominicana",
-      "company": "",
-      "location": "hybrid",
-      "description": " Buscamos un profesional que cuente con:   Más de 3  años de experiencia comprobable en análisis funcional y testing de QA.   Conocimientos especializados en metodologías de desarrollo de software  ágil y tradicional .  Español nativo e inglés avanzado.  Autonomía, pensamiento crítico y comunicación verbal y escrita efectiva.  Experiencia en gestión de casos y defectos (Jira) y métricas de calidad.  Conocimientos de SQL para preparación de datos de prueba.  Familiaridad con pruebas de API (validación REST/SOAP) y automatización web.   ",
-      "date": 1787115113,
-      "salary": null,
-      "url": "https://www.getonbrd.com/jobs/qa-analista-funcional-republica-dominicana-agilesoft-spa-remote-1d52",
-      "source": "GetOnBoard",
-      "id": "e6cc4937b400",
-      "score": 55,
-      "matches": [
-        "Rol QA ✓",
-        "jira",
-        "sql",
-        "defect"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
-    }
-  ]
+  "new_jobs": []
 }
