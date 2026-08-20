@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-08-19T23:25:57.141972+00:00",
-  "total_fetched": 169,
+  "last_updated": "2026-08-20T11:29:40.649558+00:00",
+  "total_fetched": 168,
   "sources": {
     "Remotive": 17,
-    "WorkingNomads": 50,
+    "WorkingNomads": 49,
     "GetOnBoard": 50,
     "Himalayas": 20,
     "Jobicy": 32
   },
-  "new_count": 3,
+  "new_count": 1,
   "jobs": [
     {
       "title": "QA Automation Engineer / SDET",
@@ -75,6 +75,28 @@
         "automation",
         "e2e",
         "Remoto/Latam 🌐",
+        "Salario 💰"
+      ],
+      "warnings": [],
+      "verdict": "excelente"
+    },
+    {
+      "title": "Analista QA Funcional | Proyecto",
+      "company": "",
+      "location": "hybrid",
+      "description": "  Uso de Postman.  Manejo de FileZilla.  Experiencia en banca.  Dominio de Gherkin y Cucumber.  Práctica con DBeaver o SQL Developer.  Gestión y seguimiento de pruebas funcionales.  Conocimientos en testing funcional de software.  Implementación de pruebas de estrés con JMeter.  Competencia en Jira, Dynatrace, Port, GitHub y Confluence.  Integración continua y CI/CD con Jenkins, Bamboo y CloudBees.  ",
+      "date": 1787177110,
+      "salary": "1800–2000",
+      "url": "https://www.getonbrd.com/jobs/analista-qa-funcional-proyecto-3it-santiago-2721",
+      "source": "GetOnBoard",
+      "id": "74f8931d3f49",
+      "score": 65,
+      "matches": [
+        "Rol QA ✓",
+        "postman",
+        "jira",
+        "sql",
+        "ci/cd",
         "Salario 💰"
       ],
       "warnings": [],
@@ -297,69 +319,26 @@
   ],
   "new_jobs": [
     {
-      "title": "Quality Assurance QA",
-      "company": "",
-      "location": "fully_remote",
-      "description": "   Experiencia:  +3 años en roles de QA con enfoque principal en automatización de pruebas.   Stack E2E:  Dominio de Playwright o Cypress utilizando TypeScript.   Testing de APIs:  Experiencia sólida en automatización o validación de APIs (Postman, REST Assured u homologos).   CI/CD:  Experiencia integrando ejecuciones de pruebas en herramientas de integración continua (GitHub Actions, GitLab CI, Jenkins, etc.).   Uso de IA:  Integración habitual de herramientas de IA dentro de tu flujo de trabajo de QA.   Metodologías ágiles:  Experiencia comprobable trabajando en sprints/misiones dentro de equipos de tecnología.  ",
-      "date": 1787170414,
-      "salary": null,
-      "url": "https://www.getonbrd.com/jobs/quality-assurance-qa-lemontech-remote",
-      "source": "GetOnBoard",
-      "id": "09ad3783c421",
-      "score": 85,
-      "matches": [
-        "Rol QA ✓",
-        "playwright",
-        "postman",
-        "typescript",
-        "cypress",
-        "ci/cd",
-        "github actions",
-        "e2e"
-      ],
-      "warnings": [],
-      "verdict": "excelente"
-    },
-    {
-      "title": "QA Automatizador Mobile",
+      "title": "Analista QA Funcional | Proyecto",
       "company": "",
       "location": "hybrid",
-      "description": "  Appium  Conocimiento y experiencia en Testing de Software  Conocimiento y experiencia en Sector Bancario  Conocimiento Selenium  Experiencia en integración continua con Jenkins / Bamboo  Experiencia en BDD con Gherkin y Cucumber.  Conocimientos en despliegues a través de DA y Cloudbess.  Conocimiento de pruebas técnicas (log, servicios, bd, etc.)  Conocimiento en pruebas unitarias de servicios REST o SOAP a través de software como Postman o SoapUI  Conocimiento en Dynatrace, Elastic, Grafana  Experiencia en herramientas de pruebas de stress como Jmeter y Loadrunner  Conocimiento en pruebas Cloud (AWS, OCI, etc.)  Conocimiento en administración de Docker  Conocimiento en granja de dispositivos móviles y web  Conocimiento en software de control de versiones GIT   📍  ¿Dónde y cómo trabajará",
-      "date": 1787164107,
-      "salary": "1800–2200",
-      "url": "https://www.getonbrd.com/jobs/qa-automatizador-mobile-3it-santiago-efff",
+      "description": "  Uso de Postman.  Manejo de FileZilla.  Experiencia en banca.  Dominio de Gherkin y Cucumber.  Práctica con DBeaver o SQL Developer.  Gestión y seguimiento de pruebas funcionales.  Conocimientos en testing funcional de software.  Implementación de pruebas de estrés con JMeter.  Competencia en Jira, Dynatrace, Port, GitHub y Confluence.  Integración continua y CI/CD con Jenkins, Bamboo y CloudBees.  ",
+      "date": 1787177110,
+      "salary": "1800–2000",
+      "url": "https://www.getonbrd.com/jobs/analista-qa-funcional-proyecto-3it-santiago-2721",
       "source": "GetOnBoard",
-      "id": "19bd7a4873b1",
-      "score": 60,
+      "id": "74f8931d3f49",
+      "score": 65,
       "matches": [
         "Rol QA ✓",
         "postman",
-        "selenium",
-        "appium",
+        "jira",
+        "sql",
+        "ci/cd",
         "Salario 💰"
       ],
       "warnings": [],
-      "verdict": "bueno"
-    },
-    {
-      "title": "Senior iOS Automation Engineer, Quality Engineering",
-      "company": "",
-      "location": "['Brazil']",
-      "description": "   Airbnb  was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.   The Community You Will Join:   The Quality Engineering team helps  Airbnb  build high-quality software efficiently. We enable  Airbnb  engineers to build highly testable systems by building and using tools leveraging AI. We own and continuously improve product test cases, automation coverage, test automation tools, environments, frameworks. We navigate  Airbnb ’s massive codebase identifying weak spots, and help design and imple",
-      "date": "",
-      "salary": null,
-      "url": "https://himalayas.app/companies/airbnb/jobs/senior-ios-automation-engineer-quality-engineering",
-      "source": "Himalayas",
-      "id": "53909060a2ab",
-      "score": 60,
-      "matches": [
-        "Rol QA ✓",
-        "automation",
-        "test case",
-        "Remoto/Latam 🌐"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
+      "verdict": "excelente"
     }
   ]
 }
