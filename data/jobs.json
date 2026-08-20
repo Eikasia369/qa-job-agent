@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-20T17:33:13.557994+00:00",
+  "last_updated": "2026-08-20T23:28:37.134429+00:00",
   "total_fetched": 169,
   "sources": {
     "Remotive": 17,
@@ -8,7 +8,7 @@
     "Himalayas": 20,
     "Jobicy": 32
   },
-  "new_count": 0,
+  "new_count": 2,
   "jobs": [
     {
       "title": "QA Automation Engineer / SDET",
@@ -38,7 +38,7 @@
       "title": "Quality Assurance QA",
       "company": "",
       "location": "fully_remote",
-      "description": "   Experiencia:  +3 años en roles de QA con enfoque principal en automatización de pruebas.   Stack E2E:  Dominio de Playwright o Cypress utilizando TypeScript.   Testing de APIs:  Experiencia sólida en automatización o validación de APIs (Postman, REST Assured u homologos).   CI/CD:  Experiencia integrando ejecuciones de pruebas en herramientas de integración continua (GitHub Actions, GitLab CI, Jenkins, etc.).   Uso de IA:  Integración habitual de herramientas de IA dentro de tu flujo de trabajo de QA.   Metodologías ágiles:  Experiencia comprobable trabajando en sprints/misiones dentro de equipos de tecnología.  ",
+      "description": "   Experiencia:  en roles de QA con enfoque principal en automatización de pruebas.   Stack E2E:  Dominio de Playwright o Cypress utilizando TypeScript.   Testing de APIs:  Experiencia sólida en automatización o validación de APIs (Postman, REST Assured u homologos).   CI/CD:  Experiencia integrando ejecuciones de pruebas en herramientas de integración continua (GitHub Actions, GitLab CI, Jenkins, etc.).   Uso de IA:  Integración habitual de herramientas de IA dentro de tu flujo de trabajo de QA.   Metodologías ágiles:  Experiencia comprobable trabajando en sprints/misiones dentro de equipos de tecnología.  ",
       "date": 1787170414,
       "salary": null,
       "url": "https://www.getonbrd.com/jobs/quality-assurance-qa-lemontech-remote",
@@ -81,6 +81,27 @@
       "verdict": "excelente"
     },
     {
+      "title": "QA Lead E-commerce (Inglés)",
+      "company": "",
+      "location": "fully_remote",
+      "description": "  Bachelor's degree in Computer Science or equivalent professional experience.   Typically five (5)+ years of working experience.   Solid knowledge or experience with scripting tools such as JavaScript, XML, TestRail, BrowserStack, and automation testing tools and processes.   Thorough understanding and experience of software development engineering methodologies/standards and software development techniques such as RUP - Rational Unified Process and Microsoft Solutions Framework.   Solid experience with at least two (2) technologies such as SAP Commerce Cloud, Adobe Experience Manager, or other similar commerce and/or content solutions.   Good knowledge of eCommerce concepts (i.e.: B2B and B2C) and market trends.   Good knowledge of software development notation.   Good verbal and written",
+      "date": 1787253470,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/qa-lead-e-commerce-ingles-smith-remote",
+      "source": "GetOnBoard",
+      "id": "ad9d9e4a50eb",
+      "score": 65,
+      "matches": [
+        "Rol QA ✓",
+        "automation",
+        "javascript",
+        "testrail",
+        "Remoto/Latam 🌐"
+      ],
+      "warnings": [],
+      "verdict": "excelente"
+    },
+    {
       "title": "QA Automatizador Mobile",
       "company": "",
       "location": "hybrid",
@@ -118,26 +139,6 @@
         "defect",
         "ci/cd",
         "e2e"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
-    },
-    {
-      "title": "Senior iOS Automation Engineer, Quality Engineering",
-      "company": "",
-      "location": "['Brazil']",
-      "description": "   Airbnb  was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.   The Community You Will Join:   The Quality Engineering team helps  Airbnb  build high-quality software efficiently. We enable  Airbnb  engineers to build highly testable systems by building and using tools leveraging AI. We own and continuously improve product test cases, automation coverage, test automation tools, environments, frameworks. We navigate  Airbnb ’s massive codebase identifying weak spots, and help design and imple",
-      "date": "",
-      "salary": null,
-      "url": "https://himalayas.app/companies/airbnb/jobs/senior-ios-automation-engineer-quality-engineering",
-      "source": "Himalayas",
-      "id": "53909060a2ab",
-      "score": 60,
-      "matches": [
-        "Rol QA ✓",
-        "automation",
-        "test case",
-        "Remoto/Latam 🌐"
       ],
       "warnings": [],
       "verdict": "bueno"
@@ -216,6 +217,24 @@
         "Rol QA ✓",
         "Remoto/Latam 🌐",
         "Salario 💰"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    },
+    {
+      "title": "QA Engineer Semi Senior",
+      "company": "",
+      "location": "remote_local",
+      "description": " Buscamos un/a  QA Engineer Senior  con experiencia sólida en QA/Testing y automatización, capaz de tomar ownership sobre datos de prueba y ambientes. El objetivo es que puedas asegurar la calidad del software y la continuidad operacional de los servicios TI mediante análisis funcionales/técnicos, ejecución de pruebas y mejora continua del proceso.   Formación universitaria en Ingeniería en Ejecución, en cualquiera de sus especialidades.  Experiencia mínima de  4 años  en el ámbito de su especialidad.  Experiencia en  QA / Testing funcional  y  automatización .  Experiencia en  gestión y acondicionamiento  de datos de prueba.  Conocimientos de  gestión de ambientes de prueba .  Manejo de  Jenkins  y  Git .  Experiencia desarrollando  scripts  para automatización de pruebas.   Además, valor",
+      "date": 1787254589,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/qa-engineer-semi-senior-bc-tecnologia-remote",
+      "source": "GetOnBoard",
+      "id": "5dbcaeef1d3b",
+      "score": 50,
+      "matches": [
+        "Rol QA ✓",
+        "Remoto/Latam 🌐"
       ],
       "warnings": [],
       "verdict": "bueno"
@@ -314,5 +333,45 @@
       "verdict": "regular"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "title": "QA Lead E-commerce (Inglés)",
+      "company": "",
+      "location": "fully_remote",
+      "description": "  Bachelor's degree in Computer Science or equivalent professional experience.   Typically five (5)+ years of working experience.   Solid knowledge or experience with scripting tools such as JavaScript, XML, TestRail, BrowserStack, and automation testing tools and processes.   Thorough understanding and experience of software development engineering methodologies/standards and software development techniques such as RUP - Rational Unified Process and Microsoft Solutions Framework.   Solid experience with at least two (2) technologies such as SAP Commerce Cloud, Adobe Experience Manager, or other similar commerce and/or content solutions.   Good knowledge of eCommerce concepts (i.e.: B2B and B2C) and market trends.   Good knowledge of software development notation.   Good verbal and written",
+      "date": 1787253470,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/qa-lead-e-commerce-ingles-smith-remote",
+      "source": "GetOnBoard",
+      "id": "ad9d9e4a50eb",
+      "score": 65,
+      "matches": [
+        "Rol QA ✓",
+        "automation",
+        "javascript",
+        "testrail",
+        "Remoto/Latam 🌐"
+      ],
+      "warnings": [],
+      "verdict": "excelente"
+    },
+    {
+      "title": "QA Engineer Semi Senior",
+      "company": "",
+      "location": "remote_local",
+      "description": " Buscamos un/a  QA Engineer Senior  con experiencia sólida en QA/Testing y automatización, capaz de tomar ownership sobre datos de prueba y ambientes. El objetivo es que puedas asegurar la calidad del software y la continuidad operacional de los servicios TI mediante análisis funcionales/técnicos, ejecución de pruebas y mejora continua del proceso.   Formación universitaria en Ingeniería en Ejecución, en cualquiera de sus especialidades.  Experiencia mínima de  4 años  en el ámbito de su especialidad.  Experiencia en  QA / Testing funcional  y  automatización .  Experiencia en  gestión y acondicionamiento  de datos de prueba.  Conocimientos de  gestión de ambientes de prueba .  Manejo de  Jenkins  y  Git .  Experiencia desarrollando  scripts  para automatización de pruebas.   Además, valor",
+      "date": 1787254589,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/qa-engineer-semi-senior-bc-tecnologia-remote",
+      "source": "GetOnBoard",
+      "id": "5dbcaeef1d3b",
+      "score": 50,
+      "matches": [
+        "Rol QA ✓",
+        "Remoto/Latam 🌐"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    }
+  ]
 }
