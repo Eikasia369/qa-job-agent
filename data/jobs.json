@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-08-20T11:29:40.649558+00:00",
-  "total_fetched": 168,
+  "last_updated": "2026-08-20T17:33:13.557994+00:00",
+  "total_fetched": 169,
   "sources": {
     "Remotive": 17,
-    "WorkingNomads": 49,
+    "WorkingNomads": 50,
     "GetOnBoard": 50,
     "Himalayas": 20,
     "Jobicy": 32
   },
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "title": "QA Automation Engineer / SDET",
@@ -75,28 +75,6 @@
         "automation",
         "e2e",
         "Remoto/Latam 🌐",
-        "Salario 💰"
-      ],
-      "warnings": [],
-      "verdict": "excelente"
-    },
-    {
-      "title": "Analista QA Funcional | Proyecto",
-      "company": "",
-      "location": "hybrid",
-      "description": "  Uso de Postman.  Manejo de FileZilla.  Experiencia en banca.  Dominio de Gherkin y Cucumber.  Práctica con DBeaver o SQL Developer.  Gestión y seguimiento de pruebas funcionales.  Conocimientos en testing funcional de software.  Implementación de pruebas de estrés con JMeter.  Competencia en Jira, Dynatrace, Port, GitHub y Confluence.  Integración continua y CI/CD con Jenkins, Bamboo y CloudBees.  ",
-      "date": 1787177110,
-      "salary": "1800–2000",
-      "url": "https://www.getonbrd.com/jobs/analista-qa-funcional-proyecto-3it-santiago-2721",
-      "source": "GetOnBoard",
-      "id": "74f8931d3f49",
-      "score": 65,
-      "matches": [
-        "Rol QA ✓",
-        "postman",
-        "jira",
-        "sql",
-        "ci/cd",
         "Salario 💰"
       ],
       "warnings": [],
@@ -243,6 +221,25 @@
       "verdict": "bueno"
     },
     {
+      "title": "QA Engineer",
+      "company": "",
+      "location": "hybrid",
+      "description": " En Asimov Consultores buscamos una persona con experiencia en aseguramiento de calidad de software, idealmente trabajando en equipos y proyectos bajo metodologías ágiles. La misión es participar en la definición y ejecución de pruebas, y también en su automatización.   Título profesional de Ingeniería en Computación, Ingeniería Civil Informática o carrera afín, de al menos 8 semestres de duración, otorgado por una Universidad o Instituto Profesional.  Experiencia en QA y aseguramiento de calidad de software.  Experiencia en pruebas manuales y automatizadas.  Experiencia con herramientas de automatización como Selenium, Cypress o similares.  Conocimientos de análisis funcional.  Experiencia en la elaboración de planes y casos de prueba.  Experiencia en la generación y preparación de datos ",
+      "date": 1787245427,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/qa-engineer-asimov-consultores-santiago",
+      "source": "GetOnBoard",
+      "id": "24697a2d946e",
+      "score": 50,
+      "matches": [
+        "Rol QA ✓",
+        "selenium",
+        "cypress"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    },
+    {
       "title": "QA Funcional",
       "company": "",
       "location": "hybrid",
@@ -317,28 +314,5 @@
       "verdict": "regular"
     }
   ],
-  "new_jobs": [
-    {
-      "title": "Analista QA Funcional | Proyecto",
-      "company": "",
-      "location": "hybrid",
-      "description": "  Uso de Postman.  Manejo de FileZilla.  Experiencia en banca.  Dominio de Gherkin y Cucumber.  Práctica con DBeaver o SQL Developer.  Gestión y seguimiento de pruebas funcionales.  Conocimientos en testing funcional de software.  Implementación de pruebas de estrés con JMeter.  Competencia en Jira, Dynatrace, Port, GitHub y Confluence.  Integración continua y CI/CD con Jenkins, Bamboo y CloudBees.  ",
-      "date": 1787177110,
-      "salary": "1800–2000",
-      "url": "https://www.getonbrd.com/jobs/analista-qa-funcional-proyecto-3it-santiago-2721",
-      "source": "GetOnBoard",
-      "id": "74f8931d3f49",
-      "score": 65,
-      "matches": [
-        "Rol QA ✓",
-        "postman",
-        "jira",
-        "sql",
-        "ci/cd",
-        "Salario 💰"
-      ],
-      "warnings": [],
-      "verdict": "excelente"
-    }
-  ]
+  "new_jobs": []
 }
