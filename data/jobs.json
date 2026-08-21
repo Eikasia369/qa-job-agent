@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-08-21T11:29:49.476978+00:00",
-  "total_fetched": 167,
+  "last_updated": "2026-08-21T17:32:15.811565+00:00",
+  "total_fetched": 166,
   "sources": {
     "Remotive": 18,
-    "WorkingNomads": 47,
+    "WorkingNomads": 46,
     "GetOnBoard": 50,
     "Himalayas": 20,
     "Jobicy": 32
@@ -30,30 +30,6 @@
         "javascript",
         "typescript",
         "cypress"
-      ],
-      "warnings": [],
-      "verdict": "excelente"
-    },
-    {
-      "title": "Quality Assurance QA",
-      "company": "",
-      "location": "fully_remote",
-      "description": "   Experiencia:  en roles de QA con enfoque principal en automatización de pruebas.   Stack E2E:  Dominio de Playwright o Cypress utilizando TypeScript.   Testing de APIs:  Experiencia sólida en automatización o validación de APIs (Postman, REST Assured u homologos).   CI/CD:  Experiencia integrando ejecuciones de pruebas en herramientas de integración continua (GitHub Actions, GitLab CI, Jenkins, etc.).   Uso de IA:  Integración habitual de herramientas de IA dentro de tu flujo de trabajo de QA.   Metodologías ágiles:  Experiencia comprobable trabajando en sprints/misiones dentro de equipos de tecnología.  ",
-      "date": 1787170414,
-      "salary": null,
-      "url": "https://www.getonbrd.com/jobs/quality-assurance-qa-lemontech-remote",
-      "source": "GetOnBoard",
-      "id": "09ad3783c421",
-      "score": 85,
-      "matches": [
-        "Rol QA ✓",
-        "playwright",
-        "postman",
-        "typescript",
-        "cypress",
-        "ci/cd",
-        "github actions",
-        "e2e"
       ],
       "warnings": [],
       "verdict": "excelente"
@@ -96,6 +72,27 @@
         "automation",
         "javascript",
         "testrail",
+        "Remoto/Latam 🌐"
+      ],
+      "warnings": [],
+      "verdict": "excelente"
+    },
+    {
+      "title": "Quality Assurance QA",
+      "company": "",
+      "location": "fully_remote",
+      "description": "   Experiencia:  1 año de experiencia en roles de QA o testing de software.   Testing Manual:  Sólidas bases en diseño de casos de prueba, ejecución de regresiones y testing exploratorio.   Automatización:  Conocimientos básicos o fundamentos prácticos de Playwright y TypeScript (con la motivación y capacidad de comenzar a automatizar en el rol).   Testing de APIs:  Nociones o experiencia práctica en validación de APIs con Postman o herramientas similares.   Uso de IA:  Interés y uso habitual de herramientas de IA para optimizar el flujo de trabajo en QA. Metodologías ágiles: Familiaridad trabajando en sprints o misiones en equipos de tecnología.  ",
+      "date": 1787170414,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/quality-assurance-qa-lemontech-remote",
+      "source": "GetOnBoard",
+      "id": "09ad3783c421",
+      "score": 65,
+      "matches": [
+        "Rol QA ✓",
+        "playwright",
+        "postman",
+        "typescript",
         "Remoto/Latam 🌐"
       ],
       "warnings": [],
