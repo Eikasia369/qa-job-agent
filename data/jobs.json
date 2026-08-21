@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-21T17:32:15.811565+00:00",
+  "last_updated": "2026-08-21T23:27:29.231941+00:00",
   "total_fetched": 166,
   "sources": {
     "Remotive": 18,
@@ -8,8 +8,32 @@
     "Himalayas": 20,
     "Jobicy": 32
   },
-  "new_count": 0,
+  "new_count": 1,
   "jobs": [
+    {
+      "title": "SDET (Software Development Engineer in Test)",
+      "company": "",
+      "location": "fully_remote",
+      "description": "  Proficiency in TypeScript and JavaScript (ES6+)  Strong experience with React and modern frontend testing  Hands-on experience with AWS services and cloud-based testing infrastructure  Experience with test automation frameworks (Selenium, Cypress, Playwright, or similar)  Strong proficiency in unit testing and integration testing  Experience with CI/CD tools (Jenkins, GitHub Actions, GitLab CI, or equivalent)  Knowledge of API testing and tools (REST, GraphQL, Postman, etc.)  Experience with version control systems (Git)  Strong understanding of software development lifecycle and QA methodologies  ",
+      "date": 1787353425,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/sdet-software-development-engineer-in-test-improving-remote",
+      "source": "GetOnBoard",
+      "id": "f5647d7b7ac8",
+      "score": 100,
+      "matches": [
+        "Rol QA ✓",
+        "playwright",
+        "postman",
+        "api testing",
+        "automation",
+        "selenium",
+        "javascript",
+        "typescript"
+      ],
+      "warnings": [],
+      "verdict": "excelente"
+    },
     {
       "title": "QA Automation Engineer / SDET",
       "company": "",
@@ -30,28 +54,6 @@
         "javascript",
         "typescript",
         "cypress"
-      ],
-      "warnings": [],
-      "verdict": "excelente"
-    },
-    {
-      "title": "QA Automation (Mobile)",
-      "company": "",
-      "location": "remote_local",
-      "description": "   Nivel de inglés: B2/C1 (excluyente).    +6 años de experiencia como QA Automation.     Diseñar, desarrollar y mantener suite de automatización E2E utilizando Playwright para aplicaciones móviles.     Experiencia automatizando aplicaciones móviles iOS y Android.    Optimizar y mantener la infraestructura de testing automation, mejorando tiempos de ejecución y cobertura de pruebas.    Documentar procedimientos de testing, casos de prueba y resultados de automatización.    Participar en la definición de estándares de calidad y procesos de testing para el equipo Mobile.    Identificar oportunidades de mejora en la arquitectura de testing y proponer soluciones.   ",
-      "date": 1786383783,
-      "salary": "3500–4000",
-      "url": "https://www.getonbrd.com/jobs/qa-automation-engineer-mobile-improving-remote",
-      "source": "GetOnBoard",
-      "id": "2b0a3c018c50",
-      "score": 70,
-      "matches": [
-        "Rol QA ✓",
-        "playwright",
-        "automation",
-        "e2e",
-        "Remoto/Latam 🌐",
-        "Salario 💰"
       ],
       "warnings": [],
       "verdict": "excelente"
@@ -330,5 +332,30 @@
       "verdict": "regular"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "title": "SDET (Software Development Engineer in Test)",
+      "company": "",
+      "location": "fully_remote",
+      "description": "  Proficiency in TypeScript and JavaScript (ES6+)  Strong experience with React and modern frontend testing  Hands-on experience with AWS services and cloud-based testing infrastructure  Experience with test automation frameworks (Selenium, Cypress, Playwright, or similar)  Strong proficiency in unit testing and integration testing  Experience with CI/CD tools (Jenkins, GitHub Actions, GitLab CI, or equivalent)  Knowledge of API testing and tools (REST, GraphQL, Postman, etc.)  Experience with version control systems (Git)  Strong understanding of software development lifecycle and QA methodologies  ",
+      "date": 1787353425,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/sdet-software-development-engineer-in-test-improving-remote",
+      "source": "GetOnBoard",
+      "id": "f5647d7b7ac8",
+      "score": 100,
+      "matches": [
+        "Rol QA ✓",
+        "playwright",
+        "postman",
+        "api testing",
+        "automation",
+        "selenium",
+        "javascript",
+        "typescript"
+      ],
+      "warnings": [],
+      "verdict": "excelente"
+    }
+  ]
 }
