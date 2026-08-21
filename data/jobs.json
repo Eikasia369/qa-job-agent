@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-08-20T23:28:37.134429+00:00",
-  "total_fetched": 169,
+  "last_updated": "2026-08-21T11:29:49.476978+00:00",
+  "total_fetched": 167,
   "sources": {
-    "Remotive": 17,
-    "WorkingNomads": 50,
+    "Remotive": 18,
+    "WorkingNomads": 47,
     "GetOnBoard": 50,
     "Himalayas": 20,
     "Jobicy": 32
   },
-  "new_count": 2,
+  "new_count": 0,
   "jobs": [
     {
       "title": "QA Automation Engineer / SDET",
@@ -207,7 +207,7 @@
       "company": "Welo Global",
       "location": "Argentina,  Mexico",
       "description": " \r\n \r\n About the Role  \r\n \r\n \r\n We are looking for detail-oriented Quality Control (QC) Specialist to support an AI data annotation project. In this role, you will review the work submitted by Trainers — pre-seeded questions paired with images and their corresponding \"golden\" answers — to confirm accuracy, consistency, and adherence to project guidelines.  \r\n \r\n \r\n This is a task-based, remote-friendly opportunity ideal for individuals who are highly meticulous, observant, and skilled at spotting errors or inconsistencies that others may miss.  \r\n \r\n \r\n What You'll Do  \r\n \r\n \r\n \r\n \r\n Review completed tasks submitted by Trainers, including the original question, the image, and the golden answer provided  \r\n \r\n \r\n \r\n \r\n \r\n \r\n Independently verify whether the golden answer is correct based on",
-      "date": "2026-07-20T17:11:22+00:00",
+      "date": "2026-08-21T03:20:06+00:00",
       "salary": "USD80000–None",
       "url": "https://jobicy.com/jobs/149468-project-chiron-spanish-latin-america-quality-control-specialist",
       "source": "Jobicy",
@@ -282,7 +282,7 @@
       "company": "Welo Global",
       "location": "Canada",
       "description": " \n \n \n  About the Role   \n \n \n We are looking for detail-oriented Quality Control (QC) Specialist to support an AI data annotation project. In this role, you will review the work submitted by Trainers — pre-seeded questions paired with images and their corresponding \"golden\" answers — to confirm accuracy, consistency, and adherence to project guidelines.  \n \n \n This is a task-based, remote-friendly opportunity ideal for individuals who are highly meticulous, observant, and skilled at spotting errors or inconsistencies that others may miss.  \n \n \n  What You'll Do   \n \n \n \n \n Review completed tasks submitted by Trainers, including the original question, the image, and the golden answer provided  \n \n \n \n \n \n \n Independently verify whether the golden answer is correct based on the image  \n \n \n",
-      "date": "2026-07-20T17:11:18+00:00",
+      "date": "2026-08-21T03:20:07+00:00",
       "salary": "CAD106000–106000",
       "url": "https://jobicy.com/jobs/149466-project-chiron-french-canada-quality-control-specialist",
       "source": "Jobicy",
@@ -333,45 +333,5 @@
       "verdict": "regular"
     }
   ],
-  "new_jobs": [
-    {
-      "title": "QA Lead E-commerce (Inglés)",
-      "company": "",
-      "location": "fully_remote",
-      "description": "  Bachelor's degree in Computer Science or equivalent professional experience.   Typically five (5)+ years of working experience.   Solid knowledge or experience with scripting tools such as JavaScript, XML, TestRail, BrowserStack, and automation testing tools and processes.   Thorough understanding and experience of software development engineering methodologies/standards and software development techniques such as RUP - Rational Unified Process and Microsoft Solutions Framework.   Solid experience with at least two (2) technologies such as SAP Commerce Cloud, Adobe Experience Manager, or other similar commerce and/or content solutions.   Good knowledge of eCommerce concepts (i.e.: B2B and B2C) and market trends.   Good knowledge of software development notation.   Good verbal and written",
-      "date": 1787253470,
-      "salary": null,
-      "url": "https://www.getonbrd.com/jobs/qa-lead-e-commerce-ingles-smith-remote",
-      "source": "GetOnBoard",
-      "id": "ad9d9e4a50eb",
-      "score": 65,
-      "matches": [
-        "Rol QA ✓",
-        "automation",
-        "javascript",
-        "testrail",
-        "Remoto/Latam 🌐"
-      ],
-      "warnings": [],
-      "verdict": "excelente"
-    },
-    {
-      "title": "QA Engineer Semi Senior",
-      "company": "",
-      "location": "remote_local",
-      "description": " Buscamos un/a  QA Engineer Senior  con experiencia sólida en QA/Testing y automatización, capaz de tomar ownership sobre datos de prueba y ambientes. El objetivo es que puedas asegurar la calidad del software y la continuidad operacional de los servicios TI mediante análisis funcionales/técnicos, ejecución de pruebas y mejora continua del proceso.   Formación universitaria en Ingeniería en Ejecución, en cualquiera de sus especialidades.  Experiencia mínima de  4 años  en el ámbito de su especialidad.  Experiencia en  QA / Testing funcional  y  automatización .  Experiencia en  gestión y acondicionamiento  de datos de prueba.  Conocimientos de  gestión de ambientes de prueba .  Manejo de  Jenkins  y  Git .  Experiencia desarrollando  scripts  para automatización de pruebas.   Además, valor",
-      "date": 1787254589,
-      "salary": null,
-      "url": "https://www.getonbrd.com/jobs/qa-engineer-semi-senior-bc-tecnologia-remote",
-      "source": "GetOnBoard",
-      "id": "5dbcaeef1d3b",
-      "score": 50,
-      "matches": [
-        "Rol QA ✓",
-        "Remoto/Latam 🌐"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
-    }
-  ]
+  "new_jobs": []
 }
