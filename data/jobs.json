@@ -1,15 +1,187 @@
 {
-  "last_updated": "2026-08-22T11:23:52.782274+00:00",
-  "total_fetched": 116,
+  "last_updated": "2026-08-22T17:23:57.851324+00:00",
+  "total_fetched": 166,
   "sources": {
     "Remotive": 20,
     "WorkingNomads": 44,
-    "GetOnBoard": 0,
+    "GetOnBoard": 50,
     "Himalayas": 20,
     "Jobicy": 32
   },
   "new_count": 0,
   "jobs": [
+    {
+      "title": "SDET (Software Development Engineer in Test)",
+      "company": "",
+      "location": "fully_remote",
+      "description": "  Proficiency in TypeScript and JavaScript (ES6+)  Strong experience with React and modern frontend testing  Hands-on experience with AWS services and cloud-based testing infrastructure  Experience with test automation frameworks (Selenium, Cypress, Playwright, or similar)  Strong proficiency in unit testing and integration testing  Experience with CI/CD tools (Jenkins, GitHub Actions, GitLab CI, or equivalent)  Knowledge of API testing and tools (REST, GraphQL, Postman, etc.)  Experience with version control systems (Git)  Strong understanding of software development lifecycle and QA methodologies  ",
+      "date": 1787353425,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/sdet-software-development-engineer-in-test-improving-remote",
+      "source": "GetOnBoard",
+      "id": "f5647d7b7ac8",
+      "score": 100,
+      "matches": [
+        "Rol QA ✓",
+        "playwright",
+        "postman",
+        "api testing",
+        "automation",
+        "selenium",
+        "javascript",
+        "typescript"
+      ],
+      "warnings": [],
+      "verdict": "excelente"
+    },
+    {
+      "title": "QA Automation Engineer / SDET",
+      "company": "",
+      "location": "hybrid",
+      "description": "  Experiencia: Al menos 4 años de experiencia comprobada en roles de QA Automation / SDET, con alta autonomía y capacidad para liderar la estrategia de calidad.  Stack de Automatización: Dominio de herramientas de pruebas automatizadas para Web y APIs (ej. Cypress, Playwright, Selenium, RestAssured, Postman o similares).  Integración CI/CD: Experiencia integrando scripts de prueba automatizados en pipelines de despliegue continuo (GitHub Actions, Azure DevOps, Jenkins o similar).  Lógica y Código: Conocimiento en lenguajes de programación o scripting (JavaScript/TypeScript, Python, Java) para la construcción de suites de prueba robustas.  Ubicación y Presencialidad: Residencia en la Región Metropolitana (Santiago) para cumplir con esquema de trabajo Híbrido en Providencia.  Inglés: Nivel t",
+      "date": 1787090793,
+      "salary": "1300–1400",
+      "url": "https://www.getonbrd.com/jobs/qa-automation-engineer-sdet-fieldbeat-santiago",
+      "source": "GetOnBoard",
+      "id": "1a5e5de5fdb5",
+      "score": 90,
+      "matches": [
+        "Rol QA ✓",
+        "playwright",
+        "postman",
+        "automation",
+        "selenium",
+        "javascript",
+        "typescript",
+        "cypress"
+      ],
+      "warnings": [],
+      "verdict": "excelente"
+    },
+    {
+      "title": "QA Lead E-commerce (Inglés)",
+      "company": "",
+      "location": "fully_remote",
+      "description": "  Bachelor's degree in Computer Science or equivalent professional experience.   Typically five (5)+ years of working experience.   Solid knowledge or experience with scripting tools such as JavaScript, XML, TestRail, BrowserStack, and automation testing tools and processes.   Thorough understanding and experience of software development engineering methodologies/standards and software development techniques such as RUP - Rational Unified Process and Microsoft Solutions Framework.   Solid experience with at least two (2) technologies such as SAP Commerce Cloud, Adobe Experience Manager, or other similar commerce and/or content solutions.   Good knowledge of eCommerce concepts (i.e.: B2B and B2C) and market trends.   Good knowledge of software development notation.   Good verbal and written",
+      "date": 1787253470,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/qa-lead-e-commerce-ingles-smith-remote",
+      "source": "GetOnBoard",
+      "id": "ad9d9e4a50eb",
+      "score": 65,
+      "matches": [
+        "Rol QA ✓",
+        "automation",
+        "javascript",
+        "testrail",
+        "Remoto/Latam 🌐"
+      ],
+      "warnings": [],
+      "verdict": "excelente"
+    },
+    {
+      "title": "Quality Assurance QA",
+      "company": "",
+      "location": "fully_remote",
+      "description": "   Experiencia:  1 año de experiencia en roles de QA o testing de software.   Testing Manual:  Sólidas bases en diseño de casos de prueba, ejecución de regresiones y testing exploratorio.   Automatización:  Conocimientos básicos o fundamentos prácticos de Playwright y TypeScript (con la motivación y capacidad de comenzar a automatizar en el rol).   Testing de APIs:  Nociones o experiencia práctica en validación de APIs con Postman o herramientas similares.   Uso de IA:  Interés y uso habitual de herramientas de IA para optimizar el flujo de trabajo en QA. Metodologías ágiles: Familiaridad trabajando en sprints o misiones en equipos de tecnología.  ",
+      "date": 1787170414,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/quality-assurance-qa-lemontech-remote",
+      "source": "GetOnBoard",
+      "id": "09ad3783c421",
+      "score": 65,
+      "matches": [
+        "Rol QA ✓",
+        "playwright",
+        "postman",
+        "typescript",
+        "Remoto/Latam 🌐"
+      ],
+      "warnings": [],
+      "verdict": "excelente"
+    },
+    {
+      "title": "QA Automatizador Mobile",
+      "company": "",
+      "location": "hybrid",
+      "description": "  Appium  Conocimiento y experiencia en Testing de Software  Conocimiento y experiencia en Sector Bancario  Conocimiento Selenium  Experiencia en integración continua con Jenkins / Bamboo  Experiencia en BDD con Gherkin y Cucumber.  Conocimientos en despliegues a través de DA y Cloudbess.  Conocimiento de pruebas técnicas (log, servicios, bd, etc.)  Conocimiento en pruebas unitarias de servicios REST o SOAP a través de software como Postman o SoapUI  Conocimiento en Dynatrace, Elastic, Grafana  Experiencia en herramientas de pruebas de stress como Jmeter y Loadrunner  Conocimiento en pruebas Cloud (AWS, OCI, etc.)  Conocimiento en administración de Docker  Conocimiento en granja de dispositivos móviles y web  Conocimiento en software de control de versiones GIT   📍  ¿Dónde y cómo trabajará",
+      "date": 1787164107,
+      "salary": "1800–2200",
+      "url": "https://www.getonbrd.com/jobs/qa-automatizador-mobile-3it-santiago-efff",
+      "source": "GetOnBoard",
+      "id": "19bd7a4873b1",
+      "score": 60,
+      "matches": [
+        "Rol QA ✓",
+        "postman",
+        "selenium",
+        "appium",
+        "Salario 💰"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    },
+    {
+      "title": "QA Program Lead",
+      "company": "",
+      "location": "hybrid",
+      "description": "  Estrategias de QA, Testing y modelos de gobierno / QA Center of Excellence.   Gestión de programas, proyectos y portafolios de testing.    SDLC, STLC y metodologías ágiles, híbridas y tradicionales.    Pruebas funcionales, integración, E2E, regresión, UAT y no funcionales.    Integraciones mediante APIs, microservicios, eventos, mensajería y sistemas legados.    Gestión de ambientes, datos de prueba, defectos, releases y migraciones.    Automatización, Quality Engineering, CI/CD y DevSecOps.    Performance, carga, estrés, resiliencia, recuperación y disponibilidad.    Observabilidad, monitoreo, logs, métricas y trazabilidad.    Gestión de indicadores, riesgos, cobertura y readiness.     Principales responsabilidades:     Construir y liderar el  Master Test Plan  para múltiples proyectos ",
+      "date": 1786568522,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/qa-program-lead-bc-tecnologia-lima",
+      "source": "GetOnBoard",
+      "id": "a92c4601fa11",
+      "score": 60,
+      "matches": [
+        "Rol QA ✓",
+        "test plan",
+        "defect",
+        "ci/cd",
+        "e2e"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    },
+    {
+      "title": "QA Tester Republica Dominicana",
+      "company": "",
+      "location": "hybrid",
+      "description": " Buscamos un profesional que cuente con:   Más de 3  años de experiencia comprobable en análisis funcional y testing de QA.   Conocimientos especializados en metodologías de desarrollo de software  ágil y tradicional .  Español nativo e inglés avanzado.  Autonomía, pensamiento crítico y comunicación verbal y escrita efectiva.  Experiencia en gestión de casos y defectos (Jira) y métricas de calidad.  Conocimientos de SQL para preparación de datos de prueba.  Familiaridad con pruebas de API (validación REST/SOAP) y automatización web.   ",
+      "date": 1787150501,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/qa-analista-funcional-republica-dominicana-agilesoft-spa-remote-1d52",
+      "source": "GetOnBoard",
+      "id": "e6cc4937b400",
+      "score": 55,
+      "matches": [
+        "Rol QA ✓",
+        "jira",
+        "sql",
+        "defect"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    },
+    {
+      "title": "QA Automation Engineer (Mobile)",
+      "company": "",
+      "location": "hybrid",
+      "description": "  Experiencia sólida en automatización de pruebas mobile con con Java y Cucumber.  Conocimiento práctico en automatización de pruebas móviles, idealmente con Appium o soluciones equivalentes que permitan validar apps nativas y React Native.,  Experiencia validando servicios RESTful y pruebas de contratos (por ejemplo, usando RestAssured o herramientas similares).,  Capacidad de trabajar con equipos de producto y desarrollo para entender requerimientos funcionales y técnicos.,  Experiencia trabajando en entornos ágiles, colaborativos y orientados a la entrega continua de valor.,  Experiencia en consultas SQL para validación de datos.,  ",
+      "date": 1786748772,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/qa-automation-engineer-dynamic-devs-remote-3611",
+      "source": "GetOnBoard",
+      "id": "05a29f343820",
+      "score": 55,
+      "matches": [
+        "Rol QA ✓",
+        "automation",
+        "sql",
+        "appium"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    },
     {
       "title": "Senior Quality Assurance Automation Engineer",
       "company": "Experian",
@@ -49,6 +221,62 @@
       "verdict": "bueno"
     },
     {
+      "title": "QA Engineer Semi Senior",
+      "company": "",
+      "location": "remote_local",
+      "description": " Buscamos un/a  QA Engineer Senior  con experiencia sólida en QA/Testing y automatización, capaz de tomar ownership sobre datos de prueba y ambientes. El objetivo es que puedas asegurar la calidad del software y la continuidad operacional de los servicios TI mediante análisis funcionales/técnicos, ejecución de pruebas y mejora continua del proceso.   Formación universitaria en Ingeniería en Ejecución, en cualquiera de sus especialidades.  Experiencia mínima de  4 años  en el ámbito de su especialidad.  Experiencia en  QA / Testing funcional  y  automatización .  Experiencia en  gestión y acondicionamiento  de datos de prueba.  Conocimientos de  gestión de ambientes de prueba .  Manejo de  Jenkins  y  Git .  Experiencia desarrollando  scripts  para automatización de pruebas.   Además, valor",
+      "date": 1787254589,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/qa-engineer-semi-senior-bc-tecnologia-remote",
+      "source": "GetOnBoard",
+      "id": "5dbcaeef1d3b",
+      "score": 50,
+      "matches": [
+        "Rol QA ✓",
+        "Remoto/Latam 🌐"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    },
+    {
+      "title": "QA Engineer",
+      "company": "",
+      "location": "hybrid",
+      "description": " En Asimov Consultores buscamos una persona con experiencia en aseguramiento de calidad de software, idealmente trabajando en equipos y proyectos bajo metodologías ágiles. La misión es participar en la definición y ejecución de pruebas, y también en su automatización.   Título profesional de Ingeniería en Computación, Ingeniería Civil Informática o carrera afín, de al menos 8 semestres de duración, otorgado por una Universidad o Instituto Profesional.  Experiencia en QA y aseguramiento de calidad de software.  Experiencia en pruebas manuales y automatizadas.  Experiencia con herramientas de automatización como Selenium, Cypress o similares.  Conocimientos de análisis funcional.  Experiencia en la elaboración de planes y casos de prueba.  Experiencia en la generación y preparación de datos ",
+      "date": 1787245427,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/qa-engineer-asimov-consultores-santiago",
+      "source": "GetOnBoard",
+      "id": "24697a2d946e",
+      "score": 50,
+      "matches": [
+        "Rol QA ✓",
+        "selenium",
+        "cypress"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    },
+    {
+      "title": "QA Funcional",
+      "company": "",
+      "location": "hybrid",
+      "description": "  Estudios en Ciencias de la Computación, Ingeniería de Software o campo relacionado  Experiencia en diseño y ejecución de casos de prueba  Experiencia en desarrollo y pruebas de software  Experiencia en pruebas end-to-end  Fuertes habilidades analíticas y de liderazgo que puedan asegurar la calidad de nuestro trabajo  Habilidades de comunicación orales y escritas, y la capacidad de colaborar con partes internas y externas, incluyendo control de calidad, soporte a ingenieros de desarrollo, y clientes  Comprensión de las mejores prácticas con respecto a las medidas de seguridad del sistema  Conocimiento llevando a cabo Queries con SQL  Conocimiento en el funcionamiento de API Rest y cómo probarlos  ",
+      "date": 1787027110,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/qa-funcional-dynamic-devs-santiago-a44e",
+      "source": "GetOnBoard",
+      "id": "337fd09f12f5",
+      "score": 50,
+      "matches": [
+        "Rol QA ✓",
+        "api rest",
+        "sql"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    },
+    {
       "title": "Project Chiron - French (Canada) Quality Control Specialist",
       "company": "Welo Global",
       "location": "Canada",
@@ -67,18 +295,20 @@
       "verdict": "bueno"
     },
     {
-      "title": "AI Evaluation Engineer (Python, QA or Security)",
+      "title": "Consultor SAP Ariba",
       "company": "",
-      "location": "['Serbia']",
-      "description": "  Please submit your CV in English and indicate your level of English proficiency.    Mindrift  connects specialists with project-based AI opportunities for leading tech companies, focused on testing, evaluating, and improving AI systems.  Participation is project-based, not permanent employment.    What this opportunity involves  We're building a dataset to evaluate AI coding agents - how well a model handles real-world developer tasks.  You'll create challenging tasks and evaluation criteria within realistic simulated environments:  \n Build realistic developer environments - a virtual company with codebase, infrastructure, and context (tickets, docs, conversations) that forms a believable development history \n Design tasks from intermediate states of these environments - craft the prompt",
-      "date": "",
-      "salary": null,
-      "url": "https://himalayas.app/companies/mindrift/jobs/ai-evaluation-engineer-python-qa-or-security-8558003736",
-      "source": "Himalayas",
-      "id": "6d14da304d03",
-      "score": 40,
+      "location": "no_remote",
+      "description": " Para este rol, esperamos un perfil con experiencia real en proyectos donde SAP Ariba requiere análisis, diseño y aseguramiento de calidad end-to-end.    Experiencia:  conocimiento profundo y práctica comprobable en  SAP Ariba , incluyendo levantamiento de requerimientos, configuración/diseño e integración cuando aplique.   Arquitectura y diseño:  capacidad para proponer una arquitectura de solución coherente, considerando necesidades de negocio y restricciones técnicas.   QA técnico:  habilidad para evaluar técnicamente la solución, detectar riesgos y asegurar que se cumplan criterios de calidad.   Pruebas con usuarios:  experiencia en apoyar o liderar pruebas de usuario, entendiendo cómo validar el éxito de un proceso.   Comunicación:  claridad para explicar decisiones, traducir requerim",
+      "date": 1787085825,
+      "salary": "1500–2500",
+      "url": "https://www.getonbrd.com/jobs/consultor-sap-ariba-lisit-santiago",
+      "source": "GetOnBoard",
+      "id": "09d804e7320d",
+      "score": 35,
       "matches": [
-        "Rol QA ✓"
+        "Rol QA (desc)",
+        "Remoto/Latam 🌐",
+        "Salario 💰"
       ],
       "warnings": [],
       "verdict": "regular"
