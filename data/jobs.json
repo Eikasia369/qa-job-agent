@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-23T17:23:10.651661+00:00",
+  "last_updated": "2026-08-23T23:24:40.648446+00:00",
   "total_fetched": 164,
   "sources": {
     "Remotive": 20,
@@ -8,7 +8,7 @@
     "Himalayas": 20,
     "Jobicy": 32
   },
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "title": "SDET (Software Development Engineer in Test)",
@@ -295,23 +295,6 @@
       "verdict": "bueno"
     },
     {
-      "title": "SNAP Quality Assurance Consultant",
-      "company": "",
-      "location": "['United States']",
-      "description": "  Public Consulting Group  LLC (PCG) is a leading public sector solutions implementation and operations improvement firm that partners with health, education, and human services agencies to improve lives. Founded in 1986, PCG employs approximately 2,000 professionals throughout the U.S.—all committed to delivering solutions that change lives for the better. The firm is a member of a family of companies with experience in all 50 states, and clients in three Canadian provinces and Europe. PCG offers clients a multidisciplinary approach to meet challenges, pursue opportunities, and serve constituents across the public sector. To learn more, visit .  Our Human Services team helps state and municipal human services and economic development agencies keep their promises—responsibly and sustainabl",
-      "date": "",
-      "salary": null,
-      "url": "https://himalayas.app/companies/public-consulting-group/jobs/snap-quality-assurance-consultant",
-      "source": "Himalayas",
-      "id": "d25dc14896fa",
-      "score": 40,
-      "matches": [
-        "Rol QA ✓"
-      ],
-      "warnings": [],
-      "verdict": "regular"
-    },
-    {
       "title": "Consultor SAP Ariba",
       "company": "",
       "location": "no_remote",
@@ -349,23 +332,5 @@
       "verdict": "regular"
     }
   ],
-  "new_jobs": [
-    {
-      "title": "SNAP Quality Assurance Consultant",
-      "company": "",
-      "location": "['United States']",
-      "description": "  Public Consulting Group  LLC (PCG) is a leading public sector solutions implementation and operations improvement firm that partners with health, education, and human services agencies to improve lives. Founded in 1986, PCG employs approximately 2,000 professionals throughout the U.S.—all committed to delivering solutions that change lives for the better. The firm is a member of a family of companies with experience in all 50 states, and clients in three Canadian provinces and Europe. PCG offers clients a multidisciplinary approach to meet challenges, pursue opportunities, and serve constituents across the public sector. To learn more, visit .  Our Human Services team helps state and municipal human services and economic development agencies keep their promises—responsibly and sustainabl",
-      "date": "",
-      "salary": null,
-      "url": "https://himalayas.app/companies/public-consulting-group/jobs/snap-quality-assurance-consultant",
-      "source": "Himalayas",
-      "id": "d25dc14896fa",
-      "score": 40,
-      "matches": [
-        "Rol QA ✓"
-      ],
-      "warnings": [],
-      "verdict": "regular"
-    }
-  ]
+  "new_jobs": []
 }
