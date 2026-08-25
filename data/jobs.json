@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-08-24T23:25:08.887062+00:00",
-  "total_fetched": 162,
+  "last_updated": "2026-08-25T11:31:48.288717+00:00",
+  "total_fetched": 163,
   "sources": {
     "Remotive": 18,
-    "WorkingNomads": 42,
+    "WorkingNomads": 43,
     "GetOnBoard": 50,
     "Himalayas": 20,
     "Jobicy": 32
@@ -157,25 +157,6 @@
         "automation",
         "sql",
         "appium"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
-    },
-    {
-      "title": "Senior Quality Assurance Automation Engineer",
-      "company": "Experian",
-      "location": "Costa Rica",
-      "description": " Company Description  Experian is a global data and technology company, powering opportunities for people and businesses around the world. We operate across a range of markets, from financial services to healthcare, automotive, agribusiness, insurance, and many more. Experian invests in people and new advanced technologies to unlock the power of data. We have an amazing team of 25,200 people in 32 countries.   Job Description  Experian is looking for a Senior QA Automation Engineer to test and maintain core enterprise systems while providing technical leadership across distributed teams in the United States and India. You will blend manual and automated test creation with operational ownership, helping engineering teams deliver secure, reliable, and scalable software. You will report to th",
-      "date": "2026-07-24T10:00:06+00:00",
-      "salary": null,
-      "url": "https://jobicy.com/jobs/144474-senior-quality-assurance-automation-engineer",
-      "source": "Jobicy",
-      "id": "5fdbe8c3ab94",
-      "score": 55,
-      "matches": [
-        "Rol QA ✓",
-        "automation",
-        "Remoto/Latam 🌐"
       ],
       "warnings": [],
       "verdict": "bueno"
