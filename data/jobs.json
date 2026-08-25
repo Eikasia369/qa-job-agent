@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-25T17:34:29.871578+00:00",
+  "last_updated": "2026-08-25T23:27:33.125662+00:00",
   "total_fetched": 163,
   "sources": {
     "Remotive": 18,
@@ -83,22 +83,23 @@
       "title": "QA Automatizador Mobile",
       "company": "",
       "location": "hybrid",
-      "description": "  Appium  Conocimiento y experiencia en Testing de Software  Conocimiento y experiencia en Sector Bancario  Conocimiento Selenium  Experiencia en integración continua con Jenkins / Bamboo  Experiencia en BDD con Gherkin y Cucumber.  Conocimientos en despliegues a través de DA y Cloudbess.  Conocimiento de pruebas técnicas (log, servicios, bd, etc.)  Conocimiento en pruebas unitarias de servicios REST o SOAP a través de software como Postman o SoapUI  Conocimiento en Dynatrace, Elastic, Grafana  Experiencia en herramientas de pruebas de stress como Jmeter y Loadrunner  Conocimiento en pruebas Cloud (AWS, OCI, etc.)  Conocimiento en administración de Docker  Conocimiento en granja de dispositivos móviles y web  Conocimiento en software de control de versiones GIT   📍  ¿Dónde y cómo trabajará",
+      "description": "   Java  Appium  Selenium  Karate aplicado a endpoints  Trayectoria en el sector bancario  Git, incluyendo ramas y pull requests  BDD mediante Gherkin y Cucumber  Administración de contenedores con Docker  Integración continua con Jenkins o Bamboo  Despliegues mediante DA y CloudBees  Monitoreo con Dynatrace, Elastic y Grafana  Testing técnico de logs, servicios y bases de datos  Ejecución de carga y stress con JMeter y LoadRunner  Validación de servicios REST o SOAP con Postman o SoapUI  Manejo de granjas de dispositivos móviles y navegadores web  Obtención y preparación de datos para los casos automatizados  Conocimientos de pruebas cloud en AWS, OCI u otras plataformas  Aplicación de testing funcional, manual, exploratorio y regresivo  Trabajo bajo Scrum, considerando cambios de alcance",
       "date": 1787164107,
       "salary": "1800–2200",
       "url": "https://www.getonbrd.com/jobs/qa-automatizador-mobile-3it-santiago-efff",
       "source": "GetOnBoard",
       "id": "19bd7a4873b1",
-      "score": 60,
+      "score": 65,
       "matches": [
         "Rol QA ✓",
         "postman",
         "selenium",
+        "scrum",
         "appium",
         "Salario 💰"
       ],
       "warnings": [],
-      "verdict": "bueno"
+      "verdict": "excelente"
     },
     {
       "title": "QA Tester Republica Dominicana",
@@ -116,26 +117,6 @@
         "jira",
         "sql",
         "defect"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
-    },
-    {
-      "title": "QA Automation Engineer (Mobile)",
-      "company": "",
-      "location": "hybrid",
-      "description": "  Experiencia sólida en automatización de pruebas mobile con con Java y Cucumber.  Conocimiento práctico en automatización de pruebas móviles, idealmente con Appium o soluciones equivalentes que permitan validar apps nativas y React Native.,  Experiencia validando servicios RESTful y pruebas de contratos (por ejemplo, usando RestAssured o herramientas similares).,  Capacidad de trabajar con equipos de producto y desarrollo para entender requerimientos funcionales y técnicos.,  Experiencia trabajando en entornos ágiles, colaborativos y orientados a la entrega continua de valor.,  Experiencia en consultas SQL para validación de datos.,  ",
-      "date": 1786748772,
-      "salary": null,
-      "url": "https://www.getonbrd.com/jobs/qa-automation-engineer-dynamic-devs-remote-3611",
-      "source": "GetOnBoard",
-      "id": "05a29f343820",
-      "score": 55,
-      "matches": [
-        "Rol QA ✓",
-        "automation",
-        "sql",
-        "appium"
       ],
       "warnings": [],
       "verdict": "bueno"
