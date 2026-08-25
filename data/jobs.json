@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-25T11:31:48.288717+00:00",
+  "last_updated": "2026-08-25T17:34:29.871578+00:00",
   "total_fetched": 163,
   "sources": {
     "Remotive": 18,
@@ -96,27 +96,6 @@
         "selenium",
         "appium",
         "Salario 💰"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
-    },
-    {
-      "title": "QA Program Lead",
-      "company": "",
-      "location": "hybrid",
-      "description": "  Estrategias de QA, Testing y modelos de gobierno / QA Center of Excellence.   Gestión de programas, proyectos y portafolios de testing.    SDLC, STLC y metodologías ágiles, híbridas y tradicionales.    Pruebas funcionales, integración, E2E, regresión, UAT y no funcionales.    Integraciones mediante APIs, microservicios, eventos, mensajería y sistemas legados.    Gestión de ambientes, datos de prueba, defectos, releases y migraciones.    Automatización, Quality Engineering, CI/CD y DevSecOps.    Performance, carga, estrés, resiliencia, recuperación y disponibilidad.    Observabilidad, monitoreo, logs, métricas y trazabilidad.    Gestión de indicadores, riesgos, cobertura y readiness.     Principales responsabilidades:     Construir y liderar el  Master Test Plan  para múltiples proyectos ",
-      "date": 1786568522,
-      "salary": null,
-      "url": "https://www.getonbrd.com/jobs/qa-program-lead-bc-tecnologia-lima",
-      "source": "GetOnBoard",
-      "id": "a92c4601fa11",
-      "score": 60,
-      "matches": [
-        "Rol QA ✓",
-        "test plan",
-        "defect",
-        "ci/cd",
-        "e2e"
       ],
       "warnings": [],
       "verdict": "bueno"
