@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-08-25T23:27:33.125662+00:00",
-  "total_fetched": 163,
+  "last_updated": "2026-08-26T11:33:20.254830+00:00",
+  "total_fetched": 162,
   "sources": {
     "Remotive": 18,
-    "WorkingNomads": 43,
+    "WorkingNomads": 42,
     "GetOnBoard": 50,
     "Himalayas": 20,
     "Jobicy": 32
   },
-  "new_count": 0,
+  "new_count": 1,
   "jobs": [
     {
       "title": "SDET (Software Development Engineer in Test)",
@@ -197,6 +197,24 @@
       "verdict": "bueno"
     },
     {
+      "title": "QA Speech-to-Text Audio Collection Project",
+      "company": "",
+      "location": "Remote",
+      "description": "  Job description     TELUS Digital is seeking quality assurance specialists to participate in a Speech-to-Text (STT) script validation project. Participants will review and validate LLM-generated scripts in Malay English (Manglish), ensuring they meet quality standards for grammatical accuracy, completeness, and naturalness. During script validation reviews through our FTS platform, you will review LLM-generated Malay English (Manglish) scripts with predefined headers/tags, validate scripts for incomplete sentences and critical grammatical errors, conduct manual quality review to ensure naturalness and colloquial accuracy, process and QA sample batches through our FTS platform, and flag linguistic inconsistencies or edge cases for escalation.     The Primary Objective   The primary object",
+      "date": "",
+      "salary": null,
+      "url": "https://himalayas.app/companies/telus-digital/jobs/qa-speech-to-text-audio-collection-project",
+      "source": "Himalayas",
+      "id": "9841f5cbd70e",
+      "score": 50,
+      "matches": [
+        "Rol QA ✓",
+        "Remoto/Latam 🌐"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    },
+    {
       "title": "Project Chiron - French (Canada) Quality Control Specialist",
       "company": "Welo Global",
       "location": "Canada",
@@ -252,5 +270,24 @@
       "verdict": "regular"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "title": "QA Speech-to-Text Audio Collection Project",
+      "company": "",
+      "location": "Remote",
+      "description": "  Job description     TELUS Digital is seeking quality assurance specialists to participate in a Speech-to-Text (STT) script validation project. Participants will review and validate LLM-generated scripts in Malay English (Manglish), ensuring they meet quality standards for grammatical accuracy, completeness, and naturalness. During script validation reviews through our FTS platform, you will review LLM-generated Malay English (Manglish) scripts with predefined headers/tags, validate scripts for incomplete sentences and critical grammatical errors, conduct manual quality review to ensure naturalness and colloquial accuracy, process and QA sample batches through our FTS platform, and flag linguistic inconsistencies or edge cases for escalation.     The Primary Objective   The primary object",
+      "date": "",
+      "salary": null,
+      "url": "https://himalayas.app/companies/telus-digital/jobs/qa-speech-to-text-audio-collection-project",
+      "source": "Himalayas",
+      "id": "9841f5cbd70e",
+      "score": 50,
+      "matches": [
+        "Rol QA ✓",
+        "Remoto/Latam 🌐"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    }
+  ]
 }
