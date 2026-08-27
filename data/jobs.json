@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-26T19:06:14.960790+00:00",
+  "last_updated": "2026-08-27T04:25:30.606295+00:00",
   "total_fetched": 161,
   "sources": {
     "Remotive": 18,
@@ -8,7 +8,7 @@
     "Himalayas": 20,
     "Jobicy": 32
   },
-  "new_count": 0,
+  "new_count": 1,
   "jobs": [
     {
       "title": "SDET (Software Development Engineer in Test)",
@@ -141,6 +141,25 @@
       "verdict": "bueno"
     },
     {
+      "title": "QA Técnico",
+      "company": "",
+      "location": "hybrid",
+      "description": "  Estudiante (no requiere título culminado) o egresado de carrera técnica o universitaria en  Ingeniería de Software, Sistemas, Informática  o afines.  Base de programación y conocimientos de  metodologías de pruebas de software .  Nociones de  JavaScript/TypeScript  (necesarias para trabajar con Grafana K6).  Conocimiento básico de control de versiones (Git/GitLab).  Alta capacidad de aprendizaje, mentalidad cuestionadora y apertura a adoptar herramientas de automatización y de trabajo con agentes de IA.  Disponibilidad para trabajar presencialmente en Lima, con 100% de asistencia durante el primer mes de inducción.  ",
+      "date": 1787785848,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/q-a-tecnico-codeable-lima-7ca1",
+      "source": "GetOnBoard",
+      "id": "968fcc731551",
+      "score": 50,
+      "matches": [
+        "Rol QA ✓",
+        "javascript",
+        "typescript"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    },
+    {
       "title": "QA Engineer Semi Senior",
       "company": "",
       "location": "remote_local",
@@ -173,43 +192,6 @@
         "Rol QA ✓",
         "selenium",
         "cypress"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
-    },
-    {
-      "title": "QA Funcional",
-      "company": "",
-      "location": "hybrid",
-      "description": "  Estudios en Ciencias de la Computación, Ingeniería de Software o campo relacionado  Experiencia en diseño y ejecución de casos de prueba  Experiencia en desarrollo y pruebas de software  Experiencia en pruebas end-to-end  Fuertes habilidades analíticas y de liderazgo que puedan asegurar la calidad de nuestro trabajo  Habilidades de comunicación orales y escritas, y la capacidad de colaborar con partes internas y externas, incluyendo control de calidad, soporte a ingenieros de desarrollo, y clientes  Comprensión de las mejores prácticas con respecto a las medidas de seguridad del sistema  Conocimiento llevando a cabo Queries con SQL  Conocimiento en el funcionamiento de API Rest y cómo probarlos  ",
-      "date": 1787027110,
-      "salary": null,
-      "url": "https://www.getonbrd.com/jobs/qa-funcional-dynamic-devs-santiago-a44e",
-      "source": "GetOnBoard",
-      "id": "337fd09f12f5",
-      "score": 50,
-      "matches": [
-        "Rol QA ✓",
-        "api rest",
-        "sql"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
-    },
-    {
-      "title": "QA Speech-to-Text Audio Collection Project",
-      "company": "",
-      "location": "Remote",
-      "description": "  Job description     TELUS Digital is seeking quality assurance specialists to participate in a Speech-to-Text (STT) script validation project. Participants will review and validate LLM-generated scripts in Malay English (Manglish), ensuring they meet quality standards for grammatical accuracy, completeness, and naturalness. During script validation reviews through our FTS platform, you will review LLM-generated Malay English (Manglish) scripts with predefined headers/tags, validate scripts for incomplete sentences and critical grammatical errors, conduct manual quality review to ensure naturalness and colloquial accuracy, process and QA sample batches through our FTS platform, and flag linguistic inconsistencies or edge cases for escalation.     The Primary Objective   The primary object",
-      "date": "",
-      "salary": null,
-      "url": "https://himalayas.app/companies/telus-digital/jobs/qa-speech-to-text-audio-collection-project",
-      "source": "Himalayas",
-      "id": "9841f5cbd70e",
-      "score": 50,
-      "matches": [
-        "Rol QA ✓",
-        "Remoto/Latam 🌐"
       ],
       "warnings": [],
       "verdict": "bueno"
@@ -270,5 +252,25 @@
       "verdict": "regular"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "title": "QA Técnico",
+      "company": "",
+      "location": "hybrid",
+      "description": "  Estudiante (no requiere título culminado) o egresado de carrera técnica o universitaria en  Ingeniería de Software, Sistemas, Informática  o afines.  Base de programación y conocimientos de  metodologías de pruebas de software .  Nociones de  JavaScript/TypeScript  (necesarias para trabajar con Grafana K6).  Conocimiento básico de control de versiones (Git/GitLab).  Alta capacidad de aprendizaje, mentalidad cuestionadora y apertura a adoptar herramientas de automatización y de trabajo con agentes de IA.  Disponibilidad para trabajar presencialmente en Lima, con 100% de asistencia durante el primer mes de inducción.  ",
+      "date": 1787785848,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/q-a-tecnico-codeable-lima-7ca1",
+      "source": "GetOnBoard",
+      "id": "968fcc731551",
+      "score": 50,
+      "matches": [
+        "Rol QA ✓",
+        "javascript",
+        "typescript"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    }
+  ]
 }
