@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-08-27T04:25:30.606295+00:00",
-  "total_fetched": 161,
+  "last_updated": "2026-08-27T20:56:08.000420+00:00",
+  "total_fetched": 159,
   "sources": {
     "Remotive": 18,
-    "WorkingNomads": 41,
+    "WorkingNomads": 39,
     "GetOnBoard": 50,
     "Himalayas": 20,
     "Jobicy": 32
   },
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "title": "SDET (Software Development Engineer in Test)",
@@ -35,30 +35,6 @@
       "verdict": "excelente"
     },
     {
-      "title": "QA Automation Engineer / SDET",
-      "company": "",
-      "location": "hybrid",
-      "description": "  Experiencia: Al menos 4 años de experiencia comprobada en roles de QA Automation / SDET, con alta autonomía y capacidad para liderar la estrategia de calidad.  Stack de Automatización: Dominio de herramientas de pruebas automatizadas para Web y APIs (ej. Cypress, Playwright, Selenium, RestAssured, Postman o similares).  Integración CI/CD: Experiencia integrando scripts de prueba automatizados en pipelines de despliegue continuo (GitHub Actions, Azure DevOps, Jenkins o similar).  Lógica y Código: Conocimiento en lenguajes de programación o scripting (JavaScript/TypeScript, Python, Java) para la construcción de suites de prueba robustas.  Ubicación y Presencialidad: Residencia en la Región Metropolitana (Santiago) para cumplir con esquema de trabajo Híbrido en Providencia.  Inglés: Nivel t",
-      "date": 1787090793,
-      "salary": "1300–1400",
-      "url": "https://www.getonbrd.com/jobs/qa-automation-engineer-sdet-fieldbeat-santiago",
-      "source": "GetOnBoard",
-      "id": "1a5e5de5fdb5",
-      "score": 90,
-      "matches": [
-        "Rol QA ✓",
-        "playwright",
-        "postman",
-        "automation",
-        "selenium",
-        "javascript",
-        "typescript",
-        "cypress"
-      ],
-      "warnings": [],
-      "verdict": "excelente"
-    },
-    {
       "title": "QA Lead E-commerce (Inglés)",
       "company": "",
       "location": "fully_remote",
@@ -74,6 +50,27 @@
         "automation",
         "javascript",
         "testrail",
+        "Remoto/Latam 🌐"
+      ],
+      "warnings": [],
+      "verdict": "excelente"
+    },
+    {
+      "title": "Quality Assurance QA",
+      "company": "",
+      "location": "fully_remote",
+      "description": "   Experiencia:  1 año de experiencia en roles de QA o testing de software.   Testing Manual:  Sólidas bases en diseño de casos de prueba, ejecución de regresiones y testing exploratorio.   Automatización:  Conocimientos básicos o fundamentos prácticos de Playwright y TypeScript (con la motivación y capacidad de comenzar a automatizar en el rol).   Testing de APIs:  Nociones o experiencia práctica en validación de APIs con Postman o herramientas similares.  ",
+      "date": 1787170414,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/quality-assurance-qa-lemontech-remote",
+      "source": "GetOnBoard",
+      "id": "09ad3783c421",
+      "score": 65,
+      "matches": [
+        "Rol QA ✓",
+        "playwright",
+        "postman",
+        "typescript",
         "Remoto/Latam 🌐"
       ],
       "warnings": [],
@@ -215,25 +212,6 @@
       "verdict": "bueno"
     },
     {
-      "title": "Consultor SAP Ariba",
-      "company": "",
-      "location": "no_remote",
-      "description": " Para este rol, esperamos un perfil con experiencia real en proyectos donde SAP Ariba requiere análisis, diseño y aseguramiento de calidad end-to-end.    Experiencia:  conocimiento profundo y práctica comprobable en  SAP Ariba , incluyendo levantamiento de requerimientos, configuración/diseño e integración cuando aplique.   Arquitectura y diseño:  capacidad para proponer una arquitectura de solución coherente, considerando necesidades de negocio y restricciones técnicas.   QA técnico:  habilidad para evaluar técnicamente la solución, detectar riesgos y asegurar que se cumplan criterios de calidad.   Pruebas con usuarios:  experiencia en apoyar o liderar pruebas de usuario, entendiendo cómo validar el éxito de un proceso.   Comunicación:  claridad para explicar decisiones, traducir requerim",
-      "date": 1787085825,
-      "salary": "1500–2500",
-      "url": "https://www.getonbrd.com/jobs/consultor-sap-ariba-lisit-santiago",
-      "source": "GetOnBoard",
-      "id": "09d804e7320d",
-      "score": 35,
-      "matches": [
-        "Rol QA (desc)",
-        "Remoto/Latam 🌐",
-        "Salario 💰"
-      ],
-      "warnings": [],
-      "verdict": "regular"
-    },
-    {
       "title": "Customer Support Specialist",
       "company": "TripleTen",
       "location": "Brazil",
@@ -252,25 +230,5 @@
       "verdict": "regular"
     }
   ],
-  "new_jobs": [
-    {
-      "title": "QA Técnico",
-      "company": "",
-      "location": "hybrid",
-      "description": "  Estudiante (no requiere título culminado) o egresado de carrera técnica o universitaria en  Ingeniería de Software, Sistemas, Informática  o afines.  Base de programación y conocimientos de  metodologías de pruebas de software .  Nociones de  JavaScript/TypeScript  (necesarias para trabajar con Grafana K6).  Conocimiento básico de control de versiones (Git/GitLab).  Alta capacidad de aprendizaje, mentalidad cuestionadora y apertura a adoptar herramientas de automatización y de trabajo con agentes de IA.  Disponibilidad para trabajar presencialmente en Lima, con 100% de asistencia durante el primer mes de inducción.  ",
-      "date": 1787785848,
-      "salary": null,
-      "url": "https://www.getonbrd.com/jobs/q-a-tecnico-codeable-lima-7ca1",
-      "source": "GetOnBoard",
-      "id": "968fcc731551",
-      "score": 50,
-      "matches": [
-        "Rol QA ✓",
-        "javascript",
-        "typescript"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
-    }
-  ]
+  "new_jobs": []
 }
