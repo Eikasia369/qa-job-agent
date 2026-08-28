@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-08-28T06:49:08.332422+00:00",
-  "total_fetched": 159,
+  "last_updated": "2026-08-28T21:19:39.115191+00:00",
+  "total_fetched": 163,
   "sources": {
-    "Remotive": 18,
-    "WorkingNomads": 39,
+    "Remotive": 19,
+    "WorkingNomads": 42,
     "GetOnBoard": 50,
     "Himalayas": 20,
     "Jobicy": 32
@@ -72,28 +72,6 @@
         "postman",
         "typescript",
         "Remoto/Latam 🌐"
-      ],
-      "warnings": [],
-      "verdict": "excelente"
-    },
-    {
-      "title": "QA Automatizador Mobile",
-      "company": "",
-      "location": "hybrid",
-      "description": "   Java  Appium  Selenium  Karate aplicado a endpoints  Trayectoria en el sector bancario  Git, incluyendo ramas y pull requests  BDD mediante Gherkin y Cucumber  Administración de contenedores con Docker  Integración continua con Jenkins o Bamboo  Despliegues mediante DA y CloudBees  Monitoreo con Dynatrace, Elastic y Grafana  Testing técnico de logs, servicios y bases de datos  Ejecución de carga y stress con JMeter y LoadRunner  Validación de servicios REST o SOAP con Postman o SoapUI  Manejo de granjas de dispositivos móviles y navegadores web  Obtención y preparación de datos para los casos automatizados  Conocimientos de pruebas cloud en AWS, OCI u otras plataformas  Aplicación de testing funcional, manual, exploratorio y regresivo  Trabajo bajo Scrum, considerando cambios de alcance",
-      "date": 1787164107,
-      "salary": "1800–2200",
-      "url": "https://www.getonbrd.com/jobs/qa-automatizador-mobile-3it-santiago-efff",
-      "source": "GetOnBoard",
-      "id": "19bd7a4873b1",
-      "score": 65,
-      "matches": [
-        "Rol QA ✓",
-        "postman",
-        "selenium",
-        "scrum",
-        "appium",
-        "Salario 💰"
       ],
       "warnings": [],
       "verdict": "excelente"
