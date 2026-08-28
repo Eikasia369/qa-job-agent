@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-27T20:56:08.000420+00:00",
+  "last_updated": "2026-08-28T06:49:08.332422+00:00",
   "total_fetched": 159,
   "sources": {
     "Remotive": 18,
@@ -97,26 +97,6 @@
       ],
       "warnings": [],
       "verdict": "excelente"
-    },
-    {
-      "title": "QA Tester Republica Dominicana",
-      "company": "",
-      "location": "hybrid",
-      "description": " Buscamos un profesional que cuente con:   Más de 3  años de experiencia comprobable en análisis funcional y testing de QA.   Conocimientos especializados en metodologías de desarrollo de software  ágil y tradicional .  Español nativo e inglés avanzado.  Autonomía, pensamiento crítico y comunicación verbal y escrita efectiva.  Experiencia en gestión de casos y defectos (Jira) y métricas de calidad.  Conocimientos de SQL para preparación de datos de prueba.  Familiaridad con pruebas de API (validación REST/SOAP) y automatización web.   ",
-      "date": 1787150501,
-      "salary": null,
-      "url": "https://www.getonbrd.com/jobs/qa-analista-funcional-republica-dominicana-agilesoft-spa-remote-1d52",
-      "source": "GetOnBoard",
-      "id": "e6cc4937b400",
-      "score": 55,
-      "matches": [
-        "Rol QA ✓",
-        "jira",
-        "sql",
-        "defect"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
     },
     {
       "title": "Project Chiron - Spanish (Latin America) Quality Control Specialist",
