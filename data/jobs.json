@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-29T19:38:16.364886+00:00",
+  "last_updated": "2026-08-30T01:09:39.519011+00:00",
   "total_fetched": 165,
   "sources": {
     "Remotive": 19,
@@ -8,7 +8,7 @@
     "Himalayas": 20,
     "Jobicy": 32
   },
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "title": "SDET (Software Development Engineer in Test)",
@@ -206,24 +206,5 @@
       "verdict": "regular"
     }
   ],
-  "new_jobs": [
-    {
-      "title": "Data QA Engineer – Enterprise Data",
-      "company": "Truelogic",
-      "location": "LATAM",
-      "description": "  About Truelogic   At Truelogic we are a leading provider of nearshore staff augmentation services headquartered in New York. For over two decades, we’ve been delivering top-tier technology solutions to companies of all sizes, from innovative startups to industry leaders, helping them achieve their digital transformation goals.  Our team of 600+ highly skilled tech professionals, based in Latin America, drives digital disruption by partnering with U.S. companies on their most impactful projects. Whether collaborating with Fortune 500 giants or scaling startups, we deliver results that make a difference.  By applying for this position, you’re taking the first step in joining a dynamic team that values your expertise and aspirations. We aim to align your skills with opportunities that foste",
-      "date": "2026-08-29T16:23:45+00:00",
-      "salary": null,
-      "url": "https://jobicy.com/jobs/152034-data-qa-engineer-enterprise-data",
-      "source": "Jobicy",
-      "id": "ba91eee0b22b",
-      "score": 50,
-      "matches": [
-        "Rol QA ✓",
-        "Remoto/Latam 🌐"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
-    }
-  ]
+  "new_jobs": []
 }
