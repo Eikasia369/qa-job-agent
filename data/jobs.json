@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-30T15:15:35.694364+00:00",
+  "last_updated": "2026-08-30T19:40:12.694745+00:00",
   "total_fetched": 165,
   "sources": {
     "Remotive": 19,
@@ -186,24 +186,6 @@
       ],
       "warnings": [],
       "verdict": "bueno"
-    },
-    {
-      "title": "Customer Support Specialist",
-      "company": "TripleTen",
-      "location": "Brazil",
-      "description": " Description  TripleTen is an award-winning online school among technology bootcamps. Our mission is to help people change their lives and succeed in technology. We offer flexibility in studies, career mentoring, resume and portfolio preparation, and we guarantee employment after the course. Our employability rate among graduates is 87% across our Full Stack Development, Quality Assurance (QA) and Data Analytics.     We are looking to hire a Customer Support Agent to help students from LATAM and Brazil throughout the learning process, answering their questions, relieving their doubts, and solving technical issues.      Please submit all resumes or CV's in English.   What you will do   Help students by answering their questions in chat rooms and mail channels;  Accompany the learning proces",
-      "date": "2026-08-09T03:28:47+00:00",
-      "salary": null,
-      "url": "https://jobicy.com/jobs/150334-customer-support-specialist-3",
-      "source": "Jobicy",
-      "id": "9257b89f4f5b",
-      "score": 30,
-      "matches": [
-        "Rol QA (desc)",
-        "Remoto/Latam 🌐"
-      ],
-      "warnings": [],
-      "verdict": "regular"
     }
   ],
   "new_jobs": []
