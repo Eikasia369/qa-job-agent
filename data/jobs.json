@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-08-30T19:40:12.694745+00:00",
-  "total_fetched": 165,
+  "last_updated": "2026-08-31T01:13:25.583094+00:00",
+  "total_fetched": 164,
   "sources": {
     "Remotive": 19,
-    "WorkingNomads": 44,
+    "WorkingNomads": 43,
     "GetOnBoard": 50,
     "Himalayas": 20,
     "Jobicy": 32
   },
-  "new_count": 0,
+  "new_count": 1,
   "jobs": [
     {
       "title": "SDET (Software Development Engineer in Test)",
@@ -186,7 +186,44 @@
       ],
       "warnings": [],
       "verdict": "bueno"
+    },
+    {
+      "title": "Language Alignment & Resource Partner (Arabic) - Freelance AI Trainer Project",
+      "company": "",
+      "location": "Remote",
+      "description": "  Project Overview   We are sourcing independent Language Alignment &amp; Resource Partners (LARPs) to provide native-level Arabic language vetting and QA for a specialized AI data project. As AI systems strive to reflect real-world usage and deliver human-like communication, their accuracy depends entirely on rigorous linguistic and cultural consultation. The objective of this project is to evaluate, annotate, and validate data to ensure high-quality outputs that are fully natural, polished, and free from bias.   Project Deliverables &amp; Scope   Operate autonomously to provide linguistic QA and develop alignment resources. Expected deliverables include:  \n \n Data Annotation &amp; Review:  Reviewing, annotating, and testing AI outputs for grammatical accuracy, naturalness, and strict cul",
+      "date": "",
+      "salary": null,
+      "url": "https://himalayas.app/companies/inv/jobs/language-alignment-resource-partner-arabic-freelance-ai-trainer-project",
+      "source": "Himalayas",
+      "id": "7a1ed28dcd36",
+      "score": 30,
+      "matches": [
+        "Rol QA (desc)",
+        "Remoto/Latam 🌐"
+      ],
+      "warnings": [],
+      "verdict": "regular"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "title": "Language Alignment & Resource Partner (Arabic) - Freelance AI Trainer Project",
+      "company": "",
+      "location": "Remote",
+      "description": "  Project Overview   We are sourcing independent Language Alignment &amp; Resource Partners (LARPs) to provide native-level Arabic language vetting and QA for a specialized AI data project. As AI systems strive to reflect real-world usage and deliver human-like communication, their accuracy depends entirely on rigorous linguistic and cultural consultation. The objective of this project is to evaluate, annotate, and validate data to ensure high-quality outputs that are fully natural, polished, and free from bias.   Project Deliverables &amp; Scope   Operate autonomously to provide linguistic QA and develop alignment resources. Expected deliverables include:  \n \n Data Annotation &amp; Review:  Reviewing, annotating, and testing AI outputs for grammatical accuracy, naturalness, and strict cul",
+      "date": "",
+      "salary": null,
+      "url": "https://himalayas.app/companies/inv/jobs/language-alignment-resource-partner-arabic-freelance-ai-trainer-project",
+      "source": "Himalayas",
+      "id": "7a1ed28dcd36",
+      "score": 30,
+      "matches": [
+        "Rol QA (desc)",
+        "Remoto/Latam 🌐"
+      ],
+      "warnings": [],
+      "verdict": "regular"
+    }
+  ]
 }
