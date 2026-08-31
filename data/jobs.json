@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-08-31T01:13:25.583094+00:00",
-  "total_fetched": 164,
+  "last_updated": "2026-08-31T17:56:45.486856+00:00",
+  "total_fetched": 166,
   "sources": {
     "Remotive": 19,
-    "WorkingNomads": 43,
+    "WorkingNomads": 45,
     "GetOnBoard": 50,
     "Himalayas": 20,
     "Jobicy": 32
   },
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "title": "SDET (Software Development Engineer in Test)",
@@ -30,48 +30,6 @@
         "selenium",
         "javascript",
         "typescript"
-      ],
-      "warnings": [],
-      "verdict": "excelente"
-    },
-    {
-      "title": "QA Lead E-commerce (Inglés)",
-      "company": "",
-      "location": "fully_remote",
-      "description": "  Bachelor's degree in Computer Science or equivalent professional experience.   Typically five (5)+ years of working experience.   Solid knowledge or experience with scripting tools such as JavaScript, XML, TestRail, BrowserStack, and automation testing tools and processes.   Thorough understanding and experience of software development engineering methodologies/standards and software development techniques such as RUP - Rational Unified Process and Microsoft Solutions Framework.   Solid experience with at least two (2) technologies such as SAP Commerce Cloud, Adobe Experience Manager, or other similar commerce and/or content solutions.   Good knowledge of eCommerce concepts (i.e.: B2B and B2C) and market trends.   Good knowledge of software development notation.   Good verbal and written",
-      "date": 1787253470,
-      "salary": null,
-      "url": "https://www.getonbrd.com/jobs/qa-lead-e-commerce-ingles-smith-remote",
-      "source": "GetOnBoard",
-      "id": "ad9d9e4a50eb",
-      "score": 65,
-      "matches": [
-        "Rol QA ✓",
-        "automation",
-        "javascript",
-        "testrail",
-        "Remoto/Latam 🌐"
-      ],
-      "warnings": [],
-      "verdict": "excelente"
-    },
-    {
-      "title": "Quality Assurance QA",
-      "company": "",
-      "location": "fully_remote",
-      "description": "   Experiencia:  1 año de experiencia en roles de QA o testing de software.   Testing Manual:  Sólidas bases en diseño de casos de prueba, ejecución de regresiones y testing exploratorio.   Automatización:  Conocimientos básicos o fundamentos prácticos de Playwright y TypeScript (con la motivación y capacidad de comenzar a automatizar en el rol).   Testing de APIs:  Nociones o experiencia práctica en validación de APIs con Postman o herramientas similares.  ",
-      "date": 1787170414,
-      "salary": null,
-      "url": "https://www.getonbrd.com/jobs/quality-assurance-qa-lemontech-remote",
-      "source": "GetOnBoard",
-      "id": "09ad3783c421",
-      "score": 65,
-      "matches": [
-        "Rol QA ✓",
-        "playwright",
-        "postman",
-        "typescript",
-        "Remoto/Latam 🌐"
       ],
       "warnings": [],
       "verdict": "excelente"
@@ -133,25 +91,6 @@
       "verdict": "bueno"
     },
     {
-      "title": "QA Engineer",
-      "company": "",
-      "location": "hybrid",
-      "description": " En Asimov Consultores buscamos una persona con experiencia en aseguramiento de calidad de software, idealmente trabajando en equipos y proyectos bajo metodologías ágiles. La misión es participar en la definición y ejecución de pruebas, y también en su automatización.   Título profesional de Ingeniería en Computación, Ingeniería Civil Informática o carrera afín, de al menos 8 semestres de duración, otorgado por una Universidad o Instituto Profesional.  Experiencia en QA y aseguramiento de calidad de software.  Experiencia en pruebas manuales y automatizadas.  Experiencia con herramientas de automatización como Selenium, Cypress o similares.  Conocimientos de análisis funcional.  Experiencia en la elaboración de planes y casos de prueba.  Experiencia en la generación y preparación de datos ",
-      "date": 1787245427,
-      "salary": null,
-      "url": "https://www.getonbrd.com/jobs/qa-engineer-asimov-consultores-santiago",
-      "source": "GetOnBoard",
-      "id": "24697a2d946e",
-      "score": 50,
-      "matches": [
-        "Rol QA ✓",
-        "selenium",
-        "cypress"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
-    },
-    {
       "title": "Data QA Engineer – Enterprise Data",
       "company": "Truelogic",
       "location": "LATAM",
@@ -206,24 +145,5 @@
       "verdict": "regular"
     }
   ],
-  "new_jobs": [
-    {
-      "title": "Language Alignment & Resource Partner (Arabic) - Freelance AI Trainer Project",
-      "company": "",
-      "location": "Remote",
-      "description": "  Project Overview   We are sourcing independent Language Alignment &amp; Resource Partners (LARPs) to provide native-level Arabic language vetting and QA for a specialized AI data project. As AI systems strive to reflect real-world usage and deliver human-like communication, their accuracy depends entirely on rigorous linguistic and cultural consultation. The objective of this project is to evaluate, annotate, and validate data to ensure high-quality outputs that are fully natural, polished, and free from bias.   Project Deliverables &amp; Scope   Operate autonomously to provide linguistic QA and develop alignment resources. Expected deliverables include:  \n \n Data Annotation &amp; Review:  Reviewing, annotating, and testing AI outputs for grammatical accuracy, naturalness, and strict cul",
-      "date": "",
-      "salary": null,
-      "url": "https://himalayas.app/companies/inv/jobs/language-alignment-resource-partner-arabic-freelance-ai-trainer-project",
-      "source": "Himalayas",
-      "id": "7a1ed28dcd36",
-      "score": 30,
-      "matches": [
-        "Rol QA (desc)",
-        "Remoto/Latam 🌐"
-      ],
-      "warnings": [],
-      "verdict": "regular"
-    }
-  ]
+  "new_jobs": []
 }
