@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-31T17:56:45.486856+00:00",
+  "last_updated": "2026-09-01T01:43:29.398927+00:00",
   "total_fetched": 166,
   "sources": {
     "Remotive": 19,
@@ -30,6 +30,27 @@
         "selenium",
         "javascript",
         "typescript"
+      ],
+      "warnings": [],
+      "verdict": "excelente"
+    },
+    {
+      "title": "QA Lead E-commerce (Inglés)",
+      "company": "",
+      "location": "fully_remote",
+      "description": "  Bachelor's degree in Computer Science or equivalent professional experience.   Typically five (5)+ years of working experience.   Solid knowledge or experience with scripting tools such as JavaScript, XML, TestRail, BrowserStack, and automation testing tools and processes.   Thorough understanding and experience of software development engineering methodologies/standards and software development techniques such as RUP - Rational Unified Process and Microsoft Solutions Framework.   Solid experience with at least two (2) technologies such as SAP Commerce Cloud, Adobe Experience Manager, or other similar commerce and/or content solutions.   Good knowledge of eCommerce concepts (i.e.: B2B and B2C) and market trends.   Good knowledge of software development notation.   Good verbal and written",
+      "date": 1787253470,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/qa-lead-e-commerce-ingles-smith-remote",
+      "source": "GetOnBoard",
+      "id": "ad9d9e4a50eb",
+      "score": 65,
+      "matches": [
+        "Rol QA ✓",
+        "automation",
+        "javascript",
+        "testrail",
+        "Remoto/Latam 🌐"
       ],
       "warnings": [],
       "verdict": "excelente"
@@ -91,24 +112,6 @@
       "verdict": "bueno"
     },
     {
-      "title": "Data QA Engineer – Enterprise Data",
-      "company": "Truelogic",
-      "location": "LATAM",
-      "description": "  About Truelogic   At Truelogic we are a leading provider of nearshore staff augmentation services headquartered in New York. For over two decades, we’ve been delivering top-tier technology solutions to companies of all sizes, from innovative startups to industry leaders, helping them achieve their digital transformation goals.  Our team of 600+ highly skilled tech professionals, based in Latin America, drives digital disruption by partnering with U.S. companies on their most impactful projects. Whether collaborating with Fortune 500 giants or scaling startups, we deliver results that make a difference.  By applying for this position, you’re taking the first step in joining a dynamic team that values your expertise and aspirations. We aim to align your skills with opportunities that foste",
-      "date": "2026-08-29T16:23:45+00:00",
-      "salary": null,
-      "url": "https://jobicy.com/jobs/152034-data-qa-engineer-enterprise-data",
-      "source": "Jobicy",
-      "id": "ba91eee0b22b",
-      "score": 50,
-      "matches": [
-        "Rol QA ✓",
-        "Remoto/Latam 🌐"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
-    },
-    {
       "title": "Project Chiron - French (Canada) Quality Control Specialist",
       "company": "Welo Global",
       "location": "Canada",
@@ -125,24 +128,6 @@
       ],
       "warnings": [],
       "verdict": "bueno"
-    },
-    {
-      "title": "Language Alignment & Resource Partner (Arabic) - Freelance AI Trainer Project",
-      "company": "",
-      "location": "Remote",
-      "description": "  Project Overview   We are sourcing independent Language Alignment &amp; Resource Partners (LARPs) to provide native-level Arabic language vetting and QA for a specialized AI data project. As AI systems strive to reflect real-world usage and deliver human-like communication, their accuracy depends entirely on rigorous linguistic and cultural consultation. The objective of this project is to evaluate, annotate, and validate data to ensure high-quality outputs that are fully natural, polished, and free from bias.   Project Deliverables &amp; Scope   Operate autonomously to provide linguistic QA and develop alignment resources. Expected deliverables include:  \n \n Data Annotation &amp; Review:  Reviewing, annotating, and testing AI outputs for grammatical accuracy, naturalness, and strict cul",
-      "date": "",
-      "salary": null,
-      "url": "https://himalayas.app/companies/inv/jobs/language-alignment-resource-partner-arabic-freelance-ai-trainer-project",
-      "source": "Himalayas",
-      "id": "7a1ed28dcd36",
-      "score": 30,
-      "matches": [
-        "Rol QA (desc)",
-        "Remoto/Latam 🌐"
-      ],
-      "warnings": [],
-      "verdict": "regular"
     }
   ],
   "new_jobs": []
