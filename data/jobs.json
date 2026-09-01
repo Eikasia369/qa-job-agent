@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-09-01T01:43:29.398927+00:00",
-  "total_fetched": 166,
+  "last_updated": "2026-09-01T15:25:13.076255+00:00",
+  "total_fetched": 165,
   "sources": {
-    "Remotive": 19,
+    "Remotive": 18,
     "WorkingNomads": 45,
     "GetOnBoard": 50,
     "Himalayas": 20,
@@ -30,27 +30,6 @@
         "selenium",
         "javascript",
         "typescript"
-      ],
-      "warnings": [],
-      "verdict": "excelente"
-    },
-    {
-      "title": "QA Lead E-commerce (Inglés)",
-      "company": "",
-      "location": "fully_remote",
-      "description": "  Bachelor's degree in Computer Science or equivalent professional experience.   Typically five (5)+ years of working experience.   Solid knowledge or experience with scripting tools such as JavaScript, XML, TestRail, BrowserStack, and automation testing tools and processes.   Thorough understanding and experience of software development engineering methodologies/standards and software development techniques such as RUP - Rational Unified Process and Microsoft Solutions Framework.   Solid experience with at least two (2) technologies such as SAP Commerce Cloud, Adobe Experience Manager, or other similar commerce and/or content solutions.   Good knowledge of eCommerce concepts (i.e.: B2B and B2C) and market trends.   Good knowledge of software development notation.   Good verbal and written",
-      "date": 1787253470,
-      "salary": null,
-      "url": "https://www.getonbrd.com/jobs/qa-lead-e-commerce-ingles-smith-remote",
-      "source": "GetOnBoard",
-      "id": "ad9d9e4a50eb",
-      "score": 65,
-      "matches": [
-        "Rol QA ✓",
-        "automation",
-        "javascript",
-        "testrail",
-        "Remoto/Latam 🌐"
       ],
       "warnings": [],
       "verdict": "excelente"
