@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-09-01T19:47:21.294049+00:00",
-  "total_fetched": 165,
+  "last_updated": "2026-09-02T00:53:56.738247+00:00",
+  "total_fetched": 164,
   "sources": {
     "Remotive": 18,
     "WorkingNomads": 45,
     "GetOnBoard": 50,
     "Himalayas": 20,
-    "Jobicy": 32
+    "Jobicy": 31
   },
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "title": "SDET (Software Development Engineer in Test)",
@@ -33,26 +33,6 @@
       ],
       "warnings": [],
       "verdict": "excelente"
-    },
-    {
-      "title": "QA Automation Engineer (Mobile)",
-      "company": "",
-      "location": "hybrid",
-      "description": "  Experiencia sólida en automatización de pruebas mobile con con Java y Cucumber.  Conocimiento práctico en automatización de pruebas móviles, idealmente con Appium o soluciones equivalentes que permitan validar apps nativas y React Native.,  Experiencia validando servicios RESTful y pruebas de contratos (por ejemplo, usando RestAssured o herramientas similares).,  Capacidad de trabajar con equipos de producto y desarrollo para entender requerimientos funcionales y técnicos.,  Experiencia trabajando en entornos ágiles, colaborativos y orientados a la entrega continua de valor.,  Experiencia en consultas SQL para validación de datos.,  ",
-      "date": 1788280850,
-      "salary": null,
-      "url": "https://www.getonbrd.com/jobs/qa-automation-engineer-dynamic-devs-remote-3611",
-      "source": "GetOnBoard",
-      "id": "05a29f343820",
-      "score": 55,
-      "matches": [
-        "Rol QA ✓",
-        "automation",
-        "sql",
-        "appium"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
     },
     {
       "title": "Project Chiron - Spanish (Latin America) Quality Control Specialist",
@@ -88,6 +68,24 @@
         "Rol QA ✓",
         "javascript",
         "typescript"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    },
+    {
+      "title": "QA Engineer Semi Senior",
+      "company": "",
+      "location": "remote_local",
+      "description": " Buscamos un/a  QA Engineer Senior  con experiencia sólida en QA/Testing y automatización, capaz de tomar ownership sobre datos de prueba y ambientes. El objetivo es que puedas asegurar la calidad del software y la continuidad operacional de los servicios TI mediante análisis funcionales/técnicos, ejecución de pruebas y mejora continua del proceso.   Formación universitaria en Ingeniería en Ejecución, en cualquiera de sus especialidades.  Experiencia mínima de  4 años  en el ámbito de su especialidad.  Experiencia en  QA / Testing funcional  y  automatización .  Experiencia en  gestión y acondicionamiento  de datos de prueba.  Conocimientos de  gestión de ambientes de prueba .  Manejo de  Jenkins  y  Git .  Experiencia desarrollando  scripts  para automatización de pruebas.   Además, valor",
+      "date": 1787254589,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/qa-engineer-semi-senior-bc-tecnologia-remote",
+      "source": "GetOnBoard",
+      "id": "5dbcaeef1d3b",
+      "score": 50,
+      "matches": [
+        "Rol QA ✓",
+        "Remoto/Latam 🌐"
       ],
       "warnings": [],
       "verdict": "bueno"
@@ -129,24 +127,5 @@
       "verdict": "bueno"
     }
   ],
-  "new_jobs": [
-    {
-      "title": "Quality Assurance Engineer",
-      "company": "AssetWatch",
-      "location": "Canada,  USA",
-      "description": " AssetWatch serves global manufacturers by powering manufacturing uptime through the delivery of an unparalleled condition monitoring experience, with a passion to care about the assets our customers care for every day. We are a devoted and capable team that includes world-renowned engineers and distinguished business leaders united by a common goal – To build the future of predictive maintenance. As we enter the next phase of rapid growth, we are seeking people to help lead the journey.  \n AssetWatch serves global manufacturers by powering manufacturing uptime through the delivery of an unparalleled condition monitoring experience, with a passion to care about the assets our customers care for every day. We are a devoted and capable team that includes world-renowned engineers and distingu",
-      "date": "2026-09-01T14:34:41+00:00",
-      "salary": "USD99000–124000",
-      "url": "https://jobicy.com/jobs/152329-quality-assurance-engineer-2",
-      "source": "Jobicy",
-      "id": "c56889506aa4",
-      "score": 45,
-      "matches": [
-        "Rol QA ✓",
-        "Salario 💰"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
-    }
-  ]
+  "new_jobs": []
 }
