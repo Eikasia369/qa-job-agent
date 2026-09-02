@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-09-02T00:53:56.738247+00:00",
-  "total_fetched": 164,
+  "last_updated": "2026-09-02T15:00:58.750335+00:00",
+  "total_fetched": 165,
   "sources": {
     "Remotive": 18,
     "WorkingNomads": 45,
     "GetOnBoard": 50,
     "Himalayas": 20,
-    "Jobicy": 31
+    "Jobicy": 32
   },
   "new_count": 0,
   "jobs": [
@@ -68,24 +68,6 @@
         "Rol QA ✓",
         "javascript",
         "typescript"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
-    },
-    {
-      "title": "QA Engineer Semi Senior",
-      "company": "",
-      "location": "remote_local",
-      "description": " Buscamos un/a  QA Engineer Senior  con experiencia sólida en QA/Testing y automatización, capaz de tomar ownership sobre datos de prueba y ambientes. El objetivo es que puedas asegurar la calidad del software y la continuidad operacional de los servicios TI mediante análisis funcionales/técnicos, ejecución de pruebas y mejora continua del proceso.   Formación universitaria en Ingeniería en Ejecución, en cualquiera de sus especialidades.  Experiencia mínima de  4 años  en el ámbito de su especialidad.  Experiencia en  QA / Testing funcional  y  automatización .  Experiencia en  gestión y acondicionamiento  de datos de prueba.  Conocimientos de  gestión de ambientes de prueba .  Manejo de  Jenkins  y  Git .  Experiencia desarrollando  scripts  para automatización de pruebas.   Además, valor",
-      "date": 1787254589,
-      "salary": null,
-      "url": "https://www.getonbrd.com/jobs/qa-engineer-semi-senior-bc-tecnologia-remote",
-      "source": "GetOnBoard",
-      "id": "5dbcaeef1d3b",
-      "score": 50,
-      "matches": [
-        "Rol QA ✓",
-        "Remoto/Latam 🌐"
       ],
       "warnings": [],
       "verdict": "bueno"
