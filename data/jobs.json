@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-03T14:55:13.372270+00:00",
+  "last_updated": "2026-09-03T19:40:48.787814+00:00",
   "total_fetched": 164,
   "sources": {
     "Remotive": 17,
@@ -8,7 +8,7 @@
     "Himalayas": 20,
     "Jobicy": 32
   },
-  "new_count": 0,
+  "new_count": 4,
   "jobs": [
     {
       "title": "SDET (Software Development Engineer in Test)",
@@ -54,6 +54,25 @@
       "verdict": "bueno"
     },
     {
+      "title": "Web Automation Test Engineer",
+      "company": "Caylent",
+      "location": "Brazil",
+      "description": " Caylent is an AI-first cloud services company that helps organizations turn ambitious ideas into meaningful business impact. As an AWS Premier Tier Services Partner and a charter member of Anthropic’s Claude Partner Network, we combine deep expertise in AWS, artificial intelligence, and Anthropic’s Claude platform to help customers modernize their technology, build intelligent products, and move AI from experimentation into production. \n Our capabilities span generative and agentic AI, cloud migration and modernization, cloud-native application development, data and analytics, DevOps, managed services, security and compliance, and customer experience transformation. At Caylent, our people always come first. \n We are a fully remote global company with employees in Canada, the United States",
+      "date": "2026-09-03T13:56:15+00:00",
+      "salary": null,
+      "url": "https://jobicy.com/jobs/152405-web-automation-test-engineer",
+      "source": "Jobicy",
+      "id": "73e3df360e3a",
+      "score": 55,
+      "matches": [
+        "Rol QA ✓",
+        "automation",
+        "Remoto/Latam 🌐"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    },
+    {
       "title": "QA Técnico",
       "company": "",
       "location": "hybrid",
@@ -68,6 +87,42 @@
         "Rol QA ✓",
         "javascript",
         "typescript"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    },
+    {
+      "title": "Manager, Clinical Review and Quality Assurance",
+      "company": "SmithRx",
+      "location": "USA",
+      "description": "  Who We Are:  \n SmithRx is a rapidly growing, venture-backed Health-Tech company. Our mission is to disrupt the expensive and inefficient Pharmacy Benefit Management (PBM) sector by building a next-generation drug acquisition platform driven by cutting edge technology, innovative cost saving tools, and best-in-class customer service. With hundreds of thousands of members onboarded since 2016, SmithRx has a solution that is resonating with clients all across the country. \n We pride ourselves for our mission-driven and collaborative culture that inspires our employees to do their best work. We believe that the U.S healthcare system is in need of transformation, and we come to work each day dedicated to making that change a reality. At our core, we are guided by our company values: \n \n  Inte",
+      "date": "2026-09-03T13:57:16+00:00",
+      "salary": "USD136000–192000",
+      "url": "https://jobicy.com/jobs/152408-manager-clinical-review-and-quality-assurance",
+      "source": "Jobicy",
+      "id": "c52208cf0d40",
+      "score": 45,
+      "matches": [
+        "Rol QA ✓",
+        "Salario 💰"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    },
+    {
+      "title": "Senior Quality Assurance Engineer (Personify team)",
+      "company": "Bloomreach",
+      "location": "Czechia",
+      "description": " Bloomreach is building the world’s premier  agentic platform for personalization .We’re revolutionizing how businesses connect with their customers, building and deploying AI agents to personalize the   entire   customer journey. \n \n We're taking  autonomous search  mainstream, making product discovery more intuitive and conversational for customers, and more profitable for businesses. \n We’re making  conversational shopping  a reality, connecting every shopper with tailored guidance and product expertise — available on demand, at every touchpoint in their journey. \n We're designing the future of  autonomous marketing , taking the work out of workflows, and reclaiming the creative, strategic, and customer-first work marketers were always meant to do. \n \n And we're building all of that on ",
+      "date": "2026-09-03T13:56:36+00:00",
+      "salary": "CZK1130000–1410000",
+      "url": "https://jobicy.com/jobs/152406-senior-quality-assurance-engineer-personify-team",
+      "source": "Jobicy",
+      "id": "6757d7fb0331",
+      "score": 45,
+      "matches": [
+        "Rol QA ✓",
+        "Salario 💰"
       ],
       "warnings": [],
       "verdict": "bueno"
@@ -107,7 +162,101 @@
       ],
       "warnings": [],
       "verdict": "bueno"
+    },
+    {
+      "title": "Senior WordPress Maintenance & Deployment Engineer",
+      "company": "",
+      "location": "fully_remote",
+      "description": "  Must have    4+ years professional WordPress development including custom themes, ACF, and multilingual setups (Polylang/WPML)  Deep hands-on Pantheon experience: dev/test/live workflow, multidev, Git mode vs SFTP mode, Autopilot, terminus CLI, and the platform's quirks (e.g., update-core hidden on test/live)  WP Engine deployment and backup workflows  Strong Git discipline: feature branches, clean merges, understanding why a branch 14 commits behind master is a red flag  Front-end build pipelines: SCSS, gulp, npm — and the judgment to never commit compiled output without its source  A documented QA habit: you can describe, step by step, what you check after a plugin update and why  Clear written English; comfortable communicating directly with agency partners and, when needed, their cli",
+      "date": 1788463274,
+      "salary": "1500–2200",
+      "url": "https://www.getonbrd.com/jobs/senior-wordpress-maintenance-deployment-engineer-creativeworks-remote",
+      "source": "GetOnBoard",
+      "id": "c4ef0ff6b6ed",
+      "score": 35,
+      "matches": [
+        "Rol QA (desc)",
+        "Remoto/Latam 🌐",
+        "Salario 💰"
+      ],
+      "warnings": [],
+      "verdict": "regular"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "title": "Web Automation Test Engineer",
+      "company": "Caylent",
+      "location": "Brazil",
+      "description": " Caylent is an AI-first cloud services company that helps organizations turn ambitious ideas into meaningful business impact. As an AWS Premier Tier Services Partner and a charter member of Anthropic’s Claude Partner Network, we combine deep expertise in AWS, artificial intelligence, and Anthropic’s Claude platform to help customers modernize their technology, build intelligent products, and move AI from experimentation into production. \n Our capabilities span generative and agentic AI, cloud migration and modernization, cloud-native application development, data and analytics, DevOps, managed services, security and compliance, and customer experience transformation. At Caylent, our people always come first. \n We are a fully remote global company with employees in Canada, the United States",
+      "date": "2026-09-03T13:56:15+00:00",
+      "salary": null,
+      "url": "https://jobicy.com/jobs/152405-web-automation-test-engineer",
+      "source": "Jobicy",
+      "id": "73e3df360e3a",
+      "score": 55,
+      "matches": [
+        "Rol QA ✓",
+        "automation",
+        "Remoto/Latam 🌐"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    },
+    {
+      "title": "Manager, Clinical Review and Quality Assurance",
+      "company": "SmithRx",
+      "location": "USA",
+      "description": "  Who We Are:  \n SmithRx is a rapidly growing, venture-backed Health-Tech company. Our mission is to disrupt the expensive and inefficient Pharmacy Benefit Management (PBM) sector by building a next-generation drug acquisition platform driven by cutting edge technology, innovative cost saving tools, and best-in-class customer service. With hundreds of thousands of members onboarded since 2016, SmithRx has a solution that is resonating with clients all across the country. \n We pride ourselves for our mission-driven and collaborative culture that inspires our employees to do their best work. We believe that the U.S healthcare system is in need of transformation, and we come to work each day dedicated to making that change a reality. At our core, we are guided by our company values: \n \n  Inte",
+      "date": "2026-09-03T13:57:16+00:00",
+      "salary": "USD136000–192000",
+      "url": "https://jobicy.com/jobs/152408-manager-clinical-review-and-quality-assurance",
+      "source": "Jobicy",
+      "id": "c52208cf0d40",
+      "score": 45,
+      "matches": [
+        "Rol QA ✓",
+        "Salario 💰"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    },
+    {
+      "title": "Senior Quality Assurance Engineer (Personify team)",
+      "company": "Bloomreach",
+      "location": "Czechia",
+      "description": " Bloomreach is building the world’s premier  agentic platform for personalization .We’re revolutionizing how businesses connect with their customers, building and deploying AI agents to personalize the   entire   customer journey. \n \n We're taking  autonomous search  mainstream, making product discovery more intuitive and conversational for customers, and more profitable for businesses. \n We’re making  conversational shopping  a reality, connecting every shopper with tailored guidance and product expertise — available on demand, at every touchpoint in their journey. \n We're designing the future of  autonomous marketing , taking the work out of workflows, and reclaiming the creative, strategic, and customer-first work marketers were always meant to do. \n \n And we're building all of that on ",
+      "date": "2026-09-03T13:56:36+00:00",
+      "salary": "CZK1130000–1410000",
+      "url": "https://jobicy.com/jobs/152406-senior-quality-assurance-engineer-personify-team",
+      "source": "Jobicy",
+      "id": "6757d7fb0331",
+      "score": 45,
+      "matches": [
+        "Rol QA ✓",
+        "Salario 💰"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    },
+    {
+      "title": "Senior WordPress Maintenance & Deployment Engineer",
+      "company": "",
+      "location": "fully_remote",
+      "description": "  Must have    4+ years professional WordPress development including custom themes, ACF, and multilingual setups (Polylang/WPML)  Deep hands-on Pantheon experience: dev/test/live workflow, multidev, Git mode vs SFTP mode, Autopilot, terminus CLI, and the platform's quirks (e.g., update-core hidden on test/live)  WP Engine deployment and backup workflows  Strong Git discipline: feature branches, clean merges, understanding why a branch 14 commits behind master is a red flag  Front-end build pipelines: SCSS, gulp, npm — and the judgment to never commit compiled output without its source  A documented QA habit: you can describe, step by step, what you check after a plugin update and why  Clear written English; comfortable communicating directly with agency partners and, when needed, their cli",
+      "date": 1788463274,
+      "salary": "1500–2200",
+      "url": "https://www.getonbrd.com/jobs/senior-wordpress-maintenance-deployment-engineer-creativeworks-remote",
+      "source": "GetOnBoard",
+      "id": "c4ef0ff6b6ed",
+      "score": 35,
+      "matches": [
+        "Rol QA (desc)",
+        "Remoto/Latam 🌐",
+        "Salario 💰"
+      ],
+      "warnings": [],
+      "verdict": "regular"
+    }
+  ]
 }
