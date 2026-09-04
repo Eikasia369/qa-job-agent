@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-09-04T00:51:42.386719+00:00",
-  "total_fetched": 164,
+  "last_updated": "2026-09-04T14:52:07.764791+00:00",
+  "total_fetched": 166,
   "sources": {
-    "Remotive": 17,
-    "WorkingNomads": 45,
+    "Remotive": 18,
+    "WorkingNomads": 46,
     "GetOnBoard": 50,
     "Himalayas": 20,
     "Jobicy": 32
   },
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "title": "QA Engineer Automation",
@@ -183,30 +183,5 @@
       "verdict": "regular"
     }
   ],
-  "new_jobs": [
-    {
-      "title": "QA Engineer Automation",
-      "company": "",
-      "location": "no_remote",
-      "description": "   Experiencia:  Entre 1 y 4 años de experiencia comprobable en roles de QA/Testing de software.    Metodologías:  Experiencia en metodologías ágiles, participando activamente en refinamientos, plannings y retrospectivas (no solo como asistente, sino aportando visión de calidad).    Pruebas Funcionales:  Dominio avanzado en el diseño de escenarios de prueba, matrices de cobertura, reportes de calidad y gestión de datos de prueba (Test Data). Automatización (Requisito Core):  Experiencia práctica (mínimo 1 año) desarrollando y manteniendo scripts de automatización de pruebas (E2E o de regresión) utilizando frameworks como Cypress, Playwright o Selenium.   ",
-      "date": 1788480535,
-      "salary": "1000–1400",
-      "url": "https://www.getonbrd.com/jobs/analista-qa-semi-senior-tcit-santiago-242f",
-      "source": "GetOnBoard",
-      "id": "408ac8026ec6",
-      "score": 80,
-      "matches": [
-        "Rol QA ✓",
-        "playwright",
-        "automation",
-        "selenium",
-        "cypress",
-        "e2e",
-        "Remoto/Latam 🌐",
-        "Salario 💰"
-      ],
-      "warnings": [],
-      "verdict": "excelente"
-    }
-  ]
+  "new_jobs": []
 }
