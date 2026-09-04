@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-09-04T14:52:07.764791+00:00",
-  "total_fetched": 166,
+  "last_updated": "2026-09-04T19:20:58.428614+00:00",
+  "total_fetched": 157,
   "sources": {
     "Remotive": 18,
-    "WorkingNomads": 46,
+    "WorkingNomads": 37,
     "GetOnBoard": 50,
     "Himalayas": 20,
     "Jobicy": 32
@@ -11,7 +11,7 @@
   "new_count": 0,
   "jobs": [
     {
-      "title": "QA Engineer Automation",
+      "title": "QA Automation Engineer",
       "company": "",
       "location": "no_remote",
       "description": "   Experiencia:  Entre 1 y 4 años de experiencia comprobable en roles de QA/Testing de software.    Metodologías:  Experiencia en metodologías ágiles, participando activamente en refinamientos, plannings y retrospectivas (no solo como asistente, sino aportando visión de calidad).    Pruebas Funcionales:  Dominio avanzado en el diseño de escenarios de prueba, matrices de cobertura, reportes de calidad y gestión de datos de prueba (Test Data). Automatización (Requisito Core):  Experiencia práctica (mínimo 1 año) desarrollando y manteniendo scripts de automatización de pruebas (E2E o de regresión) utilizando frameworks como Cypress, Playwright o Selenium.   ",
@@ -19,7 +19,7 @@
       "salary": "1000–1400",
       "url": "https://www.getonbrd.com/jobs/analista-qa-semi-senior-tcit-santiago-242f",
       "source": "GetOnBoard",
-      "id": "408ac8026ec6",
+      "id": "03b5db6651bd",
       "score": 80,
       "matches": [
         "Rol QA ✓",
