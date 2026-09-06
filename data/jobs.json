@@ -1,15 +1,39 @@
 {
-  "last_updated": "2026-09-06T00:43:56.773285+00:00",
-  "total_fetched": 98,
+  "last_updated": "2026-09-06T14:01:49.184204+00:00",
+  "total_fetched": 152,
   "sources": {
-    "Remotive": 15,
-    "WorkingNomads": 31,
-    "GetOnBoard": 0,
+    "Remotive": 18,
+    "WorkingNomads": 32,
+    "GetOnBoard": 50,
     "Himalayas": 20,
     "Jobicy": 32
   },
   "new_count": 0,
   "jobs": [
+    {
+      "title": "QA Automation Engineer",
+      "company": "",
+      "location": "no_remote",
+      "description": "   Experiencia:  Entre 1 y 4 años de experiencia comprobable en roles de QA/Testing de software.    Metodologías:  Experiencia en metodologías ágiles, participando activamente en refinamientos, plannings y retrospectivas (no solo como asistente, sino aportando visión de calidad).    Pruebas Funcionales:  Dominio avanzado en el diseño de escenarios de prueba, matrices de cobertura, reportes de calidad y gestión de datos de prueba (Test Data). Automatización (Requisito Core):  Experiencia práctica (mínimo 1 año) desarrollando y manteniendo scripts de automatización de pruebas (E2E o de regresión) utilizando frameworks como Cypress, Playwright o Selenium.   ",
+      "date": 1788480535,
+      "salary": "1000–1400",
+      "url": "https://www.getonbrd.com/jobs/analista-qa-semi-senior-tcit-santiago-242f",
+      "source": "GetOnBoard",
+      "id": "03b5db6651bd",
+      "score": 80,
+      "matches": [
+        "Rol QA ✓",
+        "playwright",
+        "automation",
+        "selenium",
+        "cypress",
+        "e2e",
+        "Remoto/Latam 🌐",
+        "Salario 💰"
+      ],
+      "warnings": [],
+      "verdict": "excelente"
+    },
     {
       "title": "Project Chiron - Spanish (Latin America) Quality Control Specialist",
       "company": "Welo Global",
@@ -44,6 +68,25 @@
         "Rol QA ✓",
         "automation",
         "Remoto/Latam 🌐"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    },
+    {
+      "title": "QA Técnico",
+      "company": "",
+      "location": "hybrid",
+      "description": "  Estudiante (no requiere título culminado) o egresado de carrera técnica o universitaria en  Ingeniería de Software, Sistemas, Informática  o afines.  Base de programación y conocimientos de  metodologías de pruebas de software .  Nociones de  JavaScript/TypeScript  (necesarias para trabajar con Grafana K6).  Conocimiento básico de control de versiones (Git/GitLab).  Alta capacidad de aprendizaje, mentalidad cuestionadora y apertura a adoptar herramientas de automatización y de trabajo con agentes de IA.  Disponibilidad para trabajar presencialmente en Lima, con 100% de asistencia durante el primer mes de inducción.  ",
+      "date": 1787785848,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/q-a-tecnico-codeable-lima-7ca1",
+      "source": "GetOnBoard",
+      "id": "968fcc731551",
+      "score": 50,
+      "matches": [
+        "Rol QA ✓",
+        "javascript",
+        "typescript"
       ],
       "warnings": [],
       "verdict": "bueno"
@@ -119,6 +162,25 @@
       ],
       "warnings": [],
       "verdict": "bueno"
+    },
+    {
+      "title": "Senior WordPress Maintenance & Deployment Engineer",
+      "company": "",
+      "location": "fully_remote",
+      "description": "  Must have    4+ years professional WordPress development including custom themes, ACF, and multilingual setups (Polylang/WPML)  Deep hands-on Pantheon experience: dev/test/live workflow, multidev, Git mode vs SFTP mode, Autopilot, terminus CLI, and the platform's quirks (e.g., update-core hidden on test/live)  WP Engine deployment and backup workflows  Strong Git discipline: feature branches, clean merges, understanding why a branch 14 commits behind master is a red flag  Front-end build pipelines: SCSS, gulp, npm — and the judgment to never commit compiled output without its source  A documented QA habit: you can describe, step by step, what you check after a plugin update and why  Clear written English; comfortable communicating directly with agency partners and, when needed, their cli",
+      "date": 1788463274,
+      "salary": "1500–2200",
+      "url": "https://www.getonbrd.com/jobs/senior-wordpress-maintenance-deployment-engineer-creativeworks-remote",
+      "source": "GetOnBoard",
+      "id": "c4ef0ff6b6ed",
+      "score": 35,
+      "matches": [
+        "Rol QA (desc)",
+        "Remoto/Latam 🌐",
+        "Salario 💰"
+      ],
+      "warnings": [],
+      "verdict": "regular"
     }
   ],
   "new_jobs": []
