@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-09-07T00:47:39.733600+00:00",
-  "total_fetched": 152,
+  "last_updated": "2026-09-07T16:19:44.327262+00:00",
+  "total_fetched": 151,
   "sources": {
-    "Remotive": 18,
+    "Remotive": 17,
     "WorkingNomads": 32,
     "GetOnBoard": 50,
     "Himalayas": 20,
@@ -10,6 +10,30 @@
   },
   "new_count": 1,
   "jobs": [
+    {
+      "title": "QA Proyecto",
+      "company": "",
+      "location": "hybrid",
+      "description": "  Experiencia mínima de 5 años en roles de automatización de pruebas o como desarrollador de software (SDET).  Inglés Avanzado.  Dominio de al menos un lenguaje de programación enfocado en QA (ej. Python, Java, JavaScript, TypeScript o C#).  Experiencia sólida utilizando frameworks de automatización modernos (ej. Cypress, Playwright, Selenium o Appium).  Experiencia en automatización de pruebas de APIs (RESTful/GraphQL).  Conocimiento práctico en herramientas de control de versiones (Git) y plataformas CI/CD (ej. Jenkins, GitHub Actions, GitLab CI).  Capacidad analítica para resolver problemas complejos y sólidas bases en arquitectura de software y bases de datos (SQL).  ",
+      "date": 1788795855,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/qa-automation-proyecto-3-meses-leytonmedia-remote",
+      "source": "GetOnBoard",
+      "id": "fab344bf85ad",
+      "score": 85,
+      "matches": [
+        "Rol QA ✓",
+        "playwright",
+        "selenium",
+        "javascript",
+        "typescript",
+        "sql",
+        "cypress",
+        "ci/cd"
+      ],
+      "warnings": [],
+      "verdict": "excelente"
+    },
     {
       "title": "QA Automation Engineer",
       "company": "",
@@ -181,42 +205,32 @@
       ],
       "warnings": [],
       "verdict": "regular"
-    },
-    {
-      "title": "Research Assistant, Test Assembly & Desktop Publishing",
-      "company": "",
-      "location": "['United States']",
-      "description": " The Test Assembly Research Assistant reports to the Test Assembly Manager and works collaboratively across functional teams to support the assembly, layout, and quality control of large-scale online and print-based English language proficiency tests. This role also provides assistance in formatting test materials, ensuring alignment with CAL’s style guide, WCAG requirements, and print specifications. This role is responsible for accurately transferring test content into InDesign templates, performing quality control reviews, and supporting the production of error-free, accessible test forms and ancillary materials.  ESSENTIAL DUTIES:   Test Form Assembly and Layout   \n Transfer and lay out test content (text and graphics) in Adobe InDesign, following established templates, the CAL style g",
-      "date": "",
-      "salary": null,
-      "url": "https://himalayas.app/companies/center-for-applied-linguistics/jobs/research-assistant-test-assembly-desktop-publishing",
-      "source": "Himalayas",
-      "id": "24b0cd0af28d",
-      "score": 20,
-      "matches": [
-        "Rol QA (desc)"
-      ],
-      "warnings": [],
-      "verdict": "regular"
     }
   ],
   "new_jobs": [
     {
-      "title": "Research Assistant, Test Assembly & Desktop Publishing",
+      "title": "QA Proyecto",
       "company": "",
-      "location": "['United States']",
-      "description": " The Test Assembly Research Assistant reports to the Test Assembly Manager and works collaboratively across functional teams to support the assembly, layout, and quality control of large-scale online and print-based English language proficiency tests. This role also provides assistance in formatting test materials, ensuring alignment with CAL’s style guide, WCAG requirements, and print specifications. This role is responsible for accurately transferring test content into InDesign templates, performing quality control reviews, and supporting the production of error-free, accessible test forms and ancillary materials.  ESSENTIAL DUTIES:   Test Form Assembly and Layout   \n Transfer and lay out test content (text and graphics) in Adobe InDesign, following established templates, the CAL style g",
-      "date": "",
+      "location": "hybrid",
+      "description": "  Experiencia mínima de 5 años en roles de automatización de pruebas o como desarrollador de software (SDET).  Inglés Avanzado.  Dominio de al menos un lenguaje de programación enfocado en QA (ej. Python, Java, JavaScript, TypeScript o C#).  Experiencia sólida utilizando frameworks de automatización modernos (ej. Cypress, Playwright, Selenium o Appium).  Experiencia en automatización de pruebas de APIs (RESTful/GraphQL).  Conocimiento práctico en herramientas de control de versiones (Git) y plataformas CI/CD (ej. Jenkins, GitHub Actions, GitLab CI).  Capacidad analítica para resolver problemas complejos y sólidas bases en arquitectura de software y bases de datos (SQL).  ",
+      "date": 1788795855,
       "salary": null,
-      "url": "https://himalayas.app/companies/center-for-applied-linguistics/jobs/research-assistant-test-assembly-desktop-publishing",
-      "source": "Himalayas",
-      "id": "24b0cd0af28d",
-      "score": 20,
+      "url": "https://www.getonbrd.com/jobs/qa-automation-proyecto-3-meses-leytonmedia-remote",
+      "source": "GetOnBoard",
+      "id": "fab344bf85ad",
+      "score": 85,
       "matches": [
-        "Rol QA (desc)"
+        "Rol QA ✓",
+        "playwright",
+        "selenium",
+        "javascript",
+        "typescript",
+        "sql",
+        "cypress",
+        "ci/cd"
       ],
       "warnings": [],
-      "verdict": "regular"
+      "verdict": "excelente"
     }
   ]
 }
