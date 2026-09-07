@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-09-07T16:19:44.327262+00:00",
-  "total_fetched": 151,
+  "last_updated": "2026-09-07T20:23:41.533179+00:00",
+  "total_fetched": 166,
   "sources": {
     "Remotive": 17,
-    "WorkingNomads": 32,
+    "WorkingNomads": 47,
     "GetOnBoard": 50,
     "Himalayas": 20,
     "Jobicy": 32
@@ -116,6 +116,24 @@
       "verdict": "bueno"
     },
     {
+      "title": "Senior QA Automation Engineer",
+      "company": "Proxify",
+      "location": "Time zone: CET (+/- 3 hours)",
+      "description": "  About us:  \n   \n Talent has no borders. Proxify's mission is to connect top developers around the world with opportunities they deserve. So, it doesn't matter where you are; we are here to help you fast-track your independent career in the right direction. 🙂 \n Since our launch, Proxify's developers have successfully worked with 1200+ happy clients to build their products and growth features. 5000+ talented developers trust Proxify and its network to fulfill their dreams and objectives. \n Proxify is shaped by a global network of supportive, talented developers interested in remote full-time jobs. Our Glassdoor (4.5/5) and Trustpilot (4.8/5) ratings reflect the trust developers place in us and our commitment to our members' success. \n   \n  The Role:  \n   \n We are looking for a Senior QA Au",
+      "date": "2026-09-07T14:40:19-04:00",
+      "salary": null,
+      "url": "https://www.workingnomads.com/job/go/1843242/",
+      "source": "WorkingNomads",
+      "id": "6161bc6831f6",
+      "score": 45,
+      "matches": [
+        "Rol QA ✓",
+        "automation"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    },
+    {
       "title": "Manager, Clinical Review and Quality Assurance",
       "company": "SmithRx",
       "location": "USA",
@@ -205,32 +223,44 @@
       ],
       "warnings": [],
       "verdict": "regular"
+    },
+    {
+      "title": "Mobile Developer iOS Swift",
+      "company": "",
+      "location": "fully_remote",
+      "description": " Muchas ganas de participar en un equipo colaborativo, con actitud positiva frente a los cambios y desafíos, orientado al cliente, creativo y que nunca para de aprender.   Requerimientos del cargo    Desarrollo y mantenimiento de aplicaciones iOS nativas en Swift  Uso de UIKit y/o SwiftUI aplicando patrones como MVVM  Diseño de interfaces intuitivas y accesibles  Integración de servicios mediante APIs RESTful  Participación en pruebas unitarias y de UI  Revisiones de código y mejoras técnicas  Documentación de decisiones de diseño  Colaboración con equipos de backend, QA y diseño  Aseguramiento de la calidad, seguridad y rendimiento de la aplicación  Identificación de oportunidades de modernización, incluyendo el uso de Swift Concurrency  ",
+      "date": 1788798689,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/mobile-developer-ios-swift-42labs-remote",
+      "source": "GetOnBoard",
+      "id": "367cde1cfb1b",
+      "score": 30,
+      "matches": [
+        "Rol QA (desc)",
+        "Remoto/Latam 🌐"
+      ],
+      "warnings": [],
+      "verdict": "regular"
     }
   ],
   "new_jobs": [
     {
-      "title": "QA Proyecto",
+      "title": "Mobile Developer iOS Swift",
       "company": "",
-      "location": "hybrid",
-      "description": "  Experiencia mínima de 5 años en roles de automatización de pruebas o como desarrollador de software (SDET).  Inglés Avanzado.  Dominio de al menos un lenguaje de programación enfocado en QA (ej. Python, Java, JavaScript, TypeScript o C#).  Experiencia sólida utilizando frameworks de automatización modernos (ej. Cypress, Playwright, Selenium o Appium).  Experiencia en automatización de pruebas de APIs (RESTful/GraphQL).  Conocimiento práctico en herramientas de control de versiones (Git) y plataformas CI/CD (ej. Jenkins, GitHub Actions, GitLab CI).  Capacidad analítica para resolver problemas complejos y sólidas bases en arquitectura de software y bases de datos (SQL).  ",
-      "date": 1788795855,
+      "location": "fully_remote",
+      "description": " Muchas ganas de participar en un equipo colaborativo, con actitud positiva frente a los cambios y desafíos, orientado al cliente, creativo y que nunca para de aprender.   Requerimientos del cargo    Desarrollo y mantenimiento de aplicaciones iOS nativas en Swift  Uso de UIKit y/o SwiftUI aplicando patrones como MVVM  Diseño de interfaces intuitivas y accesibles  Integración de servicios mediante APIs RESTful  Participación en pruebas unitarias y de UI  Revisiones de código y mejoras técnicas  Documentación de decisiones de diseño  Colaboración con equipos de backend, QA y diseño  Aseguramiento de la calidad, seguridad y rendimiento de la aplicación  Identificación de oportunidades de modernización, incluyendo el uso de Swift Concurrency  ",
+      "date": 1788798689,
       "salary": null,
-      "url": "https://www.getonbrd.com/jobs/qa-automation-proyecto-3-meses-leytonmedia-remote",
+      "url": "https://www.getonbrd.com/jobs/mobile-developer-ios-swift-42labs-remote",
       "source": "GetOnBoard",
-      "id": "fab344bf85ad",
-      "score": 85,
+      "id": "367cde1cfb1b",
+      "score": 30,
       "matches": [
-        "Rol QA ✓",
-        "playwright",
-        "selenium",
-        "javascript",
-        "typescript",
-        "sql",
-        "cypress",
-        "ci/cd"
+        "Rol QA (desc)",
+        "Remoto/Latam 🌐"
       ],
       "warnings": [],
-      "verdict": "excelente"
+      "verdict": "regular"
     }
   ]
 }
