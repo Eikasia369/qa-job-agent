@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-07T20:23:41.533179+00:00",
+  "last_updated": "2026-09-08T01:00:54.200800+00:00",
   "total_fetched": 166,
   "sources": {
     "Remotive": 17,
@@ -8,7 +8,7 @@
     "Himalayas": 20,
     "Jobicy": 32
   },
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "title": "QA Proyecto",
@@ -243,24 +243,5 @@
       "verdict": "regular"
     }
   ],
-  "new_jobs": [
-    {
-      "title": "Mobile Developer iOS Swift",
-      "company": "",
-      "location": "fully_remote",
-      "description": " Muchas ganas de participar en un equipo colaborativo, con actitud positiva frente a los cambios y desafíos, orientado al cliente, creativo y que nunca para de aprender.   Requerimientos del cargo    Desarrollo y mantenimiento de aplicaciones iOS nativas en Swift  Uso de UIKit y/o SwiftUI aplicando patrones como MVVM  Diseño de interfaces intuitivas y accesibles  Integración de servicios mediante APIs RESTful  Participación en pruebas unitarias y de UI  Revisiones de código y mejoras técnicas  Documentación de decisiones de diseño  Colaboración con equipos de backend, QA y diseño  Aseguramiento de la calidad, seguridad y rendimiento de la aplicación  Identificación de oportunidades de modernización, incluyendo el uso de Swift Concurrency  ",
-      "date": 1788798689,
-      "salary": null,
-      "url": "https://www.getonbrd.com/jobs/mobile-developer-ios-swift-42labs-remote",
-      "source": "GetOnBoard",
-      "id": "367cde1cfb1b",
-      "score": 30,
-      "matches": [
-        "Rol QA (desc)",
-        "Remoto/Latam 🌐"
-      ],
-      "warnings": [],
-      "verdict": "regular"
-    }
-  ]
+  "new_jobs": []
 }
