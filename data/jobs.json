@@ -1,39 +1,15 @@
 {
-  "last_updated": "2026-09-09T15:02:46.954810+00:00",
-  "total_fetched": 168,
+  "last_updated": "2026-09-09T19:37:51.662219+00:00",
+  "total_fetched": 167,
   "sources": {
     "Remotive": 17,
-    "WorkingNomads": 49,
+    "WorkingNomads": 48,
     "GetOnBoard": 50,
     "Himalayas": 20,
     "Jobicy": 32
   },
-  "new_count": 1,
+  "new_count": 2,
   "jobs": [
-    {
-      "title": "QA & Support Engineer",
-      "company": "",
-      "location": "remote_local",
-      "description": "  Mid-level experience with 3+ years in QA automation, support engineering, or a combined technical role for B2B SaaS products.  C1 English level or higher, with strong written and verbal communication skills for direct customer interaction.  Hands-on experience building automated test suites with modern frameworks such as Playwright, Cypress, or Selenium, including API-level testing.  Proficiency in SQL for inspecting databases and investigating customer data discrepancies.  Experience integrating automated test suites into CI/CD pipelines and analyzing run results.  Demonstrated ability to triage user issues, isolate edge cases, and write actionable bug reports for engineering.  Routine experience utilizing AI coding assistants to accelerate test creation and troubleshooting.  Full-time ",
-      "date": 1788912969,
-      "salary": "2500–3000",
-      "url": "https://www.getonbrd.com/jobs/qa-support-engineer-niuro-remote",
-      "source": "GetOnBoard",
-      "id": "a684c6d02071",
-      "score": 90,
-      "matches": [
-        "Rol QA ✓",
-        "playwright",
-        "automation",
-        "selenium",
-        "sql",
-        "cypress",
-        "bug",
-        "ci/cd"
-      ],
-      "warnings": [],
-      "verdict": "excelente"
-    },
     {
       "title": "QA Proyecto",
       "company": "",
@@ -83,6 +59,25 @@
       "verdict": "excelente"
     },
     {
+      "title": "Senior Outsystems QA con Inglés y Español",
+      "company": "",
+      "location": "fully_remote",
+      "description": "  Mínimo 5 años de experiencia comprobable como QA en proyectos de tecnología y desarrollo de software.  Mínimo 3 años de experiencia comprobable como QA en proyectos desarrollados sobre OutSystems.  Experiencia en diseño y ejecución de pruebas funcionales, de integración, regresión y end-to-end.  Experiencia en pruebas de APIs REST e integraciones.  Conocimiento de metodologías ágiles y participación en diferentes etapas del ciclo de desarrollo de software.  Capacidad para documentar casos de prueba, resultados, evidencias, incidencias y seguimiento de defectos.  Conocimiento y aplicación de buenas prácticas de Quality Assurance.  Capacidad para comunicarse de manera fluida en inglés y español, tanto de forma oral como escrita, requisito indispensable para la interacción con equipos y sta",
+      "date": 1788970212,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/outsystems-qa-con-ingles-avanzado-i2b-technologies-remote",
+      "source": "GetOnBoard",
+      "id": "9e2c02b9df53",
+      "score": 55,
+      "matches": [
+        "Rol QA ✓",
+        "defect",
+        "Remoto/Latam 🌐"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    },
+    {
       "title": "Project Chiron - Spanish (Latin America) Quality Control Specialist",
       "company": "Welo Global",
       "location": "Argentina,  Mexico",
@@ -116,25 +111,6 @@
         "Rol QA ✓",
         "automation",
         "Remoto/Latam 🌐"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
-    },
-    {
-      "title": "QA Técnico",
-      "company": "",
-      "location": "hybrid",
-      "description": "  Estudiante (no requiere título culminado) o egresado de carrera técnica o universitaria en  Ingeniería de Software, Sistemas, Informática  o afines.  Base de programación y conocimientos de  metodologías de pruebas de software .  Nociones de  JavaScript/TypeScript  (necesarias para trabajar con Grafana K6).  Conocimiento básico de control de versiones (Git/GitLab).  Alta capacidad de aprendizaje, mentalidad cuestionadora y apertura a adoptar herramientas de automatización y de trabajo con agentes de IA.  Disponibilidad para trabajar presencialmente en Lima, con 100% de asistencia durante el primer mes de inducción.  ",
-      "date": 1787785848,
-      "salary": null,
-      "url": "https://www.getonbrd.com/jobs/q-a-tecnico-codeable-lima-7ca1",
-      "source": "GetOnBoard",
-      "id": "968fcc731551",
-      "score": 50,
-      "matches": [
-        "Rol QA ✓",
-        "javascript",
-        "typescript"
       ],
       "warnings": [],
       "verdict": "bueno"
@@ -265,32 +241,61 @@
       ],
       "warnings": [],
       "verdict": "regular"
+    },
+    {
+      "title": "Manager, Payment Integrity-Clinical experience",
+      "company": "",
+      "location": "['United States']",
+      "description": "JOB DESCRIPTION Job Summary Leads and manages team responsible for payment integrity activities including recovery operations.  Responsible for performance, quality levels and establishing procedures and techniques that achieve optimal payment integrity operational standards and production targets.  Essential Job Duties  \n Leads and manages day-to-day operations for assigned payment integrity programs, ensuring accuracy, timeliness, and adherence to policies and procedures.   •    Hires, trains, and develops staff responsible for inventory management, reporting, data integrity, and recovery performance.   •    Implements and monitors quality assurance programs and performance metrics to ensure recovery and cost avoidance targets are met.   •    Collaborates with internal departments (Share",
+      "date": "",
+      "salary": null,
+      "url": "https://himalayas.app/companies/molina-healthcare/jobs/manager-payment-integrity-clinical-experience",
+      "source": "Himalayas",
+      "id": "f1f14ca0aba8",
+      "score": 20,
+      "matches": [
+        "Rol QA (desc)"
+      ],
+      "warnings": [],
+      "verdict": "regular"
     }
   ],
   "new_jobs": [
     {
-      "title": "QA & Support Engineer",
+      "title": "Senior Outsystems QA con Inglés y Español",
       "company": "",
-      "location": "remote_local",
-      "description": "  Mid-level experience with 3+ years in QA automation, support engineering, or a combined technical role for B2B SaaS products.  C1 English level or higher, with strong written and verbal communication skills for direct customer interaction.  Hands-on experience building automated test suites with modern frameworks such as Playwright, Cypress, or Selenium, including API-level testing.  Proficiency in SQL for inspecting databases and investigating customer data discrepancies.  Experience integrating automated test suites into CI/CD pipelines and analyzing run results.  Demonstrated ability to triage user issues, isolate edge cases, and write actionable bug reports for engineering.  Routine experience utilizing AI coding assistants to accelerate test creation and troubleshooting.  Full-time ",
-      "date": 1788912969,
-      "salary": "2500–3000",
-      "url": "https://www.getonbrd.com/jobs/qa-support-engineer-niuro-remote",
+      "location": "fully_remote",
+      "description": "  Mínimo 5 años de experiencia comprobable como QA en proyectos de tecnología y desarrollo de software.  Mínimo 3 años de experiencia comprobable como QA en proyectos desarrollados sobre OutSystems.  Experiencia en diseño y ejecución de pruebas funcionales, de integración, regresión y end-to-end.  Experiencia en pruebas de APIs REST e integraciones.  Conocimiento de metodologías ágiles y participación en diferentes etapas del ciclo de desarrollo de software.  Capacidad para documentar casos de prueba, resultados, evidencias, incidencias y seguimiento de defectos.  Conocimiento y aplicación de buenas prácticas de Quality Assurance.  Capacidad para comunicarse de manera fluida en inglés y español, tanto de forma oral como escrita, requisito indispensable para la interacción con equipos y sta",
+      "date": 1788970212,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/outsystems-qa-con-ingles-avanzado-i2b-technologies-remote",
       "source": "GetOnBoard",
-      "id": "a684c6d02071",
-      "score": 90,
+      "id": "9e2c02b9df53",
+      "score": 55,
       "matches": [
         "Rol QA ✓",
-        "playwright",
-        "automation",
-        "selenium",
-        "sql",
-        "cypress",
-        "bug",
-        "ci/cd"
+        "defect",
+        "Remoto/Latam 🌐"
       ],
       "warnings": [],
-      "verdict": "excelente"
+      "verdict": "bueno"
+    },
+    {
+      "title": "Manager, Payment Integrity-Clinical experience",
+      "company": "",
+      "location": "['United States']",
+      "description": "JOB DESCRIPTION Job Summary Leads and manages team responsible for payment integrity activities including recovery operations.  Responsible for performance, quality levels and establishing procedures and techniques that achieve optimal payment integrity operational standards and production targets.  Essential Job Duties  \n Leads and manages day-to-day operations for assigned payment integrity programs, ensuring accuracy, timeliness, and adherence to policies and procedures.   •    Hires, trains, and develops staff responsible for inventory management, reporting, data integrity, and recovery performance.   •    Implements and monitors quality assurance programs and performance metrics to ensure recovery and cost avoidance targets are met.   •    Collaborates with internal departments (Share",
+      "date": "",
+      "salary": null,
+      "url": "https://himalayas.app/companies/molina-healthcare/jobs/manager-payment-integrity-clinical-experience",
+      "source": "Himalayas",
+      "id": "f1f14ca0aba8",
+      "score": 20,
+      "matches": [
+        "Rol QA (desc)"
+      ],
+      "warnings": [],
+      "verdict": "regular"
     }
   ]
 }
