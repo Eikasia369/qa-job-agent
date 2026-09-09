@@ -1,15 +1,39 @@
 {
-  "last_updated": "2026-09-09T01:06:31.762965+00:00",
-  "total_fetched": 170,
+  "last_updated": "2026-09-09T15:02:46.954810+00:00",
+  "total_fetched": 168,
   "sources": {
-    "Remotive": 18,
-    "WorkingNomads": 50,
+    "Remotive": 17,
+    "WorkingNomads": 49,
     "GetOnBoard": 50,
     "Himalayas": 20,
     "Jobicy": 32
   },
-  "new_count": 0,
+  "new_count": 1,
   "jobs": [
+    {
+      "title": "QA & Support Engineer",
+      "company": "",
+      "location": "remote_local",
+      "description": "  Mid-level experience with 3+ years in QA automation, support engineering, or a combined technical role for B2B SaaS products.  C1 English level or higher, with strong written and verbal communication skills for direct customer interaction.  Hands-on experience building automated test suites with modern frameworks such as Playwright, Cypress, or Selenium, including API-level testing.  Proficiency in SQL for inspecting databases and investigating customer data discrepancies.  Experience integrating automated test suites into CI/CD pipelines and analyzing run results.  Demonstrated ability to triage user issues, isolate edge cases, and write actionable bug reports for engineering.  Routine experience utilizing AI coding assistants to accelerate test creation and troubleshooting.  Full-time ",
+      "date": 1788912969,
+      "salary": "2500–3000",
+      "url": "https://www.getonbrd.com/jobs/qa-support-engineer-niuro-remote",
+      "source": "GetOnBoard",
+      "id": "a684c6d02071",
+      "score": 90,
+      "matches": [
+        "Rol QA ✓",
+        "playwright",
+        "automation",
+        "selenium",
+        "sql",
+        "cypress",
+        "bug",
+        "ci/cd"
+      ],
+      "warnings": [],
+      "verdict": "excelente"
+    },
     {
       "title": "QA Proyecto",
       "company": "",
@@ -243,5 +267,30 @@
       "verdict": "regular"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "title": "QA & Support Engineer",
+      "company": "",
+      "location": "remote_local",
+      "description": "  Mid-level experience with 3+ years in QA automation, support engineering, or a combined technical role for B2B SaaS products.  C1 English level or higher, with strong written and verbal communication skills for direct customer interaction.  Hands-on experience building automated test suites with modern frameworks such as Playwright, Cypress, or Selenium, including API-level testing.  Proficiency in SQL for inspecting databases and investigating customer data discrepancies.  Experience integrating automated test suites into CI/CD pipelines and analyzing run results.  Demonstrated ability to triage user issues, isolate edge cases, and write actionable bug reports for engineering.  Routine experience utilizing AI coding assistants to accelerate test creation and troubleshooting.  Full-time ",
+      "date": 1788912969,
+      "salary": "2500–3000",
+      "url": "https://www.getonbrd.com/jobs/qa-support-engineer-niuro-remote",
+      "source": "GetOnBoard",
+      "id": "a684c6d02071",
+      "score": 90,
+      "matches": [
+        "Rol QA ✓",
+        "playwright",
+        "automation",
+        "selenium",
+        "sql",
+        "cypress",
+        "bug",
+        "ci/cd"
+      ],
+      "warnings": [],
+      "verdict": "excelente"
+    }
+  ]
 }
