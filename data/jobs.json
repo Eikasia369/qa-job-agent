@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-09T19:37:51.662219+00:00",
+  "last_updated": "2026-09-10T00:55:06.654323+00:00",
   "total_fetched": 167,
   "sources": {
     "Remotive": 17,
@@ -8,7 +8,7 @@
     "Himalayas": 20,
     "Jobicy": 32
   },
-  "new_count": 2,
+  "new_count": 1,
   "jobs": [
     {
       "title": "QA Proyecto",
@@ -54,6 +54,28 @@
         "e2e",
         "Remoto/Latam 🌐",
         "Salario 💰"
+      ],
+      "warnings": [],
+      "verdict": "excelente"
+    },
+    {
+      "title": "QA Funcional Senior Microsoft Dynamics 365 (LATAM)",
+      "company": "",
+      "location": "fully_remote",
+      "description": "  Experiencia comprobable como QA Funcional Senior en proyectos de software empresariales.  Experiencia en pruebas funcionales sobre plataformas CRM, Customer Service o soluciones similares.  Conocimiento de procesos de atención al cliente, postventa y gestión de casos.  Experiencia en diseño y ejecución de casos de prueba, matrices de cobertura y trazabilidad.  Experiencia en pruebas de regresión y validaciones end-to-end.  Experiencia realizando pruebas de APIs REST.  Conocimiento en pruebas de aplicaciones web y móviles Android/iOS.  Capacidad para analizar reglas de negocio y escenarios funcionales complejos.  Experiencia gestionando requerimientos y defectos mediante Jira y Confluence.  Manejo de herramientas de gestión de pruebas como Xray, Zephyr o TestRail.  Experiencia en automati",
+      "date": 1788993676,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/qa-funcional-senior-microsoft-dynamics-365-latam-bc-tecnologia-remote",
+      "source": "GetOnBoard",
+      "id": "b252fb6d26e0",
+      "score": 70,
+      "matches": [
+        "Rol QA ✓",
+        "jira",
+        "defect",
+        "zephyr",
+        "testrail",
+        "Remoto/Latam 🌐"
       ],
       "warnings": [],
       "verdict": "excelente"
@@ -111,6 +133,25 @@
         "Rol QA ✓",
         "automation",
         "Remoto/Latam 🌐"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    },
+    {
+      "title": "Senior Quality Assurance Engineer",
+      "company": "",
+      "location": "['Bulgaria']",
+      "description": "  emerchantpay  is a leading global payment service provider and acquirer for online, mobile, in-store and over the phone payments. Our global payments solution is available through a simple integration, offering a diverse range of features, including global acquiring, global and local payment methods, advanced fraud management and performance optimisation. We empower businesses to design seamless and engaging payment experiences for their consumers.  We are looking for an experienced, full-time  Senior Quality Assurance Engineer  to join our IT team.  The ideal candidate has strong hands-on experience in software quality assurance, test automation, API testing, and testing of modern cloud-native systems. This role is suitable for someone who can work independently across complex systems, ",
+      "date": "",
+      "salary": null,
+      "url": "https://himalayas.app/companies/emerchantpay/jobs/senior-quality-assurance-engineer",
+      "source": "Himalayas",
+      "id": "17a89e129fd3",
+      "score": 50,
+      "matches": [
+        "Rol QA ✓",
+        "api testing",
+        "automation"
       ],
       "warnings": [],
       "verdict": "bueno"
@@ -241,61 +282,30 @@
       ],
       "warnings": [],
       "verdict": "regular"
-    },
-    {
-      "title": "Manager, Payment Integrity-Clinical experience",
-      "company": "",
-      "location": "['United States']",
-      "description": "JOB DESCRIPTION Job Summary Leads and manages team responsible for payment integrity activities including recovery operations.  Responsible for performance, quality levels and establishing procedures and techniques that achieve optimal payment integrity operational standards and production targets.  Essential Job Duties  \n Leads and manages day-to-day operations for assigned payment integrity programs, ensuring accuracy, timeliness, and adherence to policies and procedures.   •    Hires, trains, and develops staff responsible for inventory management, reporting, data integrity, and recovery performance.   •    Implements and monitors quality assurance programs and performance metrics to ensure recovery and cost avoidance targets are met.   •    Collaborates with internal departments (Share",
-      "date": "",
-      "salary": null,
-      "url": "https://himalayas.app/companies/molina-healthcare/jobs/manager-payment-integrity-clinical-experience",
-      "source": "Himalayas",
-      "id": "f1f14ca0aba8",
-      "score": 20,
-      "matches": [
-        "Rol QA (desc)"
-      ],
-      "warnings": [],
-      "verdict": "regular"
     }
   ],
   "new_jobs": [
     {
-      "title": "Senior Outsystems QA con Inglés y Español",
+      "title": "QA Funcional Senior Microsoft Dynamics 365 (LATAM)",
       "company": "",
       "location": "fully_remote",
-      "description": "  Mínimo 5 años de experiencia comprobable como QA en proyectos de tecnología y desarrollo de software.  Mínimo 3 años de experiencia comprobable como QA en proyectos desarrollados sobre OutSystems.  Experiencia en diseño y ejecución de pruebas funcionales, de integración, regresión y end-to-end.  Experiencia en pruebas de APIs REST e integraciones.  Conocimiento de metodologías ágiles y participación en diferentes etapas del ciclo de desarrollo de software.  Capacidad para documentar casos de prueba, resultados, evidencias, incidencias y seguimiento de defectos.  Conocimiento y aplicación de buenas prácticas de Quality Assurance.  Capacidad para comunicarse de manera fluida en inglés y español, tanto de forma oral como escrita, requisito indispensable para la interacción con equipos y sta",
-      "date": 1788970212,
+      "description": "  Experiencia comprobable como QA Funcional Senior en proyectos de software empresariales.  Experiencia en pruebas funcionales sobre plataformas CRM, Customer Service o soluciones similares.  Conocimiento de procesos de atención al cliente, postventa y gestión de casos.  Experiencia en diseño y ejecución de casos de prueba, matrices de cobertura y trazabilidad.  Experiencia en pruebas de regresión y validaciones end-to-end.  Experiencia realizando pruebas de APIs REST.  Conocimiento en pruebas de aplicaciones web y móviles Android/iOS.  Capacidad para analizar reglas de negocio y escenarios funcionales complejos.  Experiencia gestionando requerimientos y defectos mediante Jira y Confluence.  Manejo de herramientas de gestión de pruebas como Xray, Zephyr o TestRail.  Experiencia en automati",
+      "date": 1788993676,
       "salary": null,
-      "url": "https://www.getonbrd.com/jobs/outsystems-qa-con-ingles-avanzado-i2b-technologies-remote",
+      "url": "https://www.getonbrd.com/jobs/qa-funcional-senior-microsoft-dynamics-365-latam-bc-tecnologia-remote",
       "source": "GetOnBoard",
-      "id": "9e2c02b9df53",
-      "score": 55,
+      "id": "b252fb6d26e0",
+      "score": 70,
       "matches": [
         "Rol QA ✓",
+        "jira",
         "defect",
+        "zephyr",
+        "testrail",
         "Remoto/Latam 🌐"
       ],
       "warnings": [],
-      "verdict": "bueno"
-    },
-    {
-      "title": "Manager, Payment Integrity-Clinical experience",
-      "company": "",
-      "location": "['United States']",
-      "description": "JOB DESCRIPTION Job Summary Leads and manages team responsible for payment integrity activities including recovery operations.  Responsible for performance, quality levels and establishing procedures and techniques that achieve optimal payment integrity operational standards and production targets.  Essential Job Duties  \n Leads and manages day-to-day operations for assigned payment integrity programs, ensuring accuracy, timeliness, and adherence to policies and procedures.   •    Hires, trains, and develops staff responsible for inventory management, reporting, data integrity, and recovery performance.   •    Implements and monitors quality assurance programs and performance metrics to ensure recovery and cost avoidance targets are met.   •    Collaborates with internal departments (Share",
-      "date": "",
-      "salary": null,
-      "url": "https://himalayas.app/companies/molina-healthcare/jobs/manager-payment-integrity-clinical-experience",
-      "source": "Himalayas",
-      "id": "f1f14ca0aba8",
-      "score": 20,
-      "matches": [
-        "Rol QA (desc)"
-      ],
-      "warnings": [],
-      "verdict": "regular"
+      "verdict": "excelente"
     }
   ]
 }
