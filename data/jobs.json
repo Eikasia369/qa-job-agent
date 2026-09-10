@@ -1,39 +1,15 @@
 {
-  "last_updated": "2026-09-10T14:55:40.785332+00:00",
-  "total_fetched": 164,
+  "last_updated": "2026-09-10T19:28:55.703548+00:00",
+  "total_fetched": 163,
   "sources": {
     "Remotive": 18,
-    "WorkingNomads": 44,
+    "WorkingNomads": 43,
     "GetOnBoard": 50,
     "Himalayas": 20,
     "Jobicy": 32
   },
-  "new_count": 2,
+  "new_count": 0,
   "jobs": [
-    {
-      "title": "Ingeniero QA Automatizador",
-      "company": "",
-      "location": "hybrid",
-      "description": "  Estudios Básicos   Ingeniería de Ejecución o Equivalente Completa   Carrera   Técnico en Informática Ingeniero Ejecución en Informática   Conocimientos Específicos   QA Funcional (base sólida)  Metodología y procesos de QA.  Análisis, diseño y mantenimiento de casos de prueba funcionales y automatizados. Ejecución de pruebas manuales y automatizadas. Gestión y seguimiento de defectos (bug tracking).  Herramientas:   Gestión y seguimiento: Jira.  Automatización de pruebas Web con Playwright (TypeScript/JavaScript).  Automatización de pruebas Mobile con Appium (Java) para Android y iOS app hibrida o nativa  Automatización de pruebas API utilizando Postman y ejecución continua con Newman.  Integración de pruebas automatizadas en pipelines CI/CD (GitLab CI, Jenkins u otros).  Generación de r",
-      "date": 1789044372,
-      "salary": "1500–2000",
-      "url": "https://www.getonbrd.com/jobs/ingeniero-qa-automatizador-lisit-santiago",
-      "source": "GetOnBoard",
-      "id": "0d8e53e6083d",
-      "score": 90,
-      "matches": [
-        "Rol QA ✓",
-        "playwright",
-        "postman",
-        "jira",
-        "javascript",
-        "typescript",
-        "bug",
-        "defect"
-      ],
-      "warnings": [],
-      "verdict": "excelente"
-    },
     {
       "title": "QA Proyecto",
       "company": "",
@@ -184,25 +160,6 @@
       "verdict": "bueno"
     },
     {
-      "title": "Senior Quality Assurance Engineer",
-      "company": "",
-      "location": "['Bulgaria']",
-      "description": "  emerchantpay  is a leading global payment service provider and acquirer for online, mobile, in-store and over the phone payments. Our global payments solution is available through a simple integration, offering a diverse range of features, including global acquiring, global and local payment methods, advanced fraud management and performance optimisation. We empower businesses to design seamless and engaging payment experiences for their consumers.  We are looking for an experienced, full-time  Senior Quality Assurance Engineer  to join our IT team.  The ideal candidate has strong hands-on experience in software quality assurance, test automation, API testing, and testing of modern cloud-native systems. This role is suitable for someone who can work independently across complex systems, ",
-      "date": "",
-      "salary": null,
-      "url": "https://himalayas.app/companies/emerchantpay/jobs/senior-quality-assurance-engineer",
-      "source": "Himalayas",
-      "id": "17a89e129fd3",
-      "score": 50,
-      "matches": [
-        "Rol QA ✓",
-        "api testing",
-        "automation"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
-    },
-    {
       "title": "Senior QA Automation Engineer",
       "company": "Proxify",
       "location": "Time zone: CET (+/- 3 hours)",
@@ -330,52 +287,5 @@
       "verdict": "regular"
     }
   ],
-  "new_jobs": [
-    {
-      "title": "Ingeniero QA Automatizador",
-      "company": "",
-      "location": "hybrid",
-      "description": "  Estudios Básicos   Ingeniería de Ejecución o Equivalente Completa   Carrera   Técnico en Informática Ingeniero Ejecución en Informática   Conocimientos Específicos   QA Funcional (base sólida)  Metodología y procesos de QA.  Análisis, diseño y mantenimiento de casos de prueba funcionales y automatizados. Ejecución de pruebas manuales y automatizadas. Gestión y seguimiento de defectos (bug tracking).  Herramientas:   Gestión y seguimiento: Jira.  Automatización de pruebas Web con Playwright (TypeScript/JavaScript).  Automatización de pruebas Mobile con Appium (Java) para Android y iOS app hibrida o nativa  Automatización de pruebas API utilizando Postman y ejecución continua con Newman.  Integración de pruebas automatizadas en pipelines CI/CD (GitLab CI, Jenkins u otros).  Generación de r",
-      "date": 1789044372,
-      "salary": "1500–2000",
-      "url": "https://www.getonbrd.com/jobs/ingeniero-qa-automatizador-lisit-santiago",
-      "source": "GetOnBoard",
-      "id": "0d8e53e6083d",
-      "score": 90,
-      "matches": [
-        "Rol QA ✓",
-        "playwright",
-        "postman",
-        "jira",
-        "javascript",
-        "typescript",
-        "bug",
-        "defect"
-      ],
-      "warnings": [],
-      "verdict": "excelente"
-    },
-    {
-      "title": "QA Funcional Senior – Microsoft Dynamics 365 Cs",
-      "company": "",
-      "location": "fully_remote",
-      "description": "  Experiencia comprobable como QA Funcional Senior en proyectos de software empresariales.  Experiencia en pruebas funcionales sobre plataformas CRM, Customer Service o soluciones similares.  Conocimiento de procesos de atención al cliente, postventa y gestión de casos.  Experiencia en diseño y ejecución de casos de prueba, matrices de cobertura y trazabilidad.  Experiencia en pruebas de regresión y validaciones end-to-end.  Experiencia realizando pruebas sobre APIs REST.  Conocimiento en pruebas de aplicaciones web y móviles Android/iOS.  Capacidad para analizar reglas de negocio y escenarios funcionales complejos.  Experiencia gestionando requerimientos y defectos mediante Jira y Confluence.  Manejo de herramientas de gestión de pruebas como Xray, Zephyr o TestRail.  Experiencia en autom",
-      "date": 1789011730,
-      "salary": null,
-      "url": "https://www.getonbrd.com/jobs/qa-funcional-senior-microsoft-dynamics-365-cs-bc-tecnologia-remote",
-      "source": "GetOnBoard",
-      "id": "178a8ed4d4a0",
-      "score": 70,
-      "matches": [
-        "Rol QA ✓",
-        "jira",
-        "defect",
-        "zephyr",
-        "testrail",
-        "Remoto/Latam 🌐"
-      ],
-      "warnings": [],
-      "verdict": "excelente"
-    }
-  ]
+  "new_jobs": []
 }
