@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-11T14:55:37.519289+00:00",
+  "last_updated": "2026-09-11T19:29:17.400492+00:00",
   "total_fetched": 161,
   "sources": {
     "Remotive": 16,
@@ -10,30 +10,6 @@
   },
   "new_count": 1,
   "jobs": [
-    {
-      "title": "Ingeniero QA Automatizador",
-      "company": "",
-      "location": "hybrid",
-      "description": "  Estudios Básicos   Ingeniería de Ejecución o Equivalente Completa   Carrera   Técnico en Informática Ingeniero Ejecución en Informática   Conocimientos Específicos   QA Funcional (base sólida)  Metodología y procesos de QA.  Análisis, diseño y mantenimiento de casos de prueba funcionales y automatizados. Ejecución de pruebas manuales y automatizadas. Gestión y seguimiento de defectos (bug tracking).  Herramientas:   Gestión y seguimiento: Jira.  Automatización de pruebas Web con Playwright (TypeScript/JavaScript).  Automatización de pruebas Mobile con Appium (Java) para Android y iOS app hibrida o nativa  Automatización de pruebas API utilizando Postman y ejecución continua con Newman.  Integración de pruebas automatizadas en pipelines CI/CD (GitLab CI, Jenkins u otros).  Generación de r",
-      "date": 1789044372,
-      "salary": "1500–2000",
-      "url": "https://www.getonbrd.com/jobs/ingeniero-qa-automatizador-lisit-santiago",
-      "source": "GetOnBoard",
-      "id": "0d8e53e6083d",
-      "score": 90,
-      "matches": [
-        "Rol QA ✓",
-        "playwright",
-        "postman",
-        "jira",
-        "javascript",
-        "typescript",
-        "bug",
-        "defect"
-      ],
-      "warnings": [],
-      "verdict": "excelente"
-    },
     {
       "title": "QA Proyecto",
       "company": "",
@@ -183,6 +159,24 @@
       "verdict": "bueno"
     },
     {
+      "title": "Qad Technical Consultant",
+      "company": "",
+      "location": "remote_local",
+      "description": " We’re looking for a  QAD Technical Consultant  with hands-on expertise in  QAD ERP technical administration  and  database management . You will help ensure the stability, performance, and secure operation of QAD environments, and you’ll support end-to-end issue resolution across development, test, and production.  You should be comfortable working with QAD technical tools and  Progress/OpenEdge database administration , including routine system maintenance and performance monitoring. We expect experience with  backup and recovery ,  performance tuning ,  security management , and  system upgrades . You’ll also partner with business and technical teams to support  QAD integrations , reporting, and system enhancements.  Because this role involves coordination with global and regional stake",
+      "date": 1789150750,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/qad-technical-consultant-crest-it-resources-llc-remote",
+      "source": "GetOnBoard",
+      "id": "1178ede2963f",
+      "score": 50,
+      "matches": [
+        "Rol QA ✓",
+        "Remoto/Latam 🌐"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    },
+    {
       "title": "Senior QA Automation Engineer",
       "company": "Proxify",
       "location": "Time zone: CET (+/- 3 hours)",
@@ -196,24 +190,6 @@
       "matches": [
         "Rol QA ✓",
         "automation"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
-    },
-    {
-      "title": "IT Quality Assurance Specialist - IT Project Management Office",
-      "company": "",
-      "location": "['United States']",
-      "description": "   Sanford Health , the largest rural health system in the United States, is dedicated to transforming the health care experience and providing access to world-class health care in America’s heartland.   Work Shift: 8 Hours - Day Shifts (United States of America) Scheduled Weekly Hours: 40 Compensation: Salary Range: $27.50 - $44.00Pay starts at $27.50 and increases according to years of applicable experience. Union Position:  No  Department Details  Healthcare experience/background preferred.  Summary  The IT Quality Assurance Specialist will design and write test plans and procedures that validate that the infrastructure and software will function according to specifications and expected standards.  Job Description  Execute, monitor, and record the results of test plans. Provide test est",
-      "date": "",
-      "salary": null,
-      "url": "https://himalayas.app/companies/sanford-health/jobs/it-quality-assurance-specialist-it-project-management-office",
-      "source": "Himalayas",
-      "id": "0b33f2e05c46",
-      "score": 45,
-      "matches": [
-        "Rol QA ✓",
-        "test plan"
       ],
       "warnings": [],
       "verdict": "bueno"
@@ -330,19 +306,19 @@
   ],
   "new_jobs": [
     {
-      "title": "IT Quality Assurance Specialist - IT Project Management Office",
+      "title": "Qad Technical Consultant",
       "company": "",
-      "location": "['United States']",
-      "description": "   Sanford Health , the largest rural health system in the United States, is dedicated to transforming the health care experience and providing access to world-class health care in America’s heartland.   Work Shift: 8 Hours - Day Shifts (United States of America) Scheduled Weekly Hours: 40 Compensation: Salary Range: $27.50 - $44.00Pay starts at $27.50 and increases according to years of applicable experience. Union Position:  No  Department Details  Healthcare experience/background preferred.  Summary  The IT Quality Assurance Specialist will design and write test plans and procedures that validate that the infrastructure and software will function according to specifications and expected standards.  Job Description  Execute, monitor, and record the results of test plans. Provide test est",
-      "date": "",
+      "location": "remote_local",
+      "description": " We’re looking for a  QAD Technical Consultant  with hands-on expertise in  QAD ERP technical administration  and  database management . You will help ensure the stability, performance, and secure operation of QAD environments, and you’ll support end-to-end issue resolution across development, test, and production.  You should be comfortable working with QAD technical tools and  Progress/OpenEdge database administration , including routine system maintenance and performance monitoring. We expect experience with  backup and recovery ,  performance tuning ,  security management , and  system upgrades . You’ll also partner with business and technical teams to support  QAD integrations , reporting, and system enhancements.  Because this role involves coordination with global and regional stake",
+      "date": 1789150750,
       "salary": null,
-      "url": "https://himalayas.app/companies/sanford-health/jobs/it-quality-assurance-specialist-it-project-management-office",
-      "source": "Himalayas",
-      "id": "0b33f2e05c46",
-      "score": 45,
+      "url": "https://www.getonbrd.com/jobs/qad-technical-consultant-crest-it-resources-llc-remote",
+      "source": "GetOnBoard",
+      "id": "1178ede2963f",
+      "score": 50,
       "matches": [
         "Rol QA ✓",
-        "test plan"
+        "Remoto/Latam 🌐"
       ],
       "warnings": [],
       "verdict": "bueno"
