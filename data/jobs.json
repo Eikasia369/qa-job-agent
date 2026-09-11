@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-09-11T00:52:20.168716+00:00",
-  "total_fetched": 163,
+  "last_updated": "2026-09-11T14:55:37.519289+00:00",
+  "total_fetched": 161,
   "sources": {
-    "Remotive": 18,
+    "Remotive": 16,
     "WorkingNomads": 43,
     "GetOnBoard": 50,
     "Himalayas": 20,
     "Jobicy": 32
   },
-  "new_count": 0,
+  "new_count": 1,
   "jobs": [
     {
       "title": "Ingeniero QA Automatizador",
@@ -30,30 +30,6 @@
         "typescript",
         "bug",
         "defect"
-      ],
-      "warnings": [],
-      "verdict": "excelente"
-    },
-    {
-      "title": "QA & Support Engineer",
-      "company": "",
-      "location": "remote_local",
-      "description": "  Mid-level experience with 3+ years in QA automation, support engineering, or a combined technical role for B2B SaaS products.  C1 English level or higher, with strong written and verbal communication skills for direct customer interaction.  Hands-on experience building automated test suites with modern frameworks such as Playwright, Cypress, or Selenium, including API-level testing.  Proficiency in SQL for inspecting databases and investigating customer data discrepancies.  Experience integrating automated test suites into CI/CD pipelines and analyzing run results.  Demonstrated ability to triage user issues, isolate edge cases, and write actionable bug reports for engineering.  Routine experience utilizing AI coding assistants to accelerate test creation and troubleshooting.  Full-time ",
-      "date": 1788912969,
-      "salary": "2500–3000",
-      "url": "https://www.getonbrd.com/jobs/qa-support-engineer-niuro-remote",
-      "source": "GetOnBoard",
-      "id": "a684c6d02071",
-      "score": 90,
-      "matches": [
-        "Rol QA ✓",
-        "playwright",
-        "automation",
-        "selenium",
-        "sql",
-        "cypress",
-        "bug",
-        "ci/cd"
       ],
       "warnings": [],
       "verdict": "excelente"
@@ -83,20 +59,19 @@
       "verdict": "excelente"
     },
     {
-      "title": "QA Automation Engineer",
+      "title": "Analista QA",
       "company": "",
       "location": "no_remote",
-      "description": "   Experiencia:  Entre 1 y 4 años de experiencia comprobable en roles de QA/Testing de software.    Metodologías:  Experiencia en metodologías ágiles, participando activamente en refinamientos, plannings y retrospectivas (no solo como asistente, sino aportando visión de calidad).    Pruebas Funcionales:  Dominio avanzado en el diseño de escenarios de prueba, matrices de cobertura, reportes de calidad y gestión de datos de prueba (Test Data). Automatización (Requisito Core):  Experiencia práctica (mínimo 1 año) desarrollando y manteniendo scripts de automatización de pruebas (E2E o de regresión) utilizando frameworks como Cypress, Playwright o Selenium.   ",
+      "description": "   Experiencia:  Entre 1 y 3 años de experiencia comprobable en roles de QA/Testing de software.    Metodologías:  Experiencia en metodologías ágiles, participando activamente en refinamientos, plannings y retrospectivas (no solo como asistente, sino aportando visión de calidad).    Pruebas Funcionales:  Dominio avanzado en el diseño de escenarios de prueba, matrices de cobertura, reportes de calidad y gestión de datos de prueba (Test Data). Automatización (Requisito Core):  Experiencia práctica (mínimo 1 año) desarrollando y manteniendo scripts de automatización de pruebas (E2E o de regresión) utilizando frameworks como Cypress, Playwright o Selenium.   ",
       "date": 1788480535,
-      "salary": "1000–1400",
+      "salary": "1000–1300",
       "url": "https://www.getonbrd.com/jobs/analista-qa-semi-senior-tcit-santiago-242f",
       "source": "GetOnBoard",
-      "id": "03b5db6651bd",
-      "score": 80,
+      "id": "03cb9d7b9df5",
+      "score": 75,
       "matches": [
         "Rol QA ✓",
         "playwright",
-        "automation",
         "selenium",
         "cypress",
         "e2e",
@@ -226,6 +201,24 @@
       "verdict": "bueno"
     },
     {
+      "title": "IT Quality Assurance Specialist - IT Project Management Office",
+      "company": "",
+      "location": "['United States']",
+      "description": "   Sanford Health , the largest rural health system in the United States, is dedicated to transforming the health care experience and providing access to world-class health care in America’s heartland.   Work Shift: 8 Hours - Day Shifts (United States of America) Scheduled Weekly Hours: 40 Compensation: Salary Range: $27.50 - $44.00Pay starts at $27.50 and increases according to years of applicable experience. Union Position:  No  Department Details  Healthcare experience/background preferred.  Summary  The IT Quality Assurance Specialist will design and write test plans and procedures that validate that the infrastructure and software will function according to specifications and expected standards.  Job Description  Execute, monitor, and record the results of test plans. Provide test est",
+      "date": "",
+      "salary": null,
+      "url": "https://himalayas.app/companies/sanford-health/jobs/it-quality-assurance-specialist-it-project-management-office",
+      "source": "Himalayas",
+      "id": "0b33f2e05c46",
+      "score": 45,
+      "matches": [
+        "Rol QA ✓",
+        "test plan"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    },
+    {
       "title": "Manager, Clinical Review and Quality Assurance",
       "company": "SmithRx",
       "location": "USA",
@@ -335,5 +328,24 @@
       "verdict": "regular"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "title": "IT Quality Assurance Specialist - IT Project Management Office",
+      "company": "",
+      "location": "['United States']",
+      "description": "   Sanford Health , the largest rural health system in the United States, is dedicated to transforming the health care experience and providing access to world-class health care in America’s heartland.   Work Shift: 8 Hours - Day Shifts (United States of America) Scheduled Weekly Hours: 40 Compensation: Salary Range: $27.50 - $44.00Pay starts at $27.50 and increases according to years of applicable experience. Union Position:  No  Department Details  Healthcare experience/background preferred.  Summary  The IT Quality Assurance Specialist will design and write test plans and procedures that validate that the infrastructure and software will function according to specifications and expected standards.  Job Description  Execute, monitor, and record the results of test plans. Provide test est",
+      "date": "",
+      "salary": null,
+      "url": "https://himalayas.app/companies/sanford-health/jobs/it-quality-assurance-specialist-it-project-management-office",
+      "source": "Himalayas",
+      "id": "0b33f2e05c46",
+      "score": 45,
+      "matches": [
+        "Rol QA ✓",
+        "test plan"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    }
+  ]
 }
