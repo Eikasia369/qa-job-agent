@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-11T19:29:17.400492+00:00",
+  "last_updated": "2026-09-12T00:57:33.650092+00:00",
   "total_fetched": 161,
   "sources": {
     "Remotive": 16,
@@ -195,6 +195,24 @@
       "verdict": "bueno"
     },
     {
+      "title": "QA Funcional – Web & Mobile",
+      "company": "",
+      "location": "hybrid",
+      "description": "  Experiencia como QA Funcional, Analista QA o similar.  Experiencia realizando pruebas funcionales en aplicaciones web y móviles.  Conocimiento en levantamiento y documentación de requerimientos.  Capacidad para identificar y documentar defectos y oportunidades de mejora.  Experiencia trabajando con equipos de Producto y Desarrollo.  Capacidad de análisis de procesos y flujos operativos.  Conocimientos en herramientas de gestión de tickets o seguimiento de incidencias.  Manejo de documentación y herramientas colaborativas.  Buenas habilidades de comunicación y trabajo en equipo.    Perfil buscado   Buscamos una persona analítica, organizada y orientada al detalle, con capacidad para comprender procesos de negocio, detectar problemas funcionales y comunicarlos de manera clara a equipos téc",
+      "date": 1789152629,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/qa-funcional-web-mobile-bc-tecnologia-santiago",
+      "source": "GetOnBoard",
+      "id": "a0e15197ee5e",
+      "score": 45,
+      "matches": [
+        "Rol QA ✓",
+        "defect"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    },
+    {
       "title": "Manager, Clinical Review and Quality Assurance",
       "company": "SmithRx",
       "location": "USA",
@@ -222,24 +240,6 @@
       "url": "https://jobicy.com/jobs/152406-senior-quality-assurance-engineer-personify-team",
       "source": "Jobicy",
       "id": "6757d7fb0331",
-      "score": 45,
-      "matches": [
-        "Rol QA ✓",
-        "Salario 💰"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
-    },
-    {
-      "title": "Quality Assurance Engineer",
-      "company": "AssetWatch",
-      "location": "Canada,  USA",
-      "description": " AssetWatch serves global manufacturers by powering manufacturing uptime through the delivery of an unparalleled condition monitoring experience, with a passion to care about the assets our customers care for every day. We are a devoted and capable team that includes world-renowned engineers and distinguished business leaders united by a common goal – To build the future of predictive maintenance. As we enter the next phase of rapid growth, we are seeking people to help lead the journey.  \n AssetWatch serves global manufacturers by powering manufacturing uptime through the delivery of an unparalleled condition monitoring experience, with a passion to care about the assets our customers care for every day. We are a devoted and capable team that includes world-renowned engineers and distingu",
-      "date": "2026-09-01T14:34:41+00:00",
-      "salary": "USD99000–124000",
-      "url": "https://jobicy.com/jobs/152329-quality-assurance-engineer-2",
-      "source": "Jobicy",
-      "id": "c56889506aa4",
       "score": 45,
       "matches": [
         "Rol QA ✓",
@@ -306,19 +306,19 @@
   ],
   "new_jobs": [
     {
-      "title": "Qad Technical Consultant",
+      "title": "QA Funcional – Web & Mobile",
       "company": "",
-      "location": "remote_local",
-      "description": " We’re looking for a  QAD Technical Consultant  with hands-on expertise in  QAD ERP technical administration  and  database management . You will help ensure the stability, performance, and secure operation of QAD environments, and you’ll support end-to-end issue resolution across development, test, and production.  You should be comfortable working with QAD technical tools and  Progress/OpenEdge database administration , including routine system maintenance and performance monitoring. We expect experience with  backup and recovery ,  performance tuning ,  security management , and  system upgrades . You’ll also partner with business and technical teams to support  QAD integrations , reporting, and system enhancements.  Because this role involves coordination with global and regional stake",
-      "date": 1789150750,
+      "location": "hybrid",
+      "description": "  Experiencia como QA Funcional, Analista QA o similar.  Experiencia realizando pruebas funcionales en aplicaciones web y móviles.  Conocimiento en levantamiento y documentación de requerimientos.  Capacidad para identificar y documentar defectos y oportunidades de mejora.  Experiencia trabajando con equipos de Producto y Desarrollo.  Capacidad de análisis de procesos y flujos operativos.  Conocimientos en herramientas de gestión de tickets o seguimiento de incidencias.  Manejo de documentación y herramientas colaborativas.  Buenas habilidades de comunicación y trabajo en equipo.    Perfil buscado   Buscamos una persona analítica, organizada y orientada al detalle, con capacidad para comprender procesos de negocio, detectar problemas funcionales y comunicarlos de manera clara a equipos téc",
+      "date": 1789152629,
       "salary": null,
-      "url": "https://www.getonbrd.com/jobs/qad-technical-consultant-crest-it-resources-llc-remote",
+      "url": "https://www.getonbrd.com/jobs/qa-funcional-web-mobile-bc-tecnologia-santiago",
       "source": "GetOnBoard",
-      "id": "1178ede2963f",
-      "score": 50,
+      "id": "a0e15197ee5e",
+      "score": 45,
       "matches": [
         "Rol QA ✓",
-        "Remoto/Latam 🌐"
+        "defect"
       ],
       "warnings": [],
       "verdict": "bueno"
