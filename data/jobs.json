@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-13T14:51:35.521208+00:00",
+  "last_updated": "2026-09-13T19:14:04.512043+00:00",
   "total_fetched": 162,
   "sources": {
     "Remotive": 16,
@@ -8,7 +8,7 @@
     "Himalayas": 20,
     "Jobicy": 32
   },
-  "new_count": 0,
+  "new_count": 1,
   "jobs": [
     {
       "title": "QA Proyecto",
@@ -213,6 +213,24 @@
       "verdict": "bueno"
     },
     {
+      "title": "Senior QA Automation Engineer - AWS & Salesforce (Serbia)",
+      "company": "",
+      "location": "['Serbia']",
+      "description": "  Project Overview:  At   Flosum  , we build the leading native DevOps, Release Management, and Data Backup solutions for the Salesforce ecosystem. While our core platform is native to Salesforce, we utilize a hyperscale, open-cloud architecture on AWS for key web applications and high-throughput background processing.  We are looking for an expert  Senior QA Automation Engineer  to design, build, and maintain an end-to-end automated testing framework that bridges our AWS cloud web applications and our core Salesforce architecture. This is a mission-critical role where you will ensure the seamless, secure sync of enterprise DevOps data between cloud microservices and Salesforce metadata.  What You Will Do:  \n Design and implement an automated testing framework covering both our AWS-hosted ",
+      "date": "",
+      "salary": null,
+      "url": "https://himalayas.app/companies/flosum/jobs/senior-qa-automation-engineer-aws-salesforce-serbia",
+      "source": "Himalayas",
+      "id": "7a63fb598f48",
+      "score": 45,
+      "matches": [
+        "Rol QA ✓",
+        "automation"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    },
+    {
       "title": "Manager, Clinical Review and Quality Assurance",
       "company": "SmithRx",
       "location": "USA",
@@ -304,5 +322,24 @@
       "verdict": "regular"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "title": "Senior QA Automation Engineer - AWS & Salesforce (Serbia)",
+      "company": "",
+      "location": "['Serbia']",
+      "description": "  Project Overview:  At   Flosum  , we build the leading native DevOps, Release Management, and Data Backup solutions for the Salesforce ecosystem. While our core platform is native to Salesforce, we utilize a hyperscale, open-cloud architecture on AWS for key web applications and high-throughput background processing.  We are looking for an expert  Senior QA Automation Engineer  to design, build, and maintain an end-to-end automated testing framework that bridges our AWS cloud web applications and our core Salesforce architecture. This is a mission-critical role where you will ensure the seamless, secure sync of enterprise DevOps data between cloud microservices and Salesforce metadata.  What You Will Do:  \n Design and implement an automated testing framework covering both our AWS-hosted ",
+      "date": "",
+      "salary": null,
+      "url": "https://himalayas.app/companies/flosum/jobs/senior-qa-automation-engineer-aws-salesforce-serbia",
+      "source": "Himalayas",
+      "id": "7a63fb598f48",
+      "score": 45,
+      "matches": [
+        "Rol QA ✓",
+        "automation"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    }
+  ]
 }
