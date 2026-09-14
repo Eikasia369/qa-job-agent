@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-14T16:51:50.199689+00:00",
+  "last_updated": "2026-09-14T20:47:56.256583+00:00",
   "total_fetched": 163,
   "sources": {
     "Remotive": 16,
@@ -8,7 +8,7 @@
     "Himalayas": 20,
     "Jobicy": 32
   },
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "title": "QA Proyecto",
@@ -195,42 +195,6 @@
       "verdict": "bueno"
     },
     {
-      "title": "QA Funcional – Web & Mobile",
-      "company": "",
-      "location": "hybrid",
-      "description": "  Experiencia como QA Funcional, Analista QA o similar.  Experiencia realizando pruebas funcionales en aplicaciones web y móviles.  Conocimiento en levantamiento y documentación de requerimientos.  Capacidad para identificar y documentar defectos y oportunidades de mejora.  Experiencia trabajando con equipos de Producto y Desarrollo.  Capacidad de análisis de procesos y flujos operativos.  Conocimientos en herramientas de gestión de tickets o seguimiento de incidencias.  Manejo de documentación y herramientas colaborativas.  Buenas habilidades de comunicación y trabajo en equipo.    Perfil buscado   Buscamos una persona analítica, organizada y orientada al detalle, con capacidad para comprender procesos de negocio, detectar problemas funcionales y comunicarlos de manera clara a equipos téc",
-      "date": 1789152629,
-      "salary": null,
-      "url": "https://www.getonbrd.com/jobs/qa-funcional-web-mobile-bc-tecnologia-santiago",
-      "source": "GetOnBoard",
-      "id": "a0e15197ee5e",
-      "score": 45,
-      "matches": [
-        "Rol QA ✓",
-        "defect"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
-    },
-    {
-      "title": "Manager, Clinical Review and Quality Assurance",
-      "company": "SmithRx",
-      "location": "USA",
-      "description": "  Who We Are:  \n SmithRx is a rapidly growing, venture-backed Health-Tech company. Our mission is to disrupt the expensive and inefficient Pharmacy Benefit Management (PBM) sector by building a next-generation drug acquisition platform driven by cutting edge technology, innovative cost saving tools, and best-in-class customer service. With hundreds of thousands of members onboarded since 2016, SmithRx has a solution that is resonating with clients all across the country. \n We pride ourselves for our mission-driven and collaborative culture that inspires our employees to do their best work. We believe that the U.S healthcare system is in need of transformation, and we come to work each day dedicated to making that change a reality. At our core, we are guided by our company values: \n \n  Inte",
-      "date": "2026-09-03T13:57:16+00:00",
-      "salary": "USD136000–192000",
-      "url": "https://jobicy.com/jobs/152408-manager-clinical-review-and-quality-assurance",
-      "source": "Jobicy",
-      "id": "c52208cf0d40",
-      "score": 45,
-      "matches": [
-        "Rol QA ✓",
-        "Salario 💰"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
-    },
-    {
       "title": "Senior Quality Assurance Engineer (Personify team)",
       "company": "Bloomreach",
       "location": "Czechia",
@@ -322,24 +286,5 @@
       "verdict": "regular"
     }
   ],
-  "new_jobs": [
-    {
-      "title": "&#x28;Senior&#x29; DevOps Engineer - Full Remote - Contractor in USD",
-      "company": "",
-      "location": "['United States']",
-      "description": "Category: IT Services   Location:        For an international organization, we are urgently looking for a REMOTE DevOps Engineer. The DevOps Engineer collaborates with the various development, infrastructure, QA and PM teams to build and maintain end-to-end DevOps pipelines based on product/project needs.  \n  Candidates need to be able to work normal office hours of Manila.  Candidates need to be fluent in English. \n  \n Tasks and responsibilities:  \n  \n ​  \n  \n Design and implement DevOps solutions using Azure DevOps; \n \n Setup new build and release pipelines for new and existing applications on.Net, Java, PHP and mobile application technology stack; \n \n Integrate existing CI/CD toolset with Azure DevOps (Unit test, SonarQube, TestComplete, RedGate, Terraform, Fortify, Docker, etc); \n \n Co",
-      "date": "",
-      "salary": null,
-      "url": "https://himalayas.app/companies/gopro-consultancy-group-ltd/jobs/x28-senior-x29-devops-engineer-full-remote-contractor-in-usd-5617381546",
-      "source": "Himalayas",
-      "id": "c4d29d785b20",
-      "score": 25,
-      "matches": [
-        "Rol QA (desc)",
-        "ci/cd"
-      ],
-      "warnings": [],
-      "verdict": "regular"
-    }
-  ]
+  "new_jobs": []
 }
