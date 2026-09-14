@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-09-14T00:50:11.233743+00:00",
-  "total_fetched": 162,
+  "last_updated": "2026-09-14T16:51:50.199689+00:00",
+  "total_fetched": 163,
   "sources": {
     "Remotive": 16,
-    "WorkingNomads": 44,
+    "WorkingNomads": 45,
     "GetOnBoard": 50,
     "Himalayas": 20,
     "Jobicy": 32
@@ -177,24 +177,6 @@
       "verdict": "bueno"
     },
     {
-      "title": "Analista de QA  Sênior",
-      "company": "",
-      "location": "['Brazil']",
-      "description": " A  FCamara  apoiando empresas disruptivas por meio de soluções digitais completas e escaláveis alinhadas às principais tendências e necessidades do mercado. Temos uma cultura poderosa, conectados de ponta a ponta, colaborativos, ágeis e flexíveis para encarar o novo, transparentes em nossas ações e unidos por um grande propósito: Revolucionar negócios e impactar pessoas, resolvendo desafios complexos através da nossa cultura e tecnologia. Além disso, somos certificados pela GPTW pelo segundo ano consecutivo, sendo uma das melhores empresas para se trabalhar no Brasil.  Próximos dos clientes, apaixonados por tecnologia e pessoas (sim, aqui pensamos na sua evolução e carreira, vamos te desenvolver e cuidar da sua trilha de capacitação). Acreditamos na diversidade, equidade e inclusão de pro",
-      "date": "",
-      "salary": null,
-      "url": "https://himalayas.app/companies/fcamara/jobs/analista-de-qa-senior-4785100049",
-      "source": "Himalayas",
-      "id": "3a90f5f8794c",
-      "score": 50,
-      "matches": [
-        "Rol QA ✓",
-        "Remoto/Latam 🌐"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
-    },
-    {
       "title": "Senior QA Automation Engineer",
       "company": "Proxify",
       "location": "Time zone: CET (+/- 3 hours)",
@@ -320,26 +302,44 @@
       ],
       "warnings": [],
       "verdict": "regular"
+    },
+    {
+      "title": "&#x28;Senior&#x29; DevOps Engineer - Full Remote - Contractor in USD",
+      "company": "",
+      "location": "['United States']",
+      "description": "Category: IT Services   Location:        For an international organization, we are urgently looking for a REMOTE DevOps Engineer. The DevOps Engineer collaborates with the various development, infrastructure, QA and PM teams to build and maintain end-to-end DevOps pipelines based on product/project needs.  \n  Candidates need to be able to work normal office hours of Manila.  Candidates need to be fluent in English. \n  \n Tasks and responsibilities:  \n  \n ​  \n  \n Design and implement DevOps solutions using Azure DevOps; \n \n Setup new build and release pipelines for new and existing applications on.Net, Java, PHP and mobile application technology stack; \n \n Integrate existing CI/CD toolset with Azure DevOps (Unit test, SonarQube, TestComplete, RedGate, Terraform, Fortify, Docker, etc); \n \n Co",
+      "date": "",
+      "salary": null,
+      "url": "https://himalayas.app/companies/gopro-consultancy-group-ltd/jobs/x28-senior-x29-devops-engineer-full-remote-contractor-in-usd-5617381546",
+      "source": "Himalayas",
+      "id": "c4d29d785b20",
+      "score": 25,
+      "matches": [
+        "Rol QA (desc)",
+        "ci/cd"
+      ],
+      "warnings": [],
+      "verdict": "regular"
     }
   ],
   "new_jobs": [
     {
-      "title": "Analista de QA  Sênior",
+      "title": "&#x28;Senior&#x29; DevOps Engineer - Full Remote - Contractor in USD",
       "company": "",
-      "location": "['Brazil']",
-      "description": " A  FCamara  apoiando empresas disruptivas por meio de soluções digitais completas e escaláveis alinhadas às principais tendências e necessidades do mercado. Temos uma cultura poderosa, conectados de ponta a ponta, colaborativos, ágeis e flexíveis para encarar o novo, transparentes em nossas ações e unidos por um grande propósito: Revolucionar negócios e impactar pessoas, resolvendo desafios complexos através da nossa cultura e tecnologia. Além disso, somos certificados pela GPTW pelo segundo ano consecutivo, sendo uma das melhores empresas para se trabalhar no Brasil.  Próximos dos clientes, apaixonados por tecnologia e pessoas (sim, aqui pensamos na sua evolução e carreira, vamos te desenvolver e cuidar da sua trilha de capacitação). Acreditamos na diversidade, equidade e inclusão de pro",
+      "location": "['United States']",
+      "description": "Category: IT Services   Location:        For an international organization, we are urgently looking for a REMOTE DevOps Engineer. The DevOps Engineer collaborates with the various development, infrastructure, QA and PM teams to build and maintain end-to-end DevOps pipelines based on product/project needs.  \n  Candidates need to be able to work normal office hours of Manila.  Candidates need to be fluent in English. \n  \n Tasks and responsibilities:  \n  \n ​  \n  \n Design and implement DevOps solutions using Azure DevOps; \n \n Setup new build and release pipelines for new and existing applications on.Net, Java, PHP and mobile application technology stack; \n \n Integrate existing CI/CD toolset with Azure DevOps (Unit test, SonarQube, TestComplete, RedGate, Terraform, Fortify, Docker, etc); \n \n Co",
       "date": "",
       "salary": null,
-      "url": "https://himalayas.app/companies/fcamara/jobs/analista-de-qa-senior-4785100049",
+      "url": "https://himalayas.app/companies/gopro-consultancy-group-ltd/jobs/x28-senior-x29-devops-engineer-full-remote-contractor-in-usd-5617381546",
       "source": "Himalayas",
-      "id": "3a90f5f8794c",
-      "score": 50,
+      "id": "c4d29d785b20",
+      "score": 25,
       "matches": [
-        "Rol QA ✓",
-        "Remoto/Latam 🌐"
+        "Rol QA (desc)",
+        "ci/cd"
       ],
       "warnings": [],
-      "verdict": "bueno"
+      "verdict": "regular"
     }
   ]
 }
