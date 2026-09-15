@@ -1,15 +1,39 @@
 {
-  "last_updated": "2026-09-14T20:47:56.256583+00:00",
-  "total_fetched": 163,
+  "last_updated": "2026-09-15T01:16:29.585179+00:00",
+  "total_fetched": 131,
   "sources": {
     "Remotive": 16,
     "WorkingNomads": 45,
     "GetOnBoard": 50,
     "Himalayas": 20,
-    "Jobicy": 32
+    "Jobicy": 0
   },
   "new_count": 0,
   "jobs": [
+    {
+      "title": "SDET (Software Development Engineer in Test)",
+      "company": "",
+      "location": "fully_remote",
+      "description": "  Proficiency in TypeScript and JavaScript (ES6+)  Strong experience with React and modern frontend testing  Hands-on experience with AWS services and cloud-based testing infrastructure  Experience with test automation frameworks (Selenium, Cypress, Playwright, or similar)  Strong proficiency in unit testing and integration testing  Experience with CI/CD tools (Jenkins, GitHub Actions, GitLab CI, or equivalent)  Knowledge of API testing and tools (REST, GraphQL, Postman, etc.)  Experience with version control systems (Git)  Strong understanding of software development lifecycle and QA methodologies  ",
+      "date": 1789433921,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/sdet-software-development-engineer-in-test-improving-remote",
+      "source": "GetOnBoard",
+      "id": "f5647d7b7ac8",
+      "score": 100,
+      "matches": [
+        "Rol QA ✓",
+        "playwright",
+        "postman",
+        "api testing",
+        "automation",
+        "selenium",
+        "javascript",
+        "typescript"
+      ],
+      "warnings": [],
+      "verdict": "excelente"
+    },
     {
       "title": "QA Proyecto",
       "company": "",
@@ -121,44 +145,6 @@
       "verdict": "bueno"
     },
     {
-      "title": "Project Chiron - Spanish (Latin America) Quality Control Specialist",
-      "company": "Welo Global",
-      "location": "Argentina,  Mexico",
-      "description": " \r\n \r\n About the Role  \r\n \r\n \r\n We are looking for detail-oriented Quality Control (QC) Specialist to support an AI data annotation project. In this role, you will review the work submitted by Trainers — pre-seeded questions paired with images and their corresponding \"golden\" answers — to confirm accuracy, consistency, and adherence to project guidelines.  \r\n \r\n \r\n This is a task-based, remote-friendly opportunity ideal for individuals who are highly meticulous, observant, and skilled at spotting errors or inconsistencies that others may miss.  \r\n \r\n \r\n What You'll Do  \r\n \r\n \r\n \r\n \r\n Review completed tasks submitted by Trainers, including the original question, the image, and the golden answer provided  \r\n \r\n \r\n \r\n \r\n \r\n \r\n Independently verify whether the golden answer is correct based on",
-      "date": "2026-08-21T03:20:06+00:00",
-      "salary": "USD80000–None",
-      "url": "https://jobicy.com/jobs/149468-project-chiron-spanish-latin-america-quality-control-specialist",
-      "source": "Jobicy",
-      "id": "b84419c59f32",
-      "score": 55,
-      "matches": [
-        "Rol QA ✓",
-        "Remoto/Latam 🌐",
-        "Salario 💰"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
-    },
-    {
-      "title": "Web Automation Test Engineer",
-      "company": "Caylent",
-      "location": "Brazil",
-      "description": " Caylent is an AI-first cloud services company that helps organizations turn ambitious ideas into meaningful business impact. As an AWS Premier Tier Services Partner and a charter member of Anthropic’s Claude Partner Network, we combine deep expertise in AWS, artificial intelligence, and Anthropic’s Claude platform to help customers modernize their technology, build intelligent products, and move AI from experimentation into production. \n Our capabilities span generative and agentic AI, cloud migration and modernization, cloud-native application development, data and analytics, DevOps, managed services, security and compliance, and customer experience transformation. At Caylent, our people always come first. \n We are a fully remote global company with employees in Canada, the United States",
-      "date": "2026-09-03T13:56:15+00:00",
-      "salary": null,
-      "url": "https://jobicy.com/jobs/152405-web-automation-test-engineer",
-      "source": "Jobicy",
-      "id": "73e3df360e3a",
-      "score": 55,
-      "matches": [
-        "Rol QA ✓",
-        "automation",
-        "Remoto/Latam 🌐"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
-    },
-    {
       "title": "Qad Technical Consultant",
       "company": "",
       "location": "remote_local",
@@ -190,42 +176,6 @@
       "matches": [
         "Rol QA ✓",
         "automation"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
-    },
-    {
-      "title": "Senior Quality Assurance Engineer (Personify team)",
-      "company": "Bloomreach",
-      "location": "Czechia",
-      "description": " Bloomreach is building the world’s premier  agentic platform for personalization .We’re revolutionizing how businesses connect with their customers, building and deploying AI agents to personalize the   entire   customer journey. \n \n We're taking  autonomous search  mainstream, making product discovery more intuitive and conversational for customers, and more profitable for businesses. \n We’re making  conversational shopping  a reality, connecting every shopper with tailored guidance and product expertise — available on demand, at every touchpoint in their journey. \n We're designing the future of  autonomous marketing , taking the work out of workflows, and reclaiming the creative, strategic, and customer-first work marketers were always meant to do. \n \n And we're building all of that on ",
-      "date": "2026-09-03T13:56:36+00:00",
-      "salary": "CZK1130000–1410000",
-      "url": "https://jobicy.com/jobs/152406-senior-quality-assurance-engineer-personify-team",
-      "source": "Jobicy",
-      "id": "6757d7fb0331",
-      "score": 45,
-      "matches": [
-        "Rol QA ✓",
-        "Salario 💰"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
-    },
-    {
-      "title": "Project Chiron - French (Canada) Quality Control Specialist",
-      "company": "Welo Global",
-      "location": "Canada",
-      "description": " \n \n \n  About the Role   \n \n \n We are looking for detail-oriented Quality Control (QC) Specialist to support an AI data annotation project. In this role, you will review the work submitted by Trainers — pre-seeded questions paired with images and their corresponding \"golden\" answers — to confirm accuracy, consistency, and adherence to project guidelines.  \n \n \n This is a task-based, remote-friendly opportunity ideal for individuals who are highly meticulous, observant, and skilled at spotting errors or inconsistencies that others may miss.  \n \n \n  What You'll Do   \n \n \n \n \n Review completed tasks submitted by Trainers, including the original question, the image, and the golden answer provided  \n \n \n \n \n \n \n Independently verify whether the golden answer is correct based on the image  \n \n \n",
-      "date": "2026-08-21T03:20:07+00:00",
-      "salary": "CAD106000–106000",
-      "url": "https://jobicy.com/jobs/149466-project-chiron-french-canada-quality-control-specialist",
-      "source": "Jobicy",
-      "id": "c6f237503386",
-      "score": 45,
-      "matches": [
-        "Rol QA ✓",
-        "Salario 💰"
       ],
       "warnings": [],
       "verdict": "bueno"
@@ -263,24 +213,6 @@
       "matches": [
         "Rol QA (desc)",
         "Remoto/Latam 🌐"
-      ],
-      "warnings": [],
-      "verdict": "regular"
-    },
-    {
-      "title": "&#x28;Senior&#x29; DevOps Engineer - Full Remote - Contractor in USD",
-      "company": "",
-      "location": "['United States']",
-      "description": "Category: IT Services   Location:        For an international organization, we are urgently looking for a REMOTE DevOps Engineer. The DevOps Engineer collaborates with the various development, infrastructure, QA and PM teams to build and maintain end-to-end DevOps pipelines based on product/project needs.  \n  Candidates need to be able to work normal office hours of Manila.  Candidates need to be fluent in English. \n  \n Tasks and responsibilities:  \n  \n ​  \n  \n Design and implement DevOps solutions using Azure DevOps; \n \n Setup new build and release pipelines for new and existing applications on.Net, Java, PHP and mobile application technology stack; \n \n Integrate existing CI/CD toolset with Azure DevOps (Unit test, SonarQube, TestComplete, RedGate, Terraform, Fortify, Docker, etc); \n \n Co",
-      "date": "",
-      "salary": null,
-      "url": "https://himalayas.app/companies/gopro-consultancy-group-ltd/jobs/x28-senior-x29-devops-engineer-full-remote-contractor-in-usd-5617381546",
-      "source": "Himalayas",
-      "id": "c4d29d785b20",
-      "score": 25,
-      "matches": [
-        "Rol QA (desc)",
-        "ci/cd"
       ],
       "warnings": [],
       "verdict": "regular"
