@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-09-16T15:21:28.223369+00:00",
-  "total_fetched": 167,
+  "last_updated": "2026-09-16T19:54:10.419747+00:00",
+  "total_fetched": 170,
   "sources": {
     "Remotive": 13,
-    "WorkingNomads": 52,
+    "WorkingNomads": 53,
     "GetOnBoard": 50,
     "Himalayas": 20,
-    "Jobicy": 32
+    "Jobicy": 34
   },
   "new_count": 1,
   "jobs": [
@@ -102,26 +102,6 @@
       "verdict": "excelente"
     },
     {
-      "title": "QA Automation Engineer (QB - QA - 20260617)",
-      "company": "",
-      "location": "['Argentina']",
-      "description": " Our technology team is a rapidly growing group of talented and experienced engineers helping to build the leading enterprise software company focused on restaurant technology. We use modern technologies, automation, and AI-assisted engineering practices to build products that power restaurant operations at scale.  We are looking for a hands-on, forward-thinking QA Automation Engineer to join our Kitchen Display System (KDS) team. This is an automation-first role where you'll own and extend automated test coverage for a business-critical platform used in restaurant operations.   You will work within an established automation framework, help maintain healthy regression pipelines, improve test reliability, and partner closely with engineers to deliver high-quality software.  This is a high-i",
-      "date": "",
-      "salary": null,
-      "url": "https://himalayas.app/companies/celara/jobs/qa-automation-engineer-qb-qa-20260617-4140721079",
-      "source": "Himalayas",
-      "id": "fe75b56dd898",
-      "score": 60,
-      "matches": [
-        "Rol QA ✓",
-        "automation",
-        "regression",
-        "Remoto/Latam 🌐"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
-    },
-    {
       "title": "Senior Outsystems QA con Inglés y Español",
       "company": "",
       "location": "fully_remote",
@@ -188,6 +168,24 @@
       "url": "https://www.getonbrd.com/jobs/qad-technical-consultant-crest-it-resources-llc-remote",
       "source": "GetOnBoard",
       "id": "1178ede2963f",
+      "score": 50,
+      "matches": [
+        "Rol QA ✓",
+        "Remoto/Latam 🌐"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    },
+    {
+      "title": "Cobalt Core Pentester",
+      "company": "Cobalt",
+      "location": "Anywhere",
+      "description": "  Who We Are  \r\n The Cobalt Core is a community of highly skilled security pentesters who are passionate about what they do and who are always striving to be at the top of their game. This curated community is made up by security professionals with many years of experience as well as talented pentesters who are eager to learn the trade and show their skills. They all have a strong drive to keep up to date on the latest vulnerabilities and exploits, and the tools and methodologies to find them.  \r\n A member of the Cobalt Core believes that sharing ideas and collaborating with peers is the best way to achieve good results.  \r\n If you believe you would be a good fit to join the Cobalt Core, and you are eager to contribute to the community and participate in the Pentests running on Cobalt plea",
+      "date": "2026-09-16T13:48:58+00:00",
+      "salary": null,
+      "url": "https://jobicy.com/jobs/153414-cobalt-core-pentester",
+      "source": "Jobicy",
+      "id": "2c3b61427729",
       "score": 50,
       "matches": [
         "Rol QA ✓",
@@ -272,20 +270,18 @@
   ],
   "new_jobs": [
     {
-      "title": "QA Automation Engineer (QB - QA - 20260617)",
-      "company": "",
-      "location": "['Argentina']",
-      "description": " Our technology team is a rapidly growing group of talented and experienced engineers helping to build the leading enterprise software company focused on restaurant technology. We use modern technologies, automation, and AI-assisted engineering practices to build products that power restaurant operations at scale.  We are looking for a hands-on, forward-thinking QA Automation Engineer to join our Kitchen Display System (KDS) team. This is an automation-first role where you'll own and extend automated test coverage for a business-critical platform used in restaurant operations.   You will work within an established automation framework, help maintain healthy regression pipelines, improve test reliability, and partner closely with engineers to deliver high-quality software.  This is a high-i",
-      "date": "",
+      "title": "Cobalt Core Pentester",
+      "company": "Cobalt",
+      "location": "Anywhere",
+      "description": "  Who We Are  \r\n The Cobalt Core is a community of highly skilled security pentesters who are passionate about what they do and who are always striving to be at the top of their game. This curated community is made up by security professionals with many years of experience as well as talented pentesters who are eager to learn the trade and show their skills. They all have a strong drive to keep up to date on the latest vulnerabilities and exploits, and the tools and methodologies to find them.  \r\n A member of the Cobalt Core believes that sharing ideas and collaborating with peers is the best way to achieve good results.  \r\n If you believe you would be a good fit to join the Cobalt Core, and you are eager to contribute to the community and participate in the Pentests running on Cobalt plea",
+      "date": "2026-09-16T13:48:58+00:00",
       "salary": null,
-      "url": "https://himalayas.app/companies/celara/jobs/qa-automation-engineer-qb-qa-20260617-4140721079",
-      "source": "Himalayas",
-      "id": "fe75b56dd898",
-      "score": 60,
+      "url": "https://jobicy.com/jobs/153414-cobalt-core-pentester",
+      "source": "Jobicy",
+      "id": "2c3b61427729",
+      "score": 50,
       "matches": [
         "Rol QA ✓",
-        "automation",
-        "regression",
         "Remoto/Latam 🌐"
       ],
       "warnings": [],
