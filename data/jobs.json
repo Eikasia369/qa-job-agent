@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-09-16T01:10:30.153973+00:00",
+  "last_updated": "2026-09-16T15:21:28.223369+00:00",
   "total_fetched": 167,
   "sources": {
-    "Remotive": 15,
-    "WorkingNomads": 50,
+    "Remotive": 13,
+    "WorkingNomads": 52,
     "GetOnBoard": 50,
     "Himalayas": 20,
     "Jobicy": 32
   },
-  "new_count": 0,
+  "new_count": 1,
   "jobs": [
     {
       "title": "QA Proyecto",
@@ -100,6 +100,26 @@
       ],
       "warnings": [],
       "verdict": "excelente"
+    },
+    {
+      "title": "QA Automation Engineer (QB - QA - 20260617)",
+      "company": "",
+      "location": "['Argentina']",
+      "description": " Our technology team is a rapidly growing group of talented and experienced engineers helping to build the leading enterprise software company focused on restaurant technology. We use modern technologies, automation, and AI-assisted engineering practices to build products that power restaurant operations at scale.  We are looking for a hands-on, forward-thinking QA Automation Engineer to join our Kitchen Display System (KDS) team. This is an automation-first role where you'll own and extend automated test coverage for a business-critical platform used in restaurant operations.   You will work within an established automation framework, help maintain healthy regression pipelines, improve test reliability, and partner closely with engineers to deliver high-quality software.  This is a high-i",
+      "date": "",
+      "salary": null,
+      "url": "https://himalayas.app/companies/celara/jobs/qa-automation-engineer-qb-qa-20260617-4140721079",
+      "source": "Himalayas",
+      "id": "fe75b56dd898",
+      "score": 60,
+      "matches": [
+        "Rol QA ✓",
+        "automation",
+        "regression",
+        "Remoto/Latam 🌐"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
     },
     {
       "title": "Senior Outsystems QA con Inglés y Español",
@@ -250,5 +270,26 @@
       "verdict": "regular"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "title": "QA Automation Engineer (QB - QA - 20260617)",
+      "company": "",
+      "location": "['Argentina']",
+      "description": " Our technology team is a rapidly growing group of talented and experienced engineers helping to build the leading enterprise software company focused on restaurant technology. We use modern technologies, automation, and AI-assisted engineering practices to build products that power restaurant operations at scale.  We are looking for a hands-on, forward-thinking QA Automation Engineer to join our Kitchen Display System (KDS) team. This is an automation-first role where you'll own and extend automated test coverage for a business-critical platform used in restaurant operations.   You will work within an established automation framework, help maintain healthy regression pipelines, improve test reliability, and partner closely with engineers to deliver high-quality software.  This is a high-i",
+      "date": "",
+      "salary": null,
+      "url": "https://himalayas.app/companies/celara/jobs/qa-automation-engineer-qb-qa-20260617-4140721079",
+      "source": "Himalayas",
+      "id": "fe75b56dd898",
+      "score": 60,
+      "matches": [
+        "Rol QA ✓",
+        "automation",
+        "regression",
+        "Remoto/Latam 🌐"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    }
+  ]
 }
