@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-16T19:54:10.419747+00:00",
+  "last_updated": "2026-09-17T01:11:37.861810+00:00",
   "total_fetched": 170,
   "sources": {
     "Remotive": 13,
@@ -8,7 +8,7 @@
     "Himalayas": 20,
     "Jobicy": 34
   },
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "title": "QA Proyecto",
@@ -268,24 +268,5 @@
       "verdict": "regular"
     }
   ],
-  "new_jobs": [
-    {
-      "title": "Cobalt Core Pentester",
-      "company": "Cobalt",
-      "location": "Anywhere",
-      "description": "  Who We Are  \r\n The Cobalt Core is a community of highly skilled security pentesters who are passionate about what they do and who are always striving to be at the top of their game. This curated community is made up by security professionals with many years of experience as well as talented pentesters who are eager to learn the trade and show their skills. They all have a strong drive to keep up to date on the latest vulnerabilities and exploits, and the tools and methodologies to find them.  \r\n A member of the Cobalt Core believes that sharing ideas and collaborating with peers is the best way to achieve good results.  \r\n If you believe you would be a good fit to join the Cobalt Core, and you are eager to contribute to the community and participate in the Pentests running on Cobalt plea",
-      "date": "2026-09-16T13:48:58+00:00",
-      "salary": null,
-      "url": "https://jobicy.com/jobs/153414-cobalt-core-pentester",
-      "source": "Jobicy",
-      "id": "2c3b61427729",
-      "score": 50,
-      "matches": [
-        "Rol QA ✓",
-        "Remoto/Latam 🌐"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
-    }
-  ]
+  "new_jobs": []
 }
