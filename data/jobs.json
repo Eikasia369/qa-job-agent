@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-17T20:04:49.904320+00:00",
+  "last_updated": "2026-09-18T01:07:29.627859+00:00",
   "total_fetched": 169,
   "sources": {
     "Remotive": 15,
@@ -247,25 +247,6 @@
       ],
       "warnings": [],
       "verdict": "bueno"
-    },
-    {
-      "title": "Senior WordPress Maintenance & Deployment Engineer",
-      "company": "",
-      "location": "fully_remote",
-      "description": "  Must have    4+ years professional WordPress development including custom themes, ACF, and multilingual setups (Polylang/WPML)  Deep hands-on Pantheon experience: dev/test/live workflow, multidev, Git mode vs SFTP mode, Autopilot, terminus CLI, and the platform's quirks (e.g., update-core hidden on test/live)  WP Engine deployment and backup workflows  Strong Git discipline: feature branches, clean merges, understanding why a branch 14 commits behind master is a red flag  Front-end build pipelines: SCSS, gulp, npm — and the judgment to never commit compiled output without its source  A documented QA habit: you can describe, step by step, what you check after a plugin update and why  Clear written English; comfortable communicating directly with agency partners and, when needed, their cli",
-      "date": 1788463274,
-      "salary": "1500–2200",
-      "url": "https://www.getonbrd.com/jobs/senior-wordpress-maintenance-deployment-engineer-creativeworks-remote",
-      "source": "GetOnBoard",
-      "id": "c4ef0ff6b6ed",
-      "score": 35,
-      "matches": [
-        "Rol QA (desc)",
-        "Remoto/Latam 🌐",
-        "Salario 💰"
-      ],
-      "warnings": [],
-      "verdict": "regular"
     }
   ],
   "new_jobs": []
