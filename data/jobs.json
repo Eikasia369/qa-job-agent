@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-18T19:28:41.322154+00:00",
+  "last_updated": "2026-09-19T01:02:14.644192+00:00",
   "total_fetched": 119,
   "sources": {
     "Remotive": 16,
@@ -8,7 +8,7 @@
     "Himalayas": 20,
     "Jobicy": 34
   },
-  "new_count": 0,
+  "new_count": 1,
   "jobs": [
     {
       "title": "Project Chiron - Spanish (Latin America) Quality Control Specialist",
@@ -25,25 +25,6 @@
         "Rol QA ✓",
         "Remoto/Latam 🌐",
         "Salario 💰"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
-    },
-    {
-      "title": "Web Automation Test Engineer",
-      "company": "Caylent",
-      "location": "Brazil",
-      "description": " Caylent is an AI-first cloud services company that helps organizations turn ambitious ideas into meaningful business impact. As an AWS Premier Tier Services Partner and a charter member of Anthropic’s Claude Partner Network, we combine deep expertise in AWS, artificial intelligence, and Anthropic’s Claude platform to help customers modernize their technology, build intelligent products, and move AI from experimentation into production. \n Our capabilities span generative and agentic AI, cloud migration and modernization, cloud-native application development, data and analytics, DevOps, managed services, security and compliance, and customer experience transformation. At Caylent, our people always come first. \n We are a fully remote global company with employees in Canada, the United States",
-      "date": "2026-09-03T13:56:15+00:00",
-      "salary": null,
-      "url": "https://jobicy.com/jobs/152405-web-automation-test-engineer",
-      "source": "Jobicy",
-      "id": "73e3df360e3a",
-      "score": 55,
-      "matches": [
-        "Rol QA ✓",
-        "automation",
-        "Remoto/Latam 🌐"
       ],
       "warnings": [],
       "verdict": "bueno"
@@ -188,7 +169,44 @@
       ],
       "warnings": [],
       "verdict": "regular"
+    },
+    {
+      "title": "PROJECT COORDINATOR OPERATIONS LIFE SCIENCES",
+      "company": "",
+      "location": "['Peru']",
+      "description": " KEY RESPONSIBILITIES  Reporting to the Operations Manager, and as an integral part of  Questel ’s Language Solutions Team, this role is responsible to provide support to the Operations and Sales teams by managing various aspects of the document translation lifecycle, assisting with new interpretations requests, and processing new orders.  You will be involved in the following activities:  \n Assist operations team with launching new projects \n Initiate tasks for rush requests \n Pre-process files before delivery to the translator, ensuring that the translator receives complete, organized files \n Conduct postproduction quality assurance checks, and clearly communicate any issues to project managers \n Source translation teams, administer tasks and monitor progress on behalf of the project man",
+      "date": "",
+      "salary": null,
+      "url": "https://himalayas.app/companies/questel/jobs/project-coordinator-operations-life-sciences",
+      "source": "Himalayas",
+      "id": "1df9fd38c94f",
+      "score": 30,
+      "matches": [
+        "Rol QA (desc)",
+        "Remoto/Latam 🌐"
+      ],
+      "warnings": [],
+      "verdict": "regular"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "title": "PROJECT COORDINATOR OPERATIONS LIFE SCIENCES",
+      "company": "",
+      "location": "['Peru']",
+      "description": " KEY RESPONSIBILITIES  Reporting to the Operations Manager, and as an integral part of  Questel ’s Language Solutions Team, this role is responsible to provide support to the Operations and Sales teams by managing various aspects of the document translation lifecycle, assisting with new interpretations requests, and processing new orders.  You will be involved in the following activities:  \n Assist operations team with launching new projects \n Initiate tasks for rush requests \n Pre-process files before delivery to the translator, ensuring that the translator receives complete, organized files \n Conduct postproduction quality assurance checks, and clearly communicate any issues to project managers \n Source translation teams, administer tasks and monitor progress on behalf of the project man",
+      "date": "",
+      "salary": null,
+      "url": "https://himalayas.app/companies/questel/jobs/project-coordinator-operations-life-sciences",
+      "source": "Himalayas",
+      "id": "1df9fd38c94f",
+      "score": 30,
+      "matches": [
+        "Rol QA (desc)",
+        "Remoto/Latam 🌐"
+      ],
+      "warnings": [],
+      "verdict": "regular"
+    }
+  ]
 }
