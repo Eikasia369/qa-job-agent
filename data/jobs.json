@@ -1,15 +1,123 @@
 {
-  "last_updated": "2026-09-19T19:14:11.586258+00:00",
-  "total_fetched": 124,
+  "last_updated": "2026-09-20T00:50:07.576710+00:00",
+  "total_fetched": 174,
   "sources": {
     "Remotive": 17,
     "WorkingNomads": 53,
-    "GetOnBoard": 0,
+    "GetOnBoard": 50,
     "Himalayas": 20,
     "Jobicy": 34
   },
-  "new_count": 0,
+  "new_count": 2,
   "jobs": [
+    {
+      "title": "QA Proyecto",
+      "company": "",
+      "location": "hybrid",
+      "description": "  Experiencia mínima de 5 años en roles de automatización de pruebas o como desarrollador de software (SDET).  Inglés Avanzado.  Dominio de al menos un lenguaje de programación enfocado en QA (ej. Python, Java, JavaScript, TypeScript o C#).  Experiencia sólida utilizando frameworks de automatización modernos (ej. Cypress, Playwright, Selenium o Appium).  Experiencia en automatización de pruebas de APIs (RESTful/GraphQL).  Conocimiento práctico en herramientas de control de versiones (Git) y plataformas CI/CD (ej. Jenkins, GitHub Actions, GitLab CI).  Capacidad analítica para resolver problemas complejos y sólidas bases en arquitectura de software y bases de datos (SQL).  ",
+      "date": 1788795855,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/qa-automation-proyecto-3-meses-leytonmedia-remote",
+      "source": "GetOnBoard",
+      "id": "fab344bf85ad",
+      "score": 85,
+      "matches": [
+        "Rol QA ✓",
+        "playwright",
+        "selenium",
+        "javascript",
+        "typescript",
+        "sql",
+        "cypress",
+        "ci/cd"
+      ],
+      "warnings": [],
+      "verdict": "excelente"
+    },
+    {
+      "title": "QA Funcional Senior – Microsoft Dynamics 365 Cs",
+      "company": "",
+      "location": "fully_remote",
+      "description": "  Experiencia comprobable como QA Funcional Senior en proyectos de software empresariales.  Experiencia en pruebas funcionales sobre plataformas CRM, Customer Service o soluciones similares.  Conocimiento de procesos de atención al cliente, postventa y gestión de casos.  Experiencia en diseño y ejecución de casos de prueba, matrices de cobertura y trazabilidad.  Experiencia en pruebas de regresión y validaciones end-to-end.  Experiencia realizando pruebas sobre APIs REST.  Conocimiento en pruebas de aplicaciones web y móviles Android/iOS.  Capacidad para analizar reglas de negocio y escenarios funcionales complejos.  Experiencia gestionando requerimientos y defectos mediante Jira y Confluence.  Manejo de herramientas de gestión de pruebas como Xray, Zephyr o TestRail.  Experiencia en autom",
+      "date": 1789011730,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/qa-funcional-senior-microsoft-dynamics-365-cs-bc-tecnologia-remote",
+      "source": "GetOnBoard",
+      "id": "178a8ed4d4a0",
+      "score": 70,
+      "matches": [
+        "Rol QA ✓",
+        "jira",
+        "defect",
+        "zephyr",
+        "testrail",
+        "Remoto/Latam 🌐"
+      ],
+      "warnings": [],
+      "verdict": "excelente"
+    },
+    {
+      "title": "QA Funcional Senior Microsoft Dynamics 365 (LATAM)",
+      "company": "",
+      "location": "fully_remote",
+      "description": "  Experiencia comprobable como QA Funcional Senior en proyectos de software empresariales.  Experiencia en pruebas funcionales sobre plataformas CRM, Customer Service o soluciones similares.  Conocimiento de procesos de atención al cliente, postventa y gestión de casos.  Experiencia en diseño y ejecución de casos de prueba, matrices de cobertura y trazabilidad.  Experiencia en pruebas de regresión y validaciones end-to-end.  Experiencia realizando pruebas de APIs REST.  Conocimiento en pruebas de aplicaciones web y móviles Android/iOS.  Capacidad para analizar reglas de negocio y escenarios funcionales complejos.  Experiencia gestionando requerimientos y defectos mediante Jira y Confluence.  Manejo de herramientas de gestión de pruebas como Xray, Zephyr o TestRail.  Experiencia en automati",
+      "date": 1788993676,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/qa-funcional-senior-microsoft-dynamics-365-latam-bc-tecnologia-remote",
+      "source": "GetOnBoard",
+      "id": "b252fb6d26e0",
+      "score": 70,
+      "matches": [
+        "Rol QA ✓",
+        "jira",
+        "defect",
+        "zephyr",
+        "testrail",
+        "Remoto/Latam 🌐"
+      ],
+      "warnings": [],
+      "verdict": "excelente"
+    },
+    {
+      "title": "SDET + Python + Playwright + Document Processing (Xbrl)",
+      "company": "",
+      "location": "remote_local",
+      "description": " We are looking for a strong technical engineer who can design evaluation strategies, implement validation frameworks, and turn regulatory requirements into automated, measurable quality gates.    Strong technical background  validating and testing complex systems, with hands-on experience building test harnesses.  Experience building automated test frameworks, including creation of  golden datasets , custom validation frameworks, and automated correctness/validation logic.  Proven experience designing and implementing  benchmarking strategies  and quality metrics for complex outputs.  Familiarity with  LLM evaluation , validation techniques, and quality metrics (including how to interpret results and drive iteration).  Proficiency with  test automation tools , with  Playwright  preferred ",
+      "date": 1789767509,
+      "salary": "3500–4500",
+      "url": "https://www.getonbrd.com/jobs/sdet-python-playwright-document-processing-xbrl-improving-remote",
+      "source": "GetOnBoard",
+      "id": "bdb577616efe",
+      "score": 65,
+      "matches": [
+        "Rol QA ✓",
+        "playwright",
+        "automation",
+        "Remoto/Latam 🌐",
+        "Salario 💰"
+      ],
+      "warnings": [],
+      "verdict": "excelente"
+    },
+    {
+      "title": "Senior Outsystems QA con Inglés y Español",
+      "company": "",
+      "location": "fully_remote",
+      "description": "  Mínimo 5 años de experiencia comprobable como QA en proyectos de tecnología y desarrollo de software.  Mínimo 3 años de experiencia comprobable como QA en proyectos desarrollados sobre OutSystems.  Experiencia en diseño y ejecución de pruebas funcionales, de integración, regresión y end-to-end.  Experiencia en pruebas de APIs REST e integraciones.  Conocimiento de metodologías ágiles y participación en diferentes etapas del ciclo de desarrollo de software.  Capacidad para documentar casos de prueba, resultados, evidencias, incidencias y seguimiento de defectos.  Conocimiento y aplicación de buenas prácticas de Quality Assurance.  Capacidad para comunicarse de manera fluida en inglés y español, tanto de forma oral como escrita, requisito indispensable para la interacción con equipos y sta",
+      "date": 1788970212,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/outsystems-qa-con-ingles-avanzado-i2b-technologies-remote",
+      "source": "GetOnBoard",
+      "id": "9e2c02b9df53",
+      "score": 55,
+      "matches": [
+        "Rol QA ✓",
+        "defect",
+        "Remoto/Latam 🌐"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    },
     {
       "title": "Project Chiron - Spanish (Latin America) Quality Control Specialist",
       "company": "Welo Global",
@@ -25,6 +133,24 @@
         "Rol QA ✓",
         "Remoto/Latam 🌐",
         "Salario 💰"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    },
+    {
+      "title": "Qad Technical Consultant",
+      "company": "",
+      "location": "remote_local",
+      "description": " We’re looking for a  QAD Technical Consultant  with hands-on expertise in  QAD ERP technical administration  and  database management . You will help ensure the stability, performance, and secure operation of QAD environments, and you’ll support end-to-end issue resolution across development, test, and production.  You should be comfortable working with QAD technical tools and  Progress/OpenEdge database administration , including routine system maintenance and performance monitoring. We expect experience with  backup and recovery ,  performance tuning ,  security management , and  system upgrades . You’ll also partner with business and technical teams to support  QAD integrations , reporting, and system enhancements.  Because this role involves coordination with global and regional stake",
+      "date": 1789150750,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/qad-technical-consultant-crest-it-resources-llc-remote",
+      "source": "GetOnBoard",
+      "id": "1178ede2963f",
+      "score": 50,
+      "matches": [
+        "Rol QA ✓",
+        "Remoto/Latam 🌐"
       ],
       "warnings": [],
       "verdict": "bueno"
@@ -169,7 +295,82 @@
       ],
       "warnings": [],
       "verdict": "regular"
+    },
+    {
+      "title": "Systems Integration/Test Engineer Stf - E4",
+      "company": "",
+      "location": "['United States']",
+      "description": " \n \n  Standard Job Description  \n \n Space is a critical domain, connecting our technologies, our security and our humanity. While others view space as a destination, we see it as a realm of possibilities, where we can do more — we can innovate, invest, inspire and integrate our capabilities to transform the future. \n This position is a rare opportunity… an opening on one of Lockheed Martin’s most successful programs! Come join the MARK IV-B team! We are the leading weather program of US Armed Force that receives meteorological satellite data from all over the world. Our 9 ground station around the world provide critical situation awareness weather data for our frontline troops. Our servers control the antennas, obtain and manipulate the data, then provide the images to our client product. ",
+      "date": "",
+      "salary": null,
+      "url": "https://himalayas.app/companies/lockheed-martin-corporation/jobs/systems-integration-test-engineer-stf-e4",
+      "source": "Himalayas",
+      "id": "0eba4ac0f202",
+      "score": 40,
+      "matches": [
+        "Rol QA ✓"
+      ],
+      "warnings": [],
+      "verdict": "regular"
+    },
+    {
+      "title": "Senior Test Automation Engineer",
+      "company": "",
+      "location": "['United States']",
+      "description": " This is a remote position.  We are looking for a Senior Test Automation Engineer to support quality assurance and automation initiatives within a modern insurance technology environment. The role focuses on API and end-to-end test automation, improving test coverage, and ensuring the reliability of complex backend systems and business-critical workflows.  This is a hands-on senior position requiring strong automation engineering expertise, experience with modern testing frameworks, and the ability to influence testing strategy, quality standards, and process improvements across delivery teams.   Responsibilities  \n Design, implement and maintain automated tests for API and E2E flows • Build test scenarios and test cases for backend systems and end to end processes • Validate API contracts",
+      "date": "",
+      "salary": null,
+      "url": "https://himalayas.app/companies/madiff/jobs/senior-test-automation-engineer",
+      "source": "Himalayas",
+      "id": "9194f7367af3",
+      "score": 35,
+      "matches": [
+        "Rol QA (desc)",
+        "automation",
+        "test case",
+        "e2e"
+      ],
+      "warnings": [],
+      "verdict": "regular"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "title": "Systems Integration/Test Engineer Stf - E4",
+      "company": "",
+      "location": "['United States']",
+      "description": " \n \n  Standard Job Description  \n \n Space is a critical domain, connecting our technologies, our security and our humanity. While others view space as a destination, we see it as a realm of possibilities, where we can do more — we can innovate, invest, inspire and integrate our capabilities to transform the future. \n This position is a rare opportunity… an opening on one of Lockheed Martin’s most successful programs! Come join the MARK IV-B team! We are the leading weather program of US Armed Force that receives meteorological satellite data from all over the world. Our 9 ground station around the world provide critical situation awareness weather data for our frontline troops. Our servers control the antennas, obtain and manipulate the data, then provide the images to our client product. ",
+      "date": "",
+      "salary": null,
+      "url": "https://himalayas.app/companies/lockheed-martin-corporation/jobs/systems-integration-test-engineer-stf-e4",
+      "source": "Himalayas",
+      "id": "0eba4ac0f202",
+      "score": 40,
+      "matches": [
+        "Rol QA ✓"
+      ],
+      "warnings": [],
+      "verdict": "regular"
+    },
+    {
+      "title": "Senior Test Automation Engineer",
+      "company": "",
+      "location": "['United States']",
+      "description": " This is a remote position.  We are looking for a Senior Test Automation Engineer to support quality assurance and automation initiatives within a modern insurance technology environment. The role focuses on API and end-to-end test automation, improving test coverage, and ensuring the reliability of complex backend systems and business-critical workflows.  This is a hands-on senior position requiring strong automation engineering expertise, experience with modern testing frameworks, and the ability to influence testing strategy, quality standards, and process improvements across delivery teams.   Responsibilities  \n Design, implement and maintain automated tests for API and E2E flows • Build test scenarios and test cases for backend systems and end to end processes • Validate API contracts",
+      "date": "",
+      "salary": null,
+      "url": "https://himalayas.app/companies/madiff/jobs/senior-test-automation-engineer",
+      "source": "Himalayas",
+      "id": "9194f7367af3",
+      "score": 35,
+      "matches": [
+        "Rol QA (desc)",
+        "automation",
+        "test case",
+        "e2e"
+      ],
+      "warnings": [],
+      "verdict": "regular"
+    }
+  ]
 }
