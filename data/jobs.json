@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-09-20T00:50:07.576710+00:00",
-  "total_fetched": 174,
+  "last_updated": "2026-09-20T14:36:44.087566+00:00",
+  "total_fetched": 177,
   "sources": {
-    "Remotive": 17,
+    "Remotive": 20,
     "WorkingNomads": 53,
     "GetOnBoard": 50,
     "Himalayas": 20,
     "Jobicy": 34
   },
-  "new_count": 2,
+  "new_count": 0,
   "jobs": [
     {
       "title": "QA Proyecto",
@@ -295,82 +295,7 @@
       ],
       "warnings": [],
       "verdict": "regular"
-    },
-    {
-      "title": "Systems Integration/Test Engineer Stf - E4",
-      "company": "",
-      "location": "['United States']",
-      "description": " \n \n  Standard Job Description  \n \n Space is a critical domain, connecting our technologies, our security and our humanity. While others view space as a destination, we see it as a realm of possibilities, where we can do more — we can innovate, invest, inspire and integrate our capabilities to transform the future. \n This position is a rare opportunity… an opening on one of Lockheed Martin’s most successful programs! Come join the MARK IV-B team! We are the leading weather program of US Armed Force that receives meteorological satellite data from all over the world. Our 9 ground station around the world provide critical situation awareness weather data for our frontline troops. Our servers control the antennas, obtain and manipulate the data, then provide the images to our client product. ",
-      "date": "",
-      "salary": null,
-      "url": "https://himalayas.app/companies/lockheed-martin-corporation/jobs/systems-integration-test-engineer-stf-e4",
-      "source": "Himalayas",
-      "id": "0eba4ac0f202",
-      "score": 40,
-      "matches": [
-        "Rol QA ✓"
-      ],
-      "warnings": [],
-      "verdict": "regular"
-    },
-    {
-      "title": "Senior Test Automation Engineer",
-      "company": "",
-      "location": "['United States']",
-      "description": " This is a remote position.  We are looking for a Senior Test Automation Engineer to support quality assurance and automation initiatives within a modern insurance technology environment. The role focuses on API and end-to-end test automation, improving test coverage, and ensuring the reliability of complex backend systems and business-critical workflows.  This is a hands-on senior position requiring strong automation engineering expertise, experience with modern testing frameworks, and the ability to influence testing strategy, quality standards, and process improvements across delivery teams.   Responsibilities  \n Design, implement and maintain automated tests for API and E2E flows • Build test scenarios and test cases for backend systems and end to end processes • Validate API contracts",
-      "date": "",
-      "salary": null,
-      "url": "https://himalayas.app/companies/madiff/jobs/senior-test-automation-engineer",
-      "source": "Himalayas",
-      "id": "9194f7367af3",
-      "score": 35,
-      "matches": [
-        "Rol QA (desc)",
-        "automation",
-        "test case",
-        "e2e"
-      ],
-      "warnings": [],
-      "verdict": "regular"
     }
   ],
-  "new_jobs": [
-    {
-      "title": "Systems Integration/Test Engineer Stf - E4",
-      "company": "",
-      "location": "['United States']",
-      "description": " \n \n  Standard Job Description  \n \n Space is a critical domain, connecting our technologies, our security and our humanity. While others view space as a destination, we see it as a realm of possibilities, where we can do more — we can innovate, invest, inspire and integrate our capabilities to transform the future. \n This position is a rare opportunity… an opening on one of Lockheed Martin’s most successful programs! Come join the MARK IV-B team! We are the leading weather program of US Armed Force that receives meteorological satellite data from all over the world. Our 9 ground station around the world provide critical situation awareness weather data for our frontline troops. Our servers control the antennas, obtain and manipulate the data, then provide the images to our client product. ",
-      "date": "",
-      "salary": null,
-      "url": "https://himalayas.app/companies/lockheed-martin-corporation/jobs/systems-integration-test-engineer-stf-e4",
-      "source": "Himalayas",
-      "id": "0eba4ac0f202",
-      "score": 40,
-      "matches": [
-        "Rol QA ✓"
-      ],
-      "warnings": [],
-      "verdict": "regular"
-    },
-    {
-      "title": "Senior Test Automation Engineer",
-      "company": "",
-      "location": "['United States']",
-      "description": " This is a remote position.  We are looking for a Senior Test Automation Engineer to support quality assurance and automation initiatives within a modern insurance technology environment. The role focuses on API and end-to-end test automation, improving test coverage, and ensuring the reliability of complex backend systems and business-critical workflows.  This is a hands-on senior position requiring strong automation engineering expertise, experience with modern testing frameworks, and the ability to influence testing strategy, quality standards, and process improvements across delivery teams.   Responsibilities  \n Design, implement and maintain automated tests for API and E2E flows • Build test scenarios and test cases for backend systems and end to end processes • Validate API contracts",
-      "date": "",
-      "salary": null,
-      "url": "https://himalayas.app/companies/madiff/jobs/senior-test-automation-engineer",
-      "source": "Himalayas",
-      "id": "9194f7367af3",
-      "score": 35,
-      "matches": [
-        "Rol QA (desc)",
-        "automation",
-        "test case",
-        "e2e"
-      ],
-      "warnings": [],
-      "verdict": "regular"
-    }
-  ]
+  "new_jobs": []
 }
