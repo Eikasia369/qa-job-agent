@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-09-21T00:55:34.560376+00:00",
-  "total_fetched": 178,
+  "last_updated": "2026-09-21T16:53:09.593460+00:00",
+  "total_fetched": 177,
   "sources": {
-    "Remotive": 20,
-    "WorkingNomads": 54,
+    "Remotive": 18,
+    "WorkingNomads": 55,
     "GetOnBoard": 50,
     "Himalayas": 20,
     "Jobicy": 34
@@ -133,24 +133,6 @@
         "Rol QA ✓",
         "Remoto/Latam 🌐",
         "Salario 💰"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
-    },
-    {
-      "title": "Qad Technical Consultant",
-      "company": "",
-      "location": "remote_local",
-      "description": " We’re looking for a  QAD Technical Consultant  with hands-on expertise in  QAD ERP technical administration  and  database management . You will help ensure the stability, performance, and secure operation of QAD environments, and you’ll support end-to-end issue resolution across development, test, and production.  You should be comfortable working with QAD technical tools and  Progress/OpenEdge database administration , including routine system maintenance and performance monitoring. We expect experience with  backup and recovery ,  performance tuning ,  security management , and  system upgrades . You’ll also partner with business and technical teams to support  QAD integrations , reporting, and system enhancements.  Because this role involves coordination with global and regional stake",
-      "date": 1789150750,
-      "salary": null,
-      "url": "https://www.getonbrd.com/jobs/qad-technical-consultant-crest-it-resources-llc-remote",
-      "source": "GetOnBoard",
-      "id": "1178ede2963f",
-      "score": 50,
-      "matches": [
-        "Rol QA ✓",
-        "Remoto/Latam 🌐"
       ],
       "warnings": [],
       "verdict": "bueno"
