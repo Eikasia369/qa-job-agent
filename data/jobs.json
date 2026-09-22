@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-21T20:53:22.705453+00:00",
+  "last_updated": "2026-09-22T01:30:30.589932+00:00",
   "total_fetched": 176,
   "sources": {
     "Remotive": 18,
@@ -8,32 +8,8 @@
     "Himalayas": 20,
     "Jobicy": 33
   },
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
-    {
-      "title": "QA Proyecto",
-      "company": "",
-      "location": "hybrid",
-      "description": "  Experiencia mínima de 5 años en roles de automatización de pruebas o como desarrollador de software (SDET).  Inglés Avanzado.  Dominio de al menos un lenguaje de programación enfocado en QA (ej. Python, Java, JavaScript, TypeScript o C#).  Experiencia sólida utilizando frameworks de automatización modernos (ej. Cypress, Playwright, Selenium o Appium).  Experiencia en automatización de pruebas de APIs (RESTful/GraphQL).  Conocimiento práctico en herramientas de control de versiones (Git) y plataformas CI/CD (ej. Jenkins, GitHub Actions, GitLab CI).  Capacidad analítica para resolver problemas complejos y sólidas bases en arquitectura de software y bases de datos (SQL).  ",
-      "date": 1788795855,
-      "salary": null,
-      "url": "https://www.getonbrd.com/jobs/qa-automation-proyecto-3-meses-leytonmedia-remote",
-      "source": "GetOnBoard",
-      "id": "fab344bf85ad",
-      "score": 85,
-      "matches": [
-        "Rol QA ✓",
-        "playwright",
-        "selenium",
-        "javascript",
-        "typescript",
-        "sql",
-        "cypress",
-        "ci/cd"
-      ],
-      "warnings": [],
-      "verdict": "excelente"
-    },
     {
       "title": "QA Funcional Senior – Microsoft Dynamics 365 Cs",
       "company": "",
@@ -119,25 +95,6 @@
       "verdict": "bueno"
     },
     {
-      "title": "Project Chiron - Spanish (Latin America) Quality Control Specialist",
-      "company": "Welo Global",
-      "location": "Argentina,  Mexico",
-      "description": " \r\n \r\n About the Role  \r\n \r\n \r\n We are looking for detail-oriented Quality Control (QC) Specialist to support an AI data annotation project. In this role, you will review the work submitted by Trainers — pre-seeded questions paired with images and their corresponding \"golden\" answers — to confirm accuracy, consistency, and adherence to project guidelines.  \r\n \r\n \r\n This is a task-based, remote-friendly opportunity ideal for individuals who are highly meticulous, observant, and skilled at spotting errors or inconsistencies that others may miss.  \r\n \r\n \r\n What You'll Do  \r\n \r\n \r\n \r\n \r\n Review completed tasks submitted by Trainers, including the original question, the image, and the golden answer provided  \r\n \r\n \r\n \r\n \r\n \r\n \r\n Independently verify whether the golden answer is correct based on",
-      "date": "2026-08-21T03:20:06+00:00",
-      "salary": "USD80000–None",
-      "url": "https://jobicy.com/jobs/149468-project-chiron-spanish-latin-america-quality-control-specialist",
-      "source": "Jobicy",
-      "id": "b84419c59f32",
-      "score": 55,
-      "matches": [
-        "Rol QA ✓",
-        "Remoto/Latam 🌐",
-        "Salario 💰"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
-    },
-    {
       "title": "Cobalt Core Pentester",
       "company": "Cobalt",
       "location": "Anywhere",
@@ -201,24 +158,6 @@
       "url": "https://jobicy.com/jobs/152406-senior-quality-assurance-engineer-personify-team",
       "source": "Jobicy",
       "id": "6757d7fb0331",
-      "score": 45,
-      "matches": [
-        "Rol QA ✓",
-        "Salario 💰"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
-    },
-    {
-      "title": "Project Chiron - French (Canada) Quality Control Specialist",
-      "company": "Welo Global",
-      "location": "Canada",
-      "description": " \n \n \n  About the Role   \n \n \n We are looking for detail-oriented Quality Control (QC) Specialist to support an AI data annotation project. In this role, you will review the work submitted by Trainers — pre-seeded questions paired with images and their corresponding \"golden\" answers — to confirm accuracy, consistency, and adherence to project guidelines.  \n \n \n This is a task-based, remote-friendly opportunity ideal for individuals who are highly meticulous, observant, and skilled at spotting errors or inconsistencies that others may miss.  \n \n \n  What You'll Do   \n \n \n \n \n Review completed tasks submitted by Trainers, including the original question, the image, and the golden answer provided  \n \n \n \n \n \n \n Independently verify whether the golden answer is correct based on the image  \n \n \n",
-      "date": "2026-08-21T03:20:07+00:00",
-      "salary": "CAD106000–106000",
-      "url": "https://jobicy.com/jobs/149466-project-chiron-french-canada-quality-control-specialist",
-      "source": "Jobicy",
-      "id": "c6f237503386",
       "score": 45,
       "matches": [
         "Rol QA ✓",
@@ -315,24 +254,5 @@
       "verdict": "regular"
     }
   ],
-  "new_jobs": [
-    {
-      "title": "Full-stack developer (AI-assisted development)",
-      "company": "",
-      "location": "Remote",
-      "description": " At  TechBiz Global , we are providing recruitment service to our TOP clients from our portfolio. We are currently seeking a  Full-stack developer  to join one of our  clients ' team. If you're looking for an exciting opportunity to grow in a innovative environment, this could be the perfect fit for you.   Responsibilities:   \n Develop, optimize, and maintain Next.js-based front-end applications with pixel-perfect UI and high \n  performance across all 6 portals  \n Build and maintain NestJS-based APIs, microservices, and scalable back-end architecture with \n  Prisma ORM  \n Own Prisma migration workflows - schema changes, migration generation, seeding, and \n  coordination with QA on data integrity  \n Deploy and manage infrastructure on AWS and Google Cloud Platform (dual-cloud architecture) ",
-      "date": "",
-      "salary": null,
-      "url": "https://himalayas.app/companies/techbiz-global/jobs/full-stack-developer-ai-assisted-development",
-      "source": "Himalayas",
-      "id": "3e2d308f806b",
-      "score": 30,
-      "matches": [
-        "Rol QA (desc)",
-        "Remoto/Latam 🌐"
-      ],
-      "warnings": [],
-      "verdict": "regular"
-    }
-  ]
+  "new_jobs": []
 }
