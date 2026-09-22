@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-22T15:27:18.967695+00:00",
+  "last_updated": "2026-09-22T20:03:04.937145+00:00",
   "total_fetched": 177,
   "sources": {
     "Remotive": 18,
@@ -8,7 +8,7 @@
     "Himalayas": 20,
     "Jobicy": 33
   },
-  "new_count": 2,
+  "new_count": 1,
   "jobs": [
     {
       "title": "QA Funcional Senior – Microsoft Dynamics 365 Cs",
@@ -50,27 +50,6 @@
         "zephyr",
         "testrail",
         "Remoto/Latam 🌐"
-      ],
-      "warnings": [],
-      "verdict": "excelente"
-    },
-    {
-      "title": "SDET + Python + Playwright + Document Processing (Xbrl)",
-      "company": "",
-      "location": "remote_local",
-      "description": " We are looking for a strong technical engineer who can design evaluation strategies, implement validation frameworks, and turn regulatory requirements into automated, measurable quality gates.    Strong technical background  validating and testing complex systems, with hands-on experience building test harnesses.  Experience building automated test frameworks, including creation of  golden datasets , custom validation frameworks, and automated correctness/validation logic.  Proven experience designing and implementing  benchmarking strategies  and quality metrics for complex outputs.  Familiarity with  LLM evaluation , validation techniques, and quality metrics (including how to interpret results and drive iteration).  Proficiency with  test automation tools , with  Playwright  preferred ",
-      "date": 1789767509,
-      "salary": "3500–4500",
-      "url": "https://www.getonbrd.com/jobs/sdet-python-playwright-document-processing-xbrl-improving-remote",
-      "source": "GetOnBoard",
-      "id": "bdb577616efe",
-      "score": 65,
-      "matches": [
-        "Rol QA ✓",
-        "playwright",
-        "automation",
-        "Remoto/Latam 🌐",
-        "Salario 💰"
       ],
       "warnings": [],
       "verdict": "excelente"
@@ -253,45 +232,46 @@
       ],
       "warnings": [],
       "verdict": "regular"
+    },
+    {
+      "title": "Director of Technology Operations (Fully Remote)",
+      "company": "PadSplit",
+      "location": "USA",
+      "description": "  The Role We Need  \n We’re hiring a Director of Technology Operations to lead the three functions that keep PadSplit’s technology and business operations healthy: Quality Assurance, IT &amp; internal tooling, and Security. You’ll inherit existing teams across each area and be responsible for modernizing how they work: moving QA toward automation, IT toward proactive enablement, and Security toward a structured, risk-based program. \n This is a hands-on leadership role. You’ll set strategy and own outcomes across all three areas, while staying close enough to the work to evaluate a test architecture, challenge a vendor renewal, or lead an incident review yourself. \n  The Person We Are Looking For  \n We’re looking for a technology leader who has led multiple technology operations functions a",
+      "date": "2026-09-22T13:32:43+00:00",
+      "salary": "USD160000–180000",
+      "url": "https://jobicy.com/jobs/153870-director-of-technology-operations-fully-remote",
+      "source": "Jobicy",
+      "id": "44b9be916108",
+      "score": 30,
+      "matches": [
+        "Rol QA (desc)",
+        "automation",
+        "Salario 💰"
+      ],
+      "warnings": [],
+      "verdict": "regular"
     }
   ],
   "new_jobs": [
     {
-      "title": "Project Epsilon - Spanish (Latin America) Quality Control Specialist",
-      "company": "Welo Global",
-      "location": "LATAM",
-      "description": " \r\n \r\n About the Role  \r\n \r\n \r\n We are looking for detail-oriented Quality Control (QC) Specialist to support an AI data annotation project. In this role, you will review the work submitted by Trainers — pre-seeded questions paired with images and their corresponding \"golden\" answers — to confirm accuracy, consistency, and adherence to project guidelines.  \r\n \r\n \r\n This is a task-based, remote-friendly opportunity ideal for individuals who are highly meticulous, observant, and skilled at spotting errors or inconsistencies that others may miss.  \r\n \r\n \r\n What You'll Do  \r\n \r\n \r\n \r\n \r\n Review completed tasks submitted by Trainers, including the original question, the image, and the golden answer provided  \r\n \r\n \r\n \r\n \r\n \r\n \r\n Independently verify whether the golden answer is correct based on",
-      "date": "2026-09-22T03:30:23+00:00",
-      "salary": "USD80000–None",
-      "url": "https://jobicy.com/jobs/149468-project-chiron-spanish-latin-america-quality-control-specialist",
+      "title": "Director of Technology Operations (Fully Remote)",
+      "company": "PadSplit",
+      "location": "USA",
+      "description": "  The Role We Need  \n We’re hiring a Director of Technology Operations to lead the three functions that keep PadSplit’s technology and business operations healthy: Quality Assurance, IT &amp; internal tooling, and Security. You’ll inherit existing teams across each area and be responsible for modernizing how they work: moving QA toward automation, IT toward proactive enablement, and Security toward a structured, risk-based program. \n This is a hands-on leadership role. You’ll set strategy and own outcomes across all three areas, while staying close enough to the work to evaluate a test architecture, challenge a vendor renewal, or lead an incident review yourself. \n  The Person We Are Looking For  \n We’re looking for a technology leader who has led multiple technology operations functions a",
+      "date": "2026-09-22T13:32:43+00:00",
+      "salary": "USD160000–180000",
+      "url": "https://jobicy.com/jobs/153870-director-of-technology-operations-fully-remote",
       "source": "Jobicy",
-      "id": "57ac66a4ea32",
-      "score": 55,
+      "id": "44b9be916108",
+      "score": 30,
       "matches": [
-        "Rol QA ✓",
-        "Remoto/Latam 🌐",
+        "Rol QA (desc)",
+        "automation",
         "Salario 💰"
       ],
       "warnings": [],
-      "verdict": "bueno"
-    },
-    {
-      "title": "Project Epsilon - French (Canada) Quality Control Specialist",
-      "company": "Welo Global",
-      "location": "Canada",
-      "description": " \r\n \r\n \r\n  About the Role   \r\n \r\n \r\n We are looking for detail-oriented Quality Control (QC) Specialist to support an AI data annotation project. In this role, you will review the work submitted by Trainers — pre-seeded questions paired with images and their corresponding \"golden\" answers — to confirm accuracy, consistency, and adherence to project guidelines.  \r\n \r\n \r\n This is a task-based, remote-friendly opportunity ideal for individuals who are highly meticulous, observant, and skilled at spotting errors or inconsistencies that others may miss.  \r\n \r\n \r\n  What You'll Do   \r\n \r\n \r\n \r\n \r\n Review completed tasks submitted by Trainers, including the original question, the image, and the golden answer provided  \r\n \r\n \r\n \r\n \r\n \r\n \r\n Independently verify whether the golden answer is correct b",
-      "date": "2026-09-22T03:30:22+00:00",
-      "salary": "CAD106000–106000",
-      "url": "https://jobicy.com/jobs/149466-project-chiron-french-canada-quality-control-specialist",
-      "source": "Jobicy",
-      "id": "f6c3221439c5",
-      "score": 45,
-      "matches": [
-        "Rol QA ✓",
-        "Salario 💰"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
+      "verdict": "regular"
     }
   ]
 }
