@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-22T20:03:04.937145+00:00",
+  "last_updated": "2026-09-23T01:20:27.089912+00:00",
   "total_fetched": 177,
   "sources": {
     "Remotive": 18,
@@ -8,7 +8,7 @@
     "Himalayas": 20,
     "Jobicy": 33
   },
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "title": "QA Funcional Senior – Microsoft Dynamics 365 Cs",
@@ -253,25 +253,5 @@
       "verdict": "regular"
     }
   ],
-  "new_jobs": [
-    {
-      "title": "Director of Technology Operations (Fully Remote)",
-      "company": "PadSplit",
-      "location": "USA",
-      "description": "  The Role We Need  \n We’re hiring a Director of Technology Operations to lead the three functions that keep PadSplit’s technology and business operations healthy: Quality Assurance, IT &amp; internal tooling, and Security. You’ll inherit existing teams across each area and be responsible for modernizing how they work: moving QA toward automation, IT toward proactive enablement, and Security toward a structured, risk-based program. \n This is a hands-on leadership role. You’ll set strategy and own outcomes across all three areas, while staying close enough to the work to evaluate a test architecture, challenge a vendor renewal, or lead an incident review yourself. \n  The Person We Are Looking For  \n We’re looking for a technology leader who has led multiple technology operations functions a",
-      "date": "2026-09-22T13:32:43+00:00",
-      "salary": "USD160000–180000",
-      "url": "https://jobicy.com/jobs/153870-director-of-technology-operations-fully-remote",
-      "source": "Jobicy",
-      "id": "44b9be916108",
-      "score": 30,
-      "matches": [
-        "Rol QA (desc)",
-        "automation",
-        "Salario 💰"
-      ],
-      "warnings": [],
-      "verdict": "regular"
-    }
-  ]
+  "new_jobs": []
 }
