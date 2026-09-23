@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-23T15:21:46.577877+00:00",
+  "last_updated": "2026-09-23T20:02:17.076862+00:00",
   "total_fetched": 180,
   "sources": {
     "Remotive": 19,
@@ -8,7 +8,7 @@
     "Himalayas": 20,
     "Jobicy": 33
   },
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "title": "Tosca Developer / QA Automation Engineer (Tricentis Tosca)",
@@ -277,30 +277,5 @@
       "verdict": "regular"
     }
   ],
-  "new_jobs": [
-    {
-      "title": "Tosca Developer / QA Automation Engineer (Tricentis Tosca)",
-      "company": "",
-      "location": "fully_remote",
-      "description": " To succeed in this role, we bring strong practical experience and clear ownership of test automation outcomes.   5+ years of experience in Software Testing and Test Automation.  Strong hands-on expertise in Tricentis TOSCA.  Experience with Tosca Commander, XScan, TDS, TCD, and Execution Lists.  Strong knowledge of UI, API, and Database Testing.  Experience with SQL and REST/SOAP services.  Familiarity with CI/CD tools such as Jenkins and Azure DevOps.  Knowledge of Agile/Scrum methodologies.  Strong analytical, problem-solving, and communication skills.   We also value collaboration and continuous improvement mindset—working closely with QA, Development, Business, and DevOps teams to raise coverage, improve stability, and support quality standards throughout delivery. ",
-      "date": 1790167127,
-      "salary": "3500–4000",
-      "url": "https://www.getonbrd.com/jobs/tricentis-tosca-developer-niuro-remote",
-      "source": "GetOnBoard",
-      "id": "a169dc997f67",
-      "score": 80,
-      "matches": [
-        "Rol QA ✓",
-        "automation",
-        "agile",
-        "scrum",
-        "sql",
-        "ci/cd",
-        "Remoto/Latam 🌐",
-        "Salario 💰"
-      ],
-      "warnings": [],
-      "verdict": "excelente"
-    }
-  ]
+  "new_jobs": []
 }
