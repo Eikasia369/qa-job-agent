@@ -1,15 +1,39 @@
 {
-  "last_updated": "2026-09-23T01:20:27.089912+00:00",
-  "total_fetched": 177,
+  "last_updated": "2026-09-23T15:21:46.577877+00:00",
+  "total_fetched": 180,
   "sources": {
-    "Remotive": 18,
-    "WorkingNomads": 56,
+    "Remotive": 19,
+    "WorkingNomads": 58,
     "GetOnBoard": 50,
     "Himalayas": 20,
     "Jobicy": 33
   },
-  "new_count": 0,
+  "new_count": 1,
   "jobs": [
+    {
+      "title": "Tosca Developer / QA Automation Engineer (Tricentis Tosca)",
+      "company": "",
+      "location": "fully_remote",
+      "description": " To succeed in this role, we bring strong practical experience and clear ownership of test automation outcomes.   5+ years of experience in Software Testing and Test Automation.  Strong hands-on expertise in Tricentis TOSCA.  Experience with Tosca Commander, XScan, TDS, TCD, and Execution Lists.  Strong knowledge of UI, API, and Database Testing.  Experience with SQL and REST/SOAP services.  Familiarity with CI/CD tools such as Jenkins and Azure DevOps.  Knowledge of Agile/Scrum methodologies.  Strong analytical, problem-solving, and communication skills.   We also value collaboration and continuous improvement mindset—working closely with QA, Development, Business, and DevOps teams to raise coverage, improve stability, and support quality standards throughout delivery. ",
+      "date": 1790167127,
+      "salary": "3500–4000",
+      "url": "https://www.getonbrd.com/jobs/tricentis-tosca-developer-niuro-remote",
+      "source": "GetOnBoard",
+      "id": "a169dc997f67",
+      "score": 80,
+      "matches": [
+        "Rol QA ✓",
+        "automation",
+        "agile",
+        "scrum",
+        "sql",
+        "ci/cd",
+        "Remoto/Latam 🌐",
+        "Salario 💰"
+      ],
+      "warnings": [],
+      "verdict": "excelente"
+    },
     {
       "title": "QA Funcional Senior – Microsoft Dynamics 365 Cs",
       "company": "",
@@ -96,7 +120,7 @@
       "title": "Cobalt Core Pentester",
       "company": "Cobalt",
       "location": "Anywhere",
-      "description": "  Who We Are  \r\n The Cobalt Core is a community of highly skilled security pentesters who are passionate about what they do and who are always striving to be at the top of their game. This curated community is made up by security professionals with many years of experience as well as talented pentesters who are eager to learn the trade and show their skills. They all have a strong drive to keep up to date on the latest vulnerabilities and exploits, and the tools and methodologies to find them.  \r\n A member of the Cobalt Core believes that sharing ideas and collaborating with peers is the best way to achieve good results.  \r\n If you believe you would be a good fit to join the Cobalt Core, and you are eager to contribute to the community and participate in the Pentests running on Cobalt plea",
+      "description": "  Who We Are  \r\n The  Cobalt  Core is a community of highly skilled security pentesters who are passionate about what they do and who are always striving to be at the top of their game. This curated community is made up by security professionals with many years of experience as well as talented pentesters who are eager to learn the trade and show their skills. They all have a strong drive to keep up to date on the latest vulnerabilities and exploits, and the tools and methodologies to find them.  \r\n A member of the Cobalt Core believes that sharing ideas and collaborating with peers is the best way to achieve good results.  \r\n If you believe you would be a good fit to join the Cobalt Core, and you are eager to contribute to the community and participate in the Pentests running on Cobalt pl",
       "date": "2026-09-16T13:48:58+00:00",
       "salary": null,
       "url": "https://jobicy.com/jobs/153414-cobalt-core-pentester",
@@ -132,7 +156,7 @@
       "title": "Manager, Clinical Review and Quality Assurance",
       "company": "SmithRx",
       "location": "USA",
-      "description": "  Who We Are:  \n SmithRx is a rapidly growing, venture-backed Health-Tech company. Our mission is to disrupt the expensive and inefficient Pharmacy Benefit Management (PBM) sector by building a next-generation drug acquisition platform driven by cutting edge technology, innovative cost saving tools, and best-in-class customer service. With hundreds of thousands of members onboarded since 2016, SmithRx has a solution that is resonating with clients all across the country. \n We pride ourselves for our mission-driven and collaborative culture that inspires our employees to do their best work. We believe that the U.S healthcare system is in need of transformation, and we come to work each day dedicated to making that change a reality. At our core, we are guided by our company values: \n \n  Inte",
+      "description": "  Who We Are:  \n  SmithRx  is a rapidly growing, venture-backed Health-Tech company. Our mission is to disrupt the expensive and inefficient Pharmacy Benefit Management (PBM) sector by building a next-generation drug acquisition platform driven by cutting edge technology, innovative cost saving tools, and best-in-class customer service. With hundreds of thousands of members onboarded since 2016, SmithRx has a solution that is resonating with clients all across the country. \n We pride ourselves for our mission-driven and collaborative culture that inspires our employees to do their best work. We believe that the U.S healthcare system is in need of transformation, and we come to work each day dedicated to making that change a reality. At our core, we are guided by our company values: \n \n  In",
       "date": "2026-09-18T14:43:04+00:00",
       "salary": "USD136000–192000",
       "url": "https://jobicy.com/jobs/153610-manager-clinical-review-and-quality-assurance-2",
@@ -150,7 +174,7 @@
       "title": "Senior Quality Assurance Engineer (Personify team)",
       "company": "Bloomreach",
       "location": "Czechia",
-      "description": " Bloomreach is building the world’s premier  agentic platform for personalization .We’re revolutionizing how businesses connect with their customers, building and deploying AI agents to personalize the   entire   customer journey. \n \n We're taking  autonomous search  mainstream, making product discovery more intuitive and conversational for customers, and more profitable for businesses. \n We’re making  conversational shopping  a reality, connecting every shopper with tailored guidance and product expertise — available on demand, at every touchpoint in their journey. \n We're designing the future of  autonomous marketing , taking the work out of workflows, and reclaiming the creative, strategic, and customer-first work marketers were always meant to do. \n \n And we're building all of that on ",
+      "description": "  Bloomreach  is building the world’s premier  agentic platform for personalization .We’re revolutionizing how businesses connect with their customers, building and deploying AI agents to personalize the   entire   customer journey. \n \n We're taking  autonomous search  mainstream, making product discovery more intuitive and conversational for customers, and more profitable for businesses. \n We’re making  conversational shopping  a reality, connecting every shopper with tailored guidance and product expertise — available on demand, at every touchpoint in their journey. \n We're designing the future of  autonomous marketing , taking the work out of workflows, and reclaiming the creative, strategic, and customer-first work marketers were always meant to do. \n \n And we're building all of that o",
       "date": "2026-09-03T13:56:36+00:00",
       "salary": "CZK1130000–1410000",
       "url": "https://jobicy.com/jobs/152406-senior-quality-assurance-engineer-personify-team",
@@ -237,7 +261,7 @@
       "title": "Director of Technology Operations (Fully Remote)",
       "company": "PadSplit",
       "location": "USA",
-      "description": "  The Role We Need  \n We’re hiring a Director of Technology Operations to lead the three functions that keep PadSplit’s technology and business operations healthy: Quality Assurance, IT &amp; internal tooling, and Security. You’ll inherit existing teams across each area and be responsible for modernizing how they work: moving QA toward automation, IT toward proactive enablement, and Security toward a structured, risk-based program. \n This is a hands-on leadership role. You’ll set strategy and own outcomes across all three areas, while staying close enough to the work to evaluate a test architecture, challenge a vendor renewal, or lead an incident review yourself. \n  The Person We Are Looking For  \n We’re looking for a technology leader who has led multiple technology operations functions a",
+      "description": "  The Role We Need  \n We’re hiring a Director of Technology Operations to lead the three functions that keep  PadSplit ’s technology and business operations healthy: Quality Assurance, IT &amp; internal tooling, and Security. You’ll inherit existing teams across each area and be responsible for modernizing how they work: moving QA toward automation, IT toward proactive enablement, and Security toward a structured, risk-based program. \n This is a hands-on leadership role. You’ll set strategy and own outcomes across all three areas, while staying close enough to the work to evaluate a test architecture, challenge a vendor renewal, or lead an incident review yourself. \n  The Person We Are Looking For  \n We’re looking for a technology leader who has led multiple technology operations functions",
       "date": "2026-09-22T13:32:43+00:00",
       "salary": "USD160000–180000",
       "url": "https://jobicy.com/jobs/153870-director-of-technology-operations-fully-remote",
@@ -253,5 +277,30 @@
       "verdict": "regular"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "title": "Tosca Developer / QA Automation Engineer (Tricentis Tosca)",
+      "company": "",
+      "location": "fully_remote",
+      "description": " To succeed in this role, we bring strong practical experience and clear ownership of test automation outcomes.   5+ years of experience in Software Testing and Test Automation.  Strong hands-on expertise in Tricentis TOSCA.  Experience with Tosca Commander, XScan, TDS, TCD, and Execution Lists.  Strong knowledge of UI, API, and Database Testing.  Experience with SQL and REST/SOAP services.  Familiarity with CI/CD tools such as Jenkins and Azure DevOps.  Knowledge of Agile/Scrum methodologies.  Strong analytical, problem-solving, and communication skills.   We also value collaboration and continuous improvement mindset—working closely with QA, Development, Business, and DevOps teams to raise coverage, improve stability, and support quality standards throughout delivery. ",
+      "date": 1790167127,
+      "salary": "3500–4000",
+      "url": "https://www.getonbrd.com/jobs/tricentis-tosca-developer-niuro-remote",
+      "source": "GetOnBoard",
+      "id": "a169dc997f67",
+      "score": 80,
+      "matches": [
+        "Rol QA ✓",
+        "automation",
+        "agile",
+        "scrum",
+        "sql",
+        "ci/cd",
+        "Remoto/Latam 🌐",
+        "Salario 💰"
+      ],
+      "warnings": [],
+      "verdict": "excelente"
+    }
+  ]
 }
