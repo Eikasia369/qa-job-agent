@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-23T20:02:17.076862+00:00",
+  "last_updated": "2026-09-24T01:14:43.489909+00:00",
   "total_fetched": 180,
   "sources": {
     "Remotive": 19,
@@ -55,47 +55,6 @@
       ],
       "warnings": [],
       "verdict": "excelente"
-    },
-    {
-      "title": "QA Funcional Senior Microsoft Dynamics 365 (LATAM)",
-      "company": "",
-      "location": "fully_remote",
-      "description": "  Experiencia comprobable como QA Funcional Senior en proyectos de software empresariales.  Experiencia en pruebas funcionales sobre plataformas CRM, Customer Service o soluciones similares.  Conocimiento de procesos de atención al cliente, postventa y gestión de casos.  Experiencia en diseño y ejecución de casos de prueba, matrices de cobertura y trazabilidad.  Experiencia en pruebas de regresión y validaciones end-to-end.  Experiencia realizando pruebas de APIs REST.  Conocimiento en pruebas de aplicaciones web y móviles Android/iOS.  Capacidad para analizar reglas de negocio y escenarios funcionales complejos.  Experiencia gestionando requerimientos y defectos mediante Jira y Confluence.  Manejo de herramientas de gestión de pruebas como Xray, Zephyr o TestRail.  Experiencia en automati",
-      "date": 1788993676,
-      "salary": null,
-      "url": "https://www.getonbrd.com/jobs/qa-funcional-senior-microsoft-dynamics-365-latam-bc-tecnologia-remote",
-      "source": "GetOnBoard",
-      "id": "b252fb6d26e0",
-      "score": 70,
-      "matches": [
-        "Rol QA ✓",
-        "jira",
-        "defect",
-        "zephyr",
-        "testrail",
-        "Remoto/Latam 🌐"
-      ],
-      "warnings": [],
-      "verdict": "excelente"
-    },
-    {
-      "title": "Senior Outsystems QA con Inglés y Español",
-      "company": "",
-      "location": "fully_remote",
-      "description": "  Mínimo 5 años de experiencia comprobable como QA en proyectos de tecnología y desarrollo de software.  Mínimo 3 años de experiencia comprobable como QA en proyectos desarrollados sobre OutSystems.  Experiencia en diseño y ejecución de pruebas funcionales, de integración, regresión y end-to-end.  Experiencia en pruebas de APIs REST e integraciones.  Conocimiento de metodologías ágiles y participación en diferentes etapas del ciclo de desarrollo de software.  Capacidad para documentar casos de prueba, resultados, evidencias, incidencias y seguimiento de defectos.  Conocimiento y aplicación de buenas prácticas de Quality Assurance.  Capacidad para comunicarse de manera fluida en inglés y español, tanto de forma oral como escrita, requisito indispensable para la interacción con equipos y sta",
-      "date": 1788970212,
-      "salary": null,
-      "url": "https://www.getonbrd.com/jobs/outsystems-qa-con-ingles-avanzado-i2b-technologies-remote",
-      "source": "GetOnBoard",
-      "id": "9e2c02b9df53",
-      "score": 55,
-      "matches": [
-        "Rol QA ✓",
-        "defect",
-        "Remoto/Latam 🌐"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
     },
     {
       "title": "Project Epsilon - Spanish (Latin America) Quality Control Specialist",
