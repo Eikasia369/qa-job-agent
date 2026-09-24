@@ -1,61 +1,15 @@
 {
-  "last_updated": "2026-09-24T15:45:03.168245+00:00",
-  "total_fetched": 179,
+  "last_updated": "2026-09-24T20:18:01.801173+00:00",
+  "total_fetched": 129,
   "sources": {
     "Remotive": 19,
     "WorkingNomads": 57,
-    "GetOnBoard": 50,
+    "GetOnBoard": 0,
     "Himalayas": 20,
     "Jobicy": 33
   },
-  "new_count": 2,
+  "new_count": 0,
   "jobs": [
-    {
-      "title": "Tosca Developer / QA Automation Engineer (Tricentis Tosca)",
-      "company": "",
-      "location": "fully_remote",
-      "description": " To succeed in this role, we bring strong practical experience and clear ownership of test automation outcomes.   5+ years of experience in Software Testing and Test Automation.  Strong hands-on expertise in Tricentis TOSCA.  Experience with Tosca Commander, XScan, TDS, TCD, and Execution Lists.  Strong knowledge of UI, API, and Database Testing.  Experience with SQL and REST/SOAP services.  Familiarity with CI/CD tools such as Jenkins and Azure DevOps.  Knowledge of Agile/Scrum methodologies.  Strong analytical, problem-solving, and communication skills.   We also value collaboration and continuous improvement mindset—working closely with QA, Development, Business, and DevOps teams to raise coverage, improve stability, and support quality standards throughout delivery. ",
-      "date": 1790167127,
-      "salary": "3500–4000",
-      "url": "https://www.getonbrd.com/jobs/tricentis-tosca-developer-niuro-remote",
-      "source": "GetOnBoard",
-      "id": "a169dc997f67",
-      "score": 80,
-      "matches": [
-        "Rol QA ✓",
-        "automation",
-        "agile",
-        "scrum",
-        "sql",
-        "ci/cd",
-        "Remoto/Latam 🌐",
-        "Salario 💰"
-      ],
-      "warnings": [],
-      "verdict": "excelente"
-    },
-    {
-      "title": "QA Funcional Senior – Microsoft Dynamics 365 Cs",
-      "company": "",
-      "location": "fully_remote",
-      "description": "  Experiencia comprobable como QA Funcional Senior en proyectos de software empresariales.  Experiencia en pruebas funcionales sobre plataformas CRM, Customer Service o soluciones similares.  Conocimiento de procesos de atención al cliente, postventa y gestión de casos.  Experiencia en diseño y ejecución de casos de prueba, matrices de cobertura y trazabilidad.  Experiencia en pruebas de regresión y validaciones end-to-end.  Experiencia realizando pruebas sobre APIs REST.  Conocimiento en pruebas de aplicaciones web y móviles Android/iOS.  Capacidad para analizar reglas de negocio y escenarios funcionales complejos.  Experiencia gestionando requerimientos y defectos mediante Jira y Confluence.  Manejo de herramientas de gestión de pruebas como Xray, Zephyr o TestRail.  Experiencia en autom",
-      "date": 1789011730,
-      "salary": null,
-      "url": "https://www.getonbrd.com/jobs/qa-funcional-senior-microsoft-dynamics-365-cs-bc-tecnologia-remote",
-      "source": "GetOnBoard",
-      "id": "178a8ed4d4a0",
-      "score": 70,
-      "matches": [
-        "Rol QA ✓",
-        "jira",
-        "defect",
-        "zephyr",
-        "testrail",
-        "Remoto/Latam 🌐"
-      ],
-      "warnings": [],
-      "verdict": "excelente"
-    },
     {
       "title": "Sr. Quality Engineer",
       "company": "CentralReach",
@@ -254,25 +208,6 @@
       "verdict": "regular"
     },
     {
-      "title": "Desarrollador/a Full-Stack",
-      "company": "",
-      "location": "hybrid",
-      "description": "  Al menos 3 años de experiencia en desarrollo de software, con 3 o más trabajando con TypeScript y Node.js en producción.   Experiencia construyendo integraciones entre sistemas: idempotencia, reintentos, manejo de duplicados y colas de mensajes. Este es el requisito excluyente del cargo.   Conocimiento sólido de Next.js o React, y de un framework backend tipo NestJS/Express.  Manejo de bases de datos NoSQL (MongoDB, Cosmos DB o similares).  Experiencia consumiendo y diseñando APIs REST.  Familiaridad con control de versiones (Git) y flujos de trabajo colaborativos.  Capacidad de trabajar con requerimientos ambiguos y proponer soluciones.  Comunicación clara para coordinar con equipos de producto, QA y DevOps.  ",
-      "date": 1790264364,
-      "salary": null,
-      "url": "https://www.getonbrd.com/jobs/desarrollador-a-full-stack-asesoria-y-gestion-de-procesos-s-a-santiago",
-      "source": "GetOnBoard",
-      "id": "b7e5895df530",
-      "score": 30,
-      "matches": [
-        "Rol QA (desc)",
-        "typescript",
-        "sql"
-      ],
-      "warnings": [],
-      "verdict": "regular"
-    },
-    {
       "title": "Director of Technology Operations (Fully Remote)",
       "company": "PadSplit",
       "location": "USA",
@@ -292,43 +227,5 @@
       "verdict": "regular"
     }
   ],
-  "new_jobs": [
-    {
-      "title": "Sr. Quality Engineer",
-      "company": "CentralReach",
-      "location": "USA",
-      "description": "  CentralReach  is a leading provider of autism and IDD care software for Applied Behavior Analysis (ABA), multidisciplinary therapy, and special education. Trusted by more than 200,000 users, we enable therapy providers, educators, and employers to scale the way they deliver ABA and related therapies with innovative technology, market-leading industry expertise, and world-class customer satisfaction.  \n CentralReach is looking for a Sr. Quality Engineer to work within our Engineering department. As a Quality Engineer, you will help drive quality throughout the entire software life cycle through collaboration with product and development teams, development of test cases and automation scripts, and analysis of the system to consistently deliver quality software to our customers. If you are ",
-      "date": "2026-09-24T11:38:32+00:00",
-      "salary": "USD115000–140000",
-      "url": "https://jobicy.com/jobs/153999-sr-quality-engineer",
-      "source": "Jobicy",
-      "id": "8444ccc2847f",
-      "score": 55,
-      "matches": [
-        "Rol QA ✓",
-        "automation",
-        "test case",
-        "Salario 💰"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
-    },
-    {
-      "title": "Break-It-To-Build-It — Hardware Tester",
-      "company": "",
-      "location": "['United States']",
-      "description": " Role Title: Break-It-To-Build-It — Hardware Tester  Role Type: Contractor  Location: San Francisco, Cali   micro1  is engaging Break-It-To-Build-It — Hardware Testers to contribute to an innovative project focused on next-generation robotics hardware. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters. This hands-on opportunity invites recent grads, students, and experts alike to conduct physical tests on actual robotic sub-assemblies, not just review specifications or code. Your attention to detail, clear communication skills, and ability to meticulously follow procedures will make",
-      "date": "",
-      "salary": null,
-      "url": "https://himalayas.app/companies/micro1/jobs/break-it-to-build-it-hardware-tester",
-      "source": "Himalayas",
-      "id": "06f2ae76cc00",
-      "score": 40,
-      "matches": [
-        "Rol QA ✓"
-      ],
-      "warnings": [],
-      "verdict": "regular"
-    }
-  ]
+  "new_jobs": []
 }
