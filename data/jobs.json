@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-09-24T01:14:43.489909+00:00",
-  "total_fetched": 180,
+  "last_updated": "2026-09-24T15:45:03.168245+00:00",
+  "total_fetched": 179,
   "sources": {
     "Remotive": 19,
-    "WorkingNomads": 58,
+    "WorkingNomads": 57,
     "GetOnBoard": 50,
     "Himalayas": 20,
     "Jobicy": 33
   },
-  "new_count": 0,
+  "new_count": 2,
   "jobs": [
     {
       "title": "Tosca Developer / QA Automation Engineer (Tricentis Tosca)",
@@ -55,6 +55,26 @@
       ],
       "warnings": [],
       "verdict": "excelente"
+    },
+    {
+      "title": "Sr. Quality Engineer",
+      "company": "CentralReach",
+      "location": "USA",
+      "description": "  CentralReach  is a leading provider of autism and IDD care software for Applied Behavior Analysis (ABA), multidisciplinary therapy, and special education. Trusted by more than 200,000 users, we enable therapy providers, educators, and employers to scale the way they deliver ABA and related therapies with innovative technology, market-leading industry expertise, and world-class customer satisfaction.  \n CentralReach is looking for a Sr. Quality Engineer to work within our Engineering department. As a Quality Engineer, you will help drive quality throughout the entire software life cycle through collaboration with product and development teams, development of test cases and automation scripts, and analysis of the system to consistently deliver quality software to our customers. If you are ",
+      "date": "2026-09-24T11:38:32+00:00",
+      "salary": "USD115000–140000",
+      "url": "https://jobicy.com/jobs/153999-sr-quality-engineer",
+      "source": "Jobicy",
+      "id": "8444ccc2847f",
+      "score": 55,
+      "matches": [
+        "Rol QA ✓",
+        "automation",
+        "test case",
+        "Salario 💰"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
     },
     {
       "title": "Project Epsilon - Spanish (Latin America) Quality Control Specialist",
@@ -217,6 +237,42 @@
       "verdict": "regular"
     },
     {
+      "title": "Break-It-To-Build-It — Hardware Tester",
+      "company": "",
+      "location": "['United States']",
+      "description": " Role Title: Break-It-To-Build-It — Hardware Tester  Role Type: Contractor  Location: San Francisco, Cali   micro1  is engaging Break-It-To-Build-It — Hardware Testers to contribute to an innovative project focused on next-generation robotics hardware. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters. This hands-on opportunity invites recent grads, students, and experts alike to conduct physical tests on actual robotic sub-assemblies, not just review specifications or code. Your attention to detail, clear communication skills, and ability to meticulously follow procedures will make",
+      "date": "",
+      "salary": null,
+      "url": "https://himalayas.app/companies/micro1/jobs/break-it-to-build-it-hardware-tester",
+      "source": "Himalayas",
+      "id": "06f2ae76cc00",
+      "score": 40,
+      "matches": [
+        "Rol QA ✓"
+      ],
+      "warnings": [],
+      "verdict": "regular"
+    },
+    {
+      "title": "Desarrollador/a Full-Stack",
+      "company": "",
+      "location": "hybrid",
+      "description": "  Al menos 3 años de experiencia en desarrollo de software, con 3 o más trabajando con TypeScript y Node.js en producción.   Experiencia construyendo integraciones entre sistemas: idempotencia, reintentos, manejo de duplicados y colas de mensajes. Este es el requisito excluyente del cargo.   Conocimiento sólido de Next.js o React, y de un framework backend tipo NestJS/Express.  Manejo de bases de datos NoSQL (MongoDB, Cosmos DB o similares).  Experiencia consumiendo y diseñando APIs REST.  Familiaridad con control de versiones (Git) y flujos de trabajo colaborativos.  Capacidad de trabajar con requerimientos ambiguos y proponer soluciones.  Comunicación clara para coordinar con equipos de producto, QA y DevOps.  ",
+      "date": 1790264364,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/desarrollador-a-full-stack-asesoria-y-gestion-de-procesos-s-a-santiago",
+      "source": "GetOnBoard",
+      "id": "b7e5895df530",
+      "score": 30,
+      "matches": [
+        "Rol QA (desc)",
+        "typescript",
+        "sql"
+      ],
+      "warnings": [],
+      "verdict": "regular"
+    },
+    {
       "title": "Director of Technology Operations (Fully Remote)",
       "company": "PadSplit",
       "location": "USA",
@@ -236,5 +292,43 @@
       "verdict": "regular"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "title": "Sr. Quality Engineer",
+      "company": "CentralReach",
+      "location": "USA",
+      "description": "  CentralReach  is a leading provider of autism and IDD care software for Applied Behavior Analysis (ABA), multidisciplinary therapy, and special education. Trusted by more than 200,000 users, we enable therapy providers, educators, and employers to scale the way they deliver ABA and related therapies with innovative technology, market-leading industry expertise, and world-class customer satisfaction.  \n CentralReach is looking for a Sr. Quality Engineer to work within our Engineering department. As a Quality Engineer, you will help drive quality throughout the entire software life cycle through collaboration with product and development teams, development of test cases and automation scripts, and analysis of the system to consistently deliver quality software to our customers. If you are ",
+      "date": "2026-09-24T11:38:32+00:00",
+      "salary": "USD115000–140000",
+      "url": "https://jobicy.com/jobs/153999-sr-quality-engineer",
+      "source": "Jobicy",
+      "id": "8444ccc2847f",
+      "score": 55,
+      "matches": [
+        "Rol QA ✓",
+        "automation",
+        "test case",
+        "Salario 💰"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    },
+    {
+      "title": "Break-It-To-Build-It — Hardware Tester",
+      "company": "",
+      "location": "['United States']",
+      "description": " Role Title: Break-It-To-Build-It — Hardware Tester  Role Type: Contractor  Location: San Francisco, Cali   micro1  is engaging Break-It-To-Build-It — Hardware Testers to contribute to an innovative project focused on next-generation robotics hardware. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters. This hands-on opportunity invites recent grads, students, and experts alike to conduct physical tests on actual robotic sub-assemblies, not just review specifications or code. Your attention to detail, clear communication skills, and ability to meticulously follow procedures will make",
+      "date": "",
+      "salary": null,
+      "url": "https://himalayas.app/companies/micro1/jobs/break-it-to-build-it-hardware-tester",
+      "source": "Himalayas",
+      "id": "06f2ae76cc00",
+      "score": 40,
+      "matches": [
+        "Rol QA ✓"
+      ],
+      "warnings": [],
+      "verdict": "regular"
+    }
+  ]
 }
