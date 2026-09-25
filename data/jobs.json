@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-09-25T01:16:11.603789+00:00",
-  "total_fetched": 178,
+  "last_updated": "2026-09-25T15:46:18.706614+00:00",
+  "total_fetched": 180,
   "sources": {
     "Remotive": 19,
-    "WorkingNomads": 57,
+    "WorkingNomads": 58,
     "GetOnBoard": 50,
     "Himalayas": 20,
-    "Jobicy": 32
+    "Jobicy": 33
   },
   "new_count": 0,
   "jobs": [
@@ -55,25 +55,6 @@
       "verdict": "bueno"
     },
     {
-      "title": "Project Epsilon - Spanish (Latin America) Quality Control Specialist",
-      "company": "Welo Global",
-      "location": "LATAM",
-      "description": " \r\n \r\n About the Role  \r\n \r\n \r\n We are looking for detail-oriented Quality Control (QC) Specialist to support an AI data annotation project. In this role, you will review the work submitted by Trainers — pre-seeded questions paired with images and their corresponding \"golden\" answers — to confirm accuracy, consistency, and adherence to project guidelines.  \r\n \r\n \r\n This is a task-based, remote-friendly opportunity ideal for individuals who are highly meticulous, observant, and skilled at spotting errors or inconsistencies that others may miss.  \r\n \r\n \r\n What You'll Do  \r\n \r\n \r\n \r\n \r\n Review completed tasks submitted by Trainers, including the original question, the image, and the golden answer provided  \r\n \r\n \r\n \r\n \r\n \r\n \r\n Independently verify whether the golden answer is correct based on",
-      "date": "2026-09-22T03:30:23+00:00",
-      "salary": "USD80000–None",
-      "url": "https://jobicy.com/jobs/149468-project-chiron-spanish-latin-america-quality-control-specialist",
-      "source": "Jobicy",
-      "id": "57ac66a4ea32",
-      "score": 55,
-      "matches": [
-        "Rol QA ✓",
-        "Remoto/Latam 🌐",
-        "Salario 💰"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
-    },
-    {
       "title": "Cobalt Core Pentester",
       "company": "Cobalt",
       "location": "Anywhere",
@@ -110,6 +91,24 @@
       "verdict": "bueno"
     },
     {
+      "title": "QA Engineer",
+      "company": "",
+      "location": "hybrid",
+      "description": " Buscamos un/a Ingeniero/a QA orientado/a a calidad de software en entornos modernos, con experiencia en arquitectura orientada a eventos y enfoque de pruebas end-to-end. En Xintec creemos en las personas y en la construcción diaria de equipos para alcanzar grandes objetivos; por eso valoramos la colaboración, la comunicación efectiva y la proactividad en el día a día.  Queremos que puedas asegurar la calidad del producto a través del análisis de requerimientos, el diseño y la ejecución de pruebas, y el levantamiento/seguimiento de defectos. También esperamos que puedas trabajar coordinadamente con equipos de desarrollo y de calidad, participar en ciclos de pruebas integradas y validar integraciones donde intervienen mensajería y persistencia.   Stack y experiencia esperada (alineado al ro",
+      "date": 1790342283,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/qa-engineer-xintec-santiago",
+      "source": "GetOnBoard",
+      "id": "24697a2d946e",
+      "score": 45,
+      "matches": [
+        "Rol QA ✓",
+        "defect"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    },
+    {
       "title": "Manager, Clinical Review and Quality Assurance",
       "company": "SmithRx",
       "location": "USA",
@@ -137,24 +136,6 @@
       "url": "https://jobicy.com/jobs/152406-senior-quality-assurance-engineer-personify-team",
       "source": "Jobicy",
       "id": "6757d7fb0331",
-      "score": 45,
-      "matches": [
-        "Rol QA ✓",
-        "Salario 💰"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
-    },
-    {
-      "title": "Project Epsilon - French (Canada) Quality Control Specialist",
-      "company": "Welo Global",
-      "location": "Canada",
-      "description": " \r\n \r\n \r\n  About the Role   \r\n \r\n \r\n We are looking for detail-oriented Quality Control (QC) Specialist to support an AI data annotation project. In this role, you will review the work submitted by Trainers — pre-seeded questions paired with images and their corresponding \"golden\" answers — to confirm accuracy, consistency, and adherence to project guidelines.  \r\n \r\n \r\n This is a task-based, remote-friendly opportunity ideal for individuals who are highly meticulous, observant, and skilled at spotting errors or inconsistencies that others may miss.  \r\n \r\n \r\n  What You'll Do   \r\n \r\n \r\n \r\n \r\n Review completed tasks submitted by Trainers, including the original question, the image, and the golden answer provided  \r\n \r\n \r\n \r\n \r\n \r\n \r\n Independently verify whether the golden answer is correct b",
-      "date": "2026-09-22T03:30:22+00:00",
-      "salary": "CAD106000–106000",
-      "url": "https://jobicy.com/jobs/149466-project-chiron-french-canada-quality-control-specialist",
-      "source": "Jobicy",
-      "id": "f6c3221439c5",
       "score": 45,
       "matches": [
         "Rol QA ✓",
