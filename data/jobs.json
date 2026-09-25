@@ -1,15 +1,39 @@
 {
-  "last_updated": "2026-09-24T20:18:01.801173+00:00",
-  "total_fetched": 129,
+  "last_updated": "2026-09-25T01:16:11.603789+00:00",
+  "total_fetched": 178,
   "sources": {
     "Remotive": 19,
     "WorkingNomads": 57,
-    "GetOnBoard": 0,
+    "GetOnBoard": 50,
     "Himalayas": 20,
-    "Jobicy": 33
+    "Jobicy": 32
   },
   "new_count": 0,
   "jobs": [
+    {
+      "title": "Tosca Developer / QA Automation Engineer (Tricentis Tosca)",
+      "company": "",
+      "location": "fully_remote",
+      "description": " To succeed in this role, we bring strong practical experience and clear ownership of test automation outcomes.   5+ years of experience in Software Testing and Test Automation.  Strong hands-on expertise in Tricentis TOSCA.  Experience with Tosca Commander, XScan, TDS, TCD, and Execution Lists.  Strong knowledge of UI, API, and Database Testing.  Experience with SQL and REST/SOAP services.  Familiarity with CI/CD tools such as Jenkins and Azure DevOps.  Knowledge of Agile/Scrum methodologies.  Strong analytical, problem-solving, and communication skills.   We also value collaboration and continuous improvement mindset—working closely with QA, Development, Business, and DevOps teams to raise coverage, improve stability, and support quality standards throughout delivery. ",
+      "date": 1790167127,
+      "salary": "3500–4000",
+      "url": "https://www.getonbrd.com/jobs/tricentis-tosca-developer-niuro-remote",
+      "source": "GetOnBoard",
+      "id": "a169dc997f67",
+      "score": 80,
+      "matches": [
+        "Rol QA ✓",
+        "automation",
+        "agile",
+        "scrum",
+        "sql",
+        "ci/cd",
+        "Remoto/Latam 🌐",
+        "Salario 💰"
+      ],
+      "warnings": [],
+      "verdict": "excelente"
+    },
     {
       "title": "Sr. Quality Engineer",
       "company": "CentralReach",
@@ -191,18 +215,20 @@
       "verdict": "regular"
     },
     {
-      "title": "Break-It-To-Build-It — Hardware Tester",
+      "title": "Desarrollador/a Full-Stack",
       "company": "",
-      "location": "['United States']",
-      "description": " Role Title: Break-It-To-Build-It — Hardware Tester  Role Type: Contractor  Location: San Francisco, Cali   micro1  is engaging Break-It-To-Build-It — Hardware Testers to contribute to an innovative project focused on next-generation robotics hardware. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters. This hands-on opportunity invites recent grads, students, and experts alike to conduct physical tests on actual robotic sub-assemblies, not just review specifications or code. Your attention to detail, clear communication skills, and ability to meticulously follow procedures will make",
-      "date": "",
+      "location": "hybrid",
+      "description": "  Al menos 3 años de experiencia en desarrollo de software, con 3 o más trabajando con TypeScript y Node.js en producción.   Experiencia construyendo integraciones entre sistemas: idempotencia, reintentos, manejo de duplicados y colas de mensajes. Este es el requisito excluyente del cargo.   Conocimiento sólido de Next.js o React, y de un framework backend tipo NestJS/Express.  Manejo de bases de datos NoSQL (MongoDB, Cosmos DB o similares).  Experiencia consumiendo y diseñando APIs REST.  Familiaridad con control de versiones (Git) y flujos de trabajo colaborativos.  Capacidad de trabajar con requerimientos ambiguos y proponer soluciones.  Comunicación clara para coordinar con equipos de producto, QA y DevOps.  ",
+      "date": 1790264364,
       "salary": null,
-      "url": "https://himalayas.app/companies/micro1/jobs/break-it-to-build-it-hardware-tester",
-      "source": "Himalayas",
-      "id": "06f2ae76cc00",
-      "score": 40,
+      "url": "https://www.getonbrd.com/jobs/desarrollador-a-full-stack-asesoria-y-gestion-de-procesos-s-a-santiago",
+      "source": "GetOnBoard",
+      "id": "b7e5895df530",
+      "score": 30,
       "matches": [
-        "Rol QA ✓"
+        "Rol QA (desc)",
+        "typescript",
+        "sql"
       ],
       "warnings": [],
       "verdict": "regular"
