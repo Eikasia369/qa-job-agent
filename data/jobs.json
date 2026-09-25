@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-25T15:46:18.706614+00:00",
+  "last_updated": "2026-09-25T20:19:40.105149+00:00",
   "total_fetched": 180,
   "sources": {
     "Remotive": 19,
@@ -191,25 +191,6 @@
       "score": 40,
       "matches": [
         "Rol QA ✓"
-      ],
-      "warnings": [],
-      "verdict": "regular"
-    },
-    {
-      "title": "Desarrollador/a Full-Stack",
-      "company": "",
-      "location": "hybrid",
-      "description": "  Al menos 3 años de experiencia en desarrollo de software, con 3 o más trabajando con TypeScript y Node.js en producción.   Experiencia construyendo integraciones entre sistemas: idempotencia, reintentos, manejo de duplicados y colas de mensajes. Este es el requisito excluyente del cargo.   Conocimiento sólido de Next.js o React, y de un framework backend tipo NestJS/Express.  Manejo de bases de datos NoSQL (MongoDB, Cosmos DB o similares).  Experiencia consumiendo y diseñando APIs REST.  Familiaridad con control de versiones (Git) y flujos de trabajo colaborativos.  Capacidad de trabajar con requerimientos ambiguos y proponer soluciones.  Comunicación clara para coordinar con equipos de producto, QA y DevOps.  ",
-      "date": 1790264364,
-      "salary": null,
-      "url": "https://www.getonbrd.com/jobs/desarrollador-a-full-stack-asesoria-y-gestion-de-procesos-s-a-santiago",
-      "source": "GetOnBoard",
-      "id": "b7e5895df530",
-      "score": 30,
-      "matches": [
-        "Rol QA (desc)",
-        "typescript",
-        "sql"
       ],
       "warnings": [],
       "verdict": "regular"
