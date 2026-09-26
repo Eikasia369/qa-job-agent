@@ -1,15 +1,39 @@
 {
-  "last_updated": "2026-09-26T01:18:38.613038+00:00",
-  "total_fetched": 128,
+  "last_updated": "2026-09-26T14:55:36.033757+00:00",
+  "total_fetched": 176,
   "sources": {
-    "Remotive": 19,
-    "WorkingNomads": 58,
-    "GetOnBoard": 0,
+    "Remotive": 18,
+    "WorkingNomads": 57,
+    "GetOnBoard": 50,
     "Himalayas": 20,
     "Jobicy": 31
   },
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
+    {
+      "title": "Tosca Developer / QA Automation Engineer (Tricentis Tosca)",
+      "company": "",
+      "location": "fully_remote",
+      "description": " To succeed in this role, we bring strong practical experience and clear ownership of test automation outcomes.   5+ years of experience in Software Testing and Test Automation.  Strong hands-on expertise in Tricentis TOSCA.  Experience with Tosca Commander, XScan, TDS, TCD, and Execution Lists.  Strong knowledge of UI, API, and Database Testing.  Experience with SQL and REST/SOAP services.  Familiarity with CI/CD tools such as Jenkins and Azure DevOps.  Knowledge of Agile/Scrum methodologies.  Strong analytical, problem-solving, and communication skills.   We also value collaboration and continuous improvement mindset—working closely with QA, Development, Business, and DevOps teams to raise coverage, improve stability, and support quality standards throughout delivery. ",
+      "date": 1790167127,
+      "salary": "3500–4000",
+      "url": "https://www.getonbrd.com/jobs/tricentis-tosca-developer-niuro-remote",
+      "source": "GetOnBoard",
+      "id": "a169dc997f67",
+      "score": 80,
+      "matches": [
+        "Rol QA ✓",
+        "automation",
+        "agile",
+        "scrum",
+        "sql",
+        "ci/cd",
+        "Remoto/Latam 🌐",
+        "Salario 💰"
+      ],
+      "warnings": [],
+      "verdict": "excelente"
+    },
     {
       "title": "Sr. Quality Engineer",
       "company": "CentralReach",
@@ -44,6 +68,24 @@
       "matches": [
         "Rol QA ✓",
         "automation"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    },
+    {
+      "title": "QA Engineer",
+      "company": "",
+      "location": "hybrid",
+      "description": " Buscamos un/a Ingeniero/a QA orientado/a a calidad de software en entornos modernos, con experiencia en arquitectura orientada a eventos y enfoque de pruebas end-to-end. En Xintec creemos en las personas y en la construcción diaria de equipos para alcanzar grandes objetivos; por eso valoramos la colaboración, la comunicación efectiva y la proactividad en el día a día.  Queremos que puedas asegurar la calidad del producto a través del análisis de requerimientos, el diseño y la ejecución de pruebas, y el levantamiento/seguimiento de defectos. También esperamos que puedas trabajar coordinadamente con equipos de desarrollo y de calidad, participar en ciclos de pruebas integradas y validar integraciones donde intervienen mensajería y persistencia.   Stack y experiencia esperada (alineado al ro",
+      "date": 1790342283,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/qa-engineer-xintec-santiago",
+      "source": "GetOnBoard",
+      "id": "24697a2d946e",
+      "score": 45,
+      "matches": [
+        "Rol QA ✓",
+        "defect"
       ],
       "warnings": [],
       "verdict": "bueno"
@@ -172,23 +214,5 @@
       "verdict": "regular"
     }
   ],
-  "new_jobs": [
-    {
-      "title": "Regulatory Specialist 2",
-      "company": "",
-      "location": "['United States']",
-      "description": " \n Position Title : \n \n  This position is a subject matter expert in global medical device and quality system regulations and is responsible for regulatory strategy and planning, authoring and submitting regulatory applications, assessing product design, manufacturing, labeling and quality system changes, authoring change impact assessments, and ensuring product labeling documentation, labels, promotional material, and product claims are accurate and compliant with global regulations. The Specialist will ensure adherence to company policy and procedures and will assist in maintaining quality control processes. This position will help the organization maximize the number of patients served while maintaining a high level of quality and safety through the support of the business functions.  \n",
-      "date": "",
-      "salary": null,
-      "url": "https://himalayas.app/companies/exalta-group/jobs/regulatory-specialist-2-4255382274",
-      "source": "Himalayas",
-      "id": "b11b9a5bb77f",
-      "score": 20,
-      "matches": [
-        "Rol QA (desc)"
-      ],
-      "warnings": [],
-      "verdict": "regular"
-    }
-  ]
+  "new_jobs": []
 }
