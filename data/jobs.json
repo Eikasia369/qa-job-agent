@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-26T19:37:04.413708+00:00",
+  "last_updated": "2026-09-27T01:12:25.509199+00:00",
   "total_fetched": 126,
   "sources": {
     "Remotive": 18,
@@ -8,7 +8,7 @@
     "Himalayas": 20,
     "Jobicy": 31
   },
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "title": "Sr. Quality Engineer",
@@ -172,23 +172,5 @@
       "verdict": "regular"
     }
   ],
-  "new_jobs": [
-    {
-      "title": "Healthcare Operations Manager",
-      "company": "",
-      "location": "['South Africa']",
-      "description": " Job Opening: QA Supervisor  Location: South Africa (Remote)  Employment Type: Full-Time  Working Hours: Monday to Friday (9 AM - 5 PM EST)  We are seeking a highly capable, self-directed  Provider Operations Manager  to oversee and coordinate a remote team of Nurse Practitioners across the United States within a  24/7, 365-day telemedicine operation .  This is a high-accountability role requiring someone who is confident managing healthcare providers remotely, maintaining operational coverage, resolving scheduling issues, and ensuring providers meet their commitments.  The successful candidate will be proactive, organised, decisive, and comfortable working independently. This role is best suited to someone who takes ownership, follows through consistently, and does not require close super",
-      "date": "",
-      "salary": null,
-      "url": "https://himalayas.app/companies/reworks-solutions/jobs/healthcare-operations-manager",
-      "source": "Himalayas",
-      "id": "c91e9dc38355",
-      "score": 20,
-      "matches": [
-        "Rol QA (desc)"
-      ],
-      "warnings": [],
-      "verdict": "regular"
-    }
-  ]
+  "new_jobs": []
 }
