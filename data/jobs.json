@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-27T15:33:36.668649+00:00",
+  "last_updated": "2026-09-27T19:59:08.439961+00:00",
   "total_fetched": 172,
   "sources": {
     "Remotive": 17,
@@ -8,7 +8,7 @@
     "Himalayas": 20,
     "Jobicy": 31
   },
-  "new_count": 0,
+  "new_count": 1,
   "jobs": [
     {
       "title": "Tosca Developer / QA Automation Engineer (Tricentis Tosca)",
@@ -195,7 +195,44 @@
       ],
       "warnings": [],
       "verdict": "regular"
+    },
+    {
+      "title": "&#x28;Senior&#x29; DevOps Engineer - Full Remote - Employee in USD",
+      "company": "",
+      "location": "['United States']",
+      "description": "Category: IT Services   Location:        For an international organization, we are urgently looking for a REMOTE DevOps Engineer. The DevOps Engineer collaborates with the various development, infrastructure, QA and PM teams to build and maintain end-to-end DevOps pipelines based on product/project needs.  \n  Candidates need to be able to work normal office hours of Manila.  Candidates need to be fluent in English. \n  \n Tasks and responsibilities:  \n  \n ​  \n  \n Design and implement DevOps solutions using Azure DevOps; \n \n Setup new build and release pipelines for new and existing applications on.Net, Java, PHP and mobile application technology stack; \n \n Integrate existing CI/CD toolset with Azure DevOps (Unit test, SonarQube, TestComplete, RedGate, Terraform, Fortify, Docker, etc); \n \n Co",
+      "date": "",
+      "salary": null,
+      "url": "https://himalayas.app/companies/gopro-consultancy-group-ltd/jobs/x28-senior-x29-devops-engineer-full-remote-employee-in-usd-2403338088",
+      "source": "Himalayas",
+      "id": "00f44e141d04",
+      "score": 25,
+      "matches": [
+        "Rol QA (desc)",
+        "ci/cd"
+      ],
+      "warnings": [],
+      "verdict": "regular"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "title": "&#x28;Senior&#x29; DevOps Engineer - Full Remote - Employee in USD",
+      "company": "",
+      "location": "['United States']",
+      "description": "Category: IT Services   Location:        For an international organization, we are urgently looking for a REMOTE DevOps Engineer. The DevOps Engineer collaborates with the various development, infrastructure, QA and PM teams to build and maintain end-to-end DevOps pipelines based on product/project needs.  \n  Candidates need to be able to work normal office hours of Manila.  Candidates need to be fluent in English. \n  \n Tasks and responsibilities:  \n  \n ​  \n  \n Design and implement DevOps solutions using Azure DevOps; \n \n Setup new build and release pipelines for new and existing applications on.Net, Java, PHP and mobile application technology stack; \n \n Integrate existing CI/CD toolset with Azure DevOps (Unit test, SonarQube, TestComplete, RedGate, Terraform, Fortify, Docker, etc); \n \n Co",
+      "date": "",
+      "salary": null,
+      "url": "https://himalayas.app/companies/gopro-consultancy-group-ltd/jobs/x28-senior-x29-devops-engineer-full-remote-employee-in-usd-2403338088",
+      "source": "Himalayas",
+      "id": "00f44e141d04",
+      "score": 25,
+      "matches": [
+        "Rol QA (desc)",
+        "ci/cd"
+      ],
+      "warnings": [],
+      "verdict": "regular"
+    }
+  ]
 }
