@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-09-28T01:28:14.786864+00:00",
-  "total_fetched": 172,
+  "last_updated": "2026-09-28T18:32:07.358370+00:00",
+  "total_fetched": 170,
   "sources": {
-    "Remotive": 17,
-    "WorkingNomads": 54,
+    "Remotive": 16,
+    "WorkingNomads": 53,
     "GetOnBoard": 50,
     "Himalayas": 20,
     "Jobicy": 31
   },
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "title": "Tosca Developer / QA Automation Engineer (Tricentis Tosca)",
@@ -195,42 +195,7 @@
       ],
       "warnings": [],
       "verdict": "regular"
-    },
-    {
-      "title": "Project Manager IV",
-      "company": "",
-      "location": "['United States']",
-      "description": "  \n   Qlarant  is a not-for-profit corporation that partners with public and private sectors to create high quality, safe, and efficient delivery of health care and human services programs. We have multiple lines of business including population health, utilization review, managed care organization quality review, and quality assurance for programs serving individuals with developmental disabilities.  Qlarant  is also a national leader in fighting fraud, waste and abuse for large organizations across the country. In addition, our Foundation provides grant opportunities to those with programs for underserved communities. \n Best People, Best Solutions, Best Results \n About the Role: \n The Project Manager IV plays a critical leadership role in overseeing complex, high-impact projects from ini",
-      "date": "",
-      "salary": null,
-      "url": "https://himalayas.app/companies/qlarant/jobs/project-manager-iv",
-      "source": "Himalayas",
-      "id": "f60c483435c1",
-      "score": 20,
-      "matches": [
-        "Rol QA (desc)"
-      ],
-      "warnings": [],
-      "verdict": "regular"
     }
   ],
-  "new_jobs": [
-    {
-      "title": "Project Manager IV",
-      "company": "",
-      "location": "['United States']",
-      "description": "  \n   Qlarant  is a not-for-profit corporation that partners with public and private sectors to create high quality, safe, and efficient delivery of health care and human services programs. We have multiple lines of business including population health, utilization review, managed care organization quality review, and quality assurance for programs serving individuals with developmental disabilities.  Qlarant  is also a national leader in fighting fraud, waste and abuse for large organizations across the country. In addition, our Foundation provides grant opportunities to those with programs for underserved communities. \n Best People, Best Solutions, Best Results \n About the Role: \n The Project Manager IV plays a critical leadership role in overseeing complex, high-impact projects from ini",
-      "date": "",
-      "salary": null,
-      "url": "https://himalayas.app/companies/qlarant/jobs/project-manager-iv",
-      "source": "Himalayas",
-      "id": "f60c483435c1",
-      "score": 20,
-      "matches": [
-        "Rol QA (desc)"
-      ],
-      "warnings": [],
-      "verdict": "regular"
-    }
-  ]
+  "new_jobs": []
 }
