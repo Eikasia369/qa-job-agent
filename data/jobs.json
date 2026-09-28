@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-27T19:59:08.439961+00:00",
+  "last_updated": "2026-09-28T01:28:14.786864+00:00",
   "total_fetched": 172,
   "sources": {
     "Remotive": 17,
@@ -197,19 +197,18 @@
       "verdict": "regular"
     },
     {
-      "title": "&#x28;Senior&#x29; DevOps Engineer - Full Remote - Employee in USD",
+      "title": "Project Manager IV",
       "company": "",
       "location": "['United States']",
-      "description": "Category: IT Services   Location:        For an international organization, we are urgently looking for a REMOTE DevOps Engineer. The DevOps Engineer collaborates with the various development, infrastructure, QA and PM teams to build and maintain end-to-end DevOps pipelines based on product/project needs.  \n  Candidates need to be able to work normal office hours of Manila.  Candidates need to be fluent in English. \n  \n Tasks and responsibilities:  \n  \n ​  \n  \n Design and implement DevOps solutions using Azure DevOps; \n \n Setup new build and release pipelines for new and existing applications on.Net, Java, PHP and mobile application technology stack; \n \n Integrate existing CI/CD toolset with Azure DevOps (Unit test, SonarQube, TestComplete, RedGate, Terraform, Fortify, Docker, etc); \n \n Co",
+      "description": "  \n   Qlarant  is a not-for-profit corporation that partners with public and private sectors to create high quality, safe, and efficient delivery of health care and human services programs. We have multiple lines of business including population health, utilization review, managed care organization quality review, and quality assurance for programs serving individuals with developmental disabilities.  Qlarant  is also a national leader in fighting fraud, waste and abuse for large organizations across the country. In addition, our Foundation provides grant opportunities to those with programs for underserved communities. \n Best People, Best Solutions, Best Results \n About the Role: \n The Project Manager IV plays a critical leadership role in overseeing complex, high-impact projects from ini",
       "date": "",
       "salary": null,
-      "url": "https://himalayas.app/companies/gopro-consultancy-group-ltd/jobs/x28-senior-x29-devops-engineer-full-remote-employee-in-usd-2403338088",
+      "url": "https://himalayas.app/companies/qlarant/jobs/project-manager-iv",
       "source": "Himalayas",
-      "id": "00f44e141d04",
-      "score": 25,
+      "id": "f60c483435c1",
+      "score": 20,
       "matches": [
-        "Rol QA (desc)",
-        "ci/cd"
+        "Rol QA (desc)"
       ],
       "warnings": [],
       "verdict": "regular"
@@ -217,19 +216,18 @@
   ],
   "new_jobs": [
     {
-      "title": "&#x28;Senior&#x29; DevOps Engineer - Full Remote - Employee in USD",
+      "title": "Project Manager IV",
       "company": "",
       "location": "['United States']",
-      "description": "Category: IT Services   Location:        For an international organization, we are urgently looking for a REMOTE DevOps Engineer. The DevOps Engineer collaborates with the various development, infrastructure, QA and PM teams to build and maintain end-to-end DevOps pipelines based on product/project needs.  \n  Candidates need to be able to work normal office hours of Manila.  Candidates need to be fluent in English. \n  \n Tasks and responsibilities:  \n  \n ​  \n  \n Design and implement DevOps solutions using Azure DevOps; \n \n Setup new build and release pipelines for new and existing applications on.Net, Java, PHP and mobile application technology stack; \n \n Integrate existing CI/CD toolset with Azure DevOps (Unit test, SonarQube, TestComplete, RedGate, Terraform, Fortify, Docker, etc); \n \n Co",
+      "description": "  \n   Qlarant  is a not-for-profit corporation that partners with public and private sectors to create high quality, safe, and efficient delivery of health care and human services programs. We have multiple lines of business including population health, utilization review, managed care organization quality review, and quality assurance for programs serving individuals with developmental disabilities.  Qlarant  is also a national leader in fighting fraud, waste and abuse for large organizations across the country. In addition, our Foundation provides grant opportunities to those with programs for underserved communities. \n Best People, Best Solutions, Best Results \n About the Role: \n The Project Manager IV plays a critical leadership role in overseeing complex, high-impact projects from ini",
       "date": "",
       "salary": null,
-      "url": "https://himalayas.app/companies/gopro-consultancy-group-ltd/jobs/x28-senior-x29-devops-engineer-full-remote-employee-in-usd-2403338088",
+      "url": "https://himalayas.app/companies/qlarant/jobs/project-manager-iv",
       "source": "Himalayas",
-      "id": "00f44e141d04",
-      "score": 25,
+      "id": "f60c483435c1",
+      "score": 20,
       "matches": [
-        "Rol QA (desc)",
-        "ci/cd"
+        "Rol QA (desc)"
       ],
       "warnings": [],
       "verdict": "regular"
