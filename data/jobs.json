@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-09-29T16:49:45.985632+00:00",
-  "total_fetched": 171,
+  "last_updated": "2026-09-29T21:18:20.003769+00:00",
+  "total_fetched": 174,
   "sources": {
     "Remotive": 16,
-    "WorkingNomads": 54,
+    "WorkingNomads": 57,
     "GetOnBoard": 50,
     "Himalayas": 20,
     "Jobicy": 31
   },
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "title": "Analista QA",
@@ -236,23 +236,5 @@
       "verdict": "regular"
     }
   ],
-  "new_jobs": [
-    {
-      "title": "Senior Electronics Quality Engineer",
-      "company": "",
-      "location": "['United States']",
-      "description": " Role Title: Senior Electronics Quality Engineer  Role Type: Contractor  Location: Remote (US-based preferred)   micro1  is engaging Senior Electronics Quality Engineers to contribute expert knowledge to a customer's project focused on advanced electronics assembly and inspection. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters.  Scope of Work  \n Review and evaluate PCB CAM and Gerber files for manufacturability, quality, and compliance with industry standards. \n Perform IPC 610 and IPC 620 visual inspections and provide detailed feedback on PCB assembly or wire harness builds. \n ",
-      "date": "",
-      "salary": null,
-      "url": "https://himalayas.app/companies/micro1/jobs/senior-electronics-quality-engineer",
-      "source": "Himalayas",
-      "id": "b91ab70055c4",
-      "score": 40,
-      "matches": [
-        "Rol QA ✓"
-      ],
-      "warnings": [],
-      "verdict": "regular"
-    }
-  ]
+  "new_jobs": []
 }
