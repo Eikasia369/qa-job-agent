@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-09-30T01:53:40.745327+00:00",
-  "total_fetched": 174,
+  "last_updated": "2026-09-30T16:44:05.633977+00:00",
+  "total_fetched": 173,
   "sources": {
     "Remotive": 16,
-    "WorkingNomads": 57,
+    "WorkingNomads": 56,
     "GetOnBoard": 50,
     "Himalayas": 20,
     "Jobicy": 31
@@ -55,6 +55,25 @@
       ],
       "warnings": [],
       "verdict": "excelente"
+    },
+    {
+      "title": "Senior Outsystems QA con Inglés y Español",
+      "company": "",
+      "location": "fully_remote",
+      "description": "  Mínimo 5 años de experiencia comprobable como QA en proyectos de tecnología y desarrollo de software.  Mínimo 3 años de experiencia comprobable como QA en proyectos desarrollados sobre OutSystems.  Experiencia en diseño y ejecución de pruebas funcionales, de integración, regresión y end-to-end.  Experiencia en pruebas de APIs REST e integraciones.  Conocimiento de metodologías ágiles y participación en diferentes etapas del ciclo de desarrollo de software.  Capacidad para documentar casos de prueba, resultados, evidencias, incidencias y seguimiento de defectos.  Conocimiento y aplicación de buenas prácticas de Quality Assurance.  Capacidad para comunicarse de manera fluida en inglés y español, tanto de forma oral como escrita, requisito indispensable para la interacción con equipos y sta",
+      "date": 1790772716,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/outsystems-qa-con-ingles-avanzado-i2b-technologies-remote",
+      "source": "GetOnBoard",
+      "id": "9e2c02b9df53",
+      "score": 55,
+      "matches": [
+        "Rol QA ✓",
+        "defect",
+        "Remoto/Latam 🌐"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
     },
     {
       "title": "Sr. Quality Engineer",
