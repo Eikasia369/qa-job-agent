@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-10-01T01:54:12.598601+00:00",
-  "total_fetched": 173,
+  "last_updated": "2026-10-01T17:18:20.181797+00:00",
+  "total_fetched": 159,
   "sources": {
     "Remotive": 16,
-    "WorkingNomads": 56,
+    "WorkingNomads": 59,
     "GetOnBoard": 50,
     "Himalayas": 20,
-    "Jobicy": 31
+    "Jobicy": 14
   },
-  "new_count": 0,
+  "new_count": 1,
   "jobs": [
     {
       "title": "Analista QA",
@@ -76,26 +76,6 @@
       "verdict": "bueno"
     },
     {
-      "title": "Sr. Quality Engineer",
-      "company": "CentralReach",
-      "location": "USA",
-      "description": "  CentralReach  is a leading provider of autism and IDD care software for Applied Behavior Analysis (ABA), multidisciplinary therapy, and special education. Trusted by more than 200,000 users, we enable therapy providers, educators, and employers to scale the way they deliver ABA and related therapies with innovative technology, market-leading industry expertise, and world-class customer satisfaction.  \n CentralReach is looking for a Sr. Quality Engineer to work within our Engineering department. As a Quality Engineer, you will help drive quality throughout the entire software life cycle through collaboration with product and development teams, development of test cases and automation scripts, and analysis of the system to consistently deliver quality software to our customers. If you are ",
-      "date": "2026-09-24T11:38:32+00:00",
-      "salary": "USD115000–140000",
-      "url": "https://jobicy.com/jobs/153999-sr-quality-engineer",
-      "source": "Jobicy",
-      "id": "8444ccc2847f",
-      "score": 55,
-      "matches": [
-        "Rol QA ✓",
-        "automation",
-        "test case",
-        "Salario 💰"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
-    },
-    {
       "title": "Senior QA Automation Engineer",
       "company": "Proxify",
       "location": "Time zone: CET (+/- 3 hours)",
@@ -132,40 +112,21 @@
       "verdict": "bueno"
     },
     {
-      "title": "Manager, Clinical Review and Quality Assurance",
-      "company": "SmithRx",
-      "location": "USA",
-      "description": "  Who We Are:  \n  SmithRx  is a rapidly growing, venture-backed Health-Tech company. Our mission is to disrupt the expensive and inefficient Pharmacy Benefit Management (PBM) sector by building a next-generation drug acquisition platform driven by cutting edge technology, innovative cost saving tools, and best-in-class customer service. With hundreds of thousands of members onboarded since 2016, SmithRx has a solution that is resonating with clients all across the country. \n We pride ourselves for our mission-driven and collaborative culture that inspires our employees to do their best work. We believe that the U.S healthcare system is in need of transformation, and we come to work each day dedicated to making that change a reality. At our core, we are guided by our company values: \n \n  In",
-      "date": "2026-09-18T14:43:04+00:00",
-      "salary": "USD136000–192000",
-      "url": "https://jobicy.com/jobs/153610-manager-clinical-review-and-quality-assurance-2",
-      "source": "Jobicy",
-      "id": "c52208cf0d40",
-      "score": 45,
+      "title": "Quality Assurance Rater - Spanish (ES)",
+      "company": "TELUS Digital",
+      "location": "Global",
+      "description": " Join our elite team of Senior Raters as a critical contributor to high-quality validation data that directly influences product development and quality assurance for leading search engines and AI technologies. \n This flexible, remote opportunity allows you to apply your analytical and research skills to evaluate search results and AI-generated content while contributing to the development of high-quality AI systems. \n   \n  A Day in the Life of a Quality Assurance Rater  \n In this role, you'll conduct analytical assessments of search results and AI responses, providing ratings and feedback that help improve AI model performance and search quality. \n Your work will maintain high quality standards and deliver the accuracy our clients depend on. \n You'll evaluate a variety of rating tasks, an",
+      "date": "2026-10-01T02:51:42-04:00",
+      "salary": null,
+      "url": "https://www.workingnomads.com/job/go/1906010/",
+      "source": "WorkingNomads",
+      "id": "7a0917d65ade",
+      "score": 40,
       "matches": [
-        "Rol QA ✓",
-        "Salario 💰"
+        "Rol QA ✓"
       ],
       "warnings": [],
-      "verdict": "bueno"
-    },
-    {
-      "title": "Senior Quality Assurance Engineer (Personify team)",
-      "company": "Bloomreach",
-      "location": "Czechia",
-      "description": "  Bloomreach  is building the world’s premier  agentic platform for personalization .We’re revolutionizing how businesses connect with their customers, building and deploying AI agents to personalize the   entire   customer journey. \n \n We're taking  autonomous search  mainstream, making product discovery more intuitive and conversational for customers, and more profitable for businesses. \n We’re making  conversational shopping  a reality, connecting every shopper with tailored guidance and product expertise — available on demand, at every touchpoint in their journey. \n We're designing the future of  autonomous marketing , taking the work out of workflows, and reclaiming the creative, strategic, and customer-first work marketers were always meant to do. \n \n And we're building all of that o",
-      "date": "2026-09-03T13:56:36+00:00",
-      "salary": "CZK1130000–1410000",
-      "url": "https://jobicy.com/jobs/152406-senior-quality-assurance-engineer-personify-team",
-      "source": "Jobicy",
-      "id": "6757d7fb0331",
-      "score": 45,
-      "matches": [
-        "Rol QA ✓",
-        "Salario 💰"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
+      "verdict": "regular"
     },
     {
       "title": "Quality Assurance Rater - Spanish (Spain)",
@@ -223,7 +184,7 @@
       "company": "",
       "location": "remote_local",
       "description": " Muchas ganas de participar en un equipo colaborativo, con actitud positiva frente a los cambios y desafíos, orientado al cliente, creativo y que nunca para de aprender.   Requerimientos del cargo    4 años de experiencia comprobable en asignaciones reales en Cargo de Mobile iOS  Experiencia en sector Financiero  Desarrollo y mantenimiento de aplicaciones iOS nativas en Swift  Uso de UIKit y/o SwiftUI aplicando patrones como MVVM  Diseño de interfaces intuitivas y accesibles  Integración de servicios mediante APIs RESTful  Participación en pruebas unitarias y de UI  Revisiones de código y mejoras técnicas  Documentación de decisiones de diseño  Colaboración con equipos de backend, QA y diseño  Aseguramiento de la calidad, seguridad y rendimiento de la aplicación  Identificación de oportuni",
-      "date": 1790717052,
+      "date": 1790866699,
       "salary": null,
       "url": "https://www.getonbrd.com/jobs/mobile-developer-ios-swift-42labs-remote",
       "source": "GetOnBoard",
@@ -235,26 +196,25 @@
       ],
       "warnings": [],
       "verdict": "regular"
-    },
+    }
+  ],
+  "new_jobs": [
     {
-      "title": "Director of Technology Operations (Fully Remote)",
-      "company": "PadSplit",
-      "location": "USA",
-      "description": "  The Role We Need  \n We’re hiring a Director of Technology Operations to lead the three functions that keep  PadSplit ’s technology and business operations healthy: Quality Assurance, IT &amp; internal tooling, and Security. You’ll inherit existing teams across each area and be responsible for modernizing how they work: moving QA toward automation, IT toward proactive enablement, and Security toward a structured, risk-based program. \n This is a hands-on leadership role. You’ll set strategy and own outcomes across all three areas, while staying close enough to the work to evaluate a test architecture, challenge a vendor renewal, or lead an incident review yourself. \n  The Person We Are Looking For  \n We’re looking for a technology leader who has led multiple technology operations functions",
-      "date": "2026-09-22T13:32:43+00:00",
-      "salary": "USD160000–180000",
-      "url": "https://jobicy.com/jobs/153870-director-of-technology-operations-fully-remote",
-      "source": "Jobicy",
-      "id": "44b9be916108",
-      "score": 30,
+      "title": "Quality Assurance Rater - Spanish (ES)",
+      "company": "TELUS Digital",
+      "location": "Global",
+      "description": " Join our elite team of Senior Raters as a critical contributor to high-quality validation data that directly influences product development and quality assurance for leading search engines and AI technologies. \n This flexible, remote opportunity allows you to apply your analytical and research skills to evaluate search results and AI-generated content while contributing to the development of high-quality AI systems. \n   \n  A Day in the Life of a Quality Assurance Rater  \n In this role, you'll conduct analytical assessments of search results and AI responses, providing ratings and feedback that help improve AI model performance and search quality. \n Your work will maintain high quality standards and deliver the accuracy our clients depend on. \n You'll evaluate a variety of rating tasks, an",
+      "date": "2026-10-01T02:51:42-04:00",
+      "salary": null,
+      "url": "https://www.workingnomads.com/job/go/1906010/",
+      "source": "WorkingNomads",
+      "id": "7a0917d65ade",
+      "score": 40,
       "matches": [
-        "Rol QA (desc)",
-        "automation",
-        "Salario 💰"
+        "Rol QA ✓"
       ],
       "warnings": [],
       "verdict": "regular"
     }
-  ],
-  "new_jobs": []
+  ]
 }
