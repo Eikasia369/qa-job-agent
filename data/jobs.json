@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-01T17:18:20.181797+00:00",
+  "last_updated": "2026-10-02T02:03:55.762473+00:00",
   "total_fetched": 159,
   "sources": {
     "Remotive": 16,
@@ -8,7 +8,7 @@
     "Himalayas": 20,
     "Jobicy": 14
   },
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "title": "Analista QA",
@@ -198,23 +198,5 @@
       "verdict": "regular"
     }
   ],
-  "new_jobs": [
-    {
-      "title": "Quality Assurance Rater - Spanish (ES)",
-      "company": "TELUS Digital",
-      "location": "Global",
-      "description": " Join our elite team of Senior Raters as a critical contributor to high-quality validation data that directly influences product development and quality assurance for leading search engines and AI technologies. \n This flexible, remote opportunity allows you to apply your analytical and research skills to evaluate search results and AI-generated content while contributing to the development of high-quality AI systems. \n   \n  A Day in the Life of a Quality Assurance Rater  \n In this role, you'll conduct analytical assessments of search results and AI responses, providing ratings and feedback that help improve AI model performance and search quality. \n Your work will maintain high quality standards and deliver the accuracy our clients depend on. \n You'll evaluate a variety of rating tasks, an",
-      "date": "2026-10-01T02:51:42-04:00",
-      "salary": null,
-      "url": "https://www.workingnomads.com/job/go/1906010/",
-      "source": "WorkingNomads",
-      "id": "7a0917d65ade",
-      "score": 40,
-      "matches": [
-        "Rol QA ✓"
-      ],
-      "warnings": [],
-      "verdict": "regular"
-    }
-  ]
+  "new_jobs": []
 }
