@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-10-02T16:33:20.710575+00:00",
-  "total_fetched": 158,
+  "last_updated": "2026-10-02T21:13:20.024273+00:00",
+  "total_fetched": 159,
   "sources": {
     "Remotive": 17,
     "WorkingNomads": 59,
     "GetOnBoard": 50,
     "Himalayas": 20,
-    "Jobicy": 12
+    "Jobicy": 13
   },
-  "new_count": 0,
+  "new_count": 3,
   "jobs": [
     {
       "title": "Analista QA",
@@ -52,6 +52,29 @@
         "sql",
         "ci/cd",
         "Remoto/Latam 🌐"
+      ],
+      "warnings": [],
+      "verdict": "excelente"
+    },
+    {
+      "title": "Test Lead Automation",
+      "company": "",
+      "location": "['United States']",
+      "description": " Quality Assurance (QA)/Business Systems Analyst (BSA) for Learning Systems Key   Remote   Advanced english   Only in Mexico   Responsibilities: QA (Primary)  \n Execute end to end regression testing for vendor releases, enhancements, and configuration changes across learning platforms \n Lead and support User Acceptance Testing (UAT) in partnership with business stakeholders \n Maintain, update, and execute automated test scripts \n Communicate and follow defects found in testing to vendor for quick resolution \n Validate fixes and enhancements across lower, sandbox, and production environments \n Document test results, defects, screenshots, and evidence in Jira and qTest \n Create, update, and maintain automated regression scripts \n Execute and analyze automation runs using Playwright \n Identif",
+      "date": "",
+      "salary": null,
+      "url": "https://himalayas.app/companies/valce-talent-solutions/jobs/test-lead-automation",
+      "source": "Himalayas",
+      "id": "606c93224fc0",
+      "score": 70,
+      "matches": [
+        "Rol QA ✓",
+        "playwright",
+        "automation",
+        "jira",
+        "regression",
+        "defect",
+        "acceptance testing"
       ],
       "warnings": [],
       "verdict": "excelente"
@@ -180,6 +203,23 @@
       "verdict": "regular"
     },
     {
+      "title": "Contact Center/CX Quality Assurance Lead (Houston)",
+      "company": "Clover Health",
+      "location": "USA",
+      "description": " At  Clover Health , every member interaction builds trust and shapes health outcomes. We are hiring a Quality Assurance Lead to own and mature the Quality Assurance program for Clover's Houston Experience Center, holding every member interaction to our standards for accuracy, empathy, compliance, and service. \n You will own the end-to-end program: standards, scorecards, calibration, governance, reporting, appeals, and continuous improvement. You will lead a team of QA analysts and partner with Operations, Training, HR, Compliance, and Member Experience leadership to turn quality insights into improvements for members, agents, and leaders. The role asks for objectivity and partnership at once: QA here is developmental, using data to find trends and turn them into coaching that moves perfor",
+      "date": "2026-10-02T15:24:05+00:00",
+      "salary": null,
+      "url": "https://jobicy.com/jobs/154427-contact-center-cx-quality-assurance-lead-houston",
+      "source": "Jobicy",
+      "id": "209454e11240",
+      "score": 40,
+      "matches": [
+        "Rol QA ✓"
+      ],
+      "warnings": [],
+      "verdict": "regular"
+    },
+    {
       "title": "Desarrollador/a Full-Stack",
       "company": "",
       "location": "fully_remote",
@@ -214,7 +254,84 @@
       ],
       "warnings": [],
       "verdict": "regular"
+    },
+    {
+      "title": "Supervisor de Ventas",
+      "company": "",
+      "location": "['Colombia']",
+      "description": " Description  📚 TripleTen  is an award-winning online school among technology bootcamps. Our mission is to help people change their lives and succeed in technology. We offer flexibility in studies, career mentoring, resume and portfolio preparation, and we guarantee employment after the course. Our employability rate among graduates is 87% across our Web Development, Quality Assurance (QA), Data Analytics and Data Science programs.  We're looking for a dynamic, results-driven  Senior B2C  Sales Team Leader  to lead our LATAM team in selling our product across the Latin American market.  What you will do  \n Hit the team sales quota by leading a team of up to 12 sales specialists. \n Hire, onboard, motivate and control the performance of your sales team. \n Together with Head of Sales and the ",
+      "date": "",
+      "salary": null,
+      "url": "https://himalayas.app/companies/tripleten/jobs/supervisor-de-ventas-6430638697",
+      "source": "Himalayas",
+      "id": "087248d9b0b4",
+      "score": 30,
+      "matches": [
+        "Rol QA (desc)",
+        "Remoto/Latam 🌐"
+      ],
+      "warnings": [],
+      "verdict": "regular"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "title": "Test Lead Automation",
+      "company": "",
+      "location": "['United States']",
+      "description": " Quality Assurance (QA)/Business Systems Analyst (BSA) for Learning Systems Key   Remote   Advanced english   Only in Mexico   Responsibilities: QA (Primary)  \n Execute end to end regression testing for vendor releases, enhancements, and configuration changes across learning platforms \n Lead and support User Acceptance Testing (UAT) in partnership with business stakeholders \n Maintain, update, and execute automated test scripts \n Communicate and follow defects found in testing to vendor for quick resolution \n Validate fixes and enhancements across lower, sandbox, and production environments \n Document test results, defects, screenshots, and evidence in Jira and qTest \n Create, update, and maintain automated regression scripts \n Execute and analyze automation runs using Playwright \n Identif",
+      "date": "",
+      "salary": null,
+      "url": "https://himalayas.app/companies/valce-talent-solutions/jobs/test-lead-automation",
+      "source": "Himalayas",
+      "id": "606c93224fc0",
+      "score": 70,
+      "matches": [
+        "Rol QA ✓",
+        "playwright",
+        "automation",
+        "jira",
+        "regression",
+        "defect",
+        "acceptance testing"
+      ],
+      "warnings": [],
+      "verdict": "excelente"
+    },
+    {
+      "title": "Contact Center/CX Quality Assurance Lead (Houston)",
+      "company": "Clover Health",
+      "location": "USA",
+      "description": " At  Clover Health , every member interaction builds trust and shapes health outcomes. We are hiring a Quality Assurance Lead to own and mature the Quality Assurance program for Clover's Houston Experience Center, holding every member interaction to our standards for accuracy, empathy, compliance, and service. \n You will own the end-to-end program: standards, scorecards, calibration, governance, reporting, appeals, and continuous improvement. You will lead a team of QA analysts and partner with Operations, Training, HR, Compliance, and Member Experience leadership to turn quality insights into improvements for members, agents, and leaders. The role asks for objectivity and partnership at once: QA here is developmental, using data to find trends and turn them into coaching that moves perfor",
+      "date": "2026-10-02T15:24:05+00:00",
+      "salary": null,
+      "url": "https://jobicy.com/jobs/154427-contact-center-cx-quality-assurance-lead-houston",
+      "source": "Jobicy",
+      "id": "209454e11240",
+      "score": 40,
+      "matches": [
+        "Rol QA ✓"
+      ],
+      "warnings": [],
+      "verdict": "regular"
+    },
+    {
+      "title": "Supervisor de Ventas",
+      "company": "",
+      "location": "['Colombia']",
+      "description": " Description  📚 TripleTen  is an award-winning online school among technology bootcamps. Our mission is to help people change their lives and succeed in technology. We offer flexibility in studies, career mentoring, resume and portfolio preparation, and we guarantee employment after the course. Our employability rate among graduates is 87% across our Web Development, Quality Assurance (QA), Data Analytics and Data Science programs.  We're looking for a dynamic, results-driven  Senior B2C  Sales Team Leader  to lead our LATAM team in selling our product across the Latin American market.  What you will do  \n Hit the team sales quota by leading a team of up to 12 sales specialists. \n Hire, onboard, motivate and control the performance of your sales team. \n Together with Head of Sales and the ",
+      "date": "",
+      "salary": null,
+      "url": "https://himalayas.app/companies/tripleten/jobs/supervisor-de-ventas-6430638697",
+      "source": "Himalayas",
+      "id": "087248d9b0b4",
+      "score": 30,
+      "matches": [
+        "Rol QA (desc)",
+        "Remoto/Latam 🌐"
+      ],
+      "warnings": [],
+      "verdict": "regular"
+    }
+  ]
 }
