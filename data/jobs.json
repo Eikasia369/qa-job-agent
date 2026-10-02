@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-10-02T02:03:55.762473+00:00",
-  "total_fetched": 159,
+  "last_updated": "2026-10-02T16:33:20.710575+00:00",
+  "total_fetched": 158,
   "sources": {
-    "Remotive": 16,
+    "Remotive": 17,
     "WorkingNomads": 59,
     "GetOnBoard": 50,
     "Himalayas": 20,
-    "Jobicy": 14
+    "Jobicy": 12
   },
   "new_count": 0,
   "jobs": [
@@ -175,6 +175,24 @@
       "score": 40,
       "matches": [
         "Rol QA ✓"
+      ],
+      "warnings": [],
+      "verdict": "regular"
+    },
+    {
+      "title": "Desarrollador/a Full-Stack",
+      "company": "",
+      "location": "fully_remote",
+      "description": " Buscamos una persona que disfrute construir productos con foco en impacto y que tenga una base sólida en desarrollo de software para sistemas modernos y cloud.   Requisitos técnicos      Backend:  experiencia con  Node.js  y/o  Python  para crear APIs y servicios.     Frontend:  experiencia con  Angular  para implementar interfaces y consumir APIs.     Cloud (AWS):  experiencia con  S3 ,  Redshift ,  Data Lake ,  Step Functions ,  Lambda ,  API Gateway  e  IAM .     Experiencia y forma de trabajar     Capacidad para traducir necesidades de negocio en soluciones técnicas claras.    Orientación a la calidad: buenas prácticas de desarrollo, revisión de código, y atención a performance y seguridad.    Colaboración efectiva con equipos multidisciplinarios (producto, datos, QA y operaciones).  ",
+      "date": 1790953814,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/desarrollador-a-full-stack-agilistik-remote",
+      "source": "GetOnBoard",
+      "id": "b7e5895df530",
+      "score": 30,
+      "matches": [
+        "Rol QA (desc)",
+        "Remoto/Latam 🌐"
       ],
       "warnings": [],
       "verdict": "regular"
