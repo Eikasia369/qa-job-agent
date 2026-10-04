@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-10-04T02:28:57.648101+00:00",
-  "total_fetched": 161,
+  "last_updated": "2026-10-04T15:42:04.810192+00:00",
+  "total_fetched": 163,
   "sources": {
-    "Remotive": 16,
-    "WorkingNomads": 59,
+    "Remotive": 18,
+    "WorkingNomads": 57,
     "GetOnBoard": 50,
     "Himalayas": 20,
-    "Jobicy": 16
+    "Jobicy": 18
   },
   "new_count": 0,
   "jobs": [
@@ -84,6 +84,24 @@
       "matches": [
         "Rol QA ✓",
         "defect"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    },
+    {
+      "title": "Senior Quality Assurance Engineer (Personify team)",
+      "company": "Bloomreach",
+      "location": "Czechia",
+      "description": "  Bloomreach  is building the world’s premier  agentic platform for personalization .We’re revolutionizing how businesses connect with their customers, building and deploying AI agents to personalize the   entire   customer journey. \n \n We're taking  autonomous search  mainstream, making product discovery more intuitive and conversational for customers, and more profitable for businesses. \n We’re making  conversational shopping  a reality, connecting every shopper with tailored guidance and product expertise — available on demand, at every touchpoint in their journey. \n We're designing the future of  autonomous marketing , taking the work out of workflows, and reclaiming the creative, strategic, and customer-first work marketers were always meant to do. \n \n And we're building all of that o",
+      "date": "2026-10-04T04:30:13+00:00",
+      "salary": "CZK1130000–1410000",
+      "url": "https://jobicy.com/jobs/152406-senior-quality-assurance-engineer-personify-team",
+      "source": "Jobicy",
+      "id": "6757d7fb0331",
+      "score": 45,
+      "matches": [
+        "Rol QA ✓",
+        "Salario 💰"
       ],
       "warnings": [],
       "verdict": "bueno"
