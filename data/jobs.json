@@ -1,15 +1,59 @@
 {
-  "last_updated": "2026-10-06T02:46:27.134126+00:00",
-  "total_fetched": 160,
+  "last_updated": "2026-10-06T17:04:51.459585+00:00",
+  "total_fetched": 161,
   "sources": {
-    "Remotive": 17,
-    "WorkingNomads": 56,
+    "Remotive": 18,
+    "WorkingNomads": 57,
     "GetOnBoard": 50,
     "Himalayas": 20,
-    "Jobicy": 17
+    "Jobicy": 16
   },
-  "new_count": 0,
+  "new_count": 1,
   "jobs": [
+    {
+      "title": "Analista QA Funcional / Automatizador",
+      "company": "",
+      "location": "hybrid",
+      "description": " Buscamos Analista QA con experiencia en pruebas funcionales y conocimientos de automatización, para integrarse a un equipo de desarrollo de aplicaciones móviles.   Perfil:  profesional analítico, metódico y orientado al detalle, con capacidad para identificar errores, documentarlos claramente y trabajar colaborativamente con equipos de desarrollo. No se requiere un perfil altamente senior, pero sí autonomía para ejecutar pruebas y conocimientos básicos de automatización.   Skills requeridos:    1 a 3 años de experiencia en QA/testing.  Experiencia en testing funcional de aplicaciones móviles  Android  e  iOS .  Manejo de herramientas de gestión de incidencias, idealmente  Jira  o  Azure DevOps .  Conocimientos de  API Testing , idealmente  Postman .  Conocimientos básicos de  SQL .  Exper",
+      "date": 1791293646,
+      "salary": "1400–1700",
+      "url": "https://www.getonbrd.com/jobs/analista-qa-funcional-automatizador-tcit-santiago-d14e",
+      "source": "GetOnBoard",
+      "id": "9cd5d1b69020",
+      "score": 65,
+      "matches": [
+        "Rol QA ✓",
+        "postman",
+        "api testing",
+        "jira",
+        "sql",
+        "Salario 💰"
+      ],
+      "warnings": [],
+      "verdict": "excelente"
+    },
+    {
+      "title": "QA Automation Engineer",
+      "company": "",
+      "location": "hybrid",
+      "description": " Buscamos un/a profesional con experiencia comprobable en automatización de pruebas y con capacidad para colaborar de forma efectiva con ingeniería. Valoramos especialmente la mentalidad orientada a calidad, el pensamiento analítico y la proactividad para proponer mejoras.    Experiencia  en automatización de pruebas con  Playwright .   Conocimiento y experiencia  en  GCP .   Certificación  o conocimientos sólidos en  ISTQB .   Deseable : experiencia con  Selenium  y/o  Cypress .   Familiaridad  con pipelines de  CI/CD .   En cuanto a habilidades, esperamos que puedas:   Trabajar con foco en resultados, manteniendo la calidad y la estabilidad de la automatización.  Analizar fallas de manera metódica y proponer acciones concretas para reducir regresiones.  Comunicar métricas y hallazgos de ",
+      "date": 1791291968,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/qa-automation-engineer-xintec-santiago",
+      "source": "GetOnBoard",
+      "id": "03b5db6651bd",
+      "score": 65,
+      "matches": [
+        "Rol QA ✓",
+        "playwright",
+        "automation",
+        "selenium",
+        "cypress",
+        "ci/cd"
+      ],
+      "warnings": [],
+      "verdict": "excelente"
+    },
     {
       "title": "Senior Outsystems QA con Inglés y Español",
       "company": "",
@@ -187,5 +231,28 @@
       "verdict": "regular"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "title": "Analista QA Funcional / Automatizador",
+      "company": "",
+      "location": "hybrid",
+      "description": " Buscamos Analista QA con experiencia en pruebas funcionales y conocimientos de automatización, para integrarse a un equipo de desarrollo de aplicaciones móviles.   Perfil:  profesional analítico, metódico y orientado al detalle, con capacidad para identificar errores, documentarlos claramente y trabajar colaborativamente con equipos de desarrollo. No se requiere un perfil altamente senior, pero sí autonomía para ejecutar pruebas y conocimientos básicos de automatización.   Skills requeridos:    1 a 3 años de experiencia en QA/testing.  Experiencia en testing funcional de aplicaciones móviles  Android  e  iOS .  Manejo de herramientas de gestión de incidencias, idealmente  Jira  o  Azure DevOps .  Conocimientos de  API Testing , idealmente  Postman .  Conocimientos básicos de  SQL .  Exper",
+      "date": 1791293646,
+      "salary": "1400–1700",
+      "url": "https://www.getonbrd.com/jobs/analista-qa-funcional-automatizador-tcit-santiago-d14e",
+      "source": "GetOnBoard",
+      "id": "9cd5d1b69020",
+      "score": 65,
+      "matches": [
+        "Rol QA ✓",
+        "postman",
+        "api testing",
+        "jira",
+        "sql",
+        "Salario 💰"
+      ],
+      "warnings": [],
+      "verdict": "excelente"
+    }
+  ]
 }
