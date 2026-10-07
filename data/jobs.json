@@ -1,15 +1,87 @@
 {
-  "last_updated": "2026-10-07T02:10:17.238924+00:00",
-  "total_fetched": 159,
+  "last_updated": "2026-10-07T17:42:30.400784+00:00",
+  "total_fetched": 163,
   "sources": {
-    "Remotive": 18,
-    "WorkingNomads": 56,
+    "Remotive": 17,
+    "WorkingNomads": 57,
     "GetOnBoard": 50,
     "Himalayas": 20,
-    "Jobicy": 15
+    "Jobicy": 19
   },
-  "new_count": 1,
+  "new_count": 2,
   "jobs": [
+    {
+      "title": "SDET (Software Development Engineer in Test)",
+      "company": "",
+      "location": "fully_remote",
+      "description": "  Proficiency in TypeScript and JavaScript (ES6+)  Strong experience with React and modern frontend testing  Hands-on experience with AWS services and cloud-based testing infrastructure  Experience with test automation frameworks (Selenium, Cypress, Playwright, or similar)  Strong proficiency in unit testing and integration testing  Experience with CI/CD tools (Jenkins, GitHub Actions, GitLab CI, or equivalent)  Knowledge of API testing and tools (REST, GraphQL, Postman, etc.)  Experience with version control systems (Git)  Strong understanding of software development lifecycle and QA methodologies  ",
+      "date": 1791348350,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/sdet-software-development-engineer-in-test-improving-remote",
+      "source": "GetOnBoard",
+      "id": "f5647d7b7ac8",
+      "score": 100,
+      "matches": [
+        "Rol QA ✓",
+        "playwright",
+        "postman",
+        "api testing",
+        "automation",
+        "selenium",
+        "javascript",
+        "typescript"
+      ],
+      "warnings": [],
+      "verdict": "excelente"
+    },
+    {
+      "title": "Senior QA Automation Engineer (.NET/C#)",
+      "company": "",
+      "location": "remote_local",
+      "description": " Experiencia requerida   Amplia experiencia  en creación de conjuntos de pruebas de regresión automatizadas:     Pruebas funcionales  Pruebas de extremo a extremo (E2E)  Pruebas de integración  Pruebas de API  Pruebas a nivel de base de datos      Especialización en automatización con tecnologías Microsoft :   C# / .NET  Herramientas de automatización: Playwright, Selenium, NUnit, xUnit, MSTest o SpecFlow   Pruebas de API y datos :  Experiencia en pruebas de API REST  Validación de datos en SQL Server    DevOps y CI/CD :   Experiencia sólida con procesos de CI/CD en Azure DevOps    Inglés:    Intermedio-avanzado o avanzado (indispensable)   ",
+      "date": 1791379444,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/senior-qa-automation-engineer-net-c-improving-remote",
+      "source": "GetOnBoard",
+      "id": "c95c27c8d6b6",
+      "score": 85,
+      "matches": [
+        "Rol QA ✓",
+        "playwright",
+        "api rest",
+        "automation",
+        "selenium",
+        "sql",
+        "ci/cd",
+        "e2e"
+      ],
+      "warnings": [],
+      "verdict": "excelente"
+    },
+    {
+      "title": "QA Automation Engineer (Azure)",
+      "company": "",
+      "location": "remote_local",
+      "description": " We’re looking for a QA Automation Engineer with hands-on experience delivering automated testing at the functional, integration, or API level.    Experience:  2–4 years of experience in automated software testing (functional, integration, or API level).   Automation &amp; languages:  Working knowledge of  C#/.NET  and a testing framework such as  Playwright ,  Selenium ,  NUnit ,  xUnit ,  MSTest , or  SpecFlow .   Data validation:  Basic skills with  SQL Server  queries and validating expected data outcomes.   Version control &amp; pipelines:  Familiarity with  Git  and  CI/CD  pipelines (including automated execution and monitoring).   Domain exposure:  Experience with logistics, warehouse, receiving, or supply-chain systems is a plus.   Application types:  Exposure to configuration-dri",
+      "date": 1791348183,
+      "salary": "3100–4000",
+      "url": "https://www.getonbrd.com/jobs/qa-automation-engineer-azure-improving-remote",
+      "source": "GetOnBoard",
+      "id": "9cddcf4eb353",
+      "score": 80,
+      "matches": [
+        "Rol QA ✓",
+        "playwright",
+        "automation",
+        "selenium",
+        "sql",
+        "ci/cd",
+        "Remoto/Latam 🌐",
+        "Salario 💰"
+      ],
+      "warnings": [],
+      "verdict": "excelente"
+    },
     {
       "title": "Analista QA Funcional / Automatizador",
       "company": "",
@@ -199,23 +271,6 @@
       "verdict": "regular"
     },
     {
-      "title": "Quality Assurance & Compliance Lead",
-      "company": "",
-      "location": "['United States']",
-      "description": " About AlphaGov  AlphaGov, a division of Casa Moon LLC, helps government agencies and public-sector organizations make informed workforce decisions. Our work includes workforce intelligence, labor market analysis, workforce planning, economic development, program evaluation, compensation studies, and infrastructure workforce advisory.  We combine an internal delivery team with a network of more than 2,000 subject matter experts. Reliable analysis, clear documentation, and compliance with client requirements are central to our work.  The opportunity  We are seeking a Quality Assurance &amp; Compliance Lead to establish and manage independent review of proposals, project documentation, and client deliverables.  You will verify that our work addresses the controlling requirements, that findin",
-      "date": "",
-      "salary": null,
-      "url": "https://himalayas.app/companies/alphahire/jobs/quality-assurance-compliance-lead",
-      "source": "Himalayas",
-      "id": "98df3e1a0cd1",
-      "score": 40,
-      "matches": [
-        "Rol QA ✓"
-      ],
-      "warnings": [],
-      "verdict": "regular"
-    },
-    {
       "title": "Contact Center/CX Quality Assurance Lead (Houston)",
       "company": "Clover Health",
       "location": "USA",
@@ -253,21 +308,52 @@
   ],
   "new_jobs": [
     {
-      "title": "Quality Assurance & Compliance Lead",
+      "title": "Senior QA Automation Engineer (.NET/C#)",
       "company": "",
-      "location": "['United States']",
-      "description": " About AlphaGov  AlphaGov, a division of Casa Moon LLC, helps government agencies and public-sector organizations make informed workforce decisions. Our work includes workforce intelligence, labor market analysis, workforce planning, economic development, program evaluation, compensation studies, and infrastructure workforce advisory.  We combine an internal delivery team with a network of more than 2,000 subject matter experts. Reliable analysis, clear documentation, and compliance with client requirements are central to our work.  The opportunity  We are seeking a Quality Assurance &amp; Compliance Lead to establish and manage independent review of proposals, project documentation, and client deliverables.  You will verify that our work addresses the controlling requirements, that findin",
-      "date": "",
+      "location": "remote_local",
+      "description": " Experiencia requerida   Amplia experiencia  en creación de conjuntos de pruebas de regresión automatizadas:     Pruebas funcionales  Pruebas de extremo a extremo (E2E)  Pruebas de integración  Pruebas de API  Pruebas a nivel de base de datos      Especialización en automatización con tecnologías Microsoft :   C# / .NET  Herramientas de automatización: Playwright, Selenium, NUnit, xUnit, MSTest o SpecFlow   Pruebas de API y datos :  Experiencia en pruebas de API REST  Validación de datos en SQL Server    DevOps y CI/CD :   Experiencia sólida con procesos de CI/CD en Azure DevOps    Inglés:    Intermedio-avanzado o avanzado (indispensable)   ",
+      "date": 1791379444,
       "salary": null,
-      "url": "https://himalayas.app/companies/alphahire/jobs/quality-assurance-compliance-lead",
-      "source": "Himalayas",
-      "id": "98df3e1a0cd1",
-      "score": 40,
+      "url": "https://www.getonbrd.com/jobs/senior-qa-automation-engineer-net-c-improving-remote",
+      "source": "GetOnBoard",
+      "id": "c95c27c8d6b6",
+      "score": 85,
       "matches": [
-        "Rol QA ✓"
+        "Rol QA ✓",
+        "playwright",
+        "api rest",
+        "automation",
+        "selenium",
+        "sql",
+        "ci/cd",
+        "e2e"
       ],
       "warnings": [],
-      "verdict": "regular"
+      "verdict": "excelente"
+    },
+    {
+      "title": "QA Automation Engineer (Azure)",
+      "company": "",
+      "location": "remote_local",
+      "description": " We’re looking for a QA Automation Engineer with hands-on experience delivering automated testing at the functional, integration, or API level.    Experience:  2–4 years of experience in automated software testing (functional, integration, or API level).   Automation &amp; languages:  Working knowledge of  C#/.NET  and a testing framework such as  Playwright ,  Selenium ,  NUnit ,  xUnit ,  MSTest , or  SpecFlow .   Data validation:  Basic skills with  SQL Server  queries and validating expected data outcomes.   Version control &amp; pipelines:  Familiarity with  Git  and  CI/CD  pipelines (including automated execution and monitoring).   Domain exposure:  Experience with logistics, warehouse, receiving, or supply-chain systems is a plus.   Application types:  Exposure to configuration-dri",
+      "date": 1791348183,
+      "salary": "3100–4000",
+      "url": "https://www.getonbrd.com/jobs/qa-automation-engineer-azure-improving-remote",
+      "source": "GetOnBoard",
+      "id": "9cddcf4eb353",
+      "score": 80,
+      "matches": [
+        "Rol QA ✓",
+        "playwright",
+        "automation",
+        "selenium",
+        "sql",
+        "ci/cd",
+        "Remoto/Latam 🌐",
+        "Salario 💰"
+      ],
+      "warnings": [],
+      "verdict": "excelente"
     }
   ]
 }
