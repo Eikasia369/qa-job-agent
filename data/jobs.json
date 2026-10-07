@@ -1,32 +1,33 @@
 {
-  "last_updated": "2026-10-06T17:04:51.459585+00:00",
-  "total_fetched": 161,
+  "last_updated": "2026-10-07T02:10:17.238924+00:00",
+  "total_fetched": 159,
   "sources": {
     "Remotive": 18,
-    "WorkingNomads": 57,
+    "WorkingNomads": 56,
     "GetOnBoard": 50,
     "Himalayas": 20,
-    "Jobicy": 16
+    "Jobicy": 15
   },
   "new_count": 1,
   "jobs": [
     {
       "title": "Analista QA Funcional / Automatizador",
       "company": "",
-      "location": "hybrid",
+      "location": "fully_remote",
       "description": " Buscamos Analista QA con experiencia en pruebas funcionales y conocimientos de automatización, para integrarse a un equipo de desarrollo de aplicaciones móviles.   Perfil:  profesional analítico, metódico y orientado al detalle, con capacidad para identificar errores, documentarlos claramente y trabajar colaborativamente con equipos de desarrollo. No se requiere un perfil altamente senior, pero sí autonomía para ejecutar pruebas y conocimientos básicos de automatización.   Skills requeridos:    1 a 3 años de experiencia en QA/testing.  Experiencia en testing funcional de aplicaciones móviles  Android  e  iOS .  Manejo de herramientas de gestión de incidencias, idealmente  Jira  o  Azure DevOps .  Conocimientos de  API Testing , idealmente  Postman .  Conocimientos básicos de  SQL .  Exper",
       "date": 1791293646,
       "salary": "1400–1700",
       "url": "https://www.getonbrd.com/jobs/analista-qa-funcional-automatizador-tcit-santiago-d14e",
       "source": "GetOnBoard",
       "id": "9cd5d1b69020",
-      "score": 65,
+      "score": 75,
       "matches": [
         "Rol QA ✓",
         "postman",
         "api testing",
         "jira",
         "sql",
+        "Remoto/Latam 🌐",
         "Salario 💰"
       ],
       "warnings": [],
@@ -53,6 +54,26 @@
       ],
       "warnings": [],
       "verdict": "excelente"
+    },
+    {
+      "title": "QA Analyst",
+      "company": "",
+      "location": "fully_remote",
+      "description": " We are seeking a QA Engineer with experience validating data pipelines and AI systems, with a strong eye for both technical and business correctness.   Experience testing data pipelines, API integrations, and reporting outputs  Ability to validate software behavior, data correctness, and business logic simultaneously  Experience building test cases for retry flows, escalation paths, schema drift, DQ checks, review queues, and NL query outputs  Strong UAT coordination skills with business and technical stakeholders  Ability to test AI-assisted systems with acceptance thresholds, golden datasets, and exception handling  ",
+      "date": 1791310324,
+      "salary": "3500–4000",
+      "url": "https://www.getonbrd.com/jobs/qa-engineer-zaelot-remote",
+      "source": "GetOnBoard",
+      "id": "56d0d70c1a9f",
+      "score": 60,
+      "matches": [
+        "Rol QA ✓",
+        "test case",
+        "Remoto/Latam 🌐",
+        "Salario 💰"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
     },
     {
       "title": "Senior Outsystems QA con Inglés y Español",
@@ -105,24 +126,6 @@
       "matches": [
         "Rol QA ✓",
         "defect"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
-    },
-    {
-      "title": "Senior Quality Assurance Engineer (Personify team)",
-      "company": "Bloomreach",
-      "location": "Czechia",
-      "description": "  Bloomreach  is building the world’s premier  agentic platform for personalization .We’re revolutionizing how businesses connect with their customers, building and deploying AI agents to personalize the   entire   customer journey. \n \n We're taking  autonomous search  mainstream, making product discovery more intuitive and conversational for customers, and more profitable for businesses. \n We’re making  conversational shopping  a reality, connecting every shopper with tailored guidance and product expertise — available on demand, at every touchpoint in their journey. \n We're designing the future of  autonomous marketing , taking the work out of workflows, and reclaiming the creative, strategic, and customer-first work marketers were always meant to do. \n \n And we're building all of that o",
-      "date": "2026-10-04T04:30:13+00:00",
-      "salary": "CZK1130000–1410000",
-      "url": "https://jobicy.com/jobs/152406-senior-quality-assurance-engineer-personify-team",
-      "source": "Jobicy",
-      "id": "6757d7fb0331",
-      "score": 45,
-      "matches": [
-        "Rol QA ✓",
-        "Salario 💰"
       ],
       "warnings": [],
       "verdict": "bueno"
@@ -196,6 +199,23 @@
       "verdict": "regular"
     },
     {
+      "title": "Quality Assurance & Compliance Lead",
+      "company": "",
+      "location": "['United States']",
+      "description": " About AlphaGov  AlphaGov, a division of Casa Moon LLC, helps government agencies and public-sector organizations make informed workforce decisions. Our work includes workforce intelligence, labor market analysis, workforce planning, economic development, program evaluation, compensation studies, and infrastructure workforce advisory.  We combine an internal delivery team with a network of more than 2,000 subject matter experts. Reliable analysis, clear documentation, and compliance with client requirements are central to our work.  The opportunity  We are seeking a Quality Assurance &amp; Compliance Lead to establish and manage independent review of proposals, project documentation, and client deliverables.  You will verify that our work addresses the controlling requirements, that findin",
+      "date": "",
+      "salary": null,
+      "url": "https://himalayas.app/companies/alphahire/jobs/quality-assurance-compliance-lead",
+      "source": "Himalayas",
+      "id": "98df3e1a0cd1",
+      "score": 40,
+      "matches": [
+        "Rol QA ✓"
+      ],
+      "warnings": [],
+      "verdict": "regular"
+    },
+    {
       "title": "Contact Center/CX Quality Assurance Lead (Houston)",
       "company": "Clover Health",
       "location": "USA",
@@ -233,26 +253,21 @@
   ],
   "new_jobs": [
     {
-      "title": "Analista QA Funcional / Automatizador",
+      "title": "Quality Assurance & Compliance Lead",
       "company": "",
-      "location": "hybrid",
-      "description": " Buscamos Analista QA con experiencia en pruebas funcionales y conocimientos de automatización, para integrarse a un equipo de desarrollo de aplicaciones móviles.   Perfil:  profesional analítico, metódico y orientado al detalle, con capacidad para identificar errores, documentarlos claramente y trabajar colaborativamente con equipos de desarrollo. No se requiere un perfil altamente senior, pero sí autonomía para ejecutar pruebas y conocimientos básicos de automatización.   Skills requeridos:    1 a 3 años de experiencia en QA/testing.  Experiencia en testing funcional de aplicaciones móviles  Android  e  iOS .  Manejo de herramientas de gestión de incidencias, idealmente  Jira  o  Azure DevOps .  Conocimientos de  API Testing , idealmente  Postman .  Conocimientos básicos de  SQL .  Exper",
-      "date": 1791293646,
-      "salary": "1400–1700",
-      "url": "https://www.getonbrd.com/jobs/analista-qa-funcional-automatizador-tcit-santiago-d14e",
-      "source": "GetOnBoard",
-      "id": "9cd5d1b69020",
-      "score": 65,
+      "location": "['United States']",
+      "description": " About AlphaGov  AlphaGov, a division of Casa Moon LLC, helps government agencies and public-sector organizations make informed workforce decisions. Our work includes workforce intelligence, labor market analysis, workforce planning, economic development, program evaluation, compensation studies, and infrastructure workforce advisory.  We combine an internal delivery team with a network of more than 2,000 subject matter experts. Reliable analysis, clear documentation, and compliance with client requirements are central to our work.  The opportunity  We are seeking a Quality Assurance &amp; Compliance Lead to establish and manage independent review of proposals, project documentation, and client deliverables.  You will verify that our work addresses the controlling requirements, that findin",
+      "date": "",
+      "salary": null,
+      "url": "https://himalayas.app/companies/alphahire/jobs/quality-assurance-compliance-lead",
+      "source": "Himalayas",
+      "id": "98df3e1a0cd1",
+      "score": 40,
       "matches": [
-        "Rol QA ✓",
-        "postman",
-        "api testing",
-        "jira",
-        "sql",
-        "Salario 💰"
+        "Rol QA ✓"
       ],
       "warnings": [],
-      "verdict": "excelente"
+      "verdict": "regular"
     }
   ]
 }
