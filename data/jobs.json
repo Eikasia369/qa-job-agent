@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-10-07T17:42:30.400784+00:00",
-  "total_fetched": 163,
+  "last_updated": "2026-10-08T02:36:08.184794+00:00",
+  "total_fetched": 150,
   "sources": {
     "Remotive": 17,
-    "WorkingNomads": 57,
+    "WorkingNomads": 42,
     "GetOnBoard": 50,
     "Himalayas": 20,
-    "Jobicy": 19
+    "Jobicy": 21
   },
-  "new_count": 2,
+  "new_count": 0,
   "jobs": [
     {
       "title": "SDET (Software Development Engineer in Test)",
@@ -167,24 +167,6 @@
       "verdict": "bueno"
     },
     {
-      "title": "Senior QA Automation Engineer",
-      "company": "Proxify",
-      "location": "Time zone: CET (+/- 3 hours)",
-      "description": "  About us:  \n   \n Talent has no borders. Proxify's mission is to connect top developers around the world with opportunities they deserve. So, it doesn't matter where you are; we are here to help you fast-track your independent career in the right direction. 🙂 \n Since our launch, Proxify's developers have successfully worked with 1200+ happy clients to build their products and growth features. 5000+ talented developers trust Proxify and its network to fulfill their dreams and objectives. \n Proxify is shaped by a global network of supportive, talented developers interested in remote full-time jobs. Our Glassdoor (4.5/5) and Trustpilot (4.8/5) ratings reflect the trust developers place in us and our commitment to our members' success. \n   \n  The Role:  \n   \n We are looking for a Senior QA Au",
-      "date": "2026-09-07T14:40:19-04:00",
-      "salary": null,
-      "url": "https://www.workingnomads.com/job/go/1843242/",
-      "source": "WorkingNomads",
-      "id": "6161bc6831f6",
-      "score": 45,
-      "matches": [
-        "Rol QA ✓",
-        "automation"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
-    },
-    {
       "title": "QA Engineer",
       "company": "",
       "location": "hybrid",
@@ -306,54 +288,5 @@
       "verdict": "regular"
     }
   ],
-  "new_jobs": [
-    {
-      "title": "Senior QA Automation Engineer (.NET/C#)",
-      "company": "",
-      "location": "remote_local",
-      "description": " Experiencia requerida   Amplia experiencia  en creación de conjuntos de pruebas de regresión automatizadas:     Pruebas funcionales  Pruebas de extremo a extremo (E2E)  Pruebas de integración  Pruebas de API  Pruebas a nivel de base de datos      Especialización en automatización con tecnologías Microsoft :   C# / .NET  Herramientas de automatización: Playwright, Selenium, NUnit, xUnit, MSTest o SpecFlow   Pruebas de API y datos :  Experiencia en pruebas de API REST  Validación de datos en SQL Server    DevOps y CI/CD :   Experiencia sólida con procesos de CI/CD en Azure DevOps    Inglés:    Intermedio-avanzado o avanzado (indispensable)   ",
-      "date": 1791379444,
-      "salary": null,
-      "url": "https://www.getonbrd.com/jobs/senior-qa-automation-engineer-net-c-improving-remote",
-      "source": "GetOnBoard",
-      "id": "c95c27c8d6b6",
-      "score": 85,
-      "matches": [
-        "Rol QA ✓",
-        "playwright",
-        "api rest",
-        "automation",
-        "selenium",
-        "sql",
-        "ci/cd",
-        "e2e"
-      ],
-      "warnings": [],
-      "verdict": "excelente"
-    },
-    {
-      "title": "QA Automation Engineer (Azure)",
-      "company": "",
-      "location": "remote_local",
-      "description": " We’re looking for a QA Automation Engineer with hands-on experience delivering automated testing at the functional, integration, or API level.    Experience:  2–4 years of experience in automated software testing (functional, integration, or API level).   Automation &amp; languages:  Working knowledge of  C#/.NET  and a testing framework such as  Playwright ,  Selenium ,  NUnit ,  xUnit ,  MSTest , or  SpecFlow .   Data validation:  Basic skills with  SQL Server  queries and validating expected data outcomes.   Version control &amp; pipelines:  Familiarity with  Git  and  CI/CD  pipelines (including automated execution and monitoring).   Domain exposure:  Experience with logistics, warehouse, receiving, or supply-chain systems is a plus.   Application types:  Exposure to configuration-dri",
-      "date": 1791348183,
-      "salary": "3100–4000",
-      "url": "https://www.getonbrd.com/jobs/qa-automation-engineer-azure-improving-remote",
-      "source": "GetOnBoard",
-      "id": "9cddcf4eb353",
-      "score": 80,
-      "matches": [
-        "Rol QA ✓",
-        "playwright",
-        "automation",
-        "selenium",
-        "sql",
-        "ci/cd",
-        "Remoto/Latam 🌐",
-        "Salario 💰"
-      ],
-      "warnings": [],
-      "verdict": "excelente"
-    }
-  ]
+  "new_jobs": []
 }
