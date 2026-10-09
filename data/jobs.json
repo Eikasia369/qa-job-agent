@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-10-09T02:50:52.678439+00:00",
-  "total_fetched": 164,
+  "last_updated": "2026-10-09T17:22:39.580573+00:00",
+  "total_fetched": 158,
   "sources": {
-    "Remotive": 19,
+    "Remotive": 17,
     "WorkingNomads": 54,
     "GetOnBoard": 50,
     "Himalayas": 20,
-    "Jobicy": 21
+    "Jobicy": 17
   },
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "title": "SDET (Software Development Engineer in Test)",
@@ -265,23 +265,6 @@
       "verdict": "regular"
     },
     {
-      "title": "Contact Center/CX Quality Assurance Lead (Houston)",
-      "company": "Clover Health",
-      "location": "USA",
-      "description": " At  Clover Health , every member interaction builds trust and shapes health outcomes. We are hiring a Quality Assurance Lead to own and mature the Quality Assurance program for Clover's Houston Experience Center, holding every member interaction to our standards for accuracy, empathy, compliance, and service. \n You will own the end-to-end program: standards, scorecards, calibration, governance, reporting, appeals, and continuous improvement. You will lead a team of QA analysts and partner with Operations, Training, HR, Compliance, and Member Experience leadership to turn quality insights into improvements for members, agents, and leaders. The role asks for objectivity and partnership at once: QA here is developmental, using data to find trends and turn them into coaching that moves perfor",
-      "date": "2026-10-02T15:24:05+00:00",
-      "salary": null,
-      "url": "https://jobicy.com/jobs/154427-contact-center-cx-quality-assurance-lead-houston",
-      "source": "Jobicy",
-      "id": "209454e11240",
-      "score": 40,
-      "matches": [
-        "Rol QA ✓"
-      ],
-      "warnings": [],
-      "verdict": "regular"
-    },
-    {
       "title": "Mobile Developer iOS Swift",
       "company": "",
       "location": "remote_local",
@@ -300,24 +283,5 @@
       "verdict": "regular"
     }
   ],
-  "new_jobs": [
-    {
-      "title": "Quality Assurance Engineer II",
-      "company": "Bloomreach",
-      "location": "Slovakia",
-      "description": "  Bloomreach  is building the world’s premier  agentic platform for personalization .We’re revolutionizing how businesses connect with their customers, building and deploying AI agents to personalize the   entire   customer journey. \n \n We're taking  autonomous search  mainstream, making product discovery more intuitive and conversational for customers, and more profitable for businesses. \n We’re making  conversational shopping  a reality, connecting every shopper with tailored guidance and product expertise — available on demand, at every touchpoint in their journey. \n We're designing the future of  autonomous marketing , taking the work out of workflows, and reclaiming the creative, strategic, and customer-first work marketers were always meant to do. \n \n And we're building all of that o",
-      "date": "2026-10-08T19:08:06+00:00",
-      "salary": "EUR26000–39000",
-      "url": "https://jobicy.com/jobs/154875-quality-assurance-engineer-ii",
-      "source": "Jobicy",
-      "id": "689b3c15e3fd",
-      "score": 45,
-      "matches": [
-        "Rol QA ✓",
-        "Salario 💰"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
-    }
-  ]
+  "new_jobs": []
 }
