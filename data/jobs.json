@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-10-10T02:11:09.396977+00:00",
+  "last_updated": "2026-10-10T16:08:28.619647+00:00",
   "total_fetched": 158,
   "sources": {
-    "Remotive": 17,
+    "Remotive": 18,
     "WorkingNomads": 54,
     "GetOnBoard": 50,
     "Himalayas": 20,
-    "Jobicy": 17
+    "Jobicy": 16
   },
   "new_count": 0,
   "jobs": [
