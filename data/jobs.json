@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-09T17:22:39.580573+00:00",
+  "last_updated": "2026-10-10T02:11:09.396977+00:00",
   "total_fetched": 158,
   "sources": {
     "Remotive": 17,
@@ -156,24 +156,6 @@
       "matches": [
         "Rol QA ✓",
         "automation"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
-    },
-    {
-      "title": "QA Engineer",
-      "company": "",
-      "location": "hybrid",
-      "description": " Buscamos un/a Ingeniero/a QA orientado/a a calidad de software en entornos modernos, con experiencia en arquitectura orientada a eventos y enfoque de pruebas end-to-end. En Xintec creemos en las personas y en la construcción diaria de equipos para alcanzar grandes objetivos; por eso valoramos la colaboración, la comunicación efectiva y la proactividad en el día a día.  Queremos que puedas asegurar la calidad del producto a través del análisis de requerimientos, el diseño y la ejecución de pruebas, y el levantamiento/seguimiento de defectos. También esperamos que puedas trabajar coordinadamente con equipos de desarrollo y de calidad, participar en ciclos de pruebas integradas y validar integraciones donde intervienen mensajería y persistencia.   Stack y experiencia esperada (alineado al ro",
-      "date": 1790342283,
-      "salary": null,
-      "url": "https://www.getonbrd.com/jobs/qa-engineer-xintec-santiago",
-      "source": "GetOnBoard",
-      "id": "24697a2d946e",
-      "score": 45,
-      "matches": [
-        "Rol QA ✓",
-        "defect"
       ],
       "warnings": [],
       "verdict": "bueno"
