@@ -1,15 +1,147 @@
 {
-  "last_updated": "2026-10-10T20:31:20.367270+00:00",
-  "total_fetched": 109,
+  "last_updated": "2026-10-11T01:41:40.916656+00:00",
+  "total_fetched": 158,
   "sources": {
     "Remotive": 18,
-    "WorkingNomads": 54,
-    "GetOnBoard": 0,
+    "WorkingNomads": 53,
+    "GetOnBoard": 50,
     "Himalayas": 20,
     "Jobicy": 17
   },
   "new_count": 0,
   "jobs": [
+    {
+      "title": "SDET (Software Development Engineer in Test)",
+      "company": "",
+      "location": "fully_remote",
+      "description": "  Proficiency in TypeScript and JavaScript (ES6+)  Strong experience with React and modern frontend testing  Hands-on experience with AWS services and cloud-based testing infrastructure  Experience with test automation frameworks (Selenium, Cypress, Playwright, or similar)  Strong proficiency in unit testing and integration testing  Experience with CI/CD tools (Jenkins, GitHub Actions, GitLab CI, or equivalent)  Knowledge of API testing and tools (REST, GraphQL, Postman, etc.)  Experience with version control systems (Git)  Strong understanding of software development lifecycle and QA methodologies  ",
+      "date": 1791348350,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/sdet-software-development-engineer-in-test-improving-remote",
+      "source": "GetOnBoard",
+      "id": "f5647d7b7ac8",
+      "score": 100,
+      "matches": [
+        "Rol QA ✓",
+        "playwright",
+        "postman",
+        "api testing",
+        "automation",
+        "selenium",
+        "javascript",
+        "typescript"
+      ],
+      "warnings": [],
+      "verdict": "excelente"
+    },
+    {
+      "title": "Senior QA Automation Engineer (.NET/C#)",
+      "company": "",
+      "location": "remote_local",
+      "description": " Experiencia requerida   Amplia experiencia  en creación de conjuntos de pruebas de regresión automatizadas:     Pruebas funcionales  Pruebas de extremo a extremo (E2E)  Pruebas de integración  Pruebas de API  Pruebas a nivel de base de datos      Especialización en automatización con tecnologías Microsoft :   C# / .NET  Herramientas de automatización: Playwright, Selenium, NUnit, xUnit, MSTest o SpecFlow   Pruebas de API y datos :  Experiencia en pruebas de API REST  Validación de datos en SQL Server    DevOps y CI/CD :   Experiencia sólida con procesos de CI/CD en Azure DevOps    Inglés:    Intermedio-avanzado o avanzado (indispensable)   ",
+      "date": 1791379444,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/senior-qa-automation-engineer-net-c-improving-remote",
+      "source": "GetOnBoard",
+      "id": "c95c27c8d6b6",
+      "score": 85,
+      "matches": [
+        "Rol QA ✓",
+        "playwright",
+        "api rest",
+        "automation",
+        "selenium",
+        "sql",
+        "ci/cd",
+        "e2e"
+      ],
+      "warnings": [],
+      "verdict": "excelente"
+    },
+    {
+      "title": "Analista QA Funcional / Automatizador",
+      "company": "",
+      "location": "fully_remote",
+      "description": " Buscamos Analista QA con experiencia en pruebas funcionales y conocimientos de automatización, para integrarse a un equipo de desarrollo de aplicaciones móviles.   Perfil:  profesional analítico, metódico y orientado al detalle, con capacidad para identificar errores, documentarlos claramente y trabajar colaborativamente con equipos de desarrollo. No se requiere un perfil altamente senior, pero sí autonomía para ejecutar pruebas y conocimientos básicos de automatización.   Skills requeridos:    1 a 3 años de experiencia en QA/testing.  Experiencia en testing funcional de aplicaciones móviles  Android  e  iOS .  Manejo de herramientas de gestión de incidencias, idealmente  Jira  o  Azure DevOps .  Conocimientos de  API Testing , idealmente  Postman .  Conocimientos básicos de  SQL .  Exper",
+      "date": 1791293646,
+      "salary": "1400–1700",
+      "url": "https://www.getonbrd.com/jobs/analista-qa-funcional-automatizador-tcit-santiago-d14e",
+      "source": "GetOnBoard",
+      "id": "9cd5d1b69020",
+      "score": 75,
+      "matches": [
+        "Rol QA ✓",
+        "postman",
+        "api testing",
+        "jira",
+        "sql",
+        "Remoto/Latam 🌐",
+        "Salario 💰"
+      ],
+      "warnings": [],
+      "verdict": "excelente"
+    },
+    {
+      "title": "QA Automation Engineer",
+      "company": "",
+      "location": "hybrid",
+      "description": " Buscamos un/a profesional con experiencia comprobable en automatización de pruebas y con capacidad para colaborar de forma efectiva con ingeniería. Valoramos especialmente la mentalidad orientada a calidad, el pensamiento analítico y la proactividad para proponer mejoras.    Experiencia  en automatización de pruebas con  Playwright .   Conocimiento y experiencia  en  GCP .   Certificación  o conocimientos sólidos en  ISTQB .   Deseable : experiencia con  Selenium  y/o  Cypress .   Familiaridad  con pipelines de  CI/CD .   En cuanto a habilidades, esperamos que puedas:   Trabajar con foco en resultados, manteniendo la calidad y la estabilidad de la automatización.  Analizar fallas de manera metódica y proponer acciones concretas para reducir regresiones.  Comunicar métricas y hallazgos de ",
+      "date": 1791291968,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/qa-automation-engineer-xintec-santiago",
+      "source": "GetOnBoard",
+      "id": "03b5db6651bd",
+      "score": 65,
+      "matches": [
+        "Rol QA ✓",
+        "playwright",
+        "automation",
+        "selenium",
+        "cypress",
+        "ci/cd"
+      ],
+      "warnings": [],
+      "verdict": "excelente"
+    },
+    {
+      "title": "QA Analyst",
+      "company": "",
+      "location": "fully_remote",
+      "description": " We are seeking a QA Engineer with experience validating data pipelines and AI systems, with a strong eye for both technical and business correctness.   Experience testing data pipelines, API integrations, and reporting outputs  Ability to validate software behavior, data correctness, and business logic simultaneously  Experience building test cases for retry flows, escalation paths, schema drift, DQ checks, review queues, and NL query outputs  Strong UAT coordination skills with business and technical stakeholders  Ability to test AI-assisted systems with acceptance thresholds, golden datasets, and exception handling  ",
+      "date": 1791310324,
+      "salary": "3500–4000",
+      "url": "https://www.getonbrd.com/jobs/qa-engineer-zaelot-remote",
+      "source": "GetOnBoard",
+      "id": "56d0d70c1a9f",
+      "score": 60,
+      "matches": [
+        "Rol QA ✓",
+        "test case",
+        "Remoto/Latam 🌐",
+        "Salario 💰"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    },
+    {
+      "title": "Senior Outsystems QA con Inglés y Español",
+      "company": "",
+      "location": "fully_remote",
+      "description": "  Mínimo 5 años de experiencia comprobable como QA en proyectos de tecnología y desarrollo de software.  Mínimo 3 años de experiencia comprobable como QA en proyectos desarrollados sobre OutSystems.  Experiencia en diseño y ejecución de pruebas funcionales, de integración, regresión y end-to-end.  Experiencia en pruebas de APIs REST e integraciones.  Conocimiento de metodologías ágiles y participación en diferentes etapas del ciclo de desarrollo de software.  Capacidad para documentar casos de prueba, resultados, evidencias, incidencias y seguimiento de defectos.  Conocimiento y aplicación de buenas prácticas de Quality Assurance.  Capacidad para comunicarse de manera fluida en inglés y español, tanto de forma oral como escrita, requisito indispensable para la interacción con equipos y sta",
+      "date": 1790772716,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/outsystems-qa-con-ingles-avanzado-i2b-technologies-remote",
+      "source": "GetOnBoard",
+      "id": "9e2c02b9df53",
+      "score": 55,
+      "matches": [
+        "Rol QA ✓",
+        "defect",
+        "Remoto/Latam 🌐"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    },
     {
       "title": "Senior QA Automation Engineer",
       "company": "Proxify",
@@ -110,6 +242,24 @@
       "score": 40,
       "matches": [
         "Rol QA ✓"
+      ],
+      "warnings": [],
+      "verdict": "regular"
+    },
+    {
+      "title": "Mobile Developer iOS Swift",
+      "company": "",
+      "location": "remote_local",
+      "description": " Muchas ganas de participar en un equipo colaborativo, con actitud positiva frente a los cambios y desafíos, orientado al cliente, creativo y que nunca para de aprender.   Requerimientos del cargo    4 años de experiencia comprobable en asignaciones reales en Cargo de Mobile iOS  Experiencia en sector Financiero  Desarrollo y mantenimiento de aplicaciones iOS nativas en Swift  Uso de UIKit y/o SwiftUI aplicando patrones como MVVM  Diseño de interfaces intuitivas y accesibles  Integración de servicios mediante APIs RESTful  Participación en pruebas unitarias y de UI  Revisiones de código y mejoras técnicas  Documentación de decisiones de diseño  Colaboración con equipos de backend, QA y diseño  Aseguramiento de la calidad, seguridad y rendimiento de la aplicación  Identificación de oportuni",
+      "date": 1790866699,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/mobile-developer-ios-swift-42labs-remote",
+      "source": "GetOnBoard",
+      "id": "367cde1cfb1b",
+      "score": 30,
+      "matches": [
+        "Rol QA (desc)",
+        "Remoto/Latam 🌐"
       ],
       "warnings": [],
       "verdict": "regular"
