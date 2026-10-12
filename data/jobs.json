@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-10-12T02:10:26.216087+00:00",
-  "total_fetched": 153,
+  "last_updated": "2026-10-12T20:10:37.785655+00:00",
+  "total_fetched": 151,
   "sources": {
-    "Remotive": 18,
-    "WorkingNomads": 51,
+    "Remotive": 15,
+    "WorkingNomads": 50,
     "GetOnBoard": 50,
     "Himalayas": 20,
-    "Jobicy": 14
+    "Jobicy": 16
   },
-  "new_count": 0,
+  "new_count": 2,
   "jobs": [
     {
       "title": "SDET (Software Development Engineer in Test)",
@@ -161,6 +161,24 @@
       "verdict": "bueno"
     },
     {
+      "title": "QA Lead Engineer",
+      "company": "",
+      "location": "['United States']",
+      "description": "Job Title QA Lead Engineer Location Remote JOB DESCRIPTION ABOUT  CoorB  We build full-fledged innovative solutions with a focus on process automation, user experience enhancement, and advanced data analytics. With our extensive industry expertise, we help achieve operational excellence, future-proof your IT investments, and ensure a competitive edge in the ever-evolving finance industry. OUR OPPORTUNITY The QA Lead Engineer will be responsible for defining and executing the overall quality assurance strategy across multiple products and platforms, ensuring the delivery of high-quality, reliable, and scalable software. This role combines hands-on automation expertise with strong leadership in process improvement, team management, and quality governance. The QA Lead Engineer will partner cl",
+      "date": "",
+      "salary": null,
+      "url": "https://himalayas.app/companies/coorb/jobs/qa-lead-engineer",
+      "source": "Himalayas",
+      "id": "13ffec352c64",
+      "score": 45,
+      "matches": [
+        "Rol QA ✓",
+        "automation"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    },
+    {
       "title": "Quality Assurance Engineer II",
       "company": "Bloomreach",
       "location": "Slovakia",
@@ -263,7 +281,64 @@
       ],
       "warnings": [],
       "verdict": "regular"
+    },
+    {
+      "title": "NetSuite Functional Consultant - 100% Remote - Up to 4K USD",
+      "company": "",
+      "location": "['Philippines']",
+      "description": " We are looking for NetSuite Functional Consultants for a US Client.  \n 100% Remote \n Salary is up to 4000USD NET based on experience \n Schedule is Mon to Fri US PST shift \n Full Time Consultancy Contract of 1 year renewable \n Guaranteed Bonus of 10% of annual salary paid every December \n  Main Qualifications:  \n At least 5 years of Experience as NetSuite Consultant \n Must have working knowledge and experience on: \n ERP \n Manufacturing \n Inventory \n Bundles \n \n \n  Key Responsibilities  \n \n Gather and document business requirements  for NetSuite implementation and enhancements. \n Design  business processes and application configurations  following industry best practices. \n Conduct  software testing (UAT, regression, and integration)  and prepare test cases. \n Provide  functional support, t",
+      "date": "",
+      "salary": null,
+      "url": "https://himalayas.app/companies/wesource/jobs/netsuite-functional-consultant-100-remote-up-to-4k-usd",
+      "source": "Himalayas",
+      "id": "07544bafebfa",
+      "score": 30,
+      "matches": [
+        "Rol QA (desc)",
+        "regression",
+        "test case"
+      ],
+      "warnings": [],
+      "verdict": "regular"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "title": "QA Lead Engineer",
+      "company": "",
+      "location": "['United States']",
+      "description": "Job Title QA Lead Engineer Location Remote JOB DESCRIPTION ABOUT  CoorB  We build full-fledged innovative solutions with a focus on process automation, user experience enhancement, and advanced data analytics. With our extensive industry expertise, we help achieve operational excellence, future-proof your IT investments, and ensure a competitive edge in the ever-evolving finance industry. OUR OPPORTUNITY The QA Lead Engineer will be responsible for defining and executing the overall quality assurance strategy across multiple products and platforms, ensuring the delivery of high-quality, reliable, and scalable software. This role combines hands-on automation expertise with strong leadership in process improvement, team management, and quality governance. The QA Lead Engineer will partner cl",
+      "date": "",
+      "salary": null,
+      "url": "https://himalayas.app/companies/coorb/jobs/qa-lead-engineer",
+      "source": "Himalayas",
+      "id": "13ffec352c64",
+      "score": 45,
+      "matches": [
+        "Rol QA ✓",
+        "automation"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    },
+    {
+      "title": "NetSuite Functional Consultant - 100% Remote - Up to 4K USD",
+      "company": "",
+      "location": "['Philippines']",
+      "description": " We are looking for NetSuite Functional Consultants for a US Client.  \n 100% Remote \n Salary is up to 4000USD NET based on experience \n Schedule is Mon to Fri US PST shift \n Full Time Consultancy Contract of 1 year renewable \n Guaranteed Bonus of 10% of annual salary paid every December \n  Main Qualifications:  \n At least 5 years of Experience as NetSuite Consultant \n Must have working knowledge and experience on: \n ERP \n Manufacturing \n Inventory \n Bundles \n \n \n  Key Responsibilities  \n \n Gather and document business requirements  for NetSuite implementation and enhancements. \n Design  business processes and application configurations  following industry best practices. \n Conduct  software testing (UAT, regression, and integration)  and prepare test cases. \n Provide  functional support, t",
+      "date": "",
+      "salary": null,
+      "url": "https://himalayas.app/companies/wesource/jobs/netsuite-functional-consultant-100-remote-up-to-4k-usd",
+      "source": "Himalayas",
+      "id": "07544bafebfa",
+      "score": 30,
+      "matches": [
+        "Rol QA (desc)",
+        "regression",
+        "test case"
+      ],
+      "warnings": [],
+      "verdict": "regular"
+    }
+  ]
 }
