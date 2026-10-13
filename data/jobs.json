@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-10-13T03:25:08.997134+00:00",
-  "total_fetched": 151,
+  "last_updated": "2026-10-13T18:03:03.046517+00:00",
+  "total_fetched": 154,
   "sources": {
-    "Remotive": 15,
-    "WorkingNomads": 50,
+    "Remotive": 16,
+    "WorkingNomads": 51,
     "GetOnBoard": 50,
     "Himalayas": 20,
-    "Jobicy": 16
+    "Jobicy": 17
   },
-  "new_count": 0,
+  "new_count": 1,
   "jobs": [
     {
       "title": "SDET (Software Development Engineer in Test)",
@@ -54,29 +54,6 @@
         "sql",
         "ci/cd",
         "e2e"
-      ],
-      "warnings": [],
-      "verdict": "excelente"
-    },
-    {
-      "title": "Analista QA Funcional / Automatizador",
-      "company": "",
-      "location": "fully_remote",
-      "description": " Buscamos Analista QA con experiencia en pruebas funcionales y conocimientos de automatización, para integrarse a un equipo de desarrollo de aplicaciones móviles.   Perfil:  profesional analítico, metódico y orientado al detalle, con capacidad para identificar errores, documentarlos claramente y trabajar colaborativamente con equipos de desarrollo. No se requiere un perfil altamente senior, pero sí autonomía para ejecutar pruebas y conocimientos básicos de automatización.   Skills requeridos:    1 a 3 años de experiencia en QA/testing.  Experiencia en testing funcional de aplicaciones móviles  Android  e  iOS .  Manejo de herramientas de gestión de incidencias, idealmente  Jira  o  Azure DevOps .  Conocimientos de  API Testing , idealmente  Postman .  Conocimientos básicos de  SQL .  Exper",
-      "date": 1791293646,
-      "salary": "1400–1700",
-      "url": "https://www.getonbrd.com/jobs/analista-qa-funcional-automatizador-tcit-santiago-d14e",
-      "source": "GetOnBoard",
-      "id": "9cd5d1b69020",
-      "score": 75,
-      "matches": [
-        "Rol QA ✓",
-        "postman",
-        "api testing",
-        "jira",
-        "sql",
-        "Remoto/Latam 🌐",
-        "Salario 💰"
       ],
       "warnings": [],
       "verdict": "excelente"
@@ -263,7 +240,46 @@
       ],
       "warnings": [],
       "verdict": "regular"
+    },
+    {
+      "title": "Node.JS Developer",
+      "company": "",
+      "location": "['United States']",
+      "description": " This is a remote position.   1.Work as part of a team developing applications and services using Agile development methods.   2.Contribute to the team and organizational improvements in process and infrastructure. Build customer-facing UI and back-end services for payment processing administration and management.   3.Code, tester and operate a node.js-based services.  4.Effectively use tools and ingenuity to identify and fix defects before they become a problem.  Originally posted on  Himalayas  ",
+      "date": "",
+      "salary": null,
+      "url": "https://himalayas.app/companies/overture-rede/jobs/node-js-developer",
+      "source": "Himalayas",
+      "id": "8bc8335b7983",
+      "score": 30,
+      "matches": [
+        "Rol QA (desc)",
+        "agile",
+        "defect"
+      ],
+      "warnings": [],
+      "verdict": "regular"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "title": "Node.JS Developer",
+      "company": "",
+      "location": "['United States']",
+      "description": " This is a remote position.   1.Work as part of a team developing applications and services using Agile development methods.   2.Contribute to the team and organizational improvements in process and infrastructure. Build customer-facing UI and back-end services for payment processing administration and management.   3.Code, tester and operate a node.js-based services.  4.Effectively use tools and ingenuity to identify and fix defects before they become a problem.  Originally posted on  Himalayas  ",
+      "date": "",
+      "salary": null,
+      "url": "https://himalayas.app/companies/overture-rede/jobs/node-js-developer",
+      "source": "Himalayas",
+      "id": "8bc8335b7983",
+      "score": 30,
+      "matches": [
+        "Rol QA (desc)",
+        "agile",
+        "defect"
+      ],
+      "warnings": [],
+      "verdict": "regular"
+    }
+  ]
 }
