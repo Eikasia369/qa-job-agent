@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-10-14T01:41:37.499401+00:00",
-  "total_fetched": 155,
+  "last_updated": "2026-10-14T15:44:25.328735+00:00",
+  "total_fetched": 151,
   "sources": {
-    "Remotive": 16,
-    "WorkingNomads": 51,
+    "Remotive": 15,
+    "WorkingNomads": 52,
     "GetOnBoard": 50,
     "Himalayas": 20,
-    "Jobicy": 18
+    "Jobicy": 14
   },
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "title": "SDET (Software Development Engineer in Test)",
@@ -222,42 +222,7 @@
       ],
       "warnings": [],
       "verdict": "regular"
-    },
-    {
-      "title": "Data QA Engineer",
-      "company": "",
-      "location": "['United States']",
-      "description": " This is a remote position.  \n \n \n Location: Remote  \n \n Experience: 6+ Years  \n \n Budget: ₹85K  \n \n Working Hours: 4 hours overlap with EST timings (~09:30 PM IST)  \n \n  About Us:   TRBITIX  - Empowering Excellence, Guiding Growth.  \n At  TRBITIX , we specialize in connecting top-tier professionals with businesses across diverse industries. Our expertise in recruitment, staffing, HR outsourcing, and managed services ensures the perfect fit for every role and project.  \n  Job Description: We are seeking a Data QA Engineer with 6+ years of experience. The ideal candidate should have a strong understanding of the testing life cycle and hands-on experience with creating QA artifacts. The role requires a good understanding of data warehousing concepts, data modeling, and reporting tools, along",
-      "date": "",
-      "salary": null,
-      "url": "https://himalayas.app/companies/trbitix/jobs/data-qa-engineer",
-      "source": "Himalayas",
-      "id": "4e7aa574cc6e",
-      "score": 40,
-      "matches": [
-        "Rol QA ✓"
-      ],
-      "warnings": [],
-      "verdict": "regular"
     }
   ],
-  "new_jobs": [
-    {
-      "title": "Data QA Engineer",
-      "company": "",
-      "location": "['United States']",
-      "description": " This is a remote position.  \n \n \n Location: Remote  \n \n Experience: 6+ Years  \n \n Budget: ₹85K  \n \n Working Hours: 4 hours overlap with EST timings (~09:30 PM IST)  \n \n  About Us:   TRBITIX  - Empowering Excellence, Guiding Growth.  \n At  TRBITIX , we specialize in connecting top-tier professionals with businesses across diverse industries. Our expertise in recruitment, staffing, HR outsourcing, and managed services ensures the perfect fit for every role and project.  \n  Job Description: We are seeking a Data QA Engineer with 6+ years of experience. The ideal candidate should have a strong understanding of the testing life cycle and hands-on experience with creating QA artifacts. The role requires a good understanding of data warehousing concepts, data modeling, and reporting tools, along",
-      "date": "",
-      "salary": null,
-      "url": "https://himalayas.app/companies/trbitix/jobs/data-qa-engineer",
-      "source": "Himalayas",
-      "id": "4e7aa574cc6e",
-      "score": 40,
-      "matches": [
-        "Rol QA ✓"
-      ],
-      "warnings": [],
-      "verdict": "regular"
-    }
-  ]
+  "new_jobs": []
 }
