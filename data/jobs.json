@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-10-14T15:44:25.328735+00:00",
-  "total_fetched": 151,
+  "last_updated": "2026-10-14T20:30:56.792438+00:00",
+  "total_fetched": 149,
   "sources": {
     "Remotive": 15,
     "WorkingNomads": 52,
     "GetOnBoard": 50,
     "Himalayas": 20,
-    "Jobicy": 14
+    "Jobicy": 12
   },
-  "new_count": 0,
+  "new_count": 1,
   "jobs": [
     {
       "title": "SDET (Software Development Engineer in Test)",
@@ -222,7 +222,44 @@
       ],
       "warnings": [],
       "verdict": "regular"
+    },
+    {
+      "title": "Remote Senior Software Developer",
+      "company": "",
+      "location": "['United States']",
+      "description": " Remote Senior Software Developer needs 7+ years experience  Remote Senior Software Developer requires:  \n Public cloud Spring, SpringBoot, JPA Knowledge of Struts based apps like AWS, GCP, PCF or OpenShift  \n Strong knowledge in Java \n QA and test* and analysis* and SQL and oracle and ( IPM or IMAGING or PROCESS or 11g)  \n  Remote Senior Software Developer duties:  \n Leads the identification and definition of applications architectures, components and interfaces, design of data model, data/information flows and security design.  \n Provides practical, expert knowledge of technical design alternatives and the implications of each approach, participating and many times leading phases of the software development cycle. Identifies business value and cost for business and IT partners. \n  Delive",
+      "date": "",
+      "salary": null,
+      "url": "https://himalayas.app/companies/global-channel-management-inc/jobs/remote-senior-software-developer",
+      "source": "Himalayas",
+      "id": "2b57ca05c256",
+      "score": 25,
+      "matches": [
+        "Rol QA (desc)",
+        "sql"
+      ],
+      "warnings": [],
+      "verdict": "regular"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "title": "Remote Senior Software Developer",
+      "company": "",
+      "location": "['United States']",
+      "description": " Remote Senior Software Developer needs 7+ years experience  Remote Senior Software Developer requires:  \n Public cloud Spring, SpringBoot, JPA Knowledge of Struts based apps like AWS, GCP, PCF or OpenShift  \n Strong knowledge in Java \n QA and test* and analysis* and SQL and oracle and ( IPM or IMAGING or PROCESS or 11g)  \n  Remote Senior Software Developer duties:  \n Leads the identification and definition of applications architectures, components and interfaces, design of data model, data/information flows and security design.  \n Provides practical, expert knowledge of technical design alternatives and the implications of each approach, participating and many times leading phases of the software development cycle. Identifies business value and cost for business and IT partners. \n  Delive",
+      "date": "",
+      "salary": null,
+      "url": "https://himalayas.app/companies/global-channel-management-inc/jobs/remote-senior-software-developer",
+      "source": "Himalayas",
+      "id": "2b57ca05c256",
+      "score": 25,
+      "matches": [
+        "Rol QA (desc)",
+        "sql"
+      ],
+      "warnings": [],
+      "verdict": "regular"
+    }
+  ]
 }
