@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-10-13T18:03:03.046517+00:00",
-  "total_fetched": 154,
+  "last_updated": "2026-10-14T01:41:37.499401+00:00",
+  "total_fetched": 155,
   "sources": {
     "Remotive": 16,
     "WorkingNomads": 51,
     "GetOnBoard": 50,
     "Himalayas": 20,
-    "Jobicy": 17
+    "Jobicy": 18
   },
   "new_count": 1,
   "jobs": [
@@ -224,38 +224,18 @@
       "verdict": "regular"
     },
     {
-      "title": "Mobile Developer iOS Swift",
-      "company": "",
-      "location": "remote_local",
-      "description": " Muchas ganas de participar en un equipo colaborativo, con actitud positiva frente a los cambios y desafíos, orientado al cliente, creativo y que nunca para de aprender.   Requerimientos del cargo    4 años de experiencia comprobable en asignaciones reales en Cargo de Mobile iOS  Experiencia en sector Financiero  Desarrollo y mantenimiento de aplicaciones iOS nativas en Swift  Uso de UIKit y/o SwiftUI aplicando patrones como MVVM  Diseño de interfaces intuitivas y accesibles  Integración de servicios mediante APIs RESTful  Participación en pruebas unitarias y de UI  Revisiones de código y mejoras técnicas  Documentación de decisiones de diseño  Colaboración con equipos de backend, QA y diseño  Aseguramiento de la calidad, seguridad y rendimiento de la aplicación  Identificación de oportuni",
-      "date": 1790866699,
-      "salary": null,
-      "url": "https://www.getonbrd.com/jobs/mobile-developer-ios-swift-42labs-remote",
-      "source": "GetOnBoard",
-      "id": "367cde1cfb1b",
-      "score": 30,
-      "matches": [
-        "Rol QA (desc)",
-        "Remoto/Latam 🌐"
-      ],
-      "warnings": [],
-      "verdict": "regular"
-    },
-    {
-      "title": "Node.JS Developer",
+      "title": "Data QA Engineer",
       "company": "",
       "location": "['United States']",
-      "description": " This is a remote position.   1.Work as part of a team developing applications and services using Agile development methods.   2.Contribute to the team and organizational improvements in process and infrastructure. Build customer-facing UI and back-end services for payment processing administration and management.   3.Code, tester and operate a node.js-based services.  4.Effectively use tools and ingenuity to identify and fix defects before they become a problem.  Originally posted on  Himalayas  ",
+      "description": " This is a remote position.  \n \n \n Location: Remote  \n \n Experience: 6+ Years  \n \n Budget: ₹85K  \n \n Working Hours: 4 hours overlap with EST timings (~09:30 PM IST)  \n \n  About Us:   TRBITIX  - Empowering Excellence, Guiding Growth.  \n At  TRBITIX , we specialize in connecting top-tier professionals with businesses across diverse industries. Our expertise in recruitment, staffing, HR outsourcing, and managed services ensures the perfect fit for every role and project.  \n  Job Description: We are seeking a Data QA Engineer with 6+ years of experience. The ideal candidate should have a strong understanding of the testing life cycle and hands-on experience with creating QA artifacts. The role requires a good understanding of data warehousing concepts, data modeling, and reporting tools, along",
       "date": "",
       "salary": null,
-      "url": "https://himalayas.app/companies/overture-rede/jobs/node-js-developer",
+      "url": "https://himalayas.app/companies/trbitix/jobs/data-qa-engineer",
       "source": "Himalayas",
-      "id": "8bc8335b7983",
-      "score": 30,
+      "id": "4e7aa574cc6e",
+      "score": 40,
       "matches": [
-        "Rol QA (desc)",
-        "agile",
-        "defect"
+        "Rol QA ✓"
       ],
       "warnings": [],
       "verdict": "regular"
@@ -263,20 +243,18 @@
   ],
   "new_jobs": [
     {
-      "title": "Node.JS Developer",
+      "title": "Data QA Engineer",
       "company": "",
       "location": "['United States']",
-      "description": " This is a remote position.   1.Work as part of a team developing applications and services using Agile development methods.   2.Contribute to the team and organizational improvements in process and infrastructure. Build customer-facing UI and back-end services for payment processing administration and management.   3.Code, tester and operate a node.js-based services.  4.Effectively use tools and ingenuity to identify and fix defects before they become a problem.  Originally posted on  Himalayas  ",
+      "description": " This is a remote position.  \n \n \n Location: Remote  \n \n Experience: 6+ Years  \n \n Budget: ₹85K  \n \n Working Hours: 4 hours overlap with EST timings (~09:30 PM IST)  \n \n  About Us:   TRBITIX  - Empowering Excellence, Guiding Growth.  \n At  TRBITIX , we specialize in connecting top-tier professionals with businesses across diverse industries. Our expertise in recruitment, staffing, HR outsourcing, and managed services ensures the perfect fit for every role and project.  \n  Job Description: We are seeking a Data QA Engineer with 6+ years of experience. The ideal candidate should have a strong understanding of the testing life cycle and hands-on experience with creating QA artifacts. The role requires a good understanding of data warehousing concepts, data modeling, and reporting tools, along",
       "date": "",
       "salary": null,
-      "url": "https://himalayas.app/companies/overture-rede/jobs/node-js-developer",
+      "url": "https://himalayas.app/companies/trbitix/jobs/data-qa-engineer",
       "source": "Himalayas",
-      "id": "8bc8335b7983",
-      "score": 30,
+      "id": "4e7aa574cc6e",
+      "score": 40,
       "matches": [
-        "Rol QA (desc)",
-        "agile",
-        "defect"
+        "Rol QA ✓"
       ],
       "warnings": [],
       "verdict": "regular"
