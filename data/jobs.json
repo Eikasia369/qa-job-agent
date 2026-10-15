@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-14T20:30:56.792438+00:00",
+  "last_updated": "2026-10-15T01:17:55.918195+00:00",
   "total_fetched": 149,
   "sources": {
     "Remotive": 15,
@@ -8,7 +8,7 @@
     "Himalayas": 20,
     "Jobicy": 12
   },
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "title": "SDET (Software Development Engineer in Test)",
@@ -96,25 +96,6 @@
         "test case",
         "Remoto/Latam 🌐",
         "Salario 💰"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
-    },
-    {
-      "title": "Senior Outsystems QA con Inglés y Español",
-      "company": "",
-      "location": "fully_remote",
-      "description": "  Mínimo 5 años de experiencia comprobable como QA en proyectos de tecnología y desarrollo de software.  Mínimo 3 años de experiencia comprobable como QA en proyectos desarrollados sobre OutSystems.  Experiencia en diseño y ejecución de pruebas funcionales, de integración, regresión y end-to-end.  Experiencia en pruebas de APIs REST e integraciones.  Conocimiento de metodologías ágiles y participación en diferentes etapas del ciclo de desarrollo de software.  Capacidad para documentar casos de prueba, resultados, evidencias, incidencias y seguimiento de defectos.  Conocimiento y aplicación de buenas prácticas de Quality Assurance.  Capacidad para comunicarse de manera fluida en inglés y español, tanto de forma oral como escrita, requisito indispensable para la interacción con equipos y sta",
-      "date": 1790772716,
-      "salary": null,
-      "url": "https://www.getonbrd.com/jobs/outsystems-qa-con-ingles-avanzado-i2b-technologies-remote",
-      "source": "GetOnBoard",
-      "id": "9e2c02b9df53",
-      "score": 55,
-      "matches": [
-        "Rol QA ✓",
-        "defect",
-        "Remoto/Latam 🌐"
       ],
       "warnings": [],
       "verdict": "bueno"
@@ -222,44 +203,7 @@
       ],
       "warnings": [],
       "verdict": "regular"
-    },
-    {
-      "title": "Remote Senior Software Developer",
-      "company": "",
-      "location": "['United States']",
-      "description": " Remote Senior Software Developer needs 7+ years experience  Remote Senior Software Developer requires:  \n Public cloud Spring, SpringBoot, JPA Knowledge of Struts based apps like AWS, GCP, PCF or OpenShift  \n Strong knowledge in Java \n QA and test* and analysis* and SQL and oracle and ( IPM or IMAGING or PROCESS or 11g)  \n  Remote Senior Software Developer duties:  \n Leads the identification and definition of applications architectures, components and interfaces, design of data model, data/information flows and security design.  \n Provides practical, expert knowledge of technical design alternatives and the implications of each approach, participating and many times leading phases of the software development cycle. Identifies business value and cost for business and IT partners. \n  Delive",
-      "date": "",
-      "salary": null,
-      "url": "https://himalayas.app/companies/global-channel-management-inc/jobs/remote-senior-software-developer",
-      "source": "Himalayas",
-      "id": "2b57ca05c256",
-      "score": 25,
-      "matches": [
-        "Rol QA (desc)",
-        "sql"
-      ],
-      "warnings": [],
-      "verdict": "regular"
     }
   ],
-  "new_jobs": [
-    {
-      "title": "Remote Senior Software Developer",
-      "company": "",
-      "location": "['United States']",
-      "description": " Remote Senior Software Developer needs 7+ years experience  Remote Senior Software Developer requires:  \n Public cloud Spring, SpringBoot, JPA Knowledge of Struts based apps like AWS, GCP, PCF or OpenShift  \n Strong knowledge in Java \n QA and test* and analysis* and SQL and oracle and ( IPM or IMAGING or PROCESS or 11g)  \n  Remote Senior Software Developer duties:  \n Leads the identification and definition of applications architectures, components and interfaces, design of data model, data/information flows and security design.  \n Provides practical, expert knowledge of technical design alternatives and the implications of each approach, participating and many times leading phases of the software development cycle. Identifies business value and cost for business and IT partners. \n  Delive",
-      "date": "",
-      "salary": null,
-      "url": "https://himalayas.app/companies/global-channel-management-inc/jobs/remote-senior-software-developer",
-      "source": "Himalayas",
-      "id": "2b57ca05c256",
-      "score": 25,
-      "matches": [
-        "Rol QA (desc)",
-        "sql"
-      ],
-      "warnings": [],
-      "verdict": "regular"
-    }
-  ]
+  "new_jobs": []
 }
