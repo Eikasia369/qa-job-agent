@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-10-15T15:31:35.655132+00:00",
-  "total_fetched": 148,
+  "last_updated": "2026-10-15T20:12:49.882336+00:00",
+  "total_fetched": 150,
   "sources": {
     "Remotive": 14,
     "WorkingNomads": 51,
     "GetOnBoard": 50,
     "Himalayas": 20,
-    "Jobicy": 13
+    "Jobicy": 15
   },
   "new_count": 0,
   "jobs": [
@@ -114,24 +114,6 @@
       "matches": [
         "Rol QA ✓",
         "automation"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
-    },
-    {
-      "title": "Quality Assurance Engineer II",
-      "company": "Bloomreach",
-      "location": "Slovakia",
-      "description": "  Bloomreach  is building the world’s premier  agentic platform for personalization .We’re revolutionizing how businesses connect with their customers, building and deploying AI agents to personalize the   entire   customer journey. \n \n We're taking  autonomous search  mainstream, making product discovery more intuitive and conversational for customers, and more profitable for businesses. \n We’re making  conversational shopping  a reality, connecting every shopper with tailored guidance and product expertise — available on demand, at every touchpoint in their journey. \n We're designing the future of  autonomous marketing , taking the work out of workflows, and reclaiming the creative, strategic, and customer-first work marketers were always meant to do. \n \n And we're building all of that o",
-      "date": "2026-10-08T19:08:06+00:00",
-      "salary": "EUR26000–39000",
-      "url": "https://jobicy.com/jobs/154875-quality-assurance-engineer-ii",
-      "source": "Jobicy",
-      "id": "689b3c15e3fd",
-      "score": 45,
-      "matches": [
-        "Rol QA ✓",
-        "Salario 💰"
       ],
       "warnings": [],
       "verdict": "bueno"
