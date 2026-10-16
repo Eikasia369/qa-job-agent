@@ -1,15 +1,39 @@
 {
-  "last_updated": "2026-10-16T01:03:41.758718+00:00",
-  "total_fetched": 150,
+  "last_updated": "2026-10-16T15:18:08.208992+00:00",
+  "total_fetched": 151,
   "sources": {
-    "Remotive": 14,
-    "WorkingNomads": 51,
+    "Remotive": 15,
+    "WorkingNomads": 50,
     "GetOnBoard": 50,
     "Himalayas": 20,
-    "Jobicy": 15
+    "Jobicy": 16
   },
-  "new_count": 0,
+  "new_count": 2,
   "jobs": [
+    {
+      "title": "QA Automation Engineer",
+      "company": "",
+      "location": "fully_remote",
+      "description": "  Titulado o egresado de Ingeniería en Ejecución Informática, Técnico en Programación Computacional o carrera afín.  Dominio de JavaScript, TypeScript o Python.  Experiencia sólida en frameworks de automatización: Cypress, Selenium, Playwright o similares.  Experiencia en automatización y pruebas de APIs con Postman, RestAssured o Supertest.  Conocimiento y manejo de GitHub Actions para ejecución de pruebas automatizadas en pipelines de CI/CD.  Manejo avanzado de Git.  Experiencia trabajando bajo metodologías ágiles (Scrum / Kanban).  ",
+      "date": 1792161296,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/qa-automation-engineer-witi-remote-eabe",
+      "source": "GetOnBoard",
+      "id": "03b5db6651bd",
+      "score": 100,
+      "matches": [
+        "Rol QA ✓",
+        "playwright",
+        "postman",
+        "automation",
+        "selenium",
+        "scrum",
+        "javascript",
+        "typescript"
+      ],
+      "warnings": [],
+      "verdict": "excelente"
+    },
     {
       "title": "SDET (Software Development Engineer in Test)",
       "company": "",
@@ -59,23 +83,25 @@
       "verdict": "excelente"
     },
     {
-      "title": "QA Automation Engineer",
+      "title": "Ingeniero QA Senior | Testing y Automatización",
       "company": "",
       "location": "hybrid",
-      "description": " Buscamos un/a profesional con experiencia comprobable en automatización de pruebas y con capacidad para colaborar de forma efectiva con ingeniería. Valoramos especialmente la mentalidad orientada a calidad, el pensamiento analítico y la proactividad para proponer mejoras.    Experiencia  en automatización de pruebas con  Playwright .   Conocimiento y experiencia  en  GCP .   Certificación  o conocimientos sólidos en  ISTQB .   Deseable : experiencia con  Selenium  y/o  Cypress .   Familiaridad  con pipelines de  CI/CD .   En cuanto a habilidades, esperamos que puedas:   Trabajar con foco en resultados, manteniendo la calidad y la estabilidad de la automatización.  Analizar fallas de manera metódica y proponer acciones concretas para reducir regresiones.  Comunicar métricas y hallazgos de ",
-      "date": 1791291968,
-      "salary": null,
-      "url": "https://www.getonbrd.com/jobs/qa-automation-engineer-xintec-santiago",
+      "description": "  Práctica en metodologías Scrum y cascada, con manejo de GitHub, VS Code, SQL, bases de datos y escritorios remotos.  Trayectoria de 6 o más años en QA, con formación en Ingeniería Informática, Analista Programador o carrera afín.  Conocimientos en Jira, Xray, Dynatrace, Port, Prai y GitHub Copilot, junto con herramientas CI/CD como Jenkins, Bamboo y CloudBees.  Dominio de Gherkin, Cucumber, Karate, Selenium, Postman, SoapUI, JMeter y BrowserStack para pruebas web, API y móviles en Android e iOS.  Capacidad para diseñar casos desde historias de usuario, elaborar matrices de trazabilidad y ejecutar pruebas funcionales, integración, regresión E2E, aceptación y rendimiento.  ",
+      "date": 1792157865,
+      "salary": "2200–2400",
+      "url": "https://www.getonbrd.com/jobs/ingeniero-qa-senior-testing-y-automatizacion-3it-santiago",
       "source": "GetOnBoard",
-      "id": "03b5db6651bd",
-      "score": 65,
+      "id": "3ca515c58c2c",
+      "score": 80,
       "matches": [
         "Rol QA ✓",
-        "playwright",
-        "automation",
+        "postman",
         "selenium",
-        "cypress",
-        "ci/cd"
+        "jira",
+        "scrum",
+        "sql",
+        "ci/cd",
+        "e2e"
       ],
       "warnings": [],
       "verdict": "excelente"
@@ -185,7 +211,66 @@
       ],
       "warnings": [],
       "verdict": "regular"
+    },
+    {
+      "title": "Remote Technical Customer Support - QA and Game Dev - 7/26",
+      "company": "",
+      "location": "['Philippines']",
+      "description": "  We Could Use Someone Like You in Our Crew.    ModSquad  is looking for tech support agents to provide top notch service to our customers! We are looking for a top notch T1 and Advanced Technical Support agent with a lot tech savvy to provide assistance on a developer' platform.  This is a 24/7 project seeking at least 20 hours of availability weekly.  Read below thoroughly for ideal skills and hardware requirements. If this sounds like you, please apply!   System Specs Required (Very important - we'll only consider candidates who meet these minimum specs):   \n  i7 Quad Core 3.0 GHz or higher  \n  32 GB RAM  \n  Nvidia 3080 or higher (or equivalent)  \n  500 GB+ Hard Drive Space (Recommended 1TB)  \n  Dual Monitors – Highly Recommended  \n  Internet speed of at least 100 down and upload 20 min",
+      "date": "",
+      "salary": null,
+      "url": "https://himalayas.app/companies/modsquad/jobs/remote-technical-customer-support-qa-and-game-dev-7-26",
+      "source": "Himalayas",
+      "id": "36293150fa81",
+      "score": 40,
+      "matches": [
+        "Rol QA ✓"
+      ],
+      "warnings": [],
+      "verdict": "regular"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "title": "Ingeniero QA Senior | Testing y Automatización",
+      "company": "",
+      "location": "hybrid",
+      "description": "  Práctica en metodologías Scrum y cascada, con manejo de GitHub, VS Code, SQL, bases de datos y escritorios remotos.  Trayectoria de 6 o más años en QA, con formación en Ingeniería Informática, Analista Programador o carrera afín.  Conocimientos en Jira, Xray, Dynatrace, Port, Prai y GitHub Copilot, junto con herramientas CI/CD como Jenkins, Bamboo y CloudBees.  Dominio de Gherkin, Cucumber, Karate, Selenium, Postman, SoapUI, JMeter y BrowserStack para pruebas web, API y móviles en Android e iOS.  Capacidad para diseñar casos desde historias de usuario, elaborar matrices de trazabilidad y ejecutar pruebas funcionales, integración, regresión E2E, aceptación y rendimiento.  ",
+      "date": 1792157865,
+      "salary": "2200–2400",
+      "url": "https://www.getonbrd.com/jobs/ingeniero-qa-senior-testing-y-automatizacion-3it-santiago",
+      "source": "GetOnBoard",
+      "id": "3ca515c58c2c",
+      "score": 80,
+      "matches": [
+        "Rol QA ✓",
+        "postman",
+        "selenium",
+        "jira",
+        "scrum",
+        "sql",
+        "ci/cd",
+        "e2e"
+      ],
+      "warnings": [],
+      "verdict": "excelente"
+    },
+    {
+      "title": "Remote Technical Customer Support - QA and Game Dev - 7/26",
+      "company": "",
+      "location": "['Philippines']",
+      "description": "  We Could Use Someone Like You in Our Crew.    ModSquad  is looking for tech support agents to provide top notch service to our customers! We are looking for a top notch T1 and Advanced Technical Support agent with a lot tech savvy to provide assistance on a developer' platform.  This is a 24/7 project seeking at least 20 hours of availability weekly.  Read below thoroughly for ideal skills and hardware requirements. If this sounds like you, please apply!   System Specs Required (Very important - we'll only consider candidates who meet these minimum specs):   \n  i7 Quad Core 3.0 GHz or higher  \n  32 GB RAM  \n  Nvidia 3080 or higher (or equivalent)  \n  500 GB+ Hard Drive Space (Recommended 1TB)  \n  Dual Monitors – Highly Recommended  \n  Internet speed of at least 100 down and upload 20 min",
+      "date": "",
+      "salary": null,
+      "url": "https://himalayas.app/companies/modsquad/jobs/remote-technical-customer-support-qa-and-game-dev-7-26",
+      "source": "Himalayas",
+      "id": "36293150fa81",
+      "score": 40,
+      "matches": [
+        "Rol QA ✓"
+      ],
+      "warnings": [],
+      "verdict": "regular"
+    }
+  ]
 }
