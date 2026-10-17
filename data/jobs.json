@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-10-17T14:06:18.829609+00:00",
-  "total_fetched": 156,
+  "last_updated": "2026-10-17T19:06:20.422524+00:00",
+  "total_fetched": 155,
   "sources": {
     "Remotive": 13,
     "WorkingNomads": 49,
     "GetOnBoard": 50,
     "Himalayas": 20,
-    "Jobicy": 24
+    "Jobicy": 23
   },
-  "new_count": 0,
+  "new_count": 3,
   "jobs": [
     {
       "title": "SDET (Software Development Engineer in Test)",
@@ -230,15 +230,15 @@
       "verdict": "regular"
     },
     {
-      "title": "Gohighlevel CRM & Automation Specialist",
+      "title": "C1/C2 Gohighlevel CRM & Automation Specialist",
       "company": "",
       "location": "fully_remote",
-      "description": "  Native or near-native English (C1+). You’ll talk daily with our US team and explain technical problems clearly, both written and spoken.  3+ years of hands-on, daily GoHighLevel work: workflows, triggers, custom fields, snapshots, webhooks  Experience embedding forms and passing data from websites into GHL  Working knowledge of GTM, GA4 and UTM tracking  A careful, zero-error QA habit: you test everything before it goes live  Reliable internet and full availability 8–5 CST  ",
+      "description": "   Native or near-native English (C1+) . Please do not apply if you do not have the necessary level of english.  Your application will be automatically discarded regardless of experience.   3+ years of hands-on, daily GoHighLevel work: workflows, triggers, custom fields, snapshots, webhooks  Experience embedding forms and passing data from websites into GHL  Working knowledge of GTM, GA4 and UTM tracking  A careful, zero-error QA habit: you test everything before it goes live  Reliable internet and full availability 8–5 CST  ",
       "date": 1792185328,
       "salary": "1700–2100",
       "url": "https://www.getonbrd.com/jobs/gohighlevel-crm-automation-specialist-jlv-construction-remote",
       "source": "GetOnBoard",
-      "id": "91350ccf71d4",
+      "id": "3cf580d14b1a",
       "score": 40,
       "matches": [
         "Rol QA (desc)",
@@ -265,7 +265,98 @@
       ],
       "warnings": [],
       "verdict": "regular"
+    },
+    {
+      "title": "OutSystems Senior/Semisenior Developer",
+      "company": "",
+      "location": "['Brazil', 'Chile', 'Mexico', 'Peru']",
+      "description": " Mision  Diseñar, desarrollar y mantener aplicaciones empresariales utilizando la plataforma OutSystems, asegurando soluciones eficientes, escalables y alineadas a las necesidades del negocio, trabajando en entornos ágiles y colaborativos con equipos multidisciplinarios.  Requisitos 📌  \n  Desarrollar aplicaciones  Reactive Web y Mobile  utilizando OutSystems.  \n  Implementar e integrar servicios mediante  REST y SOAP .  \n  Participar en el análisis técnico y funcional de requerimientos.  \n  Colaborar con equipos de producto, QA y stakeholders.  \n  Asegurar buenas prácticas de desarrollo, calidad y performance.  \n  Requirements  \n  Experiencia como  Desarrollador OutSystems  (Semi Senior o Senior).  \n  Dominio de  OutSystems Reactive Web y Mobile .  \n  Experiencia en  integraciones REST / S",
+      "date": "",
+      "salary": null,
+      "url": "https://himalayas.app/companies/joinready/jobs/outsystems-senior-semisenior-developer",
+      "source": "Himalayas",
+      "id": "1ff3f4304c0c",
+      "score": 30,
+      "matches": [
+        "Rol QA (desc)",
+        "Remoto/Latam 🌐"
+      ],
+      "warnings": [],
+      "verdict": "regular"
+    },
+    {
+      "title": "Clinical Project Manager (Animal Health)",
+      "company": "",
+      "location": "['United States']",
+      "description": "    Clinical Project Manager (Animal Health) - United States of America  Clinaxelis part of a group of Animal Health Contract Research Organizations servicing the global animal health industry.   We're actively seeking aNorth Americanbased Clinical Project Manager to join our expanding field clinical trials team. This role provides the flexibility to work remotely, with occasional office visits required.  This position presents an exciting opportunity for professional growth and development in the Animal Health industry.  Primary Job Purpose  Coordinate Field Clinical Trials (FCT) processes and resources, including data management, Monitors, QA support, legal, finance teams, study Investigators, laboratories, and couriers.  Manage communication with the Sponsor and ensure FCT's quality and",
+      "date": "",
+      "salary": null,
+      "url": "https://himalayas.app/companies/clinglobal/jobs/clinical-project-manager-animal-health",
+      "source": "Himalayas",
+      "id": "2e7e3d319b1f",
+      "score": 20,
+      "matches": [
+        "Rol QA (desc)"
+      ],
+      "warnings": [],
+      "verdict": "regular"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "title": "C1/C2 Gohighlevel CRM & Automation Specialist",
+      "company": "",
+      "location": "fully_remote",
+      "description": "   Native or near-native English (C1+) . Please do not apply if you do not have the necessary level of english.  Your application will be automatically discarded regardless of experience.   3+ years of hands-on, daily GoHighLevel work: workflows, triggers, custom fields, snapshots, webhooks  Experience embedding forms and passing data from websites into GHL  Working knowledge of GTM, GA4 and UTM tracking  A careful, zero-error QA habit: you test everything before it goes live  Reliable internet and full availability 8–5 CST  ",
+      "date": 1792185328,
+      "salary": "1700–2100",
+      "url": "https://www.getonbrd.com/jobs/gohighlevel-crm-automation-specialist-jlv-construction-remote",
+      "source": "GetOnBoard",
+      "id": "3cf580d14b1a",
+      "score": 40,
+      "matches": [
+        "Rol QA (desc)",
+        "automation",
+        "Remoto/Latam 🌐",
+        "Salario 💰"
+      ],
+      "warnings": [],
+      "verdict": "regular"
+    },
+    {
+      "title": "OutSystems Senior/Semisenior Developer",
+      "company": "",
+      "location": "['Brazil', 'Chile', 'Mexico', 'Peru']",
+      "description": " Mision  Diseñar, desarrollar y mantener aplicaciones empresariales utilizando la plataforma OutSystems, asegurando soluciones eficientes, escalables y alineadas a las necesidades del negocio, trabajando en entornos ágiles y colaborativos con equipos multidisciplinarios.  Requisitos 📌  \n  Desarrollar aplicaciones  Reactive Web y Mobile  utilizando OutSystems.  \n  Implementar e integrar servicios mediante  REST y SOAP .  \n  Participar en el análisis técnico y funcional de requerimientos.  \n  Colaborar con equipos de producto, QA y stakeholders.  \n  Asegurar buenas prácticas de desarrollo, calidad y performance.  \n  Requirements  \n  Experiencia como  Desarrollador OutSystems  (Semi Senior o Senior).  \n  Dominio de  OutSystems Reactive Web y Mobile .  \n  Experiencia en  integraciones REST / S",
+      "date": "",
+      "salary": null,
+      "url": "https://himalayas.app/companies/joinready/jobs/outsystems-senior-semisenior-developer",
+      "source": "Himalayas",
+      "id": "1ff3f4304c0c",
+      "score": 30,
+      "matches": [
+        "Rol QA (desc)",
+        "Remoto/Latam 🌐"
+      ],
+      "warnings": [],
+      "verdict": "regular"
+    },
+    {
+      "title": "Clinical Project Manager (Animal Health)",
+      "company": "",
+      "location": "['United States']",
+      "description": "    Clinical Project Manager (Animal Health) - United States of America  Clinaxelis part of a group of Animal Health Contract Research Organizations servicing the global animal health industry.   We're actively seeking aNorth Americanbased Clinical Project Manager to join our expanding field clinical trials team. This role provides the flexibility to work remotely, with occasional office visits required.  This position presents an exciting opportunity for professional growth and development in the Animal Health industry.  Primary Job Purpose  Coordinate Field Clinical Trials (FCT) processes and resources, including data management, Monitors, QA support, legal, finance teams, study Investigators, laboratories, and couriers.  Manage communication with the Sponsor and ensure FCT's quality and",
+      "date": "",
+      "salary": null,
+      "url": "https://himalayas.app/companies/clinglobal/jobs/clinical-project-manager-animal-health",
+      "source": "Himalayas",
+      "id": "2e7e3d319b1f",
+      "score": 20,
+      "matches": [
+        "Rol QA (desc)"
+      ],
+      "warnings": [],
+      "verdict": "regular"
+    }
+  ]
 }
