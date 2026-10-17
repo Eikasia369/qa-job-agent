@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-10-17T01:10:33.253647+00:00",
+  "last_updated": "2026-10-17T14:06:18.829609+00:00",
   "total_fetched": 156,
   "sources": {
-    "Remotive": 15,
+    "Remotive": 13,
     "WorkingNomads": 49,
     "GetOnBoard": 50,
     "Himalayas": 20,
-    "Jobicy": 22
+    "Jobicy": 24
   },
-  "new_count": 3,
+  "new_count": 0,
   "jobs": [
     {
       "title": "SDET (Software Development Engineer in Test)",
@@ -162,24 +162,6 @@
       "verdict": "bueno"
     },
     {
-      "title": "QA Engineer, Agentic Development",
-      "company": "",
-      "location": "['Canada']",
-      "description": " \n           \n   \n Join our mission to provide governments with exceptional experiences so they can do the same for their communities! \n  What do we do?💥  \n  We empower governments to deliver exceptional citizen experiences.  \n Check out our  ‘About Us’ page for a deep dive into our product and what makes us exceptional. \n   Overview    Clariti  is building a new product with a team that uses agentic development to move quickly. As a QA Engineer, you will help define how quality works across that process. You will shape the testing strategy, own the automation that backs it, and decide where testing effort will do the most good. You will work closely with developers, product, and AI-assisted tooling to keep quality high without slowing delivery.   Responsibilities   \n Shape quality from th",
-      "date": "",
-      "salary": null,
-      "url": "https://himalayas.app/companies/clariti/jobs/qa-engineer-agentic-development",
-      "source": "Himalayas",
-      "id": "39a75e881e7f",
-      "score": 45,
-      "matches": [
-        "Rol QA ✓",
-        "automation"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
-    },
-    {
       "title": "Quality Assurance Rater - Spanish (ES)",
       "company": "TELUS Digital",
       "location": "Global",
@@ -285,63 +267,5 @@
       "verdict": "regular"
     }
   ],
-  "new_jobs": [
-    {
-      "title": "QA Senior · Estrategia y Performance",
-      "company": "",
-      "location": "fully_remote",
-      "description": " Pruebas de performance: diseño, ejecución y análisis de pruebas de carga y estrés (k6, JMeter, Gatling u otra). Estadística aplicada para modelar escenarios e interpretar resultados. Estrategia de QA: pruebas funcionales, automatización de pruebas y CI/CD. Análisis de logs y observabilidad de plataformas, con buen conocimiento de sistemas operativos y desarrollo web. Perfil senior (7+ años), proactivo, con capacidad de presentar y discutir con líderes de tecnología. No es un perfil junior. ",
-      "date": 1792197633,
-      "salary": null,
-      "url": "https://www.getonbrd.com/jobs/qa-senior-estrategia-y-performance-continuum-remote",
-      "source": "GetOnBoard",
-      "id": "24f1371ceff7",
-      "score": 55,
-      "matches": [
-        "Rol QA ✓",
-        "ci/cd",
-        "Remoto/Latam 🌐"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
-    },
-    {
-      "title": "QA Engineer, Agentic Development",
-      "company": "",
-      "location": "['Canada']",
-      "description": " \n           \n   \n Join our mission to provide governments with exceptional experiences so they can do the same for their communities! \n  What do we do?💥  \n  We empower governments to deliver exceptional citizen experiences.  \n Check out our  ‘About Us’ page for a deep dive into our product and what makes us exceptional. \n   Overview    Clariti  is building a new product with a team that uses agentic development to move quickly. As a QA Engineer, you will help define how quality works across that process. You will shape the testing strategy, own the automation that backs it, and decide where testing effort will do the most good. You will work closely with developers, product, and AI-assisted tooling to keep quality high without slowing delivery.   Responsibilities   \n Shape quality from th",
-      "date": "",
-      "salary": null,
-      "url": "https://himalayas.app/companies/clariti/jobs/qa-engineer-agentic-development",
-      "source": "Himalayas",
-      "id": "39a75e881e7f",
-      "score": 45,
-      "matches": [
-        "Rol QA ✓",
-        "automation"
-      ],
-      "warnings": [],
-      "verdict": "bueno"
-    },
-    {
-      "title": "Gohighlevel CRM & Automation Specialist",
-      "company": "",
-      "location": "fully_remote",
-      "description": "  Native or near-native English (C1+). You’ll talk daily with our US team and explain technical problems clearly, both written and spoken.  3+ years of hands-on, daily GoHighLevel work: workflows, triggers, custom fields, snapshots, webhooks  Experience embedding forms and passing data from websites into GHL  Working knowledge of GTM, GA4 and UTM tracking  A careful, zero-error QA habit: you test everything before it goes live  Reliable internet and full availability 8–5 CST  ",
-      "date": 1792185328,
-      "salary": "1700–2100",
-      "url": "https://www.getonbrd.com/jobs/gohighlevel-crm-automation-specialist-jlv-construction-remote",
-      "source": "GetOnBoard",
-      "id": "91350ccf71d4",
-      "score": 40,
-      "matches": [
-        "Rol QA (desc)",
-        "automation",
-        "Remoto/Latam 🌐",
-        "Salario 💰"
-      ],
-      "warnings": [],
-      "verdict": "regular"
-    }
-  ]
+  "new_jobs": []
 }
