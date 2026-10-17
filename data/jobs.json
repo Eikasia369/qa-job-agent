@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-10-16T19:50:01.958219+00:00",
-  "total_fetched": 154,
+  "last_updated": "2026-10-17T01:10:33.253647+00:00",
+  "total_fetched": 156,
   "sources": {
     "Remotive": 15,
     "WorkingNomads": 49,
     "GetOnBoard": 50,
     "Himalayas": 20,
-    "Jobicy": 20
+    "Jobicy": 22
   },
-  "new_count": 1,
+  "new_count": 3,
   "jobs": [
     {
       "title": "SDET (Software Development Engineer in Test)",
@@ -125,6 +125,25 @@
       "verdict": "bueno"
     },
     {
+      "title": "QA Senior · Estrategia y Performance",
+      "company": "",
+      "location": "fully_remote",
+      "description": " Pruebas de performance: diseño, ejecución y análisis de pruebas de carga y estrés (k6, JMeter, Gatling u otra). Estadística aplicada para modelar escenarios e interpretar resultados. Estrategia de QA: pruebas funcionales, automatización de pruebas y CI/CD. Análisis de logs y observabilidad de plataformas, con buen conocimiento de sistemas operativos y desarrollo web. Perfil senior (7+ años), proactivo, con capacidad de presentar y discutir con líderes de tecnología. No es un perfil junior. ",
+      "date": 1792197633,
+      "salary": null,
+      "url": "https://www.getonbrd.com/jobs/qa-senior-estrategia-y-performance-continuum-remote",
+      "source": "GetOnBoard",
+      "id": "24f1371ceff7",
+      "score": 55,
+      "matches": [
+        "Rol QA ✓",
+        "ci/cd",
+        "Remoto/Latam 🌐"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    },
+    {
       "title": "Senior QA Automation Engineer",
       "company": "Proxify",
       "location": "Time zone: CET (+/- 3 hours)",
@@ -134,6 +153,24 @@
       "url": "https://www.workingnomads.com/job/go/1925594/",
       "source": "WorkingNomads",
       "id": "6161bc6831f6",
+      "score": 45,
+      "matches": [
+        "Rol QA ✓",
+        "automation"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    },
+    {
+      "title": "QA Engineer, Agentic Development",
+      "company": "",
+      "location": "['Canada']",
+      "description": " \n           \n   \n Join our mission to provide governments with exceptional experiences so they can do the same for their communities! \n  What do we do?💥  \n  We empower governments to deliver exceptional citizen experiences.  \n Check out our  ‘About Us’ page for a deep dive into our product and what makes us exceptional. \n   Overview    Clariti  is building a new product with a team that uses agentic development to move quickly. As a QA Engineer, you will help define how quality works across that process. You will shape the testing strategy, own the automation that backs it, and decide where testing effort will do the most good. You will work closely with developers, product, and AI-assisted tooling to keep quality high without slowing delivery.   Responsibilities   \n Shape quality from th",
+      "date": "",
+      "salary": null,
+      "url": "https://himalayas.app/companies/clariti/jobs/qa-engineer-agentic-development",
+      "source": "Himalayas",
+      "id": "39a75e881e7f",
       "score": 45,
       "matches": [
         "Rol QA ✓",
@@ -211,6 +248,26 @@
       "verdict": "regular"
     },
     {
+      "title": "Gohighlevel CRM & Automation Specialist",
+      "company": "",
+      "location": "fully_remote",
+      "description": "  Native or near-native English (C1+). You’ll talk daily with our US team and explain technical problems clearly, both written and spoken.  3+ years of hands-on, daily GoHighLevel work: workflows, triggers, custom fields, snapshots, webhooks  Experience embedding forms and passing data from websites into GHL  Working knowledge of GTM, GA4 and UTM tracking  A careful, zero-error QA habit: you test everything before it goes live  Reliable internet and full availability 8–5 CST  ",
+      "date": 1792185328,
+      "salary": "1700–2100",
+      "url": "https://www.getonbrd.com/jobs/gohighlevel-crm-automation-specialist-jlv-construction-remote",
+      "source": "GetOnBoard",
+      "id": "91350ccf71d4",
+      "score": 40,
+      "matches": [
+        "Rol QA (desc)",
+        "automation",
+        "Remoto/Latam 🌐",
+        "Salario 💰"
+      ],
+      "warnings": [],
+      "verdict": "regular"
+    },
+    {
       "title": "QA Funcional (Manual )",
       "company": "",
       "location": "hybrid",
@@ -220,23 +277,6 @@
       "url": "https://www.getonbrd.com/jobs/qa-funcional-manual-y-automatizacion-factor-it-santiago",
       "source": "GetOnBoard",
       "id": "a2b55059bac0",
-      "score": 40,
-      "matches": [
-        "Rol QA ✓"
-      ],
-      "warnings": [],
-      "verdict": "regular"
-    },
-    {
-      "title": "Remote Technical Customer Support - QA and Game Dev - 7/26",
-      "company": "",
-      "location": "['Philippines']",
-      "description": "  We Could Use Someone Like You in Our Crew.    ModSquad  is looking for tech support agents to provide top notch service to our customers! We are looking for a top notch T1 and Advanced Technical Support agent with a lot tech savvy to provide assistance on a developer' platform.  This is a 24/7 project seeking at least 20 hours of availability weekly.  Read below thoroughly for ideal skills and hardware requirements. If this sounds like you, please apply!   System Specs Required (Very important - we'll only consider candidates who meet these minimum specs):   \n  i7 Quad Core 3.0 GHz or higher  \n  32 GB RAM  \n  Nvidia 3080 or higher (or equivalent)  \n  500 GB+ Hard Drive Space (Recommended 1TB)  \n  Dual Monitors – Highly Recommended  \n  Internet speed of at least 100 down and upload 20 min",
-      "date": "",
-      "salary": null,
-      "url": "https://himalayas.app/companies/modsquad/jobs/remote-technical-customer-support-qa-and-game-dev-7-26",
-      "source": "Himalayas",
-      "id": "36293150fa81",
       "score": 40,
       "matches": [
         "Rol QA ✓"
@@ -247,18 +287,58 @@
   ],
   "new_jobs": [
     {
-      "title": "QA Funcional (Manual )",
+      "title": "QA Senior · Estrategia y Performance",
       "company": "",
-      "location": "hybrid",
-      "description": " Formación en Ingeniería Informática, Ejecución en Computación o carrera/técnico afín, con conocimiento de software, sistemas y aplicaciones (deseable título). Experiencia de 2 años como QA en pruebas manuales, funcionales y no funcionales (deseable). Conocimiento de herramientas de gestión de pruebas. Conocimiento de metodologías ágiles. Manejo de herramientas de automatización de pruebas.   Habilidades blandas   Trabajo colaborativo con tu equipo y otras áreas. Rigurosidad y disciplina para aplicar procesos y procedimientos. Perseverancia y motivación por cumplir metas. Iniciativa para proponer mejoras en procesos y tareas. Aprendizaje continuo. ",
-      "date": 1792164429,
+      "location": "fully_remote",
+      "description": " Pruebas de performance: diseño, ejecución y análisis de pruebas de carga y estrés (k6, JMeter, Gatling u otra). Estadística aplicada para modelar escenarios e interpretar resultados. Estrategia de QA: pruebas funcionales, automatización de pruebas y CI/CD. Análisis de logs y observabilidad de plataformas, con buen conocimiento de sistemas operativos y desarrollo web. Perfil senior (7+ años), proactivo, con capacidad de presentar y discutir con líderes de tecnología. No es un perfil junior. ",
+      "date": 1792197633,
       "salary": null,
-      "url": "https://www.getonbrd.com/jobs/qa-funcional-manual-y-automatizacion-factor-it-santiago",
+      "url": "https://www.getonbrd.com/jobs/qa-senior-estrategia-y-performance-continuum-remote",
       "source": "GetOnBoard",
-      "id": "a2b55059bac0",
+      "id": "24f1371ceff7",
+      "score": 55,
+      "matches": [
+        "Rol QA ✓",
+        "ci/cd",
+        "Remoto/Latam 🌐"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    },
+    {
+      "title": "QA Engineer, Agentic Development",
+      "company": "",
+      "location": "['Canada']",
+      "description": " \n           \n   \n Join our mission to provide governments with exceptional experiences so they can do the same for their communities! \n  What do we do?💥  \n  We empower governments to deliver exceptional citizen experiences.  \n Check out our  ‘About Us’ page for a deep dive into our product and what makes us exceptional. \n   Overview    Clariti  is building a new product with a team that uses agentic development to move quickly. As a QA Engineer, you will help define how quality works across that process. You will shape the testing strategy, own the automation that backs it, and decide where testing effort will do the most good. You will work closely with developers, product, and AI-assisted tooling to keep quality high without slowing delivery.   Responsibilities   \n Shape quality from th",
+      "date": "",
+      "salary": null,
+      "url": "https://himalayas.app/companies/clariti/jobs/qa-engineer-agentic-development",
+      "source": "Himalayas",
+      "id": "39a75e881e7f",
+      "score": 45,
+      "matches": [
+        "Rol QA ✓",
+        "automation"
+      ],
+      "warnings": [],
+      "verdict": "bueno"
+    },
+    {
+      "title": "Gohighlevel CRM & Automation Specialist",
+      "company": "",
+      "location": "fully_remote",
+      "description": "  Native or near-native English (C1+). You’ll talk daily with our US team and explain technical problems clearly, both written and spoken.  3+ years of hands-on, daily GoHighLevel work: workflows, triggers, custom fields, snapshots, webhooks  Experience embedding forms and passing data from websites into GHL  Working knowledge of GTM, GA4 and UTM tracking  A careful, zero-error QA habit: you test everything before it goes live  Reliable internet and full availability 8–5 CST  ",
+      "date": 1792185328,
+      "salary": "1700–2100",
+      "url": "https://www.getonbrd.com/jobs/gohighlevel-crm-automation-specialist-jlv-construction-remote",
+      "source": "GetOnBoard",
+      "id": "91350ccf71d4",
       "score": 40,
       "matches": [
-        "Rol QA ✓"
+        "Rol QA (desc)",
+        "automation",
+        "Remoto/Latam 🌐",
+        "Salario 💰"
       ],
       "warnings": [],
       "verdict": "regular"
